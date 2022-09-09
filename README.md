@@ -40,6 +40,6 @@ Thanks [Weblate](https://weblate.org/en/) and [i18next](https://www.i18next.com/
 
 This repository is distributed under the terms of both the MIT license and the Apache License (Version 2.0).
 
-Weblate displays only "Apache" as license because of technical limitations - but Weblate content is the same as this repository content, and it is unambiguously dual-licensed.
+[Our Weblate instance](https://localization.cidgravity.com) only displays "Apache" as license because of technical limitations - but its content is the same as this repository content, that is unambiguously dual-licensed.
 
 See [LICENSE-APACHE](./LICENSE-APACHE) and [LICENSE-MIT](./LICENSE-MIT).
