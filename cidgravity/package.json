@@ -1,0 +1,22 @@
+{
+  "name": "@cidgravity/cidg-locales",
+  "version": "1.0.0",
+  "description": "Locales i18next JSON files for https://app.cidgravity.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CIDgravity/localization.git"
+  },
+  "keywords": [
+    "localization"
+  ],
+  "author": "CIDgravity",
+  "license": "MIT AND Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/CIDgravity/localization/issues"
+  },
+  "homepage": "https://github.com/CIDgravity/localization#readme"
+}
