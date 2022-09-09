@@ -1,7 +1,7 @@
 {
   "name": "@cidgravity/cidgravity-localization",
   "version": "1.0.0",
-  "description": "i18next JSONl localization files for https://app.cidgravity.com",
+  "description": "i18next JSON localization files for https://app.cidgravity.com",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
