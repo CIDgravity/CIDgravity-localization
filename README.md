@@ -32,6 +32,10 @@ to install all the configured hooks.
 
 To change pre-commit rules, edit `.pre-commit-config.yaml`.
 
+## Acknowledgements
+
+Thanks [Weblate](https://weblate.org/en/) and [i18next](https://www.i18next.com/) teams for your amazing work!
+
 ## License
 
 This repository is distributed under the terms of both the MIT license and the Apache License (Version 2.0).
