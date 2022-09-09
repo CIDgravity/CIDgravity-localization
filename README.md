@@ -38,6 +38,8 @@ Thanks [Weblate](https://weblate.org/en/) and [i18next](https://www.i18next.com/
 
 ## License
 
+Copyright © 2022, CIDgravity <contact@cidgravity.com>
+
 This repository is distributed under the terms of both the MIT license and the Apache License (Version 2.0).
 
 [Our Weblate instance](https://localization.cidgravity.com) only displays "Apache" as license because of technical limitations - but its content is the same as this repository content, that is unambiguously dual-licensed.
