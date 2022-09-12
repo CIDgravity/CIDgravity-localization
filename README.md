@@ -10,11 +10,11 @@ Weblate will locally commit to a feature branch every minute, then an administra
 
 ## How to contribute as a developer
 
-Add variables by editing `./cidgravity/intermediate/filename.json`.
+Add variables by editing `./cidgravity/locales/dev/filename.json`.
 
-If the file does not exist, create it, then create also `./cidgravity/locales/en-US/filename.json`.
-If you forget to create the `en-US` file, then Weblate add-on will not be able to generate the component automatically.
-Our CI pipeline will fail if this condition is not respected. Install this repository's pre-commit hooks to automatically generate `en-US` files when creating a file in the `intermediate` directory.
+If the file does not exist, create it, then create also `./cidgravity/locales/en-US/filename.json`. It must be a valid JSON file (add `{}` inside).
+If you forget to create this `en-US` file, then Weblate add-on will not be able to generate the component automatically.
+Our CI pipeline will fail if this condition is not respected. Install this repository's pre-commit hooks to automatically generate a valid empty JSON file in `en-US` when commiting a new file to the `dev` directory.
 
 ### `pre-commit` hooks
 
