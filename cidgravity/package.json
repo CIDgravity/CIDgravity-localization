@@ -1,9 +1,10 @@
 {
   "name": "@cidgravity/cidgravity-localization",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "i18next JSON localization files for https://app.cidgravity.com",
   "main": "index.js",
   "scripts": {
+    "prepare": "rsync -a ../shared/locales/ ./locales/",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
