@@ -1,6 +1,6 @@
 {
   "name": "@cidgravity/cidgravity-localization",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "i18next JSON localization files for https://app.cidgravity.com",
   "main": "index.js",
   "scripts": {
