@@ -1,5 +1,7 @@
 {
   "common": {
-    "button": {}
+    "button": {
+      "confirm": "Confirm"
+    }
   }
 }
