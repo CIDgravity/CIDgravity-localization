@@ -1,1 +1,5 @@
-{}
+{
+    "retrieval-acl": {
+        "title": "$t(glossary:glossary.cidgravity-name)"
+    }
+}
