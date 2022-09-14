@@ -1,5 +1,5 @@
 {
   "dashboard": {
-    "title": "Welcome from dev!"
+    "title": "Welcome {{userFirstName}}!"
   }
 }
