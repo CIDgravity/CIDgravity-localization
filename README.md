@@ -21,13 +21,17 @@ Our CI pipeline will fail if this condition is not respected. Install this repos
 We use [pre-commit](https://pre-commit.com/#intro)
 
 Install it using:
+
 ```
 python3 -m pip install pre-commit
 ```
-Run 
+
+Run
+
 ```
 pre-commit install
 ```
+
 to install all the configured hooks.
 
 To change pre-commit rules, edit `.pre-commit-config.yaml`.
