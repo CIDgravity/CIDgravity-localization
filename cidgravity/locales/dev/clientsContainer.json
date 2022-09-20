@@ -1,60 +1,60 @@
 {
-  "title": "Client management",
-  "subtitle": "Give specific price to your favourite clients, keep their contact information and get reports.",
-  "buttons": {
-    "newClient": "Create new client",
-    "modifyLimits": "Modify"
-  },
-  "globalLimits": {
-    "storage": {
-      "storageDeals": "Number of storage deals",
-      "unlimited": "unlimited",
-      "cumulativeStorageDeals": "Cumulative storage deal",
-      "deals_zero": "{{count}} deal",
-      "deals_one": "{{count}} deal",
-      "deals_two": "{{count}} deals",
-      "deals_few": "{{count}} deals",
-      "deals_many": "{{count}} deals",
-      "deals_other": "{{count}} deals"
+    "title": "Client management",
+    "subtitle": "Give specific price to your favourite clients, keep their contact information and get reports.",
+    "buttons": {
+        "newClient": "Create new client",
+        "modifyLimits": "Modify"
     },
-    "retrieval": {
-      "retrievalDeals": "Number of retrieval deals",
-      "unlimited": "unlimited",
-      "deals_zero": "{{count}} deal",
-      "deals_one": "{{count}} deal",
-      "deals_two": "{{count}} deals",
-      "deals_few": "{{count}} deals",
-      "deals_many": "{{count}} deals",
-      "deals_other": "{{count}} deals"
-    }
-  },
-  "list": {
-    "columns": {
-      "clientName": "Client Name",
-      "pricingModel": "Pricing Model",
-      "currentStorageRateLimit": "Current storage rate limits"
+    "globalLimits": {
+        "storage": {
+            "storageDeals": "Number of storage deals",
+            "unlimited": "unlimited",
+            "cumulativeStorageDeals": "Cumulative storage deal",
+            "deals_zero": "{{count}} deal",
+            "deals_one": "{{count}} deal",
+            "deals_two": "{{count}} deals",
+            "deals_few": "{{count}} deals",
+            "deals_many": "{{count}} deals",
+            "deals_other": "{{count}} deals"
+        },
+        "retrieval": {
+            "retrievalDeals": "Number of retrieval deals",
+            "unlimited": "unlimited",
+            "deals_zero": "{{count}} deal",
+            "deals_one": "{{count}} deal",
+            "deals_two": "{{count}} deals",
+            "deals_few": "{{count}} deals",
+            "deals_many": "{{count}} deals",
+            "deals_other": "{{count}} deals"
+        }
     },
-    "tooltips": {
-      "currentStorageRateLimit": "Storage deal rate / limit for ACCEPTED deals",
-      "editClient": "Edit the client details",
-      "deleteClient": "Delete this client",
-      "sendEmail": "Send an e-mail",
-      "blockClient": "Block client",
-      "unblockClient": "Unblock client"
+    "list": {
+        "columns": {
+            "clientName": "Client Name",
+            "pricingModel": "Pricing Model",
+            "currentStorageRateLimit": "Current storage rate limits"
+        },
+        "tooltips": {
+            "currentStorageRateLimit": "Storage deal rate / limit for ACCEPTED deals",
+            "editClient": "Edit the client details",
+            "deleteClient": "Delete this client",
+            "sendEmail": "Send an e-mail",
+            "blockClient": "Block client",
+            "unblockClient": "Unblock client"
+        }
+    },
+    "errors": {
+        "unableToLoad": "Unable to load existing clients. Try again in few minutes!",
+        "noClientFound": "You haven't any client under your account.",
+        "addPricingModelBefore": "Before add a new client, be careful to create your pricing models"
+    },
+    "notifications": {
+        "unableToDeleteClient": "Unable to delete client - please try later or contact CIDgravity team",
+        "clientSuccessfullyRemoved": "The client has been completely removed",
+        "clientSuccessfullyUnlocked": "This client has been unblocked, deals go through rules engine!",
+        "unableToUnlockClient": "Something wrong while unlocking this client. Report to CIDgravity team!",
+        "clientSuccessfullyBlocked": "All deals from {{clientName}} will be rejected and client will be informed",
+        "estuaryClientSuccessfullyBlocked": "All deals from Estuary will be rejected and client is informed through the integration",
+        "unableToBlockClient": "Something wrong while blocking this client. Report to CIDgravity team!"
     }
-  },
-  "errors": {
-    "unableToLoad": "Unable to load existing clients. Try again in few minutes!",
-    "noClientFound": "You haven't any client under your account.",
-    "addPricingModelBefore": "Before add a new client, be careful to create your pricing models"
-  },
-  "notifications": {
-    "unableToDeleteClient": "Unable to delete client - please try later or contact CIDgravity team",
-    "clientSuccessfullyRemoved": "The client has been completely removed",
-    "clientSuccessfullyUnlocked": "This client has been unblocked, deals go through rules engine!",
-    "unableToUnlockClient": "Something wrong while unlocking this client. Report to CIDgravity team!",
-    "clientSuccessfullyBlocked": "All deals from {{clientName}} will be rejected and client will be informed",
-    "estuaryClientSuccessfullyBlocked": "All deals from Estuary will be rejected and client is informed through the integration",
-    "unableToBlockClient": "Something wrong while blocking this client. Report to CIDgravity team!"
-  }
 }

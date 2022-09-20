@@ -1,0 +1,1 @@
+# Verdaccio docker compose
