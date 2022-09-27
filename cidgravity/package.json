@@ -7,7 +7,9 @@
         "prepare": "rsync --exclude '.keep' -a ../shared/packaged/locales/ ./locales/",
         "format:check": "prettier --check .",
         "format:write": "prettier --write .",
-        "test": "node checkJSONValidity.js",
+        "check-json-validity": "node ../build/checkJSONValidity.js ./locales",
+        "check-dev-en-US-match": "node ../build/checkDevEnUSMatch.js ./locales",
+        "test": "npm run format:check ; npm run check-json-validity ; npm run check-dev-en-US-match",
         "republish-locally": "npm unpublish --registry http://localhost:4873 @cidgravity/cidgravity-locales --force ; npm publish --registry http://localhost:4873"
     },
     "repository": {

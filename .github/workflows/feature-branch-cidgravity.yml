@@ -1,0 +1,32 @@
+name: Test feature branch CIDgravity app
+on:
+  push:
+    branches:
+      - "*"
+      - "!main"
+      - "!hotfix*"
+    paths:
+      - "cidgravity/**"
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+      - name: Cache dependencies
+        uses: actions/cache@v2
+        with:
+          path: ~/.npm
+          key: npm-${{ hashFiles('package-lock.json') }}
+          restore-keys: npm-
+      - name: Install dependencies
+        run: |
+          cd cidgravity
+          npm ci --ignore-scripts
+      - name: Run tests
+        run: |
+          cd cidgravity
+          npm run test
