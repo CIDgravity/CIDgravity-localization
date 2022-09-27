@@ -1,23 +1,29 @@
 {
-  "name": "@cidgravity/cidgravity-localization",
-  "version": "1.0.0",
-  "description": "i18next JSON localization files for https://app.cidgravity.com",
-  "main": "index.js",
-  "scripts": {
-    "prepare": "rsync --exclude '.keep' -a ../shared/packaged/locales/ ./locales/",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/CIDgravity/cidgravity-localization.git"
-  },
-  "keywords": [
-    "localization"
-  ],
-  "author": "CIDgravity",
-  "license": "MIT AND Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/CIDgravity/cidgravity-localization/issues"
-  },
-  "homepage": "https://github.com/CIDgravity/cidgravity-localization#readme"
+    "name": "@cidgravity/cidgravity-locales",
+    "version": "1.0.0",
+    "description": "i18next JSON localization files for https://app.cidgravity.com",
+    "main": "index.js",
+    "scripts": {
+        "prepare": "rsync --exclude '.keep' -a ../shared/packaged/locales/ ./locales/",
+        "format:check": "prettier --check .",
+        "format:write": "prettier --write .",
+        "test": "node checkJSONValidity.js",
+        "republish-locally": "npm unpublish --registry http://localhost:4873 @cidgravity/cidgravity-locales --force ; npm publish --registry http://localhost:4873"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/CIDgravity/CIDgravity-localization.git"
+    },
+    "keywords": [
+        "localization"
+    ],
+    "author": "CIDgravity",
+    "license": "MIT AND Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/CIDgravity/CIDgravity-localization/issues"
+    },
+    "homepage": "https://github.com/CIDgravity/CIDgravity-localization#readme",
+    "devDependencies": {
+        "prettier": "2.7.1"
+    }
 }
