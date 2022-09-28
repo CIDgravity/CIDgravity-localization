@@ -1,0 +1,29 @@
+{
+  "name": "@cidgravity/shared-locales",
+  "version": "1.0.0",
+  "description": "i18next JSON localization files for all the CIDgravity projects",
+  "main": "index.js",
+  "scripts": {
+    "format:check": "prettier --check .",
+    "format:write": "prettier --write .",
+    "check-json-validity": "node ../build/checkJSONValidity.js ./unpackaged ; node ../build/checkJSONValidity.js ./packaged",
+    "check-dev-en-US-match": "node ../build/checkDevEnUSMatch.js ./unpackaged/locales ; node ../build/checkDevEnUSMatch.js ./packaged/locales",
+    "test": "npm run format:check ; npm run check-json-validity ; npm run check-dev-en-US-match"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CIDgravity/CIDgravity-localization.git"
+  },
+  "keywords": [
+    "localization"
+  ],
+  "author": "CIDgravity",
+  "license": "MIT AND Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/CIDgravity/CIDgravity-localization/issues"
+  },
+  "homepage": "https://github.com/CIDgravity/CIDgravity-localization#readme",
+  "devDependencies": {
+    "prettier": "2.7.1"
+  }
+}

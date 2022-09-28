@@ -1,0 +1,32 @@
+name: Test feature branch Shared directory
+on:
+  push:
+    branches:
+      - "*"
+      - "!main"
+      - "!hotfix*"
+    paths:
+      - "shared/**"
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+      - name: Cache dependencies
+        uses: actions/cache@v2
+        with:
+          path: ~/.npm
+          key: npm-${{ hashFiles('package-lock.json') }}
+          restore-keys: npm-
+      - name: Install dependencies
+        run: |
+          cd shared
+          npm ci --ignore-scripts
+      - name: Run tests
+        run: |
+          cd shared
+          npm run test

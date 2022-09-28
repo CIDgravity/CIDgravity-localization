@@ -1,0 +1,26 @@
+name: Create Weblate PR
+on:
+  push:
+    branches:
+      - feat-weblate-cidgravity-*
+jobs:
+  createPR:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get target branch
+        id: get-target-branch
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const targetBranch = context.ref.split('-')[3]
+            core.setOutput('targetBranch', targetBranch)
+      - name: Clone repo
+        uses: actions/checkout@v3
+        with:
+          ref: ${{github.ref_name}}
+      - name: Create Pull Request
+        run: |
+          cd $GITHUB_WORKSPACE
+          (gh pr create -d -B ${{steps.get-target-branch.outputs.targetBranch}} -H ${{github.ref_name}} --title 'Update Translations from Weblate' --body 'Update translations from Weblate. PR automatically created by CI on branch push.' || true)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
