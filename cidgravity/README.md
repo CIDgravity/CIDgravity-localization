@@ -20,7 +20,7 @@ You can automate the 3 steps with a script `./update-locales.sh` (file purposing
 cd ~/cidgravity/cidgravity-localization/cidgravity
 npm run republish-locally
 cd ~/cidgravity/CIDgravity/frontend
-npm run install-latest-locales
+npm run install-latest-locales-dev
 ```
 
 And then configure your IDE or operating system to run this script everytime you change the `./locales` files in this repo.
