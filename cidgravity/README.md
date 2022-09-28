@@ -9,7 +9,7 @@ This directory contains locales for https://app.cidgravity.com project.
 -   Run `npm login --registry http://localhost:4873` and ... login
 -   Make your changes in this repo
 -   Run `npm run republish-locally`
--   In CIDgravity main repo, run `npm run install-latest-locales`
+-   In CIDgravity main repo, run `npm run install-latest-locales-dev`
 -   Repeat the last 3 steps as much as you want
 
 You can automate the 3 steps with a script `./update-locales.sh` (file purposingly in .gitignore):
