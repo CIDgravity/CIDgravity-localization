@@ -6,8 +6,7 @@ This directory contains locales for https://app.cidgravity.com project.
 
 -   Clone this repo
 -   Run verdaccio `cd ../build && ./verdaccio.sh start`
--   Run `npm set registry http://localhost:4873`
--   Run `npm login` and ... login
+-   Run `npm login --registry http://localhost:4873` and ... login
 -   Make your changes in this repo
 -   Run `npm run republish-locally`
 -   In CIDgravity main repo, run `npm run install-latest-locales`
