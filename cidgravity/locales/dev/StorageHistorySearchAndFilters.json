@@ -1,0 +1,18 @@
+{
+    "inputSearch": {
+        "placeholder": "Search by address or proposal uid then PRESS ENTER"
+    },
+    "dateRangePicker": {
+        "startDatePlaceholderText": "From ({{dateFormat}})",
+        "endDatePlaceholderText": "To ({{dateFormat}})"
+    },
+    "status": {
+        "placeholder": "Deal status",
+        "all": "All status",
+        "accept": "Accepted",
+        "invalidProposal": "Invalid proposal",
+        "maintenance": "Maintenance",
+        "rateLimit": "Rate limit exceeded",
+        "blacklist": "Blacklisted"
+    }
+}
