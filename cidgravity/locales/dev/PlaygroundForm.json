@@ -1,0 +1,44 @@
+{
+    "button": {
+        "isSendingTest": "Sending ...",
+        "sendATest": "Send a test"
+    },
+    "fromAddress": {
+        "label": "From address *",
+        "formatCreateLabel": "Use this address"
+    },
+    "dealDuration": {
+        "label": "Deal duration *",
+        "daysValue": "Days",
+        "epochsValue": "Epochs"
+    },
+    "dealSize": {
+        "label": "Deal size *",
+        "tooltip": "If not a power of 2, we will round it automatically",
+        "sizeUnits": {
+            "B": "B",
+            "KIB": "KiB",
+            "MIB": "MiB",
+            "GIB": "GiB"
+        }
+    },
+    "verified": {
+        "label": "Verified *",
+        "trueValue": "True",
+        "falseValue": "True"
+    },
+    "transferType": {
+        "label": "Transfer type *",
+        "manualValue": "Manual",
+        "graphsyncValue": "Graphsync",
+        "httpValue": "Http"
+    },
+    "price": {
+        "label": "Price *",
+        "placeholder": "FIL / GiB / Epoch"
+    },
+    "validation": {
+        "isPriceInvalidValue": "Invalid value (use dots not commas)",
+        "isPriceMandatoryField": "Deal price is mandatory"     
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "menu" : {
+        "dashboard": "Dashboard",
+        "client": "Clients",
+        "settings": "Settings",
+        "helpCenter":" Help center",
+        "storage": {
+            "title": "Storage",
+            "pricing": "Pricing",
+            "integration": "Integrations",
+            "history": "History",
+            "playground": "Playground",
+            "blacklist": "Blacklist"
+        },
+        "retrieval": {
+            "title": "Retrieval",
+            "history": "History",
+            "acl": "ACL"
+        }
+    }
+}
