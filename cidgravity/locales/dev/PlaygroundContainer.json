@@ -1,0 +1,40 @@
+{
+    "title": "Deal playground",
+    "subtitle": "This page allows you to send dummy proposals to the pricing engine based on your CIDGravity configuration.",
+    "isLoadingProposal": "Loading deal proposal to simulate",
+    "testResult": {
+        "success": {
+            "title": "Success!",
+            "matchedPricing": "Matched {{pricingModel}} / Rule {{rule}}"
+        },
+        "rejected": {
+            "title": "Proposal rejected",
+            "matchedPricing": "Rejected by {{pricingModel}} / Rule {{rule}}"
+        },
+        "loading": {
+            "title": "Wait for a result",
+            "description": "You deal proposal is being treated, wait this view to be updated with the result"
+        },
+        "waiting": {
+            "title": "Wait for a request",
+            "description": "Fill the form to test a deal proposal throught your pricing models"
+        },
+        "error": {
+            "title": "Bad request",
+            "reason": "Your deal proposal can't be analysed due to a error, if this behavior persist, please report it to the support team"
+        }
+    },
+    "validation": {
+        "isFromAddressNotSupported": "The from address you provide doesn't match a valid Filecoin address",
+        "isFromAddressMandatory": "From address is required to launch a test request",
+        "isDurationOutsideLimits": "Check the duration, limits are min = 180 days and max 548 days!",
+        "isProposalPieceSizeUnderLimit": "The deal size can't be under 256B!",
+        "isTestSuccessfullySent": "Test succesfully send",
+        "isTestFailed": "Test failed, please try again in few minutes"
+    },
+    "notification": {
+        "error": {
+            "isFromAddressNotSupported": "The from address you provide doesn't match a valid Filecoin address"  
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "title": "Claim new address on CIDgravity",
+    "subtitle": "Fill the address you wish to claim",
+    "validation": {
+        "isAddressFieldMandatory": "Please enter your address",
+        "isAddressNotAStorageMiner": "This address is not a storage miner",
+        "isAddressAlreadyClaimed": "You have already claimed this address",
+        "isAddressInvalid": "Invalid address"
+    },
+    "claimAddressField": {
+        "placeholder": "fxxxxxx"
+    },
+    "button": {
+        "next": "Next"
+    }
+}

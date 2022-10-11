@@ -1,0 +1,11 @@
+{
+    "title": "Claim miner {{address}}",
+    "step": {
+        "start": "Start",
+        "signMessage": "Sign message",
+        "friendlyName": "Friendly name",
+        "settings": "Settings",
+        "importClientsAndPricing": "Import clients and pricing",
+        "complete": "Complete"
+    }
+}

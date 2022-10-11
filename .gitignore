@@ -2,3 +2,4 @@ cidgravity/node_modules
 cidgravity/update-locales.sh
 shared/node_modules
 **/.lvimrc
+cidgravity/auto-reload-locales.sh
