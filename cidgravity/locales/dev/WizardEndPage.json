@@ -1,6 +1,6 @@
 {
     "minerAlreadyClaimed": {
-        "title": "Successfully claimed {{address}}"    
+        "title": "Successfully claimed {{address}}"
     },
     "wizardComplete": {
         "title": "Claiming Completed",

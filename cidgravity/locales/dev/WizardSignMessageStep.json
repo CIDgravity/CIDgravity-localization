@@ -21,6 +21,5 @@
     "validation": {
         "isSignedMessageMandatory": "Signed message is required",
         "isSignatureInvalid": "Invalid signature"
-
     }
 }

@@ -28,7 +28,6 @@
         "addressChecks": {
             "description": "After you hit enter, wait for the address validation",
             "loading": "Address being verified, please wait"
-
         }
     },
     "manageClientPeerIds": {

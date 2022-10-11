@@ -39,6 +39,6 @@
     },
     "validation": {
         "isPriceInvalidValue": "Invalid value (use dots not commas)",
-        "isPriceMandatoryField": "Deal price is mandatory"     
+        "isPriceMandatoryField": "Deal price is mandatory"
     }
 }

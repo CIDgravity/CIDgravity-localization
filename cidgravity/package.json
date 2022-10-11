@@ -13,7 +13,8 @@
         "format:write": "prettier --write .",
         "check-json-validity": "node ../build/checkJSONValidity.js ./locales",
         "check-dev-en-US-match": "node ../build/checkDevEnUSMatch.js ./locales",
-        "test": "npm run format:check ; npm run check-json-validity ; npm run check-dev-en-US-match",
+        "create-en-US-from-dev": "node ../build/createEnUsFromDev.js ./locales/",
+        "test": "npm run format:check && npm run check-json-validity && npm run check-dev-en-US-match",
         "republish-locally": "npm unpublish --registry http://localhost:4873 @cidgravity/cidgravity-locales --force ; npm publish --registry http://localhost:4873"
     },
     "repository": {
@@ -30,6 +31,13 @@
     },
     "homepage": "https://github.com/CIDgravity/CIDgravity-localization#readme",
     "devDependencies": {
-        "prettier": "2.7.1"
+        "@semantic-release/changelog": "^6.0.1",
+        "@semantic-release/commit-analyzer": "^9.0.2",
+        "@semantic-release/git": "^10.0.1",
+        "@semantic-release/github": "^8.0.6",
+        "@semantic-release/npm": "^9.0.1",
+        "@semantic-release/release-notes-generator": "^10.0.3",
+        "prettier": "2.7.1",
+        "semantic-release": "^19.0.5"
     }
 }

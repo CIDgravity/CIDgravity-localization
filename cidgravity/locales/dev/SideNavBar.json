@@ -1,9 +1,9 @@
 {
-    "menu" : {
+    "menu": {
         "dashboard": "Dashboard",
         "client": "Clients",
         "settings": "Settings",
-        "helpCenter":" Help center",
+        "helpCenter": " Help center",
         "storage": {
             "title": "Storage",
             "pricing": "Pricing",

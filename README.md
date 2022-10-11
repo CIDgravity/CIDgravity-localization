@@ -49,3 +49,9 @@ This repository is distributed under the terms of both the MIT license and the A
 [Our Weblate instance](https://localization.cidgravity.com) only displays "Apache" as license because of technical limitations - but its content is the same as this repository content, that is unambiguously dual-licensed.
 
 See [LICENSE-APACHE](./LICENSE-APACHE) and [LICENSE-MIT](./LICENSE-MIT).
+
+## Create en-US .json from .dev
+
+Run:
+
+- `npm run create-en-US-from-dev`
