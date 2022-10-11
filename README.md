@@ -12,14 +12,19 @@ Weblate will locally commit to a feature branch every minute, then an administra
 
 Add variables by editing `./cidgravity/locales/dev/filename.json`.
 
-If the file does not exist, create it, then create also `./cidgravity/locales/en-US/filename.json`. It must be a valid JSON file (add `{}` inside).
-If you forget to create this `en-US` file, then Weblate add-on will not be able to generate the component automatically.
-Our CI pipeline will fail if this condition is not respected. Install this repository's pre-commit hooks to automatically generate a valid empty JSON file in `en-US` when commiting a new file to the `dev` directory.
+Then run the following command to create a file named `./cidgravity/locales/en-US/filename.json` containing an empty JSON:
+- `npm run create-en-US-from-dev`
+
+If you forget to create this `en-US` file, then Weblate `component discovery` add-on will not be able to generate the component automatically.
+
+Finally eventually run `npm run format:write` in `cidgravity/`.
+
+Our CI pipeline will fail if these conditions are not respected. 
 
 ### `pre-commit` hooks
 
-We use [pre-commit](https://pre-commit.com/#intro)
-
+We use [pre-commit](https://pre-commit.com/#intro) to avoid committing large files & unresolved merge conflicts.
+ 
 Install it using:
 
 ```
@@ -49,9 +54,3 @@ This repository is distributed under the terms of both the MIT license and the A
 [Our Weblate instance](https://localization.cidgravity.com) only displays "Apache" as license because of technical limitations - but its content is the same as this repository content, that is unambiguously dual-licensed.
 
 See [LICENSE-APACHE](./LICENSE-APACHE) and [LICENSE-MIT](./LICENSE-MIT).
-
-## Create en-US .json from .dev
-
-Run:
-
-- `npm run create-en-US-from-dev`
