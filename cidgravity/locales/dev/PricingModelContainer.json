@@ -1,0 +1,59 @@
+{
+    "title": "Pricing model management",
+    "subtitle": "Pricing model can be attached to one or multiple clients.",
+    "table": {
+        "name": {
+            "title": "Name"
+        },
+        "rule": {
+            "title": "Rules",
+            "noContent": "N/A"
+        },
+        "client": {
+            "title": "Clients",
+            "noContent": "N/A",
+            "defaultContent": "Default pricing model",
+            "content_zero": "N/A",
+            "content_one": "{{count}} client associated",
+            "content_two": "{{count}} clients associated",
+            "content_few": "{{count}} clients associated",
+            "content_many": "{{count}} clients associated",
+            "content_other": "{{count}} clients associated"
+        },
+        "view": {
+            "tooltip": "Inspect the associated rule and client details"
+        },
+        "edit": {
+            "tooltip": "Edit the pricing model"
+        },
+        "delete": {
+            "tooltip": "Delete this pricing model"
+        },
+        "setToDefault": {
+            "tooltip": "Set this pricing model as default"
+        },
+        "defaultBadge": "DEFAULT"
+    },
+    "notification": {
+        "success": {
+            "onUpdateDefaultPricingModel": "Default pricing model updated",
+            "onDeletePricingModel": "Pricing model successfully deleted"
+        },
+        "error": {
+            "onUpdateDefaultPricingModel": "Unable to update default pricing model. Try later or reach out to CIDgravity team.",
+            "onDeletePricingModel": "Unable to delete pricing model. Try later or reach out to CIDgravity team"
+        }
+    },
+    "empty": {
+        "title": "There are no pricing models under your account. A default pricing model must be created to use CIDgravity."
+    },
+    "error": {
+        "generic": "Unable to load pricing models. Try later or reach out to CIDgravity team."
+    },
+    "button": {
+        "new": "Create new model",
+        "empty": {
+            "new": "Create default pricing model"
+        }
+    }
+}

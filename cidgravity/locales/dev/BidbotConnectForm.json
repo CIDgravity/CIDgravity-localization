@@ -1,0 +1,40 @@
+{
+    "step": {
+        "0": {
+            "title": "Requirements",
+            "dot": "step {{stepIndex}} status: {{status}}",
+            "loading": "We are verifying that requirements are satisfied to connect Bidbot",
+            "error": {
+                "alreadyConnected": {
+                    "title": "Bidbot integration already connected",
+                    "button": {
+                        "goToIntegration": "Go to Integration "
+                    }
+                },
+                "generic": {
+                    "title": "Unable to check requirements to connect to Bidbot. Try later or reach out to CIDgravity team."
+                },
+                "button": {
+                    "goToIntegration": "Go to Integration "
+                }
+            }
+        },
+        "1": {
+            "title": "Final step",
+            "dot": "step {{stepIndex}} status: {{status}}",
+            "subtitle": "Bidbot is connected!",
+            "explanation": "To finalize the integration, copy the token below and configure it in Bidbot via the `--cid-gravity-key` flag.",
+            "error": {
+                "subtitle": "Bidbot is not connected",
+                "explanation": "Unable to finalize the Bidbot integration.",
+                "action": "Please try again or report to CIDgravity.",
+                "button": {
+                    "previous": "Back to previous step"
+                }
+            },
+            "button": {
+                "goToIntegration": "Go to Integration "
+            }
+        }
+    }
+}

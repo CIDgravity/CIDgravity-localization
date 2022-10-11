@@ -1,0 +1,82 @@
+{
+    "step": {
+        "0": {
+            "title": "Requirements",
+            "dot": "step {{stepIndex}} status: {{status}}",
+            "loading": "We are verifying that requirements are satisfied to connect Estuary",
+            "error": {
+                "blacklisted": {
+                    "title": "An Estuary address is currently blacklisted",
+                    "explanation": "You have to whitelist every Estuary addresses:"
+                },
+                "alreadyConnected": {
+                    "title": "Estuary integration already connected"
+                },
+                "generic": {
+                    "title": "Unable to check requirements to connect to Estuary. Try later or reach out to CIDgravity team."
+                }
+            }
+        },
+        "1": {
+            "title": "Sign message",
+            "dot": "step {{stepIndex}} status: {{status}}",
+            "prerequisite": {
+                "label": "1. Estuary implement basic tests before accepting a new miner",
+                "reachability": "Miner reachability is public: <1>lotus-miner net reachability</1>",
+                "minerPrice": "Miner price is set to 0 for verified: <1>lotus-miner storage-deals get-ask</1>",
+                "onChain": "Miner public address is on chain: <1>lotus-miner actor set-addrs /ip4/_PUBLIC_IP_/tcp/_PORT_</1>",
+                "power": "Miner power > 1TiB"
+            },
+            "doSign": {
+                "label": "2. Run this command to sign a specific message"
+            },
+            "paste": {
+                "label": "3. Paste the signed message below *"
+            }
+        },
+        "2": {
+            "title": "Select Pricing Model",
+            "dot": "step {{stepIndex}} status: {{status}}",
+            "choose": {
+                "label": "Choose the pricing model you can to apply to all deals from Estuary"
+            }
+        },
+        "3": {
+            "title": "Final step",
+            "dot": "step {{stepIndex}} status: {{status}}",
+            "connected": {
+                "title": "Integration connected!",
+                "subtitle": {
+                    "existingPricingModel": "Client '{{clientName}}' has been created with existing pricing model '{{pricingModelName}}'",
+                    "newPricingModel": "Client '{{clientName}}' has been created with pricing model '{pricingModelName}'"
+                },
+                "error": {
+                    "title": "An error occurred during Estuary integration",
+                    "explanation": "Estuary answer with a wrong status code, and the integration can't be done",
+                    "check": "Please check the message below"
+                }
+            }
+        }
+    },
+    "button": {
+        "previous": "Previous",
+        "abort": "Abort",
+        "next": "Next step",
+        "step": {
+            "0": {
+                "error": {
+                    "goToIntegration": "Go to Integration ",
+                    "goToBlacklist": "Go to Blacklist "
+                }
+            },
+            "3": {
+                "connected": {
+                    "goToIntegration": "Back to Integration",
+                    "error": {
+                        "previous": "Previous step"
+                    }
+                }
+            }
+        }
+    }
+}

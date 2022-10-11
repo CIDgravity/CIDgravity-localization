@@ -1,0 +1,18 @@
+{
+    "bidbot": {
+        "header": "Information about Bidbot integration",
+        "body": {
+            "token": "To finalize the integration, copy the token below and configure it in Bidbot via the `--cid-gravity-key` flag.",
+            "miner": {
+                "description": "You can check all the auction statistics about your Bidbot client by using the link below",
+                "stats": "Check stats about {{miner}}"
+            }
+        }
+    },
+    "other": {
+        "header": "Information about this integration"
+    },
+    "button": {
+        "close": "Close"
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "title": "Manage miner settings",
+    "client": {
+        "title": "Client settings",
+        "maintenanceMode": {
+            "title": "Maintenance mode",
+            "label": "Enable/disable maintenance mode",
+            "info": "When maintenance mode is activated, all incoming deal proposals are rejected"
+        },
+        "unknownClient": {
+            "title": "Unknown clients",
+            "label": "Accept storage deals from unknown clients",
+            "info": "When deactivated, all storage deals from unknown clients are rejected"
+        },
+        "rateLimit": {
+            "title": "Global rate limits",
+            "storageDealPerHour": {
+                "label": "Number of storage deals per hour",
+                "info": "Max number of storage deals per hour across all clients"
+            },
+            "retrievalDealPerHour": {
+                "label": "Retrieval deals per hour",
+                "info": "Max number of retrieval deals per hour across all clients"
+            },
+            "cumulativeDealSize": {
+                "label": "Cumulative storage deal size per hour (GiB/h)",
+                "info": "Max cumulative storage deal size per hour across all clients"
+            },
+            "button": {
+                "save": "Save"
+            }
+        }
+    },
+    "other": {
+        "title": "Other settings",
+        "connector": {
+            "title": "CIDgravity connector",
+            "info": "The \"CIDgravity connector\" connects a lotus-miner to the CIDgravity <br/> service. This lightweight connector is executed locally by the lotus-miner <br/> process each time the lotus-miner receives a deal proposal.",
+            "downloadLink": "Download the connector",
+            "mostRecentActivity": "CIDgravity·connector version: {{version}} (last seen {{datetime}}",
+            "noMostRecentActivity": "No recent activity",
+            "token": {
+                "title": "CIDgravity connector key",
+                "regenerate": "Disable and regenerate this token",
+                "subtitle": "Add this api key to the CIDgravity connector deployed on the miner"
+            }
+        },
+        "friendlyName": {
+            "title": "Friendly name",
+            "button": {
+                "save": "Save"
+            }
+        },
+        "customMessage": {
+            "title": "Custom message",
+            "info": "This message will be sent back to the client whenever a deal is rejected",
+            "placeholder": "For any questions or special pricing, please contact me on Slack",
+            "button": {
+                "save": "Save"
+            }
+        }
+    },
+    "notification": {
+        "success": {
+            "onUpdateRateLimits": "Settings have been saved!",
+            "onUpdateMaintenanceMode": {
+                "enabled": "Your maintenance mode has been enabled, don't forget to disabled it when you are done with it!",
+                "disabled": "Your maintenance mode has been disabled, good job!"
+            },
+            "onUpdateCustomMessage": "Your custom messages has been saved!",
+            "onUpdateFriendlyName": "Your address friendly name has been updated!",
+            "onRegenerateConnectorToken": "Token has been regenerated!"
+        },
+        "error": {
+            "onUpdateRateLimits": "Unable to save your settings. Try later or reach out to CIDgravity team",
+            "onUpdateMaintenanceMode": "Unable to update your maintenance mode. Try later or reach out to CIDgravity team",
+            "onUpdateCustomMessage": "Unable to save your custom message. Try later or reach out to CIDgravity team",
+            "onUpdateFriendlyName": "Unable to save your friendly name. Try later or reach out to CIDgravity team",
+            "onRegenerateConnectorToken": "Unable to regenerate the connector token. Try later or reach out to CIDgravity team"
+        }
+    },
+    "error": {
+        "generic": "Unable to retrieve your account details. Try later or reach out to CIDgravity team!"
+    }
+}
