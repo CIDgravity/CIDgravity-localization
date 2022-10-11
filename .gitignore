@@ -1,8 +1,5 @@
 cidgravity/node_modules
 cidgravity/update-locales.sh
 shared/node_modules
-<<<<<<< HEAD
 **/.lvimrc
-=======
 cidgravity/auto-reload-locales.sh
->>>>>>> 16afabe (Add dev translations (Blacklist, Side and top nav bar, help center and shared components))
