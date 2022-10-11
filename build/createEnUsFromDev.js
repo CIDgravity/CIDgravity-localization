@@ -18,7 +18,7 @@ if (directoryToCheck.endsWith("/")) {
 }
 
 console.log(
-  `Recursively validating that all JSON files in the '${directoryToCheck}/dev' directory also exists in '${directoryToCheck}/en-US'...`
+  `For each filename in the '${directoryToCheck}/dev', create an empty JSON file with the same name in '${directoryToCheck}/en-US' if the file doesn't exist yet...`
 );
 
 // see https://stackoverflow.com/a/66083078/11046178
@@ -37,13 +37,17 @@ function* walkSync(dir) {
   }
 }
 
-// for each files in locales/dev directory, check that the same filename exsit in locales/en-US
+// for each files in locales directory, create one in en-US if there is none
 for (const filePath of walkSync(`${directoryToCheck}/dev`)) {
   const enUSPath = `${directoryToCheck}/en-US/${path.basename(filePath)}`;
   if (!fs.existsSync(enUSPath)) {
-    console.log(`Failure! '${filePath}' does not exist in '${enUSPath}'`);
-    return 1;
+    fs.writeFile(enUSPath, JSON.stringify({}), (err) => {
+      if (err) {
+        console.error(`Error while trying to create '${enUSPath}'`, err);
+        return;
+      }
+      console.log(`'${enUSPath}' has been created`);
+    });
   }
 }
-console.log(`Success! Every JSON files in 'dev/' also exist in 'en-US/'.`);
 return 0;

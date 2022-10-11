@@ -34,7 +34,7 @@
     },
     "notification": {
         "error": {
-            "isFromAddressNotSupported": "The from address you provide doesn't match a valid Filecoin address"  
+            "isFromAddressNotSupported": "The from address you provide doesn't match a valid Filecoin address"
         }
     }
 }

@@ -2,7 +2,7 @@
     "title": "Blacklist management",
     "subtitle": "All deals sent to blacklisted addresses are rejected",
     "searchForm": {
-        "searchInput" : {
+        "searchInput": {
             "placeholder": "Search address in blacklist"
         }
     },
@@ -25,7 +25,7 @@
         }
     },
     "notification": {
-        "error" : {
+        "error": {
             "onCheckAddressValidity": {
                 "alreadyUsed": "{{address}} already configured on client",
                 "actorTypeIsNotAccount": "{{address}} actor type is not account",
