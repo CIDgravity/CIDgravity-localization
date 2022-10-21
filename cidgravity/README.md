@@ -1,6 +1,6 @@
 # CIDgravity
 
-This directory contains locales for https://app.cidgravity.com project
+This directory contains locales for https://app.cidgravity.com project.
 
 ## Testing locally
 
