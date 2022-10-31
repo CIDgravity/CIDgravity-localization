@@ -1,1 +1,49 @@
-{}
+{
+    "clientName": {
+        "label": "Client name *",
+        "placeholder": "ACME Corporation"
+    },
+    "email": {
+        "label": "E-mail"
+    },
+    "slackUsername": {
+        "label": "Slack username"
+    },
+    "storageDealRates": {
+        "title": "Storage deal rate *",
+        "description": "Define deal rate limit allowed per hour (0 = unlimited)",
+        "numberOfDeal": {
+            "label": "Number of deals"
+        },
+        "cumulativeDealSize": {
+            "label": "Cumulative deal size (in GiB)"
+        }
+    },
+    "manageClientAddresses": {
+        "title": "Manage client Filecoin addresses",
+        "description": "Enter all Filecoin addresses the client will send deals from",
+        "select": {
+            "placeholder": "Type a Filecoin address and press enter to add it …"
+        },
+        "addressChecks": {
+            "description": "Wait for address validation",
+            "loading": "Address verification in process, please wait…"
+        }
+    },
+    "manageClientPeerIds": {
+        "title": "Manage client Peer IDs",
+        "description": "Enter all Peer IDs this client will retrieve data from",
+        "select": {
+            "placeholder": "Type a Peer ID and press enter to add it…"
+        },
+        "peerIdChecks": {
+            "description": "Wait for Peer ID validation",
+            "loading": "Peer ID verification in process, please wait…"
+        }
+    },
+    "button": {
+        "loading": "Loading",
+        "createClient": "Create client",
+        "updateClient": "Update client"
+    }
+}

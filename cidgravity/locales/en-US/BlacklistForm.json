@@ -1,1 +1,17 @@
-{}
+{
+    "addressToBlacklist": {
+        "label": "Address to blacklist *"
+    },
+    "comment": {
+        "label": "Comment"
+    },
+    "button": {
+        "loading": "Adding…",
+        "addToBlacklist": "Add to blacklist"
+    },
+    "validation": {
+        "addressFieldMustBeAString": "Must be a valid address",
+        "addressFieldIsMandatory": "Address is mandatory",
+        "commentFieldMustBeAString": "Must be valid text"
+    }
+}

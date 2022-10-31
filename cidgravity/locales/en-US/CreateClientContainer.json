@@ -1,1 +1,62 @@
-{}
+{
+    "createClient": {
+        "title": "Create a new client"
+    },
+    "editClient": {
+        "title": "Edit client"
+    },
+    "clientFromIntegrationWarn": "This client is part of an integration.",
+    "pricingModel": {
+        "select": {
+            "label": "Select a pricing model",
+            "description": "Select from the dropdown or create a new one."
+        },
+        "details": {
+            "title": "{{pricingModelName}} details",
+            "ruleNumber": "Rule # {{ruleNumber}}",
+            "dealType": "Deal type",
+            "forVerifiedDeals": "For verified deals",
+            "forUnverifiedDeals": "For unverified deals",
+            "forBothVerifiedAndUnverified": "For both verified and unverified deals",
+            "pricePerGibAndEpoch": "Price / GiB / Epoch",
+            "priceUnit": {
+                "FIL": "FIL"
+            },
+            "dealSize": "Deal size",
+            "dealDuration": "Deal duration",
+            "fallBackToDefaultPricing": {
+                "isDisabled": "Fall back to default pricing model : Disabled",
+                "isEnabled": "Fall back to default pricing model : Enabled",
+                "notApplicable": "Fall back to default pricing model : Not applicable"
+            }
+        }
+    },
+    "error": {
+        "isAddressNotOnChain": "{{address}} (not on chain)",
+        "isClientNotExistingOrNotAllowed": "The client does not exist or this action is not available."
+    },
+    "button": {
+        "createNewPricingModel": "New pricing model",
+        "backToClientList": "Back to clients"
+    },
+    "validation": {
+        "isGenericErrorWhileAddingClient": "An error has occurred adding the client.",
+        "isPricingModelSelectionMandatory": "A pricing model is required.",
+        "isAddressOrPeerIdFieldMandatory": "At least one Filecoin address or Peer ID is required.",
+        "isClientNameAlreadyUsed": "This client name is already in use."
+    },
+    "notification": {
+        "error": {
+            "isAddressCantBeAddedOneMoreTime": "{{address}} already exists.",
+            "isAddressResolvesToAlreadyUsed": "{{address}} resolves to {{resolvedAddress}} which is already in use.",
+            "isAddressAlreadyConfigured": "{{address}} already attached to a client.",
+            "isAddressNotOfTypeAccount": "{{address}} is not a Filecoin account actor type.",
+            "isAddressGenericError": "{{address}} cannot be added, please try again later or contact the CIDgravity team.",
+            "isAddressInvalidFilecoinFormat": "{{address}} is not a valid Filecoin address",
+            "isAddressInvalidFormat": "{{address}} - this address type is not supported, use SECP256K1, ID or BLS address",
+            "isPeerIdAlreadyAdded": "{{peerId}} already exists.",
+            "isPeerIdAlreadyConfigured": "{{peerId}} already attached to a client.",
+            "isPeerIdInvalidFormat": "{{peerId}} is not a valid Peer ID."
+        }
+    }
+}

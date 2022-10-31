@@ -1,1 +1,11 @@
-{}
+{
+    "step": {
+        "0": {
+            "dot": "step {{stepIndex}} status: {{status}}",
+            "title": "Requirements"
+        },
+        "1": {
+            "dot": "step {{stepIndex}} status: {{status}}"
+        }
+    }
+}

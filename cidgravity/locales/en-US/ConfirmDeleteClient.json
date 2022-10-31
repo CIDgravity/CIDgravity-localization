@@ -1,1 +1,10 @@
-{}
+{
+    "button": {
+        "close": "Cancel",
+        "continue": "Delete"
+    },
+    "header": "Delete {{clientName}}",
+    "body": {
+        "willCompletelyRemoveClient": "Clicking delete will <strong>completely remove</strong> this client. This action cannot be undone.<br /> All deal proposals from any of this client's addresses, will fallback to the default pricing model."
+    }
+}

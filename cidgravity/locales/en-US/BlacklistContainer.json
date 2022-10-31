@@ -1,1 +1,48 @@
-{}
+{
+    "title": "Blacklist management",
+    "subtitle": "All deals sent to blacklisted addresses will be rejected.",
+    "searchForm": {
+        "searchInput": {
+            "placeholder": "Search address in blacklist"
+        }
+    },
+    "table": {
+        "address": {
+            "title": "Address",
+            "addressNotOnChain": "{{address}} (not on chain)",
+            "copy": {
+                "tooltip": "Copy"
+            }
+        },
+        "addedDate": {
+            "title": "Date added"
+        },
+        "action": {
+            "title": "Actions",
+            "remove": {
+                "tooltip": "Remove"
+            }
+        }
+    },
+    "notification": {
+        "error": {
+            "onCheckAddressValidity": {
+                "alreadyUsed": "{{address}} already belongs to a client.",
+                "actorTypeIsNotAccount": "{{address}} is not a Filecoin account actor type.",
+                "invalidFormat": "{{address}} is not a valid Filecoin address",
+                "unsupportedType": "{{address}} - this address type is not supported, use SECP256K1, ID or BLS address",
+                "default": "{{address}} cannot be added, please try again later or contact the CIDgravity team."
+            },
+            "onCheckBlacklisted": {
+                "isShortAddress": "{{address}} resolves to {{resolved}} which is already blacklisted."
+            },
+            "onBlacklistAddress": "{{address}} cannot be blacklisted, please try later or contact the CIDgravity team.",
+            "onAddressAlreadyBlacklisted": "{{address}} is already blacklisted.",
+            "onWhitelistAddress": "An error occurred while whitelisting this address, please try later or contact the CIDgravity team."
+        },
+        "success": {
+            "onBlacklistAddress": "All deals from this address will now be rejected.",
+            "onWhitelistAddress": "Address whitelisted, deals will now be processed."
+        }
+    }
+}
