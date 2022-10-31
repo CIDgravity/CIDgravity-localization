@@ -1,5 +1,10 @@
 {
     "button": {
         "newClient": "Create a new client"
+    },
+    "globalLimits": {
+        "sizeUnits": {
+            "B_zero": "{{count}} B"
+        }
     }
 }
