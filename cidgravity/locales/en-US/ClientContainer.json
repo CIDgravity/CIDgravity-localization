@@ -4,7 +4,8 @@
     },
     "globalLimits": {
         "sizeUnits": {
-            "B_zero": "{{count}} B"
+            "B_zero": "{{count}} B",
+            "B_one": "{{count}} B"
         }
     }
 }
