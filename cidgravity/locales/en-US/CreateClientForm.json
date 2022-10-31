@@ -45,5 +45,8 @@
         "loading": "Loading",
         "createClient": "Create client",
         "updateClient": "Update client"
+    },
+    "validation": {
+        "isHourlyDealSizeLimitValidType": "Must be a valid number."
     }
 }
