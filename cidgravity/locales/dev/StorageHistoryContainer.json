@@ -24,7 +24,7 @@
         },
         "internalDecision": {
             "accept": {
-                "toolip": "Accepted"
+                "tooltip": "Accepted"
             },
             "maintenance": {
                 "tooltip": "In maintenance"
