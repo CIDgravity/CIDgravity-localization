@@ -36,6 +36,7 @@
             "storageDeals": "Number of storage deals",
             "unlimited": "unlimited",
             "cumulativeStorageDeals": "Cumulative storage deal",
+            "deals": "{{count}} deal",
             "deals_zero": "{{count}} deal",
             "deals_one": "{{count}} deal",
             "deals_two": "{{count}} deals",
@@ -46,6 +47,7 @@
         "retrieval": {
             "retrievalDeals": "Number of retrieval deals",
             "unlimited": "unlimited",
+            "deals": "{{count}} deal",
             "deals_zero": "{{count}} deal",
             "deals_one": "{{count}} deal",
             "deals_two": "{{count}} deals",
