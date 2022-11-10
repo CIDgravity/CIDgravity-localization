@@ -10,7 +10,6 @@
         "placeholder": "Select the miner to import data from"
     },
     "validation": {
-        "isDoYouWantToImportRadioMandatory": "Please select an option",
         "isAddressSelectionMandatory": "To import data, this field is required"
     }
 }

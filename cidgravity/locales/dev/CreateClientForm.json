@@ -63,7 +63,11 @@
     "notification": {
         "success": {
             "isClientSuccessfullyUpdated": "Client has been updated!",
-            "isClientSuccessfullyCreated": "Your client has succesfully added!"
+            "isClientSuccessfullyCreated": "Your client has been succesfully added!"
+        },
+        "error": {
+            "hasClientCreationFailed": "Cannot add new client",
+            "hasClientUpdateFailed": "Cannot modify client"
         }
     }
 }
