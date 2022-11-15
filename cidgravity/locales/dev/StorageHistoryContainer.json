@@ -6,6 +6,7 @@
         "noMatch": "Your search did not match any storage proposals.",
         "from": {
             "title": "From client",
+            "unkownAddress": "N/A",
             "copy": {
                 "tooltip": "Copy full address"
             }
