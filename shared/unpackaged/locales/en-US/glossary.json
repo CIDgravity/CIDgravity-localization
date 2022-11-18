@@ -1,13 +1,13 @@
 {
-    "Protocol Labs": "Protocol Labs",
-    "Filecoin": "Filecoin",
-    "previous": "previous",
-    "glossary": {
-        "filecoin": "Filecoin",
-        "protocol-labs": "Protocol Labs",
-        "bidbot": "bidbot",
-        "textile": "Textile",
-        "fil": "FIL",
-        "estuary": "Estuary"
-    }
+  "Protocol Labs": "Protocol Labs",
+  "Filecoin": "Filecoin",
+  "previous": "previous",
+  "glossary": {
+    "filecoin": "Filecoin",
+    "protocol-labs": "Protocol Labs",
+    "bidbot": "bidbot",
+    "textile": "Textile",
+    "fil": "FIL",
+    "estuary": "Estuary"
+  }
 }
