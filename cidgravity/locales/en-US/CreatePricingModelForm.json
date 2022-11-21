@@ -35,7 +35,8 @@
             }
         },
         "size": {
-            "label": "Size *"
+            "label": "Size *",
+            "info": "Min size allowed{{newLine}}Max size allowed"
         }
     }
 }
