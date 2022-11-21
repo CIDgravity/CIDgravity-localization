@@ -20,7 +20,7 @@
             }
         },
         "1": {
-            "dot": "step {{stepIndex}} status: {{status}}",
+            "dot": "{{stepIndex}}",
             "title": "Connected",
             "subtitle": "Bidbot is connected!",
             "error": {
