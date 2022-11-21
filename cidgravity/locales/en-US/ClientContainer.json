@@ -79,7 +79,7 @@
     },
     "errors": {
         "unableToLoad": "Unable to load existing client list, please try later or contact the CIDgravity team.",
-        "noClientFound": "No existing clients .",
+        "noClientFound": "No existing clients.",
         "addPricingModelBefore": "Create a pricing model, before adding a new client."
     },
     "notification": {
