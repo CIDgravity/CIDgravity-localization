@@ -62,9 +62,20 @@
             "min": {
                 "placeholder": "Min",
                 "unit": {
-                    "day": "Days"
+                    "day": "Days",
+                    "epoch": "Epochs"
+                }
+            },
+            "max": {
+                "placeholder": "Max",
+                "unit": {
+                    "day": "Days",
+                    "epoch": "Epochs"
                 }
             }
+        },
+        "price": {
+            "label": "Price *"
         }
     }
 }
