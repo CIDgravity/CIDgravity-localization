@@ -45,7 +45,10 @@
             "title": "Final step",
             "dot": "{{stepIndex}}",
             "connected": {
-                "title": "Estuary successfully connected"
+                "title": "Estuary successfully connected",
+                "subtitle": {
+                    "existingPricingModel": "An '{{clientName}}' client has been created with the '{{pricingModelName}}' pricing model."
+                }
             }
         }
     }
