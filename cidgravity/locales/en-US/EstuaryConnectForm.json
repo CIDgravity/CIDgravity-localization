@@ -26,6 +26,12 @@
                 "minerPrice": "Miner price is set to 0 for verified deals: <1>lotus-miner storage-deals get-ask</1>",
                 "onChain": "Miner public address is published on chain: <1>lotus-miner actor set-addrs /ip4/_PUBLIC_IP_/tcp/_PORT_</1>",
                 "power": "Miner power > 1TiB"
+            },
+            "paste": {
+                "label": "3. Paste the signed message below *"
+            },
+            "doSign": {
+                "label": "2. Run this command to sign the Estuary connection message:"
             }
         }
     }
