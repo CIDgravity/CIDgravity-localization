@@ -1,3 +1,8 @@
 {
-    "title": "Connect Estuary"
+    "title": "Connect Estuary",
+    "notification": {
+        "error": {
+            "onLoadData": "Unable to load data to connect to Estuary, please try later or contact the CIDgravity team."
+        }
+    }
 }
