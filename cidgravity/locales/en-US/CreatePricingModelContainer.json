@@ -1,5 +1,7 @@
 {
     "title": {
-        "newDefault": "Create a default pricing model"
+        "newDefault": "Create a default pricing model",
+        "new": "Create a new pricing model",
+        "edit": "Edit a pricing model"
     }
 }
