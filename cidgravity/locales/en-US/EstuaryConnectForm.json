@@ -10,7 +10,7 @@
                     "explanation": "Please remove the following address from the \"Blacklist\" menu, before continuing :"
                 },
                 "alreadyConnected": {
-                    "title": "Estuary integration already connected"
+                    "title": "Estuary already connected"
                 }
             }
         },
