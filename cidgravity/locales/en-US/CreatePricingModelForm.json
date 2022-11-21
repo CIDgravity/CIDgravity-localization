@@ -87,7 +87,13 @@
     "validation": {
         "name": {
             "typeError": "Must be a valid string.",
-            "required": "Pricing model name is mandatory."
+            "required": "Pricing model name is mandatory.",
+            "matches": "Can only contain letters, numbers and underscore."
+        }
+    },
+    "notification": {
+        "success": {
+            "onCreateDefaultPricingModel": "Default pricing model successfully created."
         }
     }
 }
