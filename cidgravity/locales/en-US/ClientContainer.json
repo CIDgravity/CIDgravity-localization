@@ -33,7 +33,8 @@
         "storage": {
             "storageDeals": "Storage deals per hour",
             "unlimited": "unlimited",
-            "cumulativeStorageDeals": "Cumulative storage deal size per hour"
+            "cumulativeStorageDeals": "Cumulative storage deal size per hour",
+            "deals_zero": "{{count}} deals"
         }
     },
     "title": "Client management",
