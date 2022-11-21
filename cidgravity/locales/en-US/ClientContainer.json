@@ -9,5 +9,6 @@
             "B_two": "{{count}} B"
         }
     },
-    "title": "Client management"
+    "title": "Client management",
+    "subtitle": "Specify per client custom pricing, rate limits and configure deal acceptance criteria."
 }
