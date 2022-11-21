@@ -55,5 +55,15 @@
         }
     },
     "title": "Client management",
-    "subtitle": "Specify per client custom pricing and configure deal acceptance criteria."
+    "subtitle": "Specify per client custom pricing and configure deal acceptance criteria.",
+    "table": {
+        "columns": {
+            "clientName": {
+                "title": "Client Name"
+            },
+            "currentStorageRateLimit": {
+                "title": "Current Storage Rate limits"
+            }
+        }
+    }
 }
