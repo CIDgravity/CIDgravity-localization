@@ -6,7 +6,8 @@
             "loading": "Estuary connection requirements verification underway…",
             "error": {
                 "blacklisted": {
-                    "title": "The estuary address is blacklisted"
+                    "title": "The estuary address is blacklisted",
+                    "explanation": "Please remove it using the \"Blacklist\" menu, before continuing."
                 }
             }
         },
