@@ -51,7 +51,8 @@
                     "newPricingModel": "An '{{clientName}}' client has been created with the '{{pricingModelName}}' pricing model."
                 },
                 "error": {
-                    "title": "Estuary integration failed."
+                    "title": "Estuary integration failed.",
+                    "explanation": "Estuary responded with an incorrect status code, integration failed."
                 }
             }
         }
