@@ -85,7 +85,10 @@
     "notification": {
         "success": {
             "onRemoveClient": "The client has been removed.",
-            "onUnblockClient": "The client has been unblocked."
+            "onUnblockClient": "The client has been unblocked.",
+            "onBlockClient": {
+                "estuary": "All deals from Estuary will be rejected."
+            }
         }
     }
 }
