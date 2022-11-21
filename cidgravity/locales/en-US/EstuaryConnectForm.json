@@ -49,6 +49,9 @@
                 "subtitle": {
                     "existingPricingModel": "An '{{clientName}}' client has been created with the '{{pricingModelName}}' pricing model.",
                     "newPricingModel": "An '{{clientName}}' client has been created with the '{{pricingModelName}}' pricing model."
+                },
+                "error": {
+                    "title": "Estuary integration failed."
                 }
             }
         }
