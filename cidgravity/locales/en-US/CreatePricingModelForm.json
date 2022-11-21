@@ -6,7 +6,10 @@
             "label": "Pricing model name *"
         },
         "fallback": {
-            "label": "Fallback to default pricing model"
+            "label": "Fallback to default pricing model",
+            "info": {
+                "isNotDefault": "When enabled, a deal proposal not matching any rules, will go through the default pricing model for acceptance."
+            }
         }
     }
 }
