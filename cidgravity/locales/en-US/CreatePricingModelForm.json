@@ -27,7 +27,15 @@
             }
         },
         "isVerified": {
-            "label": "Verified *"
+            "label": "Verified *",
+            "option": {
+                "any": "Any",
+                "true": "True",
+                "false": "False"
+            }
+        },
+        "size": {
+            "label": "Size *"
         }
     }
 }
