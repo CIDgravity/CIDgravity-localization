@@ -12,6 +12,13 @@
                     "isAtLeastOneRequiredParamEmpty": "A signed message is required to continue the integration process."
                 }
             }
+        },
+        "2": {
+            "notification": {
+                "error": {
+                    "isAtLeastOneRequiredParamEmpty": "A signed message is required to continue the integration process."
+                }
+            }
         }
     }
 }
