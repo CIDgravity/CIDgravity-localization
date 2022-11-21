@@ -9,6 +9,7 @@
     },
     "training": {
         "title": "Training",
-        "bookCallWithExpert": "Leverage all capabilities of CIDgravity with a 30 minutes one-on-one training session with one of our experts.<br />We will answer all of your questions, assist in troubleshooting or simply provide a comprehensive demo of the product."
+        "bookCallWithExpert": "Leverage all capabilities of CIDgravity with a 30 minutes one-on-one training session with one of our experts.<br />We will answer all of your questions, assist in troubleshooting or simply provide a comprehensive demo of the product.",
+        "formDefaultMessage": "Hi, my miner ID is … , I would like to discuss …"
     }
 }
