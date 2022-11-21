@@ -63,6 +63,9 @@
             },
             "currentStorageRateLimit": {
                 "title": "Current Storage Rate limits"
+            },
+            "pricingModel": {
+                "title": "Pricing Model"
             }
         }
     }
