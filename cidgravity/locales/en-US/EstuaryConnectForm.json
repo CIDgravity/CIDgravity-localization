@@ -7,7 +7,7 @@
             "error": {
                 "blacklisted": {
                     "title": "The estuary address is blacklisted",
-                    "explanation": "Please remove it using the \"Blacklist\" menu, before continuing."
+                    "explanation": "Please remove the following address from the \"Blacklist\" menu, before continuing :"
                 }
             }
         },
