@@ -43,7 +43,10 @@
         },
         "3": {
             "title": "Final step",
-            "dot": "{{stepIndex}}"
+            "dot": "{{stepIndex}}",
+            "connected": {
+                "title": "Estuary successfully connected"
+            }
         }
     }
 }
