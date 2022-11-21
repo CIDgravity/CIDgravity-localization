@@ -71,7 +71,13 @@
         "step": {
             "0": {
                 "error": {
-                    "goToIntegration": "Go to Integrations"
+                    "goToIntegration": "Go to Integrations",
+                    "goToBlacklist": "Go to Blacklist"
+                }
+            },
+            "3": {
+                "connected": {
+                    "goToIntegration": "Back to Integrations"
                 }
             }
         }
