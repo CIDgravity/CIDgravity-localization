@@ -8,6 +8,9 @@
                 "blacklisted": {
                     "title": "The estuary address is blacklisted",
                     "explanation": "Please remove the following address from the \"Blacklist\" menu, before continuing :"
+                },
+                "alreadyConnected": {
+                    "title": "Estuary integration already connected"
                 }
             }
         },
