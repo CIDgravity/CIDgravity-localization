@@ -96,6 +96,9 @@
             "onCreateDefaultPricingModel": "Default pricing model successfully created.",
             "onUpdatePricingModel": "Pricing model successfully updated.",
             "onCreatePricingModel": "Pricing model successfully created."
+        },
+        "error": {
+            "generic": "Unable to create or update the pricing model, please try later or contact the CIDgravity team."
         }
     }
 }
