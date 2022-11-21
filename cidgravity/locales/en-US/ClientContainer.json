@@ -34,11 +34,19 @@
             "storageDeals": "Storage deals per hour",
             "unlimited": "unlimited",
             "cumulativeStorageDeals": "Cumulative storage deal size per hour",
-            "deals_zero": "{{count}} deals"
+            "deals_zero": "{{count}} deals",
+            "deals_other": "{{count}} deals",
+            "deals_two": "{{count}} deals",
+            "deals": "{{count}} deal",
+            "deals_one": "{{count}} deal",
+            "deals_few": "{{count}} deals",
+            "deals_many": "{{count}} deals"
         },
         "retrieval": {
             "retrievalDeals": "Number of retrieval deals per hour",
-            "deals_zero": "{{count}} deals"
+            "deals_zero": "{{count}} deals",
+            "unlimited": "unlimited",
+            "deals": "{{count}} deal"
         }
     },
     "title": "Client management",
