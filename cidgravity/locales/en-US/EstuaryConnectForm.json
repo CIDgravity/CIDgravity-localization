@@ -19,7 +19,10 @@
         },
         "1": {
             "dot": "{{stepIndex}}",
-            "title": "Sign message"
+            "title": "Sign message",
+            "prerequisite": {
+                "label": "1. Estuary implements basic tests before accepting a new miner :"
+            }
         }
     }
 }
