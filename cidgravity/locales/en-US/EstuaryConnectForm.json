@@ -77,7 +77,10 @@
             },
             "3": {
                 "connected": {
-                    "goToIntegration": "Back to Integrations"
+                    "goToIntegration": "Back to Integrations",
+                    "error": {
+                        "previous": "Previous step"
+                    }
                 }
             }
         }
