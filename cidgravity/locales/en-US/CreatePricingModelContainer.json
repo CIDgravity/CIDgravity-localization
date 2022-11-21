@@ -3,5 +3,8 @@
         "newDefault": "Create a default pricing model",
         "new": "Create a new pricing model",
         "edit": "Edit a pricing model"
+    },
+    "validation": {
+        "onCreatePricingModel": "Unable to create the pricing model, please try later or contact the CIDgravity team."
     }
 }
