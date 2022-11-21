@@ -68,6 +68,9 @@
             "pricingModel": {
                 "title": "Pricing Model"
             }
+        },
+        "tooltip": {
+            "editClient": "Edit client details"
         }
     }
 }
