@@ -33,6 +33,9 @@
             "doSign": {
                 "label": "2. Run this command to sign the Estuary connection message:"
             }
+        },
+        "2": {
+            "title": "Select Pricing Model"
         }
     }
 }
