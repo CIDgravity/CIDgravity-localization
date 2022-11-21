@@ -1,4 +1,7 @@
 {
     "title": "Page not found",
-    "pageDoesNotExist": "This page does not exist."
+    "pageDoesNotExist": "This page does not exist.",
+    "button": {
+        "goToDashboard": "Go to Dashboard"
+    }
 }
