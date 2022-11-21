@@ -55,6 +55,7 @@
         "isEmailValidFormat": "Check that e-mail is valid.",
         "isSlackValidString": "Slack username must be a valid string.",
         "isHourlyDealLimitValidType": "Must be a valid number.",
-        "isHourlyDealLimitPositive": "Must be a positive number."
+        "isHourlyDealLimitPositive": "Must be a positive number.",
+        "isHourlyDealLimitMandatory": "Storage deal limit is mandatory."
     }
 }
