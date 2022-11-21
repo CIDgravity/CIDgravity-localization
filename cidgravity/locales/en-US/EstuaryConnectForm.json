@@ -3,7 +3,12 @@
         "0": {
             "dot": "{{stepIndex}}",
             "title": "Requirements",
-            "loading": "Estuary connection requirements verification underway…"
+            "loading": "Estuary connection requirements verification underway…",
+            "error": {
+                "blacklisted": {
+                    "title": "The estuary address has associated access control list entries. Please remove it using the \"Blacklist\" menu, before continuing."
+                }
+            }
         },
         "1": {
             "dot": "step {{stepIndex}} status: {{status}}"
