@@ -35,7 +35,8 @@
             }
         },
         "2": {
-            "title": "Select Pricing Model"
+            "title": "Select Pricing Model",
+            "dot": "{{stepIndex}}"
         }
     }
 }
