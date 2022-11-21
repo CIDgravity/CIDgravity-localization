@@ -84,7 +84,7 @@
     },
     "notification": {
         "success": {
-            "onRemoveClient": "Client has been removed."
+            "onRemoveClient": "The client has been removed."
         }
     }
 }
