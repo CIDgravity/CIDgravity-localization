@@ -57,5 +57,8 @@
                 }
             }
         }
+    },
+    "error": {
+        "MinerPowerUnder1Tib": "The miner must have at least 1 TiB of power to complete Estuary integration."
     }
 }
