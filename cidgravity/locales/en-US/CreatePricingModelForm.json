@@ -17,7 +17,8 @@
         "title": "Manage model rules",
         "subtitle": "When a new deal proposal is received, the set of rules defined below is applied, starting from the top. The rule engine stops and accepts the deal at the first matching rule.<br />If no rules match, the fallback setting above decides whether or not the default pricing model is applied, else the deal proposal is rejected.<br />If the default pricing model doesn't match either, the deal is rejected.",
         "type": {
-            "label": "Type *"
+            "label": "Type *",
+            "info": "Manual = offline"
         }
     }
 }
