@@ -51,6 +51,7 @@
         "isNameValidString": "Name must be a valid string.",
         "isNameFieldMandatory": "Client name is mandatory.",
         "isNameFieldInvalid": "Can only contain letters, numbers and underscore.",
-        "isEmailValidString": "E-mail must be a valid string."
+        "isEmailValidString": "E-mail must be a valid string.",
+        "isEmailValidFormat": "Check that e-mail is valid."
     }
 }
