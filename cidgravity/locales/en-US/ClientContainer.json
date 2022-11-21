@@ -94,7 +94,8 @@
         "error": {
             "onCheckHasAssociatedAcl": "The client has associated access control list entries. Please remove them using the \"Deny list\" menu, before removal.",
             "onRemoveClient": "Unable to delete client, please try later or contact the CIDgravity team.",
-            "onUnblockClient": "An error occurred in the unlocking process, please try later or contact the CIDgravity team."
+            "onUnblockClient": "An error occurred in the unlocking process, please try later or contact the CIDgravity team.",
+            "onBlockClient": "An error occurred in the blocking process, please try later or contact the CIDgravity team."
         }
     }
 }
