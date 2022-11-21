@@ -18,7 +18,8 @@
             }
         },
         "1": {
-            "dot": "step {{stepIndex}} status: {{status}}"
+            "dot": "step {{stepIndex}} status: {{status}}",
+            "title": "Sign message"
         }
     }
 }
