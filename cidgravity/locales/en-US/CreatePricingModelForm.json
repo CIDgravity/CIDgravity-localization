@@ -12,5 +12,8 @@
                 "isDefault": "Setting disabled: this pricing model is already set to default."
             }
         }
+    },
+    "rule": {
+        "title": "Manage model rules"
     }
 }
