@@ -36,7 +36,13 @@
         },
         "2": {
             "title": "Select Pricing Model",
-            "dot": "{{stepIndex}}"
+            "dot": "{{stepIndex}}",
+            "choose": {
+                "label": "Choose the pricing model to apply to all Estuary deals"
+            }
+        },
+        "3": {
+            "title": "Final step"
         }
     }
 }
