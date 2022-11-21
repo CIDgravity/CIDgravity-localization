@@ -93,7 +93,9 @@
     },
     "notification": {
         "success": {
-            "onCreateDefaultPricingModel": "Default pricing model successfully created."
+            "onCreateDefaultPricingModel": "Default pricing model successfully created.",
+            "onUpdatePricingModel": "Pricing model successfully updated.",
+            "onCreatePricingModel": "Pricing model successfully created."
         }
     }
 }
