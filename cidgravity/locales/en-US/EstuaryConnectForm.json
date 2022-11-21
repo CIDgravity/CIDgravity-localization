@@ -64,5 +64,9 @@
         "NoPeerId": "The miner does not have an active PeerId.",
         "VerifiedDealPriceIsNotZero": "Verified deal price must be zero to complete Estuary integration.",
         "GenericEstuaryError": "Failed to connect to Estuary, please try later or contact the CIDgravity team."
+    },
+    "button": {
+        "abort": "Abort",
+        "next": "Next step"
     }
 }
