@@ -71,7 +71,9 @@
         },
         "tooltip": {
             "editClient": "Edit client details",
-            "deleteClient": "Delete client"
+            "deleteClient": "Delete client",
+            "blockClient": "Block client",
+            "sendEmail": "Send e-mail"
         }
     }
 }
