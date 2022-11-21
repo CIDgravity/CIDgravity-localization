@@ -92,7 +92,8 @@
             }
         },
         "error": {
-            "onCheckHasAssociatedAcl": "The client has associated access control list entries. Please remove them using the \"Deny list\" menu, before removal."
+            "onCheckHasAssociatedAcl": "The client has associated access control list entries. Please remove them using the \"Deny list\" menu, before removal.",
+            "onRemoveClient": "Unable to delete client, please try later or contact the CIDgravity team."
         }
     }
 }
