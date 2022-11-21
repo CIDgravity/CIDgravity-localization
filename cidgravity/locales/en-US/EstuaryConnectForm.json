@@ -67,6 +67,13 @@
     },
     "button": {
         "abort": "Abort",
-        "next": "Next step"
+        "next": "Next step",
+        "step": {
+            "0": {
+                "error": {
+                    "goToIntegration": "Go to Integrations"
+                }
+            }
+        }
     }
 }
