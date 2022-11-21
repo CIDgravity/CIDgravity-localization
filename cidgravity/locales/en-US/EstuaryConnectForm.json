@@ -11,6 +11,9 @@
                 },
                 "alreadyConnected": {
                     "title": "Estuary already connected"
+                },
+                "generic": {
+                    "title": "Failed to check Estuary connection requirements, please try later or contact the CIDgravity team."
                 }
             }
         },
