@@ -78,6 +78,7 @@
         }
     },
     "errors": {
-        "unableToLoad": "Unable to load existing client list, please try later or contact the CIDgravity team."
+        "unableToLoad": "Unable to load existing client list, please try later or contact the CIDgravity team.",
+        "noClientFound": "No existing clients ."
     }
 }
