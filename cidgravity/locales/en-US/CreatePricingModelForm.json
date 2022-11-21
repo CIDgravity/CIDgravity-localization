@@ -75,7 +75,8 @@
             }
         },
         "price": {
-            "label": "Price *"
+            "label": "Price *",
+            "placeholder": "FIL/GiB/Epoch"
         }
     }
 }
