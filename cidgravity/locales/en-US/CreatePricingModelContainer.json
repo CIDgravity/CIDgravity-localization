@@ -5,6 +5,7 @@
         "edit": "Edit a pricing model"
     },
     "validation": {
-        "onCreatePricingModel": "Unable to create the pricing model, please try later or contact the CIDgravity team."
+        "onCreatePricingModel": "Unable to create the pricing model, please try later or contact the CIDgravity team.",
+        "onUpdatePricingModel": "Unable to update the pricing model, please try later or contact the CIDgravity team."
     }
 }
