@@ -36,7 +36,13 @@
         },
         "size": {
             "label": "Size *",
-            "info": "Min size allowed{{newLine}}Max size allowed"
+            "info": "Min size allowed{{newLine}}Max size allowed",
+            "min": {
+                "placeholder": "Min",
+                "unit": {
+                    "B": "B"
+                }
+            }
         }
     }
 }
