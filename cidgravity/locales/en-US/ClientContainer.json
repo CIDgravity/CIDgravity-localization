@@ -29,6 +29,9 @@
             "MiB_few": "{{count}} MiB",
             "MiB_many": "{{count}} MiB",
             "MiB_other": "{{count}} MiB"
+        },
+        "storage": {
+            "storageDeals": "Number of storage deals"
         }
     },
     "title": "Client management",
