@@ -57,7 +57,14 @@
             }
         },
         "duration": {
-            "label": "Duration *"
+            "label": "Duration *",
+            "info": "Min duration allowed{{newLine}}Max duration allowed",
+            "min": {
+                "placeholder": "Min",
+                "unit": {
+                    "day": "Days"
+                }
+            }
         }
     }
 }
