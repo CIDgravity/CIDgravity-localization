@@ -4,5 +4,14 @@
         "error": {
             "onLoadData": "Unable to load data to connect to Estuary, please try later or contact the CIDgravity team."
         }
+    },
+    "step": {
+        "1": {
+            "notification": {
+                "error": {
+                    "isAtLeastOneRequiredParamEmpty": "A signed message is required to continue the integration process."
+                }
+            }
+        }
     }
 }
