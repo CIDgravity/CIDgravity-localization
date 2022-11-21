@@ -4,7 +4,7 @@
     },
     "header": "You are about to leave this page",
     "button": {
-        "continue": "Yes",
+        "continue": "Continue",
         "cancel": "Cancel"
     }
 }
