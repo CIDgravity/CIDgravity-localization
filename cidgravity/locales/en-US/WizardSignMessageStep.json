@@ -1,5 +1,6 @@
 {
     "button": {
-        "next": ""
+        "next": "",
+        "previous": "Previous"
     }
 }
