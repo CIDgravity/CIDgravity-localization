@@ -78,5 +78,9 @@
             "label": "Price *",
             "placeholder": "FIL/GiB/Epoch"
         }
+    },
+    "button": {
+        "addNewRule": "Add a new rule",
+        "update": "Update"
     }
 }
