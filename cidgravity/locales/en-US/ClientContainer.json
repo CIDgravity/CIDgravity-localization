@@ -46,7 +46,12 @@
             "retrievalDeals": "Number of retrieval deals per hour",
             "deals_zero": "{{count}} deals",
             "unlimited": "unlimited",
-            "deals": "{{count}} deal"
+            "deals": "{{count}} deal",
+            "deals_one": "{{count}} deal",
+            "deals_two": "{{count}} deals",
+            "deals_few": "{{count}} deals",
+            "deals_many": "{{count}} deals",
+            "deals_other": "{{count}} deals"
         }
     },
     "title": "Client management",
