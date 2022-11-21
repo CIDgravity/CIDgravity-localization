@@ -62,7 +62,8 @@
                 "title": "Client Name"
             },
             "currentStorageRateLimit": {
-                "title": "Current Storage Rate limits"
+                "title": "Current Storage Rate limits",
+                "tooltip": "Storage deal rate limit for ACCEPTED deals"
             },
             "pricingModel": {
                 "title": "Pricing Model"
