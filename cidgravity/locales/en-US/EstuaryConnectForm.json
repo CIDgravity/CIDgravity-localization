@@ -2,7 +2,8 @@
     "step": {
         "0": {
             "dot": "{{stepIndex}}",
-            "title": "Requirements"
+            "title": "Requirements",
+            "loading": "Estuary connection requirements verification underway…"
         },
         "1": {
             "dot": "step {{stepIndex}} status: {{status}}"
