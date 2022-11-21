@@ -76,5 +76,8 @@
             "sendEmail": "Send e-mail",
             "unblockClient": "Unblock client"
         }
+    },
+    "errors": {
+        "unableToLoad": "Unable to load existing client list, please try later or contact the CIDgravity team."
     }
 }
