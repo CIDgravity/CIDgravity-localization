@@ -25,6 +25,9 @@
                 "graphsync": "Graphsync",
                 "http": "HTTP"
             }
+        },
+        "isVerified": {
+            "label": "Verified *"
         }
     }
 }
