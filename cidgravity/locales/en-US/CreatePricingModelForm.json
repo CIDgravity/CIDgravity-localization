@@ -81,6 +81,7 @@
     },
     "button": {
         "addNewRule": "Add a new rule",
-        "update": "Update"
+        "update": "Update",
+        "create": "Create"
     }
 }
