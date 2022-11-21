@@ -31,7 +31,7 @@
             "MiB_other": "{{count}} MiB"
         },
         "storage": {
-            "storageDeals": "Number of storage deals",
+            "storageDeals": "Storage deals per hour",
             "unlimited": "unlimited"
         }
     },
