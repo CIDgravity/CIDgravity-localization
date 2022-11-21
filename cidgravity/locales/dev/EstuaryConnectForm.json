@@ -60,8 +60,8 @@
     },
     "error": {
         "MinerPowerUnder1Tib": "Your miner must have at least 1 TiB of power to use Estuary",
-        "NoAddressOnChain": "Your current miner hasn't any address on chain, which is a requirements for Estuary",
-        "NoPeerId": "Your current miner hasn't any peer Id, which is a requirements for Estuary",
+        "NoAddressOnChain": "Your current miner hasn't any address on chain, which is a requirement for Estuary",
+        "NoPeerId": "Your current miner hasn't any peer Id, which is a requirement for Estuary",
         "VerifiedDealPriceIsNotZero": "Your verified deal price must be zero to connect Estuary",
         "GenericEstuaryError": "Unkown error from Estuary, contact CIDgravity team"
     },
