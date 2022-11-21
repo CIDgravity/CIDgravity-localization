@@ -52,7 +52,8 @@
                 },
                 "error": {
                     "title": "Estuary integration failed.",
-                    "explanation": "Estuary responded with an incorrect status code, integration failed."
+                    "explanation": "Estuary responded with an incorrect status code, integration failed.",
+                    "check": "Please check the message below :"
                 }
             }
         }
