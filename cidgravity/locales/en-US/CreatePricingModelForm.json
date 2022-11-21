@@ -4,6 +4,9 @@
         "subtitle": "",
         "name": {
             "label": "Pricing model name *"
+        },
+        "fallback": {
+            "label": "Fallback to default pricing model"
         }
     }
 }
