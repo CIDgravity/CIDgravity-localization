@@ -31,7 +31,8 @@
             "MiB_other": "{{count}} MiB"
         },
         "storage": {
-            "storageDeals": "Number of storage deals"
+            "storageDeals": "Number of storage deals",
+            "unlimited": "unlimited"
         }
     },
     "title": "Client management",
