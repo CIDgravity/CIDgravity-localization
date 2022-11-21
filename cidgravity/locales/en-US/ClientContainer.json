@@ -32,7 +32,8 @@
         },
         "storage": {
             "storageDeals": "Storage deals per hour",
-            "unlimited": "unlimited"
+            "unlimited": "unlimited",
+            "cumulativeStorageDeals": "Cumulative storage deal size per hour"
         }
     },
     "title": "Client management",
