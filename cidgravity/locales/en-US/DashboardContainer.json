@@ -2,9 +2,9 @@
     "title": "Welcome {{userFirstName}}!",
     "storage": {
         "title": "Storage deals",
-        "received": "",
-        "accepted": "",
-        "rejected": ""
+        "received": "Received",
+        "accepted": "Accepted",
+        "rejected": "Rejected"
     },
     "lastHour": "Last Hour",
     "retrieval": {
