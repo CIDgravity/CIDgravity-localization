@@ -49,6 +49,7 @@
     "validation": {
         "isHourlyDealSizeLimitValidType": "Must be a valid number.",
         "isNameValidString": "Name must be a valid string",
-        "isNameFieldMandatory": "Client name is mandatory"
+        "isNameFieldMandatory": "Client name is mandatory",
+        "isNameFieldInvalid": "Can only contain letters, numbers and underscore"
     }
 }
