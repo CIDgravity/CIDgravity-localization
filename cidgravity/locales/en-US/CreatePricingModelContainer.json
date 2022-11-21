@@ -6,6 +6,7 @@
     },
     "validation": {
         "onCreatePricingModel": "Unable to create the pricing model, please try later or contact the CIDgravity team.",
-        "onUpdatePricingModel": "Unable to update the pricing model, please try later or contact the CIDgravity team."
+        "onUpdatePricingModel": "Unable to update the pricing model, please try later or contact the CIDgravity team.",
+        "isNameAlreadyUsed": "Pricing model name already exist, it must be unique."
     }
 }
