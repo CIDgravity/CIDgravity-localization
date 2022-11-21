@@ -52,6 +52,9 @@
         "isNameFieldMandatory": "Client name is mandatory.",
         "isNameFieldInvalid": "Can only contain letters, numbers and underscore.",
         "isEmailValidString": "E-mail must be a valid string.",
-        "isEmailValidFormat": "Check that e-mail is valid."
+        "isEmailValidFormat": "Check that e-mail is valid.",
+        "isSlackValidString": "Slack username must be a valid string.",
+        "isHourlyDealLimitValidType": "Must be a valid number.",
+        "isHourlyDealLimitPositive": "Must be a positive number."
     }
 }
