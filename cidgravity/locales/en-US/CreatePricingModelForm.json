@@ -21,7 +21,9 @@
             "info": "Manual = offline",
             "option": {
                 "any": "Any",
-                "manual": "Manual"
+                "manual": "Manual",
+                "graphsync": "Graphsync",
+                "http": "HTTP"
             }
         }
     }
