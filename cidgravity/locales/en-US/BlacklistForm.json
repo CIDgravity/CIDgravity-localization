@@ -6,7 +6,7 @@
         "label": "Comment"
     },
     "button": {
-        "loading": "Adding …",
+        "loading": "Adding…",
         "addToBlacklist": "Add to blacklist"
     },
     "validation": {
