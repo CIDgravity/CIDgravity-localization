@@ -1,6 +1,7 @@
 {
     "button": {
-        "newClient": "Create a new client"
+        "newClient": "Create a new client",
+        "modifyLimits": "Modify"
     },
     "globalLimits": {
         "sizeUnits": {
