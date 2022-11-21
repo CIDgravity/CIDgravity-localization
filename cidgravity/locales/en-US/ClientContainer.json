@@ -73,7 +73,8 @@
             "editClient": "Edit client details",
             "deleteClient": "Delete client",
             "blockClient": "Block client",
-            "sendEmail": "Send e-mail"
+            "sendEmail": "Send e-mail",
+            "unblockClient": "Unblock client"
         }
     }
 }
