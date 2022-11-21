@@ -59,6 +59,7 @@
         }
     },
     "error": {
-        "MinerPowerUnder1Tib": "The miner must have at least 1 TiB of power to complete Estuary integration."
+        "MinerPowerUnder1Tib": "The miner must have at least 1 TiB of power to complete Estuary integration.",
+        "NoAddressOnChain": "The miner does not have any active addresses on chain."
     }
 }
