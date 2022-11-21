@@ -70,7 +70,8 @@
             }
         },
         "tooltip": {
-            "editClient": "Edit client details"
+            "editClient": "Edit client details",
+            "deleteClient": "Delete client"
         }
     }
 }
