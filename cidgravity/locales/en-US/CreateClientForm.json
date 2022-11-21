@@ -59,5 +59,10 @@
         "isHourlyDealLimitMandatory": "Storage deal limit is mandatory.",
         "isHourlyDealSizeLimitPositive": "Must be positive number.",
         "isHourlyDealSizeLimitMandatory": "Cumulative deal size is mandatory."
+    },
+    "notification": {
+        "success": {
+            "isClientSuccessfullyUpdated": "The client has been updated"
+        }
     }
 }
