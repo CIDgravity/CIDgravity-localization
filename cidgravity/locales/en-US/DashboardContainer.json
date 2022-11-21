@@ -8,9 +8,9 @@
     },
     "lastHour": "Last Hour",
     "retrieval": {
-        "title": "",
-        "received": "",
-        "accepted": "",
-        "rejected": ""
+        "title": "Retrieval deals",
+        "received": "Received",
+        "accepted": "Accepted",
+        "rejected": "Rejected"
     }
 }
