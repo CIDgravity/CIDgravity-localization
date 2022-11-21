@@ -64,6 +64,9 @@
         "success": {
             "isClientSuccessfullyUpdated": "The client has been updated",
             "isClientSuccessfullyCreated": "The client has been successfully added"
+        },
+        "error": {
+            "hasClientCreationFailed": "Failed to add new client."
         }
     }
 }
