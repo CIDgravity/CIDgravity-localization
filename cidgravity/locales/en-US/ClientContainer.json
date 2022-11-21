@@ -7,7 +7,16 @@
         "sizeUnits": {
             "B_zero": "{{count}} B",
             "B_one": "{{count}} B",
-            "B_two": "{{count}} B"
+            "B_two": "{{count}} B",
+            "B_few": "{{count}} B",
+            "GiB_one": "{{count}} GiB",
+            "B_many": "{{count}} B",
+            "B_other": "{{count}} B",
+            "GiB_zero": "{{count}} GiB",
+            "GiB_two": "{{count}} GiB",
+            "GiB_few": "{{count}} GiB",
+            "GiB_many": "{{count}} GiB",
+            "GiB_other": "{{count}} GiB"
         }
     },
     "title": "Client management",
