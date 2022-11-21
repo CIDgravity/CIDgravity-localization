@@ -1,7 +1,7 @@
 {
     "general": {
         "title": "General information",
-        "subtitle": "",
+        "subtitle": "Please complete the fields below.",
         "name": {
             "label": "Pricing model name *"
         },
