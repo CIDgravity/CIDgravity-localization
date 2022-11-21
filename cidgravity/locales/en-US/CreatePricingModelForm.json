@@ -83,5 +83,11 @@
         "addNewRule": "Add a new rule",
         "update": "Update",
         "create": "Create"
+    },
+    "validation": {
+        "name": {
+            "typeError": "Must be a valid string.",
+            "required": "Pricing model name is mandatory."
+        }
     }
 }
