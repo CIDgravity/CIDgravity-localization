@@ -8,5 +8,6 @@
             "B_one": "{{count}} B",
             "B_two": "{{count}} B"
         }
-    }
+    },
+    "title": "Client management"
 }
