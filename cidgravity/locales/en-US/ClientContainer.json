@@ -84,7 +84,8 @@
     },
     "notification": {
         "success": {
-            "onRemoveClient": "The client has been removed."
+            "onRemoveClient": "The client has been removed.",
+            "onUnblockClient": "The client has been unblocked."
         }
     }
 }
