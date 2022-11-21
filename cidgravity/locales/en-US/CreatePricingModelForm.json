@@ -40,9 +40,24 @@
             "min": {
                 "placeholder": "Min",
                 "unit": {
-                    "B": "B"
+                    "B": "B",
+                    "KiB": "KiB",
+                    "MiB": "MiB",
+                    "GiB": "GiB"
                 }
+            },
+            "max": {
+                "unit": {
+                    "MiB": "MiB",
+                    "GiB": "GiB",
+                    "B": "B",
+                    "KiB": "KiB"
+                },
+                "placeholder": "Max"
             }
+        },
+        "duration": {
+            "label": "Duration *"
         }
     }
 }
