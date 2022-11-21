@@ -62,7 +62,8 @@
     },
     "notification": {
         "success": {
-            "isClientSuccessfullyUpdated": "The client has been updated"
+            "isClientSuccessfullyUpdated": "The client has been updated",
+            "isClientSuccessfullyCreated": "The client has been successfully added"
         }
     }
 }
