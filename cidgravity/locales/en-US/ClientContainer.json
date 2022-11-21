@@ -90,6 +90,9 @@
                 "estuary": "Estuary has been notified and won't send any new deals.",
                 "other": "All deals from {{clientName}} will be rejected."
             }
+        },
+        "error": {
+            "onCheckHasAssociatedAcl": "The client has associated access control list entries. Please remove them using the \"Deny list\" menu, before removal."
         }
     }
 }
