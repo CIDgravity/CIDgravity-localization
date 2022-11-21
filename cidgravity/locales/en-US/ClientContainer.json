@@ -35,6 +35,9 @@
             "unlimited": "unlimited",
             "cumulativeStorageDeals": "Cumulative storage deal size per hour",
             "deals_zero": "{{count}} deals"
+        },
+        "retrieval": {
+            "retrievalDeals": "Number of retrieval deals per hour"
         }
     },
     "title": "Client management",
