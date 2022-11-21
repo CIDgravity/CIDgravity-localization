@@ -2,7 +2,7 @@
     "step": {
         "0": {
             "title": "Requirements",
-            "dot": "step {{stepIndex}} status: {{status}}",
+            "dot": "{{stepIndex}}",
             "loading": "We are verifying bidbot connection requirements.",
             "error": {
                 "alreadyConnected": {
