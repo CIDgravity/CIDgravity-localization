@@ -24,7 +24,7 @@
                 "label": "1. Estuary implements basic tests before accepting a new miner:",
                 "reachability": "Miner reachability is public: <1>lotus-miner net reachability</1>",
                 "minerPrice": "Miner price is set to 0 for verified deals: <1>lotus-miner storage-deals get-ask</1>",
-                "onChain": "Miner public address is on chain: <1>lotus-miner actor set-addrs /ip4/_PUBLIC_IP_/tcp/_PORT_</1>",
+                "onChain": "Miner public address is published on chain: <1>lotus-miner actor set-addrs /ip4/_PUBLIC_IP_/tcp/_PORT_</1>",
                 "power": "Miner power > 1TiB"
             }
         }
