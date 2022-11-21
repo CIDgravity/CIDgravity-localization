@@ -37,7 +37,8 @@
             "deals_zero": "{{count}} deals"
         },
         "retrieval": {
-            "retrievalDeals": "Number of retrieval deals per hour"
+            "retrievalDeals": "Number of retrieval deals per hour",
+            "deals_zero": "{{count}} deals"
         }
     },
     "title": "Client management",
