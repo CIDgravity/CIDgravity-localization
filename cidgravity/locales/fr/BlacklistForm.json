@@ -1,1 +1,5 @@
-{}
+{
+    "addressToBlacklist": {
+        "label": "Adresse à blacklister *"
+    }
+}
