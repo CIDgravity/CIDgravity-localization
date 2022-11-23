@@ -5,5 +5,8 @@
     },
     "error": {
         "isUnableToCheckSignature": "Unable to verify your signed message"
+    },
+    "validation": {
+        "isSignatureInvalid": "Invalid signature"
     }
 }
