@@ -6,6 +6,7 @@
         "label": "Commentaire"
     },
     "button": {
-        "loading": "Ajout en cours…"
+        "loading": "Ajout en cours…",
+        "addToBlacklist": "Ajouter à la list noire"
     }
 }
