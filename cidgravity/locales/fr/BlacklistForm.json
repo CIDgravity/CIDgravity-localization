@@ -10,6 +10,7 @@
         "addToBlacklist": "Ajouter à la list noire"
     },
     "validation": {
-        "addressFieldMustBeAString": "Doit être une adresse valide"
+        "addressFieldMustBeAString": "Doit être une adresse valide",
+        "addressFieldIsMandatory": "L'adresse est obligatoire"
     }
 }
