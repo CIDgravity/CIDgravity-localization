@@ -11,6 +11,7 @@
     },
     "validation": {
         "addressFieldMustBeAString": "Doit être une adresse valide",
-        "addressFieldIsMandatory": "L'adresse est obligatoire"
+        "addressFieldIsMandatory": "L'adresse est obligatoire",
+        "commentFieldMustBeAString": "Doit être un champs texte valide"
     }
 }
