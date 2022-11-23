@@ -11,6 +11,6 @@
         "isSignedMessageMandatory": "Signed message is required"
     },
     "putSignedMessageStep": {
-        "label": "2. Put your signed message below *"
+        "label": ""
     }
 }
