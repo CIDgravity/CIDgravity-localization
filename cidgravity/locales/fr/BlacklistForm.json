@@ -1,5 +1,8 @@
 {
     "addressToBlacklist": {
         "label": "Adresse à bloquer *"
+    },
+    "comment": {
+        "label": "Commentaire"
     }
 }
