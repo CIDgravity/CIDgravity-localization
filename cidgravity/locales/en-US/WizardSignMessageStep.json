@@ -1,7 +1,7 @@
 {
     "button": {
         "next": "Next",
-        "previous": ""
+        "previous": "Previous"
     },
     "error": {
         "isUnableToCheckSignature": "Unable to verify your signed message"
