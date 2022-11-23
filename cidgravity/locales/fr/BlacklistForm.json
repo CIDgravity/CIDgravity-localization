@@ -8,5 +8,8 @@
     "button": {
         "loading": "Ajout en cours…",
         "addToBlacklist": "Ajouter à la list noire"
+    },
+    "validation": {
+        "addressFieldMustBeAString": "Doit être une adresse valide"
     }
 }
