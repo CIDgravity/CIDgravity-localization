@@ -4,5 +4,8 @@
     },
     "comment": {
         "label": "Commentaire"
+    },
+    "button": {
+        "loading": "Ajout en cours…"
     }
 }
