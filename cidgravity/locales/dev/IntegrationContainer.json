@@ -30,34 +30,6 @@
             "disconnect": "Disconnect"
         }
     },
-    "bidbot": {
-        "title": "Bidbot",
-        "subtitle": "Bidbot automates participation in Filecoin deal auctions, CAR file transfer, and Lotus import",
-        "details": {
-            "opener": "The integration with CIDgravity allows bidbot to:",
-            "dynamicBid": "Bid based on dynamic pricing rules set in CIDgravity instead of prices hardcoded in Bidbot config file or with command-line flags",
-            "reflectMaintenanceMode": "Reflect maintenance mode and client blocked states in Bidbot"
-        },
-        "more": "More details ",
-        "less": "Less details ",
-        "sync": {
-            "ok": {
-                "label": "Sync status",
-                "latestDate": "Latest sync at {{datetime}}",
-                "noLatestDate": "N/A"
-            },
-            "nok": {
-                "label": "Sync status",
-                "latestDate": "Latest request received at {{datetime}}",
-                "noLatestDate": "N/A"
-            }
-        },
-        "button": {
-            "info": "Info",
-            "connect": "Connect",
-            "disconnect": "Disconnect"
-        }
-    },
     "error": {
         "generic": "Unable to load connected integrations for your account. Try later or reach out to CIDgravity team"
     }

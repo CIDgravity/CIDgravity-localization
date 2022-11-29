@@ -1,9 +1,0 @@
-{
-    "title": "Connect Bidbot",
-    "notification": {
-        "error": {
-            "onLoadData": "Unable to load data to connect to Bidbot. Try later or reach out to CIDgravity team",
-            "onCompleteIntegration": "Unable to load data to connect to Bidbot. Try later or reach out to CIDgravity team"
-        }
-    }
-}
