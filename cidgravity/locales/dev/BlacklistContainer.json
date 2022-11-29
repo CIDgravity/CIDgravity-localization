@@ -38,7 +38,8 @@
             },
             "onBlacklistAddress": "{{address}} cannot be blacklisted, please try later or contact CIDgravity",
             "onAddressAlreadyBlacklisted": "{{address}} is already blacklisted",
-            "onWhitelistAddress": "Something wrong while whitelisting this address"
+            "onWhitelistAddress": "Something wrong while whitelisting this address",
+            "onAddressGenericError": "Something wrong while trying to blacklist this address"
         },
         "success": {
             "onBlacklistAddress": "All deals from this address are now rejected!",

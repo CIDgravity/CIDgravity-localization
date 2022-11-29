@@ -50,6 +50,7 @@
             "isAddressCantBeAddedOneMoreTime": "{{address}} cannot be added more than one time",
             "isAddressResolvesToAlreadyUsed": "{{address}} resolves to {{resolvedAddress}} and is already in the client address list",
             "isAddressAlreadyConfigured": "{{address}} already configured on client",
+            "isAddressBlacklisted": "{{address}} is blacklisted, whitelist it before associating it to a client",
             "isAddressNotOfTypeAccount": "{{address}} actor type is not account",
             "isAddressGenericError": "{{address}} cannot be added, please try later or contact CIDgravity",
             "isAddressInvalidFilecoinFormat": "{{address}} is not a valid Filecoin address",
