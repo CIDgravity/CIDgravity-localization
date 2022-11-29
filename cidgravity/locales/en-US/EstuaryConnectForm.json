@@ -58,9 +58,6 @@
             }
         }
     },
-    "error": {
-        "VerifiedDealPriceIsNotZero": "Verified deal price must be zero to complete Estuary integration."
-    },
     "button": {
         "abort": "Abort",
         "next": "Next step",
