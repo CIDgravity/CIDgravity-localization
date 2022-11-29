@@ -59,7 +59,6 @@
         }
     },
     "error": {
-        "NoAddressOnChain": "The miner does not have any active addresses on chain.",
         "VerifiedDealPriceIsNotZero": "Verified deal price must be zero to complete Estuary integration."
     },
     "button": {
