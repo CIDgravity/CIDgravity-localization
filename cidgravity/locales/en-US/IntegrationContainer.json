@@ -29,5 +29,8 @@
             "connect": "Connect",
             "disconnect": "Disconnect"
         }
+    },
+    "error": {
+        "generic": "Unable to load page, please try later or contact the CIDgravity team."
     }
 }
