@@ -58,5 +58,10 @@
                 "onMaximumReached": "You have reached the maximum number of claimed addresses"
             }
         }
+    },
+    "notification": {
+        "success": {
+            "onDeleteAddress": "Miner deleted successfully."
+        }
     }
 }
