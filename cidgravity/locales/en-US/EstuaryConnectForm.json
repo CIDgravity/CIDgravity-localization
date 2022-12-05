@@ -78,5 +78,9 @@
             }
         },
         "previous": "Previous"
+    },
+    "error": {
+        "ERR_INVALID_SIGNATURE_FORMAT": "The signature can not be verified or is invalid",
+        "ERR_INVALID_PRICING_MODEL": "The selected pricing model is invalid"
     }
 }
