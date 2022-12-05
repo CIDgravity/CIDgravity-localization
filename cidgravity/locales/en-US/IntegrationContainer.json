@@ -3,6 +3,9 @@
     "subtitle": "Manage third-party deal provider integrations.",
     "estuary": {
         "title": "Estuary",
-        "subtitle": "Estuary allows users to store public data on IPFS and Filecoin through browser interface or by API."
+        "subtitle": "Estuary allows users to store public data on IPFS and Filecoin through browser interface or by API.",
+        "details": {
+            "opener": "Integrating Estuary with CIDgravity enables :"
+        }
     }
 }
