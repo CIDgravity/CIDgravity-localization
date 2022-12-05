@@ -88,6 +88,7 @@
         "ERR_INVALID_MINER_CLAIM_SIG": "The signature is invalid (too short).",
         "ERR_INVALID_MINER_CLAIM_NO_PEER_ID": "No peer ID found for this miner.",
         "ERR_INVALID_MINER_CLAIM_NO_MULTI_ADDR": "No multi-address found on-chain for this miner.",
-        "ERR_INVALID_MINER_CLAIM_NO_POWER": "This miner has no power."
+        "ERR_INVALID_MINER_CLAIM_NO_POWER": "This miner has no power.",
+        "ERR_INVALID_MINER_CLAIM_POWER_BELOW_1TIB": "This miner does not meet the minimum power requirement (1TiB)."
     }
 }
