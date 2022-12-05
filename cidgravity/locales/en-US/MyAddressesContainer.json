@@ -3,7 +3,10 @@
     "minerAddress": {
         "title": "Miner addresses",
         "table": {
-            "empty": "No miner claimed."
+            "empty": "No miner claimed.",
+            "friendlyName": {
+                "title": "Nickname"
+            }
         }
     }
 }
