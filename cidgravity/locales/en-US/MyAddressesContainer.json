@@ -46,6 +46,9 @@
             "delete": {
                 "tooltip": "Delete"
             }
+        },
+        "errors": {
+            "generic": "Unable to load other addresses. Please try again later or contact the CIDgravity team."
         }
     }
 }
