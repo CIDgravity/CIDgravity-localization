@@ -61,7 +61,8 @@
     },
     "notification": {
         "success": {
-            "onDeleteAddress": "Miner deleted successfully."
+            "onDeleteAddress": "Miner deleted successfully.",
+            "onRemoveAccess": "Access successfully removed."
         }
     }
 }
