@@ -20,7 +20,8 @@
             },
             "nok": {
                 "label": "Sync status",
-                "latestDate": "Last request received at {{datetime}}"
+                "latestDate": "Last request received at {{datetime}}",
+                "noLatestDate": "None"
             }
         }
     }
