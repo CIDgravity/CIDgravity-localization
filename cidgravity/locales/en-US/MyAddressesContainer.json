@@ -33,6 +33,15 @@
             },
             "friendlyName": {
                 "title": "Nickname"
+            },
+            "actorType": {
+                "title": "Actor type"
+            },
+            "longAddress": {
+                "title": "Long format address"
+            },
+            "access": {
+                "tooltip": "Permissions"
             }
         }
     }
