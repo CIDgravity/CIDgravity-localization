@@ -11,6 +11,11 @@
             "informEstuary": "Share miner acceptance criteria with Estuary in realtime"
         },
         "more": "More details",
-        "less": "Less details"
+        "less": "Less details",
+        "sync": {
+            "ok": {
+                "label": "Sync status"
+            }
+        }
     }
 }
