@@ -56,7 +56,8 @@
             "isAddressInvalidFormat": "{{address}} - this address type is not supported, use SECP256K1, ID or BLS address",
             "isPeerIdAlreadyAdded": "{{peerId}} already exists.",
             "isPeerIdAlreadyConfigured": "{{peerId}} already attached to a client.",
-            "isPeerIdInvalidFormat": "{{peerId}} is not a valid Peer ID."
+            "isPeerIdInvalidFormat": "{{peerId}} is not a valid Peer ID.",
+            "isAddressBlacklisted": "{{address}} is blacklisted, please whitelist it before associating it with a client."
         }
     }
 }
