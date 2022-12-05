@@ -6,6 +6,12 @@
             "empty": "No miner claimed.",
             "friendlyName": {
                 "title": "Nickname"
+            },
+            "addressId": {
+                "title": "Address ID"
+            },
+            "actorType": {
+                "title": "Actor type"
             }
         }
     }
