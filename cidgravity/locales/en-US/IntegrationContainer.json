@@ -23,6 +23,10 @@
                 "latestDate": "Last request received at {{datetime}}",
                 "noLatestDate": "None"
             }
+        },
+        "button": {
+            "info": "Info",
+            "connect": "Connect"
         }
     }
 }
