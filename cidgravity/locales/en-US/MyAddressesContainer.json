@@ -19,6 +19,12 @@
             "delete": {
                 "tooltip": "Delete"
             }
+        },
+        "error": {
+            "generic": "Unable to load miner addresses. Please try again later or contact the CIDgravity team."
         }
+    },
+    "otherAddress": {
+        "title": "Other addresses"
     }
 }
