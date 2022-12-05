@@ -26,7 +26,8 @@
         },
         "button": {
             "info": "Info",
-            "connect": "Connect"
+            "connect": "Connect",
+            "disconnect": "Disconnect"
         }
     }
 }
