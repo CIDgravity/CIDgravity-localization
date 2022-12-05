@@ -5,7 +5,8 @@
         "title": "Estuary",
         "subtitle": "Estuary allows users to store public data on IPFS and Filecoin through browser interface or by API.",
         "details": {
-            "opener": "Integrating Estuary with CIDgravity enables :"
+            "opener": "Integrating Estuary with CIDgravity enables :",
+            "registerMiner": "Automatically register this miner to Estuary and start accepting deals."
         }
     }
 }
