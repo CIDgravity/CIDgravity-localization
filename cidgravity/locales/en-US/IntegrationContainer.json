@@ -9,6 +9,8 @@
             "registerMiner": "Automatically register this miner to Estuary and start accepting deals",
             "setPublicName": "Set the miner public name on <1>estuary.tech</1>",
             "informEstuary": "Share miner acceptance criteria with Estuary in realtime"
-        }
+        },
+        "more": "More details",
+        "less": "Less details"
     }
 }
