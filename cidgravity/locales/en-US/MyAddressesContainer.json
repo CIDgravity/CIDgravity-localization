@@ -12,6 +12,9 @@
             },
             "actorType": {
                 "title": "Actor type"
+            },
+            "access": {
+                "tooltip": "Permissions"
             }
         }
     }
