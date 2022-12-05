@@ -14,7 +14,8 @@
         "less": "Less details",
         "sync": {
             "ok": {
-                "label": "Sync status"
+                "label": "Sync status",
+                "latestDate": "Last sync at {{datetime}}"
             }
         }
     }
