@@ -1,3 +1,6 @@
 {
-    "title": "Manage my addresses"
+    "title": "Manage my addresses",
+    "minerAddress": {
+        "title": "Miner addresses"
+    }
 }
