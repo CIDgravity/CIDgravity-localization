@@ -83,6 +83,7 @@
         "ERR_INVALID_SIGNATURE_FORMAT": "The signature can not be verified or is invalid",
         "ERR_INVALID_PRICING_MODEL": "The selected pricing model is invalid",
         "ERR_MINER_NOT_OWNED": "CIDgravity does not have the ability to administer this miner. Please reconnect the Estuary integration.",
-        "ERR_INVALID_INPUT": "The information provided is invalid."
+        "ERR_INVALID_INPUT": "The information provided is invalid.",
+        "ERR_RECORD_NOT_FOUND": "This miner was not found on Estuary."
     }
 }
