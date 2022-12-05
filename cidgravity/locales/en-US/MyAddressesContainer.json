@@ -53,7 +53,10 @@
     },
     "button": {
         "claimNewAddress": {
-            "label": "Claim a new address"
+            "label": "Claim a new address",
+            "tooltip": {
+                "onMaximumReached": "You have reached the maximum number of claimed addresses"
+            }
         }
     }
 }
