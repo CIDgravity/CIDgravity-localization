@@ -1,4 +1,7 @@
 {
     "title": "Integrations management",
-    "subtitle": "Configure deals acceptance criteria and settings directly from CIDgravity."
+    "subtitle": "Manage third-party deal provider integrations.",
+    "estuary": {
+        "title": "Estuary"
+    }
 }
