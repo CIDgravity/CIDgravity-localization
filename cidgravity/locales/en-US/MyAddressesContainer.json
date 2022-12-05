@@ -63,6 +63,9 @@
         "success": {
             "onDeleteAddress": "Miner deleted successfully.",
             "onRemoveAccess": "Access removed successfully."
+        },
+        "error": {
+            "onDeleteAddress": "Unable to delete address. Please try again later or contact the CIDgravity team."
         }
     }
 }
