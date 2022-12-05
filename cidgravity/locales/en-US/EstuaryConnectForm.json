@@ -86,6 +86,7 @@
         "ERR_INVALID_INPUT": "The information provided is invalid.",
         "ERR_RECORD_NOT_FOUND": "This miner was not found on Estuary.",
         "ERR_INVALID_MINER_CLAIM_SIG": "The signature is invalid (too short).",
-        "ERR_INVALID_MINER_CLAIM_NO_PEER_ID": "No peer ID found for this miner."
+        "ERR_INVALID_MINER_CLAIM_NO_PEER_ID": "No peer ID found for this miner.",
+        "ERR_INVALID_MINER_CLAIM_NO_MULTI_ADDR": "No multi-address found on-chain for this miner."
     }
 }
