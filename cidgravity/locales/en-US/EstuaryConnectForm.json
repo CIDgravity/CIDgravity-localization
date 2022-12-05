@@ -92,6 +92,7 @@
         "ERR_INVALID_MINER_CLAIM_POWER_BELOW_1TIB": "This miner does not meet the minimum power requirement (1TiB).",
         "ERR_INVALID_MINER_CLAIM_NO_ASK": "Unable to query storage-ask.",
         "ERR_INVALID_MINER_CLAIM_ASK_VERIFIED_PRICE_IS_NOT_ZERO": "Verified deal price must be zero.",
-        "ERR_INVALID_TIMEOUT_CONFIGURATION": "Estuary has encountered a configuration error. Please retry later or contact CIDgravity team."
+        "ERR_INVALID_TIMEOUT_CONFIGURATION": "Estuary has encountered a configuration error. Please retry later or contact CIDgravity team.",
+        "ERR_INVALID_ESTUARY_REQUEST": "Estuary has encountered an error. Please retry later or contact CIDgravity team."
     }
 }
