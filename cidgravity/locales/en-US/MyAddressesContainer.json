@@ -25,6 +25,9 @@
         }
     },
     "otherAddress": {
-        "title": "Other addresses"
+        "title": "Other addresses",
+        "table": {
+            "empty": "No address."
+        }
     }
 }
