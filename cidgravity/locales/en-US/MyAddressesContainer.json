@@ -1,6 +1,9 @@
 {
     "title": "Manage my addresses",
     "minerAddress": {
-        "title": "Miner addresses"
+        "title": "Miner addresses",
+        "table": {
+            "empty": "No miner claimed."
+        }
     }
 }
