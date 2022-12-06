@@ -27,7 +27,7 @@
     "otherAddress": {
         "title": "Other addresses",
         "table": {
-            "empty": "No addresses.",
+            "empty": "No addresses",
             "addressId": {
                 "title": "Address ID"
             },
