@@ -2,8 +2,8 @@
     "title": "Welcome to CIDgravity!",
     "subtitle": "To start enjoying CIDgravity you need to follow these 3 steps:",
     "step": {
-        "joinSlackCommunity": "1. If it's not already done, join our <1>Slack</1>",
-        "claimMiner": "",
+        "joinSlackCommunity": "1. Join our <1>Slack</1>",
+        "claimMiner": "2. Claim a miner",
         "deployTheConnector": ""
     },
     "button": {
