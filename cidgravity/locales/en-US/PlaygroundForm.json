@@ -21,5 +21,8 @@
             "GIB": "GiB"
         },
         "tooltip": "Deal size will be automatically rounded up to the next power of 2."
+    },
+    "verified": {
+        "label": "Verified*"
     }
 }
