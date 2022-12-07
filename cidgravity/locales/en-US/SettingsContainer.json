@@ -62,7 +62,10 @@
     },
     "notification": {
         "success": {
-            "onUpdateRateLimits": "Settings have been saved!"
+            "onUpdateRateLimits": "Settings have been saved!",
+            "onUpdateMaintenanceMode": {
+                "enabled": "Maintenance mode has been enabled, all deals will now be rejected."
+            }
         }
     }
 }
