@@ -25,7 +25,13 @@
             "cumulativeDealSize": {
                 "label": "Cumulative storage deal size per hour (GiB/h)",
                 "info": "Max cumulative storage deal size per hour across all clients"
+            },
+            "button": {
+                "save": "Save"
             }
         }
+    },
+    "other": {
+        "title": "Other settings"
     }
 }
