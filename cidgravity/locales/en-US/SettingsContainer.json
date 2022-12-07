@@ -34,7 +34,9 @@
     "other": {
         "title": "Other settings",
         "connector": {
-            "title": "CIDgravity connector"
+            "title": "CIDgravity connector",
+            "downloadLink": "Download the connector",
+            "info": "The \"CIDgravity connector\" connects a miner to the CIDgravity <br/> platform. This lightweight connector is executed locally by the lotus/boost <br/>each time a proposal is received."
         }
     }
 }
