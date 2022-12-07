@@ -24,10 +24,13 @@
             "tooltip": "Inspect the associated rule and client details"
         },
         "edit": {
-            "tooltip": "Edit the pricing model"
+            "tooltip": "Edit this pricing model"
         },
         "delete": {
             "tooltip": "Delete this pricing model"
+        },
+        "setToDefault": {
+            "tooltip": "Set this pricing model as default"
         }
     }
 }
