@@ -4,6 +4,7 @@
         "sendATest": "Send"
     },
     "fromAddress": {
-        "label": "From address *"
+        "label": "From address *",
+        "formatCreateLabel": "Select this address"
     }
 }
