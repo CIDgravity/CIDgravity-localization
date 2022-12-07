@@ -1,5 +1,6 @@
 {
     "button": {
-        "isSendingTest": "Processing…"
+        "isSendingTest": "Processing…",
+        "sendATest": "Send"
     }
 }
