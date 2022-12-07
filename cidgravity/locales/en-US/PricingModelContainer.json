@@ -46,5 +46,8 @@
     },
     "empty": {
         "title": "There are no pricing models under this miner. A default pricing model must be created to use CIDgravity."
+    },
+    "error": {
+        "generic": "Unable to load pricing models. Try in a few minutes or contact the CIDgravity team."
     }
 }
