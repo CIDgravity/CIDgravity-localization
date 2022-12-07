@@ -68,7 +68,8 @@
                 "disabled": "Maintenance mode has been disabled."
             },
             "onUpdateCustomMessage": "The custom message has been saved.",
-            "onUpdateFriendlyName": "The miner nickname has been updated."
+            "onUpdateFriendlyName": "The miner nickname has been updated.",
+            "onRegenerateConnectorToken": "Token has been regenerated."
         }
     }
 }
