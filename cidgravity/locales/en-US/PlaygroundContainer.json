@@ -30,6 +30,7 @@
         "isFromAddressMandatory": "From address is required",
         "isDurationOutsideLimits": "Duration must be between 180 and 548 days",
         "isProposalPieceSizeUnderLimit": "Deal size must be larger than 256B",
-        "isTestSuccessfullySent": "Test successfully processed"
+        "isTestSuccessfullySent": "Test successfully processed",
+        "isTestFailed": "An error occurred, please try again in a few minutes or contact the CIDgravity team."
     }
 }
