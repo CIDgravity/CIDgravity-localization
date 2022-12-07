@@ -50,6 +50,9 @@
                 "save": "Save"
             },
             "title": "Nickname"
+        },
+        "customMessage": {
+            "title": "Custom message"
         }
     }
 }
