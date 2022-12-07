@@ -1,4 +1,9 @@
 {
     "title": "Pricing model management",
-    "subtitle": "Pricing model can be attached to one or multiple clients."
+    "subtitle": "Pricing model can be attached to one or multiple clients.",
+    "table": {
+        "name": {
+            "title": "Name"
+        }
+    }
 }
