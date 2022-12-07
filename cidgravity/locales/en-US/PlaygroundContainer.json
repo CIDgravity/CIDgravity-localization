@@ -12,7 +12,8 @@
             "matchedPricing": "Rejected by {{pricingModel}} / Rule {{rule}}"
         },
         "loading": {
-            "title": "Awaiting result…"
+            "title": "Awaiting result…",
+            "description": "The proposal is being processed…"
         }
     }
 }
