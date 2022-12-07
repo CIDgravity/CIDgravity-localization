@@ -70,6 +70,10 @@
             "onUpdateCustomMessage": "The custom message has been saved.",
             "onUpdateFriendlyName": "The miner nickname has been updated.",
             "onRegenerateConnectorToken": "Token has been regenerated."
+        },
+        "error": {
+            "onUpdateRateLimits": "An error occurred, Please try again in a few minutes or contact the CIDgravity team.",
+            "onUpdateMaintenanceMode": "An error occurred saving the maintenance mode, Please try again in a few minutes or contact the CIDgravity team."
         }
     }
 }
