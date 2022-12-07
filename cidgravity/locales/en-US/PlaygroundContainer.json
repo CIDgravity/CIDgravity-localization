@@ -13,7 +13,7 @@
         },
         "loading": {
             "title": "Awaiting result…",
-            "description": "The proposal is being processed…"
+            "description": "The proposal is being processed, this page will update automatically…"
         }
     }
 }
