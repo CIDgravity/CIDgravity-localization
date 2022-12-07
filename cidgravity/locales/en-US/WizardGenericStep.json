@@ -1,6 +1,7 @@
 {
     "button": {
-        "next": "Next step",
-        "previous": "Previous"
+        "next": "Next",
+        "previous": "Previous",
+        "submit": "Submit"
     }
 }
