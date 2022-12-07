@@ -4,6 +4,9 @@
     "table": {
         "name": {
             "title": "Name"
+        },
+        "rule": {
+            "title": "Rules"
         }
     }
 }
