@@ -1,1 +1,5 @@
-{}
+{
+    "button": {
+        "isSendingTest": "Processing ..."
+    }
+}
