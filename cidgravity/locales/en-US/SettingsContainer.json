@@ -72,7 +72,7 @@
             "onRegenerateConnectorToken": "Token has been regenerated."
         },
         "error": {
-            "onUpdateRateLimits": "An error occurred updating the settings, Please try again in a few minutes or contact the CIDgravity team.",
+            "onUpdateRateLimits": "An error occurred updating settings, Please try again in a few minutes or contact the CIDgravity team.",
             "onUpdateMaintenanceMode": "An error occurred updating maintenance mode, Please try again in a few minutes or contact the CIDgravity team."
         }
     }
