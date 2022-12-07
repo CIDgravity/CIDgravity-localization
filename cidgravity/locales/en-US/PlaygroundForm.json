@@ -32,5 +32,9 @@
         "manualValue": "Manual",
         "graphsyncValue": "Graphsync",
         "httpValue": "Http"
+    },
+    "price": {
+        "label": "Price*",
+        "placeholder": "FIL / GiB / Epoch"
     }
 }
