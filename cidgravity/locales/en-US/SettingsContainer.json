@@ -52,7 +52,8 @@
             "title": "Nickname"
         },
         "customMessage": {
-            "title": "Custom message"
+            "title": "Custom message",
+            "info": "This message will be sent to the client whenever a deal is rejected."
         }
     }
 }
