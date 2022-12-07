@@ -36,5 +36,8 @@
     "price": {
         "label": "Price*",
         "placeholder": "FIL / GiB / Epoch"
+    },
+    "validation": {
+        "isPriceInvalidValue": "Please use Dot-decimal format."
     }
 }
