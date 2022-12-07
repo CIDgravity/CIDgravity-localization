@@ -38,6 +38,7 @@
         "placeholder": "FIL / GiB / Epoch"
     },
     "validation": {
-        "isPriceInvalidValue": "Please use Dot-decimal format."
+        "isPriceInvalidValue": "Please use Dot-decimal format.",
+        "isPriceMandatoryField": "Deal price is required."
     }
 }
