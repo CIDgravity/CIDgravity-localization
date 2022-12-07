@@ -1,5 +1,10 @@
 {
     "title": "Storage deal playground",
     "subtitle": "This page allows the sending of dummy proposals to the pricing engine based on the current CIDgravity configuration.",
-    "isLoadingProposal": "Loading deal proposal to simulate"
+    "isLoadingProposal": "Loading simulated deal proposal…",
+    "testResult": {
+        "success": {
+            "title": "Success!"
+        }
+    }
 }
