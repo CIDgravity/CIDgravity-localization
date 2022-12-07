@@ -1,6 +1,8 @@
 {
     "button": {
-        "close": "Cancel"
+        "close": "Cancel",
+        "apply_zero": "Apply"
     },
-    "header": "Apply changes"
+    "header": "Apply changes",
+    "body": "Apply whitelist/blacklist changes?"
 }
