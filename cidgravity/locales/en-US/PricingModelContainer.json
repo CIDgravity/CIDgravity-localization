@@ -25,6 +25,9 @@
         },
         "edit": {
             "tooltip": "Edit the pricing model"
+        },
+        "delete": {
+            "tooltip": "Delete this pricing model"
         }
     }
 }
