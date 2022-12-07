@@ -8,7 +8,8 @@
             "info": "When maintenance mode is activated, all incoming deal proposals (storage and retrieval) are rejected."
         },
         "unknownClient": {
-            "title": "Unknown clients"
+            "title": "Unknown clients",
+            "label": "Accept storage deals from unknown clients"
         }
     }
 }
