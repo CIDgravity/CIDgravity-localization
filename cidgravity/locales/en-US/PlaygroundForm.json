@@ -6,5 +6,8 @@
     "fromAddress": {
         "label": "From address*",
         "formatCreateLabel": "Select this address"
+    },
+    "dealDuration": {
+        "label": "Deal duration*"
     }
 }
