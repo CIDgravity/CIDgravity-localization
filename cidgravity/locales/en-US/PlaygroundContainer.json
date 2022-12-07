@@ -16,7 +16,11 @@
             "description": "The proposal is being processed, this page will update automatically…"
         },
         "waiting": {
-            "title": "Awaiting request"
+            "title": "Awaiting request",
+            "description": "Please complete the form"
+        },
+        "error": {
+            "title": "Bad request"
         }
     }
 }
