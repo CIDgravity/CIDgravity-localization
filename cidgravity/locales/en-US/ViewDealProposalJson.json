@@ -1,5 +1,6 @@
 {
     "button": {
-        "close": "Cancel"
-    }
+        "close": "Close"
+    },
+    "header": "Deal proposal content"
 }
