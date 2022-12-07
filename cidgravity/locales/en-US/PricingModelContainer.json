@@ -38,6 +38,9 @@
         "success": {
             "onUpdateDefaultPricingModel": "Default pricing model updated",
             "onDeletePricingModel": "Pricing model successfully deleted"
+        },
+        "error": {
+            "onUpdateDefaultPricingModel": "Unable to update default pricing model. Try in a few minutes or contact the CIDgravity team."
         }
     }
 }
