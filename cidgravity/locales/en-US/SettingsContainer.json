@@ -13,7 +13,10 @@
             "info": "When deactivated, all storage deals from unknown clients are rejected"
         },
         "rateLimit": {
-            "title": "Global rate limits"
+            "title": "Global rate limits",
+            "storageDealPerHour": {
+                "label": "Number of storage deals per hour"
+            }
         }
     }
 }
