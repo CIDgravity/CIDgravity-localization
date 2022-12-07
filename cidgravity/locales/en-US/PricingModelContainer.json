@@ -31,6 +31,12 @@
         },
         "setToDefault": {
             "tooltip": "Set this pricing model as default"
+        },
+        "defaultBadge": "DEFAULT"
+    },
+    "notification": {
+        "success": {
+            "onUpdateDefaultPricingModel": "Default pricing model updated"
         }
     }
 }
