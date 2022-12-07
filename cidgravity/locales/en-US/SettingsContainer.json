@@ -44,6 +44,12 @@
                 "regenerate": "Disable and regenerate the token",
                 "subtitle": "Add this api key to the CIDgravity connector deployed on the miner"
             }
+        },
+        "friendlyName": {
+            "button": {
+                "save": "Save"
+            },
+            "title": "Nickname"
         }
     }
 }
