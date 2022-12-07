@@ -23,5 +23,8 @@
             "title": "Bad request",
             "reason": "An error occurred during deal processing, please retry in a few minutes or contact the CIDgravity team."
         }
+    },
+    "validation": {
+        "isFromAddressNotSupported": "The \"from\" field should be a valid Filecoin address"
     }
 }
