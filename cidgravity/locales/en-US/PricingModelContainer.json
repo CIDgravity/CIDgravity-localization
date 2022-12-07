@@ -51,6 +51,9 @@
         "generic": "Unable to load pricing models. Try in a few minutes or contact the CIDgravity team."
     },
     "button": {
-        "new": "Create a new model"
+        "new": "Create a new model",
+        "empty": {
+            "new": "Create the default pricing model"
+        }
     }
 }
