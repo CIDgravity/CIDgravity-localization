@@ -1,3 +1,4 @@
 {
-    "title": "Storage deal playground"
+    "title": "Storage deal playground",
+    "subtitle": "This page allows you to send dummy proposals to the pricing engine based on your CIDGravity configuration."
 }
