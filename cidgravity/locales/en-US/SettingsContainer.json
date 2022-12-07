@@ -41,7 +41,8 @@
             "noMostRecentActivity": "No recent activity",
             "token": {
                 "title": "CIDgravity connector key",
-                "regenerate": "Disable and regenerate the token"
+                "regenerate": "Disable and regenerate the token",
+                "subtitle": "Add this api key to the CIDgravity connector deployed on the miner"
             }
         }
     }
