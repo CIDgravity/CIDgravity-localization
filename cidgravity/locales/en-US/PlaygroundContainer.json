@@ -8,7 +8,8 @@
             "matchedPricing": "Matched {{pricingModel}} / Rule {{rule}}"
         },
         "rejected": {
-            "title": "Proposal rejected"
+            "title": "Proposal rejected",
+            "matchedPricing": "Rejected by {{pricingModel}} / Rule {{rule}}"
         }
     }
 }
