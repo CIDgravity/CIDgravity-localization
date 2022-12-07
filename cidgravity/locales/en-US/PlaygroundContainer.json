@@ -28,9 +28,14 @@
         "isFromAddressNotSupported": "The \"from\" field should be a valid Filecoin address",
         "isPriceMandatory": "Price is required",
         "isFromAddressMandatory": "From address is required",
-        "isDurationOutsideLimits": "Duration must be between 180 and 548 days",
-        "isProposalPieceSizeUnderLimit": "Deal size must be larger than 256B",
-        "isTestSuccessfullySent": "Test successfully processed",
+        "isDurationOutsideLimits": "Duration must be between 180 and 548 days.",
+        "isProposalPieceSizeUnderLimit": "Deal size must be larger than 256B.",
+        "isTestSuccessfullySent": "Test successfully processed.",
         "isTestFailed": "An error occurred, please try again in a few minutes or contact the CIDgravity team."
+    },
+    "notification": {
+        "error": {
+            "isFromAddressNotSupported": "The \"from\" field must be a valid Filecoin address."
+        }
     }
 }
