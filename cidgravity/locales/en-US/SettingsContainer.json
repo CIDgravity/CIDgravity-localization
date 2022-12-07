@@ -23,7 +23,8 @@
                 "info": "Max number of retrieval deals per hour across all clients"
             },
             "cumulativeDealSize": {
-                "label": "Cumulative storage deal size per hour (GiB/h)"
+                "label": "Cumulative storage deal size per hour (GiB/h)",
+                "info": "Max cumulative storage deal size per hour across all clients"
             }
         }
     }
