@@ -19,6 +19,12 @@
             "content_few": "{{count}} clients associated",
             "content_many": "{{count}} clients associated",
             "content_other": "{{count}} clients associated"
+        },
+        "view": {
+            "tooltip": "Inspect the associated rule and client details"
+        },
+        "edit": {
+            "tooltip": "Edit the pricing model"
         }
     }
 }
