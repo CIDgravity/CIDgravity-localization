@@ -11,7 +11,8 @@
         },
         "client": {
             "title": "Clients",
-            "noContent": "None"
+            "noContent": "None",
+            "defaultContent": "Default pricing model"
         }
     }
 }
