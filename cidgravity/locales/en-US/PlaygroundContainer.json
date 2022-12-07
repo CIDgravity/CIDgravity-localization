@@ -6,6 +6,9 @@
         "success": {
             "title": "Success!",
             "matchedPricing": "Matched {{pricingModel}} / Rule {{rule}}"
+        },
+        "rejected": {
+            "title": "Proposal rejected"
         }
     }
 }
