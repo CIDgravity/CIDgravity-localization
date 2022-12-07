@@ -2,5 +2,8 @@
     "button": {
         "isSendingTest": "Processing…",
         "sendATest": "Send"
+    },
+    "fromAddress": {
+        "label": "From address *"
     }
 }
