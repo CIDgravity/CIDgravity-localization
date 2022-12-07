@@ -10,7 +10,8 @@
             "noContent": "None"
         },
         "client": {
-            "title": "Clients"
+            "title": "Clients",
+            "noContent": "None"
         }
     }
 }
