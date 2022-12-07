@@ -16,7 +16,9 @@
         "label": "Deal size*",
         "sizeUnits": {
             "B": "B",
-            "KIB": "KiB"
+            "KIB": "KiB",
+            "MIB": "MiB",
+            "GIB": "GiB"
         },
         "tooltip": "Deal size will be automatically rounded up to the next power of 2."
     }
