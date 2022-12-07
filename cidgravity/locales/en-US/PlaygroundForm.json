@@ -13,6 +13,6 @@
         "epochsValue": "Epochs"
     },
     "dealSize": {
-        "label": "Deal size *"
+        "label": "Deal size*"
     }
 }
