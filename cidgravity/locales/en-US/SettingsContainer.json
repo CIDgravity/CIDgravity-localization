@@ -74,7 +74,8 @@
         "error": {
             "onUpdateRateLimits": "An error occurred updating settings, Please try again in a few minutes or contact the CIDgravity team.",
             "onUpdateMaintenanceMode": "An error occurred updating maintenance mode, Please try again in a few minutes or contact the CIDgravity team.",
-            "onUpdateCustomMessage": "An error occurred updating custom message, Please try again in a few minutes or contact the CIDgravity team."
+            "onUpdateCustomMessage": "An error occurred updating custom message, Please try again in a few minutes or contact the CIDgravity team.",
+            "onUpdateFriendlyName": "An error occurred updating the miner nickname, Please try again in a few minutes or contact the CIDgravity team."
         }
     }
 }
