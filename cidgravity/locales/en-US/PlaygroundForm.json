@@ -11,5 +11,8 @@
         "label": "Deal duration*",
         "daysValue": "Days",
         "epochsValue": "Epochs"
+    },
+    "dealSize": {
+        "label": "Deal size *"
     }
 }
