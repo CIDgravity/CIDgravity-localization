@@ -67,7 +67,8 @@
                 "enabled": "Maintenance mode has been enabled, all deals will now be rejected.",
                 "disabled": "Maintenance mode has been disabled."
             },
-            "onUpdateCustomMessage": "The custom message has been saved."
+            "onUpdateCustomMessage": "The custom message has been saved.",
+            "onUpdateFriendlyName": "The miner nickname has been updated."
         }
     }
 }
