@@ -1,3 +1,4 @@
 {
-    "title": "Access forbidden"
+    "title": "Access forbidden",
+    "permissionDenied": "You do not have permission to access this resource."
 }
