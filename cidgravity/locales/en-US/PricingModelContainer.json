@@ -6,7 +6,8 @@
             "title": "Name"
         },
         "rule": {
-            "title": "Rules"
+            "title": "Rules",
+            "noContent": "None"
         }
     }
 }
