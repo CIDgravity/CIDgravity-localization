@@ -8,6 +8,9 @@
         "rule": {
             "title": "Rules",
             "noContent": "None"
+        },
+        "client": {
+            "title": "Clients"
         }
     }
 }
