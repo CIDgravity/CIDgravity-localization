@@ -1,4 +1,7 @@
 {
     "title": "Access forbidden",
-    "permissionDenied": "You do not have permission to access this resource."
+    "permissionDenied": "You do not have permission to access this resource.",
+    "button": {
+        "back": "Back"
+    }
 }
