@@ -8,6 +8,8 @@
         "formatCreateLabel": "Select this address"
     },
     "dealDuration": {
-        "label": "Deal duration*"
+        "label": "Deal duration*",
+        "daysValue": "Days",
+        "epochsValue": "Epochs"
     }
 }
