@@ -4,7 +4,8 @@
         "title": "Client settings",
         "maintenanceMode": {
             "title": "Maintenance mode",
-            "label": "Enable/disable maintenance mode"
+            "label": "Enable/disable maintenance mode",
+            "info": "When maintenance mode is activated, all incoming deal proposals (storage and retrieval) are rejected."
         }
     }
 }
