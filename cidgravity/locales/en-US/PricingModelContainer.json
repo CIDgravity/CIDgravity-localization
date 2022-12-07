@@ -36,7 +36,8 @@
     },
     "notification": {
         "success": {
-            "onUpdateDefaultPricingModel": "Default pricing model updated"
+            "onUpdateDefaultPricingModel": "Default pricing model updated",
+            "onDeletePricingModel": "Pricing model successfully deleted"
         }
     }
 }
