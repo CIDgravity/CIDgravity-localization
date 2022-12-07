@@ -26,5 +26,11 @@
         "label": "Verified*",
         "trueValue": "True",
         "falseValue": "False"
+    },
+    "transferType": {
+        "label": "Transfer type*",
+        "manualValue": "Manual",
+        "graphsyncValue": "Graphsync",
+        "httpValue": "Http"
     }
 }
