@@ -3,7 +3,8 @@
     "client": {
         "title": "Client settings",
         "maintenanceMode": {
-            "title": "Maintenance mode"
+            "title": "Maintenance mode",
+            "label": "Enable/disable maintenance mode"
         }
     }
 }
