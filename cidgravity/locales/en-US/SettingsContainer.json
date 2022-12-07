@@ -40,7 +40,8 @@
             "mostRecentActivity": "CIDgravity·connector version: {{version}} (last seen - {{datetime}})",
             "noMostRecentActivity": "No recent activity",
             "token": {
-                "title": "CIDgravity connector key"
+                "title": "CIDgravity connector key",
+                "regenerate": "Disable and regenerate a token"
             }
         }
     }
