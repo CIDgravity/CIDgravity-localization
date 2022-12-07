@@ -13,7 +13,10 @@
             "title": "Clients",
             "noContent": "None",
             "defaultContent": "Default pricing model",
-            "content_zero": "None"
+            "content_zero": "None",
+            "content_one": "{{count}} client associated",
+            "content_two": "{{count}} clients associated",
+            "content_few": "{{count}} clients associated"
         }
     }
 }
