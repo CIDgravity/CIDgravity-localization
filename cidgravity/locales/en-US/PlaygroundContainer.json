@@ -26,6 +26,6 @@
     },
     "validation": {
         "isFromAddressNotSupported": "The \"from\" field should be a valid Filecoin address",
-        "isPriceMandatory": "Price is emptu"
+        "isPriceMandatory": "Price is required"
     }
 }
