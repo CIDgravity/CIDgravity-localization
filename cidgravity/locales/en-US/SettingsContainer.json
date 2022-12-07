@@ -32,6 +32,9 @@
         }
     },
     "other": {
-        "title": "Other settings"
+        "title": "Other settings",
+        "connector": {
+            "title": "CIDgravity-X connector"
+        }
     }
 }
