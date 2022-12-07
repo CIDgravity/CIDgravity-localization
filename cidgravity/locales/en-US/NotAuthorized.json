@@ -2,6 +2,7 @@
     "title": "Access forbidden",
     "permissionDenied": "You do not have permission to access this resource.",
     "button": {
-        "back": "Back"
+        "back": "Back",
+        "claim": "Claim a new address"
     }
 }
