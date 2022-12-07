@@ -13,6 +13,11 @@
         "epochsValue": "Epochs"
     },
     "dealSize": {
-        "label": "Deal size*"
+        "label": "Deal size*",
+        "sizeUnits": {
+            "B": "B",
+            "KIB": "KiB"
+        },
+        "tooltip": "Deal size will be automatically rounded up to the next power of 2."
     }
 }
