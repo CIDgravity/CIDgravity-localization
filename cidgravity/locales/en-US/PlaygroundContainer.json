@@ -4,7 +4,8 @@
     "isLoadingProposal": "Loading simulated deal proposal…",
     "testResult": {
         "success": {
-            "title": "Success!"
+            "title": "Success!",
+            "matchedPricing": "Matched {{pricingModel}} / Rule {{rule}}"
         }
     }
 }
