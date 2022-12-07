@@ -27,6 +27,7 @@
     "validation": {
         "isFromAddressNotSupported": "The \"from\" field should be a valid Filecoin address",
         "isPriceMandatory": "Price is required",
-        "isFromAddressMandatory": "From address is required"
+        "isFromAddressMandatory": "From address is required",
+        "isDurationOutsideLimits": "Duration must be between 180 and 548 days"
     }
 }
