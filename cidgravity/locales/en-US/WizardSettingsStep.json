@@ -20,5 +20,8 @@
     "acceptDealsFromUnkownClientsField": {
         "label": "Accept storage deals from unknown clients",
         "tooltip": "When deactivated, all storage deals from unknown clients are rejected."
+    },
+    "validation": {
+        "isStorageDealsPerHourValidNumber": "Invalid number."
     }
 }
