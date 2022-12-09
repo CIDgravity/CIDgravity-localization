@@ -1,5 +1,8 @@
 {
     "button": {
         "goToDashboard": "Go to Dashboard"
+    },
+    "minerAlreadyClaimed": {
+        "title": "Successfully claimed {{address}}"
     }
 }
