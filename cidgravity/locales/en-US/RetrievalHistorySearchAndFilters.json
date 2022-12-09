@@ -1,1 +1,5 @@
-{}
+{
+    "inputSearch": {
+        "placeholder": "Search by address or proposal UID then press ENTER"
+    }
+}
