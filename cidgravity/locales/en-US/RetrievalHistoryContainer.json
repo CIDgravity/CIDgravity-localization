@@ -3,6 +3,9 @@
     "subtitle": "Log of all retrieval deal proposals received.",
     "table": {
         "empty": "Empty history",
-        "noMatch": "Your search did not match any retrieval proposals."
+        "noMatch": "Your search did not match any retrieval proposals.",
+        "from": {
+            "title": "From client"
+        }
     }
 }
