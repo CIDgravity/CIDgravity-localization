@@ -9,5 +9,8 @@
         "isAddressNotAStorageMiner": "This address is not a storage miner.",
         "isAddressAlreadyClaimed": "Address already claimed.",
         "isAddressInvalid": "Invalid address."
+    },
+    "claimAddressField": {
+        "placeholder": "fxxxxxx"
     }
 }
