@@ -3,6 +3,7 @@
     "step": {
         "start": "Start",
         "signMessage": "Sign message",
-        "friendlyName": "Nickname"
+        "friendlyName": "Nickname",
+        "importClientsAndPricing": "Import clients and pricing"
     }
 }
