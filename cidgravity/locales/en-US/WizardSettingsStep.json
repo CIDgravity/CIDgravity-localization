@@ -12,5 +12,8 @@
     "retrievalDealsPerHourField": {
         "label": "Retrieval deals per hour*",
         "tooltip": "Max number of retrieval deals per hour across all clients."
+    },
+    "customMessageField": {
+        "label": "Custom message"
     }
 }
