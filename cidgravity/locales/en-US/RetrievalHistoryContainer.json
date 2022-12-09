@@ -24,7 +24,7 @@
                 "tooltip": "Accepted"
             },
             "maintenance": {
-                "tooltip": "In maintenance"
+                "tooltip": "Under maintenance"
             }
         }
     }
