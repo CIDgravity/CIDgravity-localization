@@ -18,5 +18,10 @@
             "isSelectedElemAlreadyInBlacklist": "The Peer ID is already blacklisted",
             "isSelectedPeerIdInvalid": "Invalid Peer ID format"
         }
+    },
+    "notification": {
+        "success": {
+            "onApplyAcl": "successfully"
+        }
     }
 }
