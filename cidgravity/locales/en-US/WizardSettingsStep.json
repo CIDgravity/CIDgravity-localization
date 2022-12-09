@@ -10,6 +10,7 @@
         "tooltip": "Max cumulative deal size per hour for storage deals across all clients."
     },
     "retrievalDealsPerHourField": {
-        "label": "Retrieval deals per hour*"
+        "label": "Retrieval deals per hour*",
+        "tooltip": "Max number of retrieval deals per hour across all clients."
     }
 }
