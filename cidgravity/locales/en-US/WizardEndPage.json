@@ -7,7 +7,7 @@
     },
     "wizardComplete": {
         "title": "Completed",
-        "stepDeployConnector": "Step 2: Deploy CIDgravity-X connector on the miner",
+        "stepDeployConnector": "Step 2: Deploy CIDgravity connector on the miner",
         "connectorTokenExplanation": "CIDgravity connector token"
     }
 }
