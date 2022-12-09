@@ -28,7 +28,8 @@
                 "available": "Connection restored to CIDgravity."
             },
             "onEnableMaintenanceMode": "Maintenance mode activated, all deals for {{address}} will be rejected.",
-            "onDisableMaintenanceMode": "CIDgravity is now accepting deals based on {{address}} configuration"
+            "onDisableMaintenanceMode": "CIDgravity is now accepting deals based on {{address}} configuration.",
+            "onSwitchTenant": "Switched to {{address}}."
         }
     }
 }
