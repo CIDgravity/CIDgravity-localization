@@ -35,6 +35,9 @@
             },
             "reject": {
                 "tooltip": "Rejected"
+            },
+            "rateLimit": {
+                "tooltip": "Reject due to rate limit"
             }
         }
     }
