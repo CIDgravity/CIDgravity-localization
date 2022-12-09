@@ -3,5 +3,8 @@
         "next": ""
     },
     "title": "Claim a new address",
-    "subtitle": "Enter the address you wish to claim."
+    "subtitle": "Enter the address you wish to claim.",
+    "validation": {
+        "isAddressFieldMandatory": "This field is mandatory"
+    }
 }
