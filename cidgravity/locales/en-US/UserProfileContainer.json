@@ -7,5 +7,16 @@
             "isVerified": "Your email is verified",
             "isNotVerified": "Your email is not verified"
         }
+    },
+    "user": {
+        "email": {
+            "label": "Email"
+        },
+        "nickname": {
+            "label": "Nickname"
+        },
+        "userId": {
+            "label": "User ID"
+        }
     }
 }
