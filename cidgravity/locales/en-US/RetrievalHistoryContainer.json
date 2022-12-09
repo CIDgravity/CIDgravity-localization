@@ -28,6 +28,9 @@
             },
             "retrievalRateLimit": {
                 "tooltip": "Rate limit exceeded"
+            },
+            "acl": {
+                "tooltip": "Blacklisted"
             }
         }
     }
