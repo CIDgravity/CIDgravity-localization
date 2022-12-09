@@ -1,5 +1,5 @@
 {
-    "title": "Allow/Deny lists",
+    "title": "Allow/Deny lists management",
     "subtitle": "Manage blacklisting and whitelisting of client Peer IDs.",
     "error": {
         "unableToFetchClients": "An error occurred whilst retrieving the list elements. Please try again later or contact the CIDgravity team.",
