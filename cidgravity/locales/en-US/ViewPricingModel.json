@@ -8,7 +8,8 @@
         "type": {
             "label": "Deal type",
             "verified": {
-                "true": "Verified deals"
+                "true": "Verified deals",
+                "false": "Unverified deals"
             }
         }
     }
