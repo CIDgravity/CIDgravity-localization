@@ -1,5 +1,9 @@
 {
     "button": {
         "close": "Cancel"
+    },
+    "header": "{{pricingModelName}} ruleset",
+    "body": {
+        "position": "Rule {{position}}"
     }
 }
