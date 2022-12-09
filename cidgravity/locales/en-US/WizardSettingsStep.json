@@ -22,6 +22,7 @@
         "tooltip": "When deactivated, all storage deals from unknown clients are rejected."
     },
     "validation": {
-        "isStorageDealsPerHourValidNumber": "Invalid number."
+        "isStorageDealsPerHourValidNumber": "Invalid number.",
+        "isStorageDealsPerHourPositiveNumber": "Must be a positive positive."
     }
 }
