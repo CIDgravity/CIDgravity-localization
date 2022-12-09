@@ -18,6 +18,7 @@
         "tooltip": "This message will be sent to the client when a deal is rejected"
     },
     "acceptDealsFromUnkownClientsField": {
-        "label": "Accept storage deals from unknown clients"
+        "label": "Accept storage deals from unknown clients",
+        "tooltip": "When deactivated, all storage deals from unknown clients are rejected."
     }
 }
