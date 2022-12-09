@@ -1,5 +1,5 @@
 {
     "whitelist": {
-        "header": "Confirm replacement from blacklist"
+        "header": "Confirm switching to whitelist"
     }
 }
