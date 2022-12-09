@@ -2,6 +2,7 @@
     "title": "Retrieval history",
     "subtitle": "Log of all retrieval deal proposals received.",
     "table": {
-        "empty": "Empty history"
+        "empty": "Empty history",
+        "noMatch": "Your search did not match any retrieval proposals."
     }
 }
