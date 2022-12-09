@@ -1,6 +1,9 @@
 {
     "button": {
-        "close": "Cancel"
+        "close": "Cancel",
+        "apply_zero": "Apply",
+        "apply_one": "Apply {{count}} change",
+        "apply_two": "Apply {{count}} changes"
     },
     "header": "WARNING: EMPTY WHITELIST!",
     "body": "You are about to activate an empty whitelist: CIDgravity will reject all deals. Do you wish to continue?"
