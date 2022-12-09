@@ -11,6 +11,6 @@
         "isAddressInvalid": "Invalid address."
     },
     "claimAddressField": {
-        "placeholder": "fxxxxxx"
+        "placeholder": "f0xxxxx"
     }
 }
