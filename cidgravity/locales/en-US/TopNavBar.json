@@ -3,5 +3,10 @@
         "retrievingPrice": "Retrieving price…",
         "retrievingBaseFee": "Retrieving base fee…",
         "baseFee": "Base Fee"
+    },
+    "maintenanceMode": {
+        "switch": {
+            "tooltipEnabled": "Maintenance mode activated, all deals for {{address}} will be rejected"
+        }
     }
 }
