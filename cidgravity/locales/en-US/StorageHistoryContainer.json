@@ -45,6 +45,12 @@
             "invalidProposalOrError": {
                 "tooltip": "Invalid proposal"
             }
+        },
+        "internalMessage": {
+            "empty": "None"
         }
+    },
+    "error": {
+        "generic": "Unable to load data"
     }
 }
