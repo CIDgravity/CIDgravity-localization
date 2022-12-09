@@ -7,6 +7,6 @@
         "yesOption": "Yes"
     },
     "addressSelect": {
-        "placeholder": "Select the address to import data from"
+        "placeholder": "Select the source address to import configuration from"
     }
 }
