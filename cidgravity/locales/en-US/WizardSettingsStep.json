@@ -23,6 +23,6 @@
     },
     "validation": {
         "isStorageDealsPerHourValidNumber": "Invalid number.",
-        "isStorageDealsPerHourPositiveNumber": "Must be a positive positive."
+        "isStorageDealsPerHourPositiveNumber": "Must be a positive number."
     }
 }
