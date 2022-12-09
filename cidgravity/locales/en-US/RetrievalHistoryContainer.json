@@ -9,6 +9,9 @@
             "copy": {
                 "tooltip": "Copy Peer ID"
             }
+        },
+        "datetime": {
+            "title": "Received at ({{datetimeFormat}})"
         }
     }
 }
