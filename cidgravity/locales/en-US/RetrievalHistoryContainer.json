@@ -14,7 +14,7 @@
             "title": "Received at ({{datetimeFormat}})"
         },
         "reason": {
-            "title": "Reason"
+            "title": "Result"
         }
     }
 }
