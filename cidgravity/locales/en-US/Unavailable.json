@@ -4,7 +4,8 @@
     "action": "Please try reloading this page or contact the CIDgravity team.<br /><br />{{errorMessage}}",
     "button": {
         "email": {
-            "label": "Report by email"
+            "label": "Report by email",
+            "subject": "[ALERT] CIDgravity is currently unavailable"
         }
     }
 }
