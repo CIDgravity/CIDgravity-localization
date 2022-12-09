@@ -15,6 +15,10 @@
         "whitelist": {
             "confirm": "Confirm",
             "cancel": "Cancel"
+        },
+        "blacklist": {
+            "confirm": "Confirm",
+            "cancel": "Cancel"
         }
     }
 }
