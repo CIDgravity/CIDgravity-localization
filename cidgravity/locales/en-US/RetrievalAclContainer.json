@@ -4,6 +4,7 @@
     "error": {
         "unableToFetchClients": "An error occurred whilst retrieving the list elements. Please try again later or contact the CIDgravity team.",
         "unableToFetchCurrentBehavior": "An error occurred whilst displaying the list elements. Please try again later or contact the CIDgravity team.",
-        "unableToFetchWhitelist": "An error occurred whilst retrieving the whitelist elements. Please try again later or contact the CIDgravity team."
+        "unableToFetchWhitelist": "An error occurred whilst retrieving the whitelist elements. Please try again later or contact the CIDgravity team.",
+        "unableToFetchBlacklist": "An error occurred whilst retrieving the blacklist elements. Please try again later or contact the CIDgravity team."
     }
 }
