@@ -34,6 +34,9 @@
         "error": {
             "onCheckNetwork": {
                 "lost": "No connection to CIDgravity."
+            },
+            "onFirstNetworkConnection": {
+                "lost": "No connection to CIDgravity."
             }
         }
     }
