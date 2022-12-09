@@ -5,6 +5,7 @@
         "signMessage": "Sign message",
         "friendlyName": "Nickname",
         "importClientsAndPricing": "Import clients and pricing",
-        "complete": "Complete"
+        "complete": "Complete",
+        "settings": "Settings"
     }
 }
