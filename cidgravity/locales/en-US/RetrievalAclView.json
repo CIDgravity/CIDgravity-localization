@@ -15,6 +15,12 @@
                 "content_few": "{{count}} Peer IDs",
                 "content_many": "{{count}} Peer IDs",
                 "content_other": "{{count}} Peer IDs"
+            },
+            "client": {
+                "title": "Client"
+            },
+            "comment": {
+                "title": "Comment"
             }
         }
     }
