@@ -3,6 +3,7 @@
     "subtitle": "Because you have already claimed another addresses, you can import configuration from one of them.",
     "doYouWantToImportRadio": {
         "label": "Do you want to import from another address?",
-        "noOption": "No (default pricing model will be created)"
+        "noOption": "No (default pricing model will be created)",
+        "yesOption": "Yes"
     }
 }
