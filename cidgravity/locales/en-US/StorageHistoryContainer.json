@@ -32,6 +32,9 @@
             },
             "blacklist": {
                 "tooltip": "Address blacklisted"
+            },
+            "reject": {
+                "tooltip": "Rejected"
             }
         }
     }
