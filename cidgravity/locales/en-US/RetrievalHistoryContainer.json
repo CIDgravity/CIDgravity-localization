@@ -12,6 +12,9 @@
         },
         "datetime": {
             "title": "Received at ({{datetimeFormat}})"
+        },
+        "reason": {
+            "title": "Reason"
         }
     }
 }
