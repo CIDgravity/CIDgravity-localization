@@ -8,5 +8,8 @@
     "cumulativeDealSizeForStorageField": {
         "label": "Cumulative storage deal size per hour (GiB)*",
         "tooltip": "Max cumulative deal size per hour for storage deals across all clients."
+    },
+    "retrievalDealsPerHourField": {
+        "label": "Retrieval deals per hour*"
     }
 }
