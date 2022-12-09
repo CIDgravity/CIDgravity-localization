@@ -26,5 +26,9 @@
                 "title": "Action"
             }
         }
+    },
+    "whitelist": {
+        "title": "Whitelist",
+        "subtitle": "CIDgravity will reject all deals by default and apply the following whitelist:"
     }
 }
