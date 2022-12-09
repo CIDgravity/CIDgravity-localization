@@ -4,7 +4,8 @@
         "previous": "Previous"
     },
     "error": {
-        "isUnableToCheckSignature": "Unable to verify your signed message"
+        "isUnableToCheckSignature": "Unable to verify your signed message",
+        "isUnableToGenerateChallenge": "Something wrong while generating a challenge to sign"
     },
     "validation": {
         "isSignatureInvalid": "Invalid signature",
