@@ -26,5 +26,11 @@
         "error": {
             "onApplyAcl": "Unable to apply changes. Please try again later or contact the CIDgravity team."
         }
+    },
+    "prompt": {
+        "onLeavingWithUnsavedChanges": "There are unsaved changes. Are you sure you want to leave this page?"
+    },
+    "button": {
+        "apply_zero": "Apply"
     }
 }
