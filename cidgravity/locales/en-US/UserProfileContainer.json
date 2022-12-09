@@ -18,5 +18,8 @@
         "userId": {
             "label": "User ID"
         }
+    },
+    "error": {
+        "unableToFetchUserDetails": "Unable to retrieve your account details. Please try again later or contact the CIDgravity team."
     }
 }
