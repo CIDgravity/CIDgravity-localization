@@ -30,7 +30,7 @@
                 "tooltip": "Rate limit exceeded"
             },
             "acl": {
-                "tooltip": "Blacklisted"
+                "tooltip": "Rejected by whitelist/blacklist"
             }
         }
     }
