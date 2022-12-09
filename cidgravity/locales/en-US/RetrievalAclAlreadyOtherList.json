@@ -5,6 +5,16 @@
     },
     "blacklist": {
         "header": "Confirm switching to blacklist",
-        "body": "{{elementLabel}} is already whitelisted. Confirm switching to blacklist?"
+        "body": "{{elementLabel}} is already whitelisted. Confirm switching to blacklist?",
+        "button": {
+            "confirm": "Confirm",
+            "cancel": "Cancel"
+        }
+    },
+    "button": {
+        "whitelist": {
+            "confirm": "Confirm",
+            "cancel": "Cancel"
+        }
     }
 }
