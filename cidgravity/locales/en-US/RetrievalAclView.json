@@ -34,7 +34,7 @@
             "empty": "No records",
             "peerId": {
                 "title": "Peer ID",
-                "content_zero": "No Peer ID"
+                "content_zero": "No Peer IDs"
             }
         }
     }
