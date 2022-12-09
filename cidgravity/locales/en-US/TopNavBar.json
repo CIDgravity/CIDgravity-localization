@@ -18,5 +18,12 @@
         "account": "My account",
         "addresses": "My addresses",
         "logout": "Sign out"
+    },
+    "notification": {
+        "success": {
+            "onCheckNetwork": {
+                "restored": "Connection restored to CIDgravity"
+            }
+        }
     }
 }
