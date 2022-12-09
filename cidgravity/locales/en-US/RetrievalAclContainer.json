@@ -22,6 +22,9 @@
     "notification": {
         "success": {
             "onApplyAcl": "Successfully applied"
+        },
+        "error": {
+            "onApplyAcl": "Unable to apply the changes. Try later or reach out to CIDgravity team"
         }
     }
 }
