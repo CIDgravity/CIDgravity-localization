@@ -9,6 +9,8 @@
     "status": {
         "placeholder": "Deal status",
         "all": "All",
-        "accept": "Accepted"
+        "accept": "Accepted",
+        "retrievalRateLimit": "Rate limit exceeded",
+        "maintenance": "Under maintenance"
     }
 }
