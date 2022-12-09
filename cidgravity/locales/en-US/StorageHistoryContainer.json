@@ -10,6 +10,9 @@
             "copy": {
                 "tooltip": "Copy address"
             }
+        },
+        "datetime": {
+            "title": "Received at ({{datetimeFormat}})"
         }
     }
 }
