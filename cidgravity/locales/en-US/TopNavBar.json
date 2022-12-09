@@ -26,7 +26,8 @@
             },
             "onFirstNetworkConnection": {
                 "available": "Connection restored to CIDgravity."
-            }
+            },
+            "onEnableMaintenanceMode": "Maintenance mode activated, all deals for {{address}} will be rejected."
         }
     }
 }
