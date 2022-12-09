@@ -1,3 +1,7 @@
 {
-    "title": "Claim miner {{address}}"
+    "title": "Claim miner {{address}}",
+    "step": {
+        "start": "Start",
+        "signMessage": "Sign message"
+    }
 }
