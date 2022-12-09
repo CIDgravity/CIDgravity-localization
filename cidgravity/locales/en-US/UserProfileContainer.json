@@ -1,3 +1,6 @@
 {
-    "title": "Manage my account"
+    "title": "Manage my account",
+    "profile": {
+        "connectionStatus": "Connected as {{name}}"
+    }
 }
