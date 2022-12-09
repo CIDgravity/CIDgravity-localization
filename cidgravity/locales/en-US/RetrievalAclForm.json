@@ -2,7 +2,8 @@
     "blacklist": {
         "title": "Add a Peer ID",
         "elementToSelect": {
-            "label": "Peer ID or client name*"
+            "label": "Peer ID or client name*",
+            "placeholder": "Select…"
         }
     }
 }
