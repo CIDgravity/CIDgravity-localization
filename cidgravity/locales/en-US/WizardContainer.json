@@ -2,6 +2,7 @@
     "title": "Claim miner {{address}}",
     "step": {
         "start": "Start",
-        "signMessage": "Sign message"
+        "signMessage": "Sign message",
+        "friendlyName": "Nickname"
     }
 }
