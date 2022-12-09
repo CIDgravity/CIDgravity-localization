@@ -15,6 +15,12 @@
         },
         "price": {
             "label": "Price/GiB/Epoch"
+        },
+        "size": {
+            "label": "Min/max deal size"
+        },
+        "duration": {
+            "label": "Min/max deal duration"
         }
     }
 }
