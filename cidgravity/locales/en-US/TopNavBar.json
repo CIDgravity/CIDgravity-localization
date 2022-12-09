@@ -22,7 +22,10 @@
     "notification": {
         "success": {
             "onCheckNetwork": {
-                "restored": "Connection restored to CIDgravity"
+                "restored": "Connection restored to CIDgravity."
+            },
+            "onFirstNetworkConnection": {
+                "available": "Connection restored to CIDgravity."
             }
         }
     }
