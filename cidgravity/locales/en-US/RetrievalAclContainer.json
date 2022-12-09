@@ -13,7 +13,8 @@
             "isSelectedElemEmpty": "This field is mandatory"
         },
         "blacklist": {
-            "isSelectedElemEmpty": "This field is mandatory"
+            "isSelectedElemEmpty": "This field is mandatory",
+            "isSelectedElemAlreadyInBlacklist": "The Peer ID is already blacklisted"
         }
     }
 }
