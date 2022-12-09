@@ -16,6 +16,9 @@
         },
         "reason": {
             "title": "Result"
+        },
+        "inspect": {
+            "tooltip": "Inspect deal proposal"
         }
     }
 }
