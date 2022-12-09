@@ -4,7 +4,7 @@
         "previous": "Previous"
     },
     "error": {
-        "isUnableToCheckSignature": "Unable to verify your signed message",
+        "isUnableToCheckSignature": "Unable to verify the signed message",
         "isUnableToGenerateChallenge": "An error occurred whilst generating the challenge to sign. Please try again later or contact the CIDgravity team."
     },
     "validation": {
