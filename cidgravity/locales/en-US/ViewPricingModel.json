@@ -4,6 +4,9 @@
     },
     "header": "{{pricingModelName}} ruleset",
     "body": {
-        "position": "Rule {{position}}"
+        "position": "Rule {{position}}",
+        "type": {
+            "label": "Deal type"
+        }
     }
 }
