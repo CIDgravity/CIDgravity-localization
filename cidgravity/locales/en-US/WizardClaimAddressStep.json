@@ -2,5 +2,6 @@
     "button": {
         "next": ""
     },
-    "title": "Claim a new address"
+    "title": "Claim a new address",
+    "subtitle": "Enter the address you wish to claim."
 }
