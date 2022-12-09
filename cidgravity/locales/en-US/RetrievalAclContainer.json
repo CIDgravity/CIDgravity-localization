@@ -21,7 +21,7 @@
     },
     "notification": {
         "success": {
-            "onApplyAcl": "successfully"
+            "onApplyAcl": "Successfully applied"
         }
     }
 }
