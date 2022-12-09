@@ -1,4 +1,7 @@
 {
     "title": "Global settings configuration",
-    "subtitle": "These settings allows configuration of deal acceptance criteria."
+    "subtitle": "These settings allows configuration of deal acceptance criteria.",
+    "numberOfStorageDealsPerHourField": {
+        "label": "Number of storage deals per hour*"
+    }
 }
