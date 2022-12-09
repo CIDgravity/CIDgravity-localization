@@ -2,6 +2,7 @@
     "title": "Allow/Deny lists management",
     "subtitle": "Manage blacklisting and whitelisting of client Peer IDs.",
     "blacklist": {
-        "title": "Blacklist"
+        "title": "Blacklist",
+        "subtitle": "CIDgravity will accept all deals by default and apply the following blacklist:"
     }
 }
