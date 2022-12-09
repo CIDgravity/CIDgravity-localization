@@ -13,7 +13,8 @@
     "whitelist": {
         "elementToSelect": {
             "label": "Peer ID or client name*",
-            "placeholder": "Select…"
+            "placeholder": "Select…",
+            "formatCreateLabel": "Select this Peer ID"
         },
         "title": "Add a Peer ID or a client"
     }
