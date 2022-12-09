@@ -5,5 +5,8 @@
     "dateRangePicker": {
         "startDatePlaceholderText": "From ({{dateFormat}})",
         "endDatePlaceholderText": "To ({{dateFormat}})"
+    },
+    "status": {
+        "placeholder": "Deal status"
     }
 }
