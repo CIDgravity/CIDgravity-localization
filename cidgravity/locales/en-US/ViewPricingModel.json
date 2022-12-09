@@ -29,7 +29,10 @@
             "na": "<0>Fallback to default pricing model: </0> <1>Not applicable</1>"
         },
         "client": {
-            "title": "Associated clients"
+            "title": "Associated clients",
+            "pricing": {
+                "default": "All clients will be impacted, this is the default pricing model."
+            }
         }
     }
 }
