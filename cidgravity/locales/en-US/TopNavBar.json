@@ -13,5 +13,10 @@
     "tenantSelector": {
         "noAddress": "No address",
         "noAddressSelected": "No address selected"
+    },
+    "userDropdownMenu": {
+        "account": "My account",
+        "addresses": "My addresses",
+        "logout": "Sign out"
     }
 }
