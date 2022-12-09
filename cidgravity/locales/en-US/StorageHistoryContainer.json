@@ -38,6 +38,9 @@
             },
             "rateLimit": {
                 "tooltip": "Rejected due to rate limit"
+            },
+            "sizeRateLimit": {
+                "tooltip": "Rejected due to deal size limit"
             }
         }
     }
