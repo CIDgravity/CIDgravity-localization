@@ -37,7 +37,8 @@
             },
             "onFirstNetworkConnection": {
                 "lost": "No connection to CIDgravity."
-            }
+            },
+            "onErrorMaintenanceMode": "Unable to change maintenance mode for {{address}}. Please try again later or contact the CIDgravity team."
         }
     }
 }
