@@ -12,5 +12,6 @@
     },
     "putSignedMessageStep": {
         "label": ""
-    }
+    },
+    "title": "Sign message to claim this address"
 }
