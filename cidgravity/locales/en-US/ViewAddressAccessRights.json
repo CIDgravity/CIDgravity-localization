@@ -7,7 +7,8 @@
         "table": {
             "email": "Email",
             "profile": "Profile picture",
-            "nickname": "Nickname"
+            "nickname": "Nickname",
+            "action": "Actions"
         }
     }
 }
