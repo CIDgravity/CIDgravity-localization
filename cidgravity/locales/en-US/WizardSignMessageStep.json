@@ -13,5 +13,6 @@
     "putSignedMessageStep": {
         "label": ""
     },
-    "title": "Sign message to claim this address"
+    "title": "Sign message to claim this address",
+    "subtitle": "This allows CIDgravity to verify required permissions."
 }
