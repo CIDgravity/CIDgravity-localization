@@ -1,6 +1,6 @@
 {
     "button": {
-        "close": "Cancel"
+        "close": "Close"
     },
     "header": "Access rights for {{addressId}}",
     "body": {
