@@ -1,5 +1,8 @@
 {
     "blacklist": {
-        "title": "Add a Peer ID"
+        "title": "Add a Peer ID",
+        "elementToSelect": {
+            "label": "Peer ID or client name*"
+        }
     }
 }
