@@ -3,7 +3,11 @@
         "title": "Add a Peer ID",
         "elementToSelect": {
             "label": "Peer ID or client name*",
-            "placeholder": "Select…"
+            "placeholder": "Select…",
+            "formatCreateLabel": "Select this Peer ID"
+        },
+        "comment": {
+            "label": "Comment"
         }
     }
 }
