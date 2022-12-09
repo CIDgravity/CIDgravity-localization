@@ -25,6 +25,8 @@
         "isStorageDealsPerHourValidNumber": "Invalid number.",
         "isStorageDealsPerHourPositiveNumber": "Must be a positive number.",
         "isStorageDealsPerHourInteger": "Must be an integer.",
-        "isStorageDealsPerHourMandatory": "This field is mandatory."
+        "isStorageDealsPerHourMandatory": "This field is mandatory.",
+        "isDealSizePositiveNumber": "Must be a positive number.",
+        "isDealSizeValidNumber": "This field is mandatory."
     }
 }
