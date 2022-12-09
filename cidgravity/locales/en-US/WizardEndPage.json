@@ -6,6 +6,7 @@
         "title": "Successfully claimed {{address}}"
     },
     "wizardComplete": {
-        "title": "Completed"
+        "title": "Completed",
+        "stepDeployConnector": "Step 2: Deploy CIDgravity-X connector on the miner"
     }
 }
