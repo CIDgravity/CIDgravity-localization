@@ -6,7 +6,10 @@
     "body": {
         "position": "Rule {{position}}",
         "type": {
-            "label": "Deal type"
+            "label": "Deal type",
+            "verified": {
+                "true": "Verified deals"
+            }
         }
     }
 }
