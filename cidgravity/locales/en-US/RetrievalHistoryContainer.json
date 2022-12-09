@@ -25,6 +25,9 @@
             },
             "maintenance": {
                 "tooltip": "Under maintenance"
+            },
+            "retrievalRateLimit": {
+                "tooltip": "Rate limit exceeded"
             }
         }
     }
