@@ -1,5 +1,5 @@
 {
-    "subtitle": "This information will allow you to quickly identify the miner",
+    "subtitle": "This information will allow you to quickly identify the miner within the interface.",
     "defaultFriendlyName": "{{userNickname}}'s super miner",
     "title": "Set a miner Nickname*"
 }
