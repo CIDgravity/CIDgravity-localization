@@ -1,3 +1,4 @@
 {
-    "title": "Allow/Deny lists"
+    "title": "Allow/Deny lists",
+    "subtitle": "Manage blacklisting and whitelisting of client Peer IDs."
 }
