@@ -1,4 +1,7 @@
 {
     "title": "Retrieval history",
-    "subtitle": "Log of all retrieval deal proposals received."
+    "subtitle": "Log of all retrieval deal proposals received.",
+    "table": {
+        "empty": "Empty history"
+    }
 }
