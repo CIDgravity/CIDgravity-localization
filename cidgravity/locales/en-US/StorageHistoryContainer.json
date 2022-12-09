@@ -51,6 +51,6 @@
         }
     },
     "error": {
-        "generic": "Unable to load data"
+        "generic": "Unable to load data. Please try again later or contact the CIDgravity team."
     }
 }
