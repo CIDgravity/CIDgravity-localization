@@ -11,6 +11,7 @@
         "all": "All",
         "accept": "Accepted",
         "retrievalRateLimit": "Rate limit exceeded",
-        "maintenance": "Under maintenance"
+        "maintenance": "Under maintenance",
+        "acl": "Whitelist / Blacklist"
     }
 }
