@@ -31,7 +31,8 @@
         "client": {
             "title": "Associated clients",
             "pricing": {
-                "default": "All clients will be impacted, this is the default pricing model."
+                "default": "All clients will be impacted, this is the default pricing model.",
+                "noClient": "No clients are associated with this pricing model."
             }
         }
     }
