@@ -1,5 +1,6 @@
 {
     "validation": {
-        "isAddressLimitReached": "Address claim limit reached, unlink an address from your account to claim a new one."
+        "isAddressLimitReached": "Address claim limit reached, unlink an address from your account to claim a new one.",
+        "isAddressAlreadyClaimed": "Address already claimed"
     }
 }
