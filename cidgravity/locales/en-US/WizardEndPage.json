@@ -1,6 +1,7 @@
 {
     "button": {
-        "goToDashboard": "Go to Dashboard"
+        "goToDashboard": "Go to Dashboard",
+        "configureIntegrations": "Configure integrations (Optional)"
     },
     "minerAlreadyClaimed": {
         "title": "Successfully claimed {{address}}"
@@ -8,6 +9,7 @@
     "wizardComplete": {
         "title": "Completed",
         "stepDeployConnector": "Step 2: Deploy CIDgravity connector on the miner",
-        "connectorTokenExplanation": "CIDgravity connector token"
+        "connectorTokenExplanation": "CIDgravity connector token",
+        "stepConfigureIntegrations": "Step 3: Configure integrations (Optional)"
     }
 }
