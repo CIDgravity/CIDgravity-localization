@@ -4,6 +4,7 @@
         "start": "Start",
         "signMessage": "Sign message",
         "friendlyName": "Nickname",
-        "importClientsAndPricing": "Import clients and pricing"
+        "importClientsAndPricing": "Import clients and pricing",
+        "complete": "Complete"
     }
 }
