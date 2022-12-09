@@ -5,7 +5,7 @@
     },
     "error": {
         "isUnableToCheckSignature": "Unable to verify your signed message",
-        "isUnableToGenerateChallenge": "Something wrong while generating a challenge to sign"
+        "isUnableToGenerateChallenge": "An error occurred whilst generating the challenge to sign. Please try again later or contact the CIDgravity team."
     },
     "validation": {
         "isSignatureInvalid": "Invalid signature",
