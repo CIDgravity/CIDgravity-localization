@@ -5,7 +5,7 @@
     "header": "Access rights for {{addressId}}",
     "body": {
         "table": {
-            "email": "Email address",
+            "email": "Email",
             "profile": "Profile picture",
             "nickname": "Nickname"
         }
