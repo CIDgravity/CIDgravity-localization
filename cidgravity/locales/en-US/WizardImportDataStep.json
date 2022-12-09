@@ -5,5 +5,8 @@
         "label": "Do you want to import from another address?",
         "noOption": "No (default pricing model will be created)",
         "yesOption": "Yes"
+    },
+    "addressSelect": {
+        "placeholder": "Select the address to import data from"
     }
 }
