@@ -26,6 +26,12 @@
         "internalDecision": {
             "accept": {
                 "tooltip": "Accepted"
+            },
+            "maintenance": {
+                "tooltip": "Under maintenance"
+            },
+            "blacklist": {
+                "tooltip": "Address blacklisted"
             }
         }
     }
