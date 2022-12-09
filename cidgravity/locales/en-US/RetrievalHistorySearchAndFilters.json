@@ -8,6 +8,7 @@
     },
     "status": {
         "placeholder": "Deal status",
-        "all": "All"
+        "all": "All",
+        "accept": "Accepted"
     }
 }
