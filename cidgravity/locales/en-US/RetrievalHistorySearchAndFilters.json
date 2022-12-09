@@ -1,5 +1,8 @@
 {
     "inputSearch": {
-        "placeholder": "Search by address or proposal UID then press ENTER"
+        "placeholder": "Search by client Peer ID or proposal UID then press ENTER"
+    },
+    "dateRangePicker": {
+        "startDatePlaceholderText": "From ({{dateFormat}})"
     }
 }
