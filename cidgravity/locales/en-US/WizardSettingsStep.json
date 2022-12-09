@@ -3,6 +3,6 @@
     "subtitle": "These settings allows configuration of deal acceptance criteria.",
     "numberOfStorageDealsPerHourField": {
         "label": "Number of storage deals per hour*",
-        "tooltip": "Max number of storage deals per hour accross all clients."
+        "tooltip": "Max number of storage deals per hour across all clients."
     }
 }
