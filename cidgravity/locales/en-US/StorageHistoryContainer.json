@@ -2,6 +2,7 @@
     "title": "Storage history",
     "subtitle": "Logs of all storage deal proposals received.",
     "table": {
-        "empty": "No records"
+        "empty": "No records",
+        "noMatch": "Your search did not match any storage proposals."
     }
 }
