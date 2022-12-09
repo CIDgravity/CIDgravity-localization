@@ -9,7 +9,7 @@
             "peerId": {
                 "title": "Peer ID",
                 "noContent": "No Peer ID",
-                "content_zero": "No Peer ID",
+                "content_zero": "No Peer IDs",
                 "content_one": "{{count}} Peer ID",
                 "content_two": "{{count}} Peer IDs",
                 "content_few": "{{count}} Peer IDs",
@@ -34,7 +34,11 @@
             "empty": "No records",
             "peerId": {
                 "title": "Peer ID",
-                "content_zero": "No Peer IDs"
+                "content_zero": "No Peer IDs",
+                "content_one": "{{count}} Peer ID",
+                "content_two": "{{count}} Peer IDs",
+                "content_few": "{{count}} Peer IDs",
+                "content_many": "{{count}} Peer IDs"
             }
         }
     }
