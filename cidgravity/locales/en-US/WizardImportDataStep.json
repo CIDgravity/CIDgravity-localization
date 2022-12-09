@@ -8,5 +8,8 @@
     },
     "addressSelect": {
         "placeholder": "Select the source address to import configuration from"
+    },
+    "validation": {
+        "isAddressSelectionMandatory": "This field is required."
     }
 }
