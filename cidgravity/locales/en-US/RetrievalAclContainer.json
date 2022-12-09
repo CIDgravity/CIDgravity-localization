@@ -24,7 +24,7 @@
             "onApplyAcl": "Successfully applied"
         },
         "error": {
-            "onApplyAcl": "Unable to apply the changes. Try later or reach out to CIDgravity team"
+            "onApplyAcl": "Unable to apply changes. Please try again later or contact the CIDgravity team."
         }
     }
 }
