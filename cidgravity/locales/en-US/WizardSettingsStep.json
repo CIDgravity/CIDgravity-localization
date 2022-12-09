@@ -32,6 +32,7 @@
         "isDealSizeMandatory": "This field is mandatory.",
         "isRetrievalDealsPerHourValidNumber": "Invalid number.",
         "isRetrievalDealsPerHourPositiveNumber": "Must be a positive integer.",
-        "isRetrievalDealsPerHourInteger": "Must be a positive integer."
+        "isRetrievalDealsPerHourInteger": "Must be a positive integer.",
+        "isRetrievalDealsPerHourMandatory": "This field is mandatory."
     }
 }
