@@ -9,5 +9,12 @@
         "comment": {
             "label": "Comment"
         }
+    },
+    "whitelist": {
+        "elementToSelect": {
+            "label": "Peer ID or client name*",
+            "placeholder": "Select…"
+        },
+        "title": "Add a Peer ID or a client"
     }
 }
