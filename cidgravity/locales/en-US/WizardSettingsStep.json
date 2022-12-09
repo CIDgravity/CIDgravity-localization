@@ -6,6 +6,7 @@
         "tooltip": "Max number of storage deals per hour across all clients."
     },
     "cumulativeDealSizeForStorageField": {
-        "label": "Cumulative storage deal size per hour (GiB)*"
+        "label": "Cumulative storage deal size per hour (GiB)*",
+        "tooltip": "Max cumulative deal size per hour for storage deals across all clients."
     }
 }
