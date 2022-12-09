@@ -1,5 +1,6 @@
 {
     "button": {
         "close": "Cancel"
-    }
+    },
+    "header": "Access rights for {{addressId}}"
 }
