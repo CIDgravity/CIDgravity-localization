@@ -9,7 +9,10 @@
     },
     "validation": {
         "whitelist": {
-            "isSelectedElemAlreadyInWhitelist": "The selected element is already in your whitelist",
+            "isSelectedElemAlreadyInWhitelist": "The Peer ID is already whitelisted",
+            "isSelectedElemEmpty": "This field is mandatory"
+        },
+        "blacklist": {
             "isSelectedElemEmpty": "This field is mandatory"
         }
     }
