@@ -29,6 +29,7 @@
         "isDealSizePositiveNumber": "Must be a positive number.",
         "isDealSizeValidNumber": "This field is mandatory.",
         "isDealSizeInteger": "Must be an integer.",
-        "isDealSizeMandatory": "This field is mandatory."
+        "isDealSizeMandatory": "This field is mandatory.",
+        "isRetrievalDealsPerHourValidNumber": "Invalid number."
     }
 }
