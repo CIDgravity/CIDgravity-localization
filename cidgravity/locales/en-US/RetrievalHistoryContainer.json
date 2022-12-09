@@ -33,5 +33,8 @@
                 "tooltip": "Rejected by whitelist/blacklist"
             }
         }
+    },
+    "error": {
+        "generic": "Unable to load data,"
     }
 }
