@@ -9,8 +9,12 @@
             "label": "Deal type",
             "verified": {
                 "true": "Verified deals",
-                "false": "Unverified deals"
+                "false": "Unverified deals",
+                "any": "Both verified and unverified deals"
             }
+        },
+        "price": {
+            "label": "Price/GiB/Epoch"
         }
     }
 }
