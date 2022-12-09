@@ -16,6 +16,9 @@
     "title": "Sign message to claim this address",
     "subtitle": "This allows CIDgravity to verify required permissions.",
     "runThisCommandStep": {
-        "label": "1. Run this command to sign the message"
+        "label": "1. Run this command to sign the message",
+        "codeHighlight": {
+            "content": "lotus wallet sign {{workerKey}} {{hexMessage}}"
+        }
     }
 }
