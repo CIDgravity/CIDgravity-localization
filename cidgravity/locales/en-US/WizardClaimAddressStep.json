@@ -1,6 +1,6 @@
 {
     "button": {
-        "next": ""
+        "next": "Next"
     },
     "title": "Claim a new address",
     "subtitle": "Enter the address you wish to claim.",
@@ -11,6 +11,6 @@
         "isAddressInvalid": "Invalid address."
     },
     "claimAddressField": {
-        "placeholder": "f0xxxxx"
+        "placeholder": "fxxxxxx"
     }
 }
