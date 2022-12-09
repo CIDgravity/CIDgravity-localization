@@ -5,7 +5,10 @@
         "title": "Blacklist",
         "subtitle": "CIDgravity will accept all deals by default and apply the following blacklist:",
         "table": {
-            "empty": "no records"
+            "empty": "No records",
+            "peerId": {
+                "title": "Peer ID"
+            }
         }
     }
 }
