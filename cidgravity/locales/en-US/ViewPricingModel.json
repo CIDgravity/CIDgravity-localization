@@ -27,6 +27,9 @@
             "label": "Fallback",
             "disabled": "<0>Fallback to default pricing model: </0> <1>Disabled</1>",
             "na": "<0>Fallback to default pricing model: </0> <1>Not applicable</1>"
+        },
+        "client": {
+            "title": "Associated clients"
         }
     }
 }
