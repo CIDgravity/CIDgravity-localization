@@ -30,6 +30,11 @@
             "onEnableMaintenanceMode": "Maintenance mode activated, all deals for {{address}} will be rejected.",
             "onDisableMaintenanceMode": "CIDgravity is now accepting deals based on {{address}} configuration.",
             "onSwitchTenant": "Switched to {{address}}."
+        },
+        "error": {
+            "onCheckNetwork": {
+                "lost": "No connection to CIDgravity."
+            }
         }
     }
 }
