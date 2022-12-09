@@ -4,6 +4,6 @@
     "error": {
         "unableToFetchClients": "An error occurred whilst retrieving the list elements. Please try again later or contact the CIDgravity team.",
         "unableToFetchCurrentBehavior": "An error occurred whilst displaying the list elements. Please try again later or contact the CIDgravity team.",
-        "unableToFetchWhitelist": "Unable to perform necessary actions to display ACLs (reason: unable to retrieve default behavior). Try again in a few minutes and reach out to our team on Slack if it still doesn't work!"
+        "unableToFetchWhitelist": "An error occurred whilst retrieving the whitelist elements. Please try again later or contact the CIDgravity team."
     }
 }
