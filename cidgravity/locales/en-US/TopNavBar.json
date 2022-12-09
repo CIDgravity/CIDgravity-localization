@@ -6,7 +6,8 @@
     },
     "maintenanceMode": {
         "switch": {
-            "tooltipEnabled": "Maintenance mode activated, all deals for {{address}} will be rejected"
+            "tooltipEnabled": "Maintenance mode activated, all deals for {{address}} will be rejected",
+            "tooltipAcceptingDeals": "CIDgravity is accepting deals"
         }
     }
 }
