@@ -2,5 +2,12 @@
     "button": {
         "close": "Cancel"
     },
-    "header": "Access rights for {{addressId}}"
+    "header": "Access rights for {{addressId}}",
+    "body": {
+        "table": {
+            "email": "Email address",
+            "profile": "Profile picture",
+            "nickname": "Nickname"
+        }
+    }
 }
