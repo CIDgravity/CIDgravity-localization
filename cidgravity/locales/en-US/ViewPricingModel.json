@@ -1,6 +1,6 @@
 {
     "button": {
-        "close": "Cancel"
+        "close": "Close"
     },
     "header": "{{pricingModelName}} ruleset",
     "body": {
@@ -35,5 +35,8 @@
                 "noClient": "No clients are associated with this pricing model."
             }
         }
+    },
+    "error": {
+        "hasNoRule": "There are no rules in this pricing model"
     }
 }
