@@ -21,6 +21,9 @@
         },
         "duration": {
             "label": "Min/max deal duration"
+        },
+        "fallback": {
+            "enabled": "<0>Fallback to default pricing model: </0> <1>Enabled</1>"
         }
     }
 }
