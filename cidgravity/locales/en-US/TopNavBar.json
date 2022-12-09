@@ -1,5 +1,6 @@
 {
     "ticker": {
-        "retrievingPrice": "Retrieving price…"
+        "retrievingPrice": "Retrieving price…",
+        "retrievingBaseFee": "Retrieving base fee…"
     }
 }
