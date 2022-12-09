@@ -19,6 +19,14 @@
         },
         "inspect": {
             "tooltip": "Inspect deal proposal"
+        },
+        "simulate": {
+            "tooltip": "Simulate in playground"
+        },
+        "internalDecision": {
+            "accept": {
+                "tooltip": "Accepted"
+            }
         }
     }
 }
