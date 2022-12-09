@@ -15,7 +15,8 @@
         },
         "blacklist": {
             "isSelectedElemEmpty": "This field is mandatory",
-            "isSelectedElemAlreadyInBlacklist": "The Peer ID is already blacklisted"
+            "isSelectedElemAlreadyInBlacklist": "The Peer ID is already blacklisted",
+            "isSelectedPeerIdInvalid": "Invalid Peer ID format"
         }
     }
 }
