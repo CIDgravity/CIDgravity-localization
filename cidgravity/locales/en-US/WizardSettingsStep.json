@@ -16,5 +16,8 @@
     "customMessageField": {
         "label": "Custom message",
         "tooltip": "This message will be sent to the client when a deal is rejected"
+    },
+    "acceptDealsFromUnkownClientsField": {
+        "label": "Accept storage deals from unknown clients"
     }
 }
