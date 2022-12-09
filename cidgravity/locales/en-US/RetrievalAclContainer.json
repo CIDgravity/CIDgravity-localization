@@ -35,6 +35,7 @@
         "apply_one": "Apply {{count}} change",
         "apply_two": "Apply {{count}} changes",
         "apply_few": "Apply {{count}} changes",
-        "apply_many": "Apply {{count}} changes"
+        "apply_many": "Apply {{count}} changes",
+        "apply_other": "Apply {{count}} changes"
     }
 }
