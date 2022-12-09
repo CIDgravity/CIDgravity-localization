@@ -41,6 +41,9 @@
             },
             "sizeRateLimit": {
                 "tooltip": "Rejected due to deal size limit"
+            },
+            "invalidProposalOrError": {
+                "tooltip": "Invalid proposal"
             }
         }
     }
