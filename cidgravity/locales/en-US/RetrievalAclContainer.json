@@ -31,6 +31,8 @@
         "onLeavingWithUnsavedChanges": "There are unsaved changes. Are you sure you want to leave this page?"
     },
     "button": {
-        "apply_zero": "Apply"
+        "apply_zero": "Apply",
+        "apply_one": "Apply {{count}} change",
+        "apply_two": "Apply {{count}} changes"
     }
 }
