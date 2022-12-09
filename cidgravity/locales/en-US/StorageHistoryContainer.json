@@ -6,7 +6,10 @@
         "noMatch": "Your search did not match any storage proposals.",
         "from": {
             "title": "From client",
-            "unkownAddress": "Unavailable"
+            "unkownAddress": "Unavailable",
+            "copy": {
+                "tooltip": "Copy address"
+            }
         }
     }
 }
