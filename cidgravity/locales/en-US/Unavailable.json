@@ -1,4 +1,5 @@
 {
     "title": "CIDgravity is currently unavailable.",
-    "explanation": "Our operations team is working on restoring services.<br />"
+    "explanation": "Our operations team is working on restoring services.<br />",
+    "action": "Please try reloading this page or contact the CIDgravity team.<br /><br />{{errorMessage}}"
 }
