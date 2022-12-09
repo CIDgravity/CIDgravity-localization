@@ -7,6 +7,7 @@
         "endDatePlaceholderText": "To ({{dateFormat}})"
     },
     "status": {
-        "placeholder": "Deal status"
+        "placeholder": "Deal status",
+        "all": "All"
     }
 }
