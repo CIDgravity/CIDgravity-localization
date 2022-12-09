@@ -14,6 +14,7 @@
         "tooltip": "Max number of retrieval deals per hour across all clients."
     },
     "customMessageField": {
-        "label": "Custom message"
+        "label": "Custom message",
+        "tooltip": "This message will be sent to the client when a deal is rejected"
     }
 }
