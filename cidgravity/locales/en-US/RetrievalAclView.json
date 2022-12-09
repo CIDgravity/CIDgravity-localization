@@ -29,6 +29,13 @@
     },
     "whitelist": {
         "title": "Whitelist",
-        "subtitle": "CIDgravity will reject all deals by default and apply the following whitelist:"
+        "subtitle": "CIDgravity will reject all deals by default and apply the following whitelist:",
+        "table": {
+            "empty": "No records",
+            "peerId": {
+                "title": "Peer ID",
+                "content_zero": "No Peer ID"
+            }
+        }
     }
 }
