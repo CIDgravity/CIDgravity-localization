@@ -1,5 +1,6 @@
 {
     "whitelist": {
-        "header": "Confirm switching to whitelist"
+        "header": "Confirm switching to whitelist",
+        "body": "{{elementLabel}} is already blacklisted. Confirm switching to whitelist?"
     }
 }
