@@ -23,11 +23,32 @@
                 "info": "Max number of retrieval deals per hour across all clients"
             },
             "cumulativeDealSize": {
-                "label": "Cumulative storage deal size per hour (GiB/h)",
+                "label": "Cumulative storage deal size (GiB/h)",
                 "info": "Max cumulative storage deal size per hour across all clients"
             },
             "button": {
                 "save": "Save"
+            }
+        },
+        "bitswap": {
+            "title": "Retrieval Bitswap limits (for boost)",
+            "simultaneousRequests": {
+                "label": "Simultaneous requests",
+                "info": "Number of simultaneous requests allowed"
+            },
+            "simultaneousRequestsPerPeer": {
+                "label": "Simultaneous requests per peer",
+                "info": "Number of simultaneous requests allowed per peer"
+            },
+            "maxBandwidth": {
+                "label": "Max bandwidth allowed",
+                "info": "Max bandwidth allowed",
+                "unit": {
+                    "B": "B",
+                    "KB": "KB",
+                    "MB": "MB",
+                    "GB": "GB"
+                }
             }
         }
     },

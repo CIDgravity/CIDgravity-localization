@@ -67,7 +67,7 @@
         "ERR_INVALID_MINER_CLAIM_SIG": "The signature you filled is invalid (too short)",
         "ERR_INVALID_MINER_CLAIM_NO_PEER_ID": "Your current miner hasn't any peer Id, which is a requirement for Estuary",
         "ERR_INVALID_MINER_CLAIM_NO_MULTI_ADDR": "Your current miner hasn't any address on chain, which is a requirement for Estuary",
-        "ERR_INVALID_MINER_CLAIM_NO_POWER" : "We can't f your miner power details",
+        "ERR_INVALID_MINER_CLAIM_NO_POWER": "We can't f your miner power details",
         "ERR_INVALID_MINER_CLAIM_POWER_BELOW_1TIB": "Your miner must have at least 1 TiB of power to use Estuary",
         "ERR_INVALID_MINER_CLAIM_NO_ASK": "Your miner ask has not been properly set",
         "ERR_INVALID_MINER_CLAIM_ASK_VERIFIED_PRICE_IS_NOT_ZERO": "Your verified deal price must be zero to connect Estuary",
