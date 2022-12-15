@@ -41,7 +41,8 @@
                 "label": "Simultaneous requests per Peer ID"
             },
             "maxBandwidth": {
-                "label": "Max bandwidth"
+                "label": "Max bandwidth",
+                "info": "Max bandwidth allocated to Bitswap"
             }
         }
     },
