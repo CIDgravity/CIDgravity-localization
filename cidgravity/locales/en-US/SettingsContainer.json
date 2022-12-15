@@ -29,6 +29,9 @@
             "button": {
                 "save": "Save"
             }
+        },
+        "bitswap": {
+            "title": "Bitswap limits (boost retrieval)"
         }
     },
     "other": {
