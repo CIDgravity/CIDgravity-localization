@@ -39,6 +39,9 @@
             "simultaneousRequestsPerPeer": {
                 "info": "Number of simultaneous retrieval allowed per Peer ID",
                 "label": "Simultaneous requests per Peer ID"
+            },
+            "maxBandwidth": {
+                "label": "Max bandwidth"
             }
         }
     },
