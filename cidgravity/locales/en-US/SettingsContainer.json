@@ -31,7 +31,7 @@
             }
         },
         "bitswap": {
-            "title": "Bitswap limits (boost retrieval)"
+            "title": "Bitswap limits (NOT USED YET)"
         }
     },
     "other": {
