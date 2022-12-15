@@ -33,7 +33,8 @@
         "bitswap": {
             "title": "Bitswap limits (NOT USED YET)",
             "simultaneousRequests": {
-                "label": "Simultaneous retrieval"
+                "label": "Simultaneous retrieval",
+                "info": "Number of simultaneous requests allowed across all clients "
             }
         }
     },
