@@ -42,7 +42,11 @@
             },
             "maxBandwidth": {
                 "label": "Max bandwidth",
-                "info": "Max bandwidth allocated to Bitswap"
+                "info": "Max bandwidth allocated to Bitswap",
+                "unit": {
+                    "B": "b",
+                    "KB": "Kb"
+                }
             }
         }
     },
