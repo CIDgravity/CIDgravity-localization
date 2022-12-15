@@ -35,6 +35,9 @@
             "simultaneousRequests": {
                 "label": "Simultaneous retrieval",
                 "info": "Number of simultaneous requests allowed across all clients "
+            },
+            "simultaneousRequestsPerPeer": {
+                "info": "Number of simultaneous retrieval allowed per Peer ID"
             }
         }
     },
