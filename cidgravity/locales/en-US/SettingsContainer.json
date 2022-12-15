@@ -31,7 +31,10 @@
             }
         },
         "bitswap": {
-            "title": "Bitswap limits (NOT USED YET)"
+            "title": "Bitswap limits (NOT USED YET)",
+            "simultaneousRequests": {
+                "label": "Simultaneous retrieval"
+            }
         }
     },
     "other": {
