@@ -44,7 +44,7 @@
                 "label": "Max bandwidth",
                 "info": "Max bandwidth allocated to Bitswap",
                 "unit": {
-                    "B": "b",
+                    "B": "B",
                     "KB": "KB",
                     "GB": "GB",
                     "MB": "MB"
