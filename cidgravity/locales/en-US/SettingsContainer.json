@@ -37,7 +37,8 @@
                 "info": "Number of simultaneous requests allowed across all clients "
             },
             "simultaneousRequestsPerPeer": {
-                "info": "Number of simultaneous retrieval allowed per Peer ID"
+                "info": "Number of simultaneous retrieval allowed per Peer ID",
+                "label": "Simultaneous requests per Peer ID"
             }
         }
     },
