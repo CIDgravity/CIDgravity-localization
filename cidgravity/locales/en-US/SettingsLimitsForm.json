@@ -39,5 +39,6 @@
                 }
             }
         }
-    }
+    },
+    "zeroMeanNoLimits": "0 means unlimited"
 }
