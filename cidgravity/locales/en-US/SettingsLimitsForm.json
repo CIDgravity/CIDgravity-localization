@@ -43,6 +43,7 @@
     "zeroMeanNoLimits": "value 0 means no limits",
     "validation": {
         "isInvalidValue": "Invalid value",
-        "isNotPositiveValue": "Must be a positive integer"
+        "isNotPositiveValue": "Must be a positive integer",
+        "isRequiredValue": "This field is mandatory."
     }
 }
