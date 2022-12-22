@@ -40,5 +40,5 @@
             }
         }
     },
-    "zeroMeanNoLimits": "0 means unlimited"
+    "zeroMeanNoLimits": "value 0 means no limits"
 }
