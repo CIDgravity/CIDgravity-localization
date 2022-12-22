@@ -13,31 +13,20 @@
             "info": "When deactivated, all storage deals from unknown clients are rejected"
         },
         "rateLimit": {
-            "storageDealPerHour": {
-                "label": "Number of storage deals per hour"
-            },
             "retrievalDealPerHour": {
                 "label": "Retrieval deals per hour"
-            },
-            "cumulativeDealSize": {
-                "label": "Cumulative storage deal size (GiB/h)"
             },
             "button": {
                 "save": "Save"
             }
         },
         "bitswap": {
-            "simultaneousRequests": {
-                "label": "Simultaneous retrievals"
-            },
             "simultaneousRequestsPerPeer": {
                 "info": "Number of simultaneous retrievals allowed per Peer ID"
             },
             "maxBandwidth": {
-                "label": "Max bandwidth",
                 "unit": {
-                    "B": "B",
-                    "GB": "GB"
+                    "B": "B"
                 }
             }
         }
