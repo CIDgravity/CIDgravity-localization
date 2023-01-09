@@ -13,17 +13,11 @@
             "info": "When deactivated, all storage deals from unknown clients are rejected"
         },
         "rateLimit": {
-            "retrievalDealPerHour": {
-                "label": "Retrieval deals per hour"
-            },
             "button": {
                 "save": "Save"
             }
         },
         "bitswap": {
-            "simultaneousRequestsPerPeer": {
-                "info": "Number of simultaneous retrievals allowed per Peer ID"
-            },
             "maxBandwidth": {
                 "unit": {
                     "B": "B"
