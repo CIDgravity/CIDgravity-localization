@@ -32,7 +32,7 @@
         "manualValue": "Manual",
         "graphsyncValue": "Graphsync",
         "httpValue": "Http",
-        "libp2pValue": "Libp2p"
+        "libp2pValue": "Libp2p-HTTP"
     },
     "price": {
         "label": "Price*",
