@@ -31,7 +31,8 @@
         "label": "Transfer type*",
         "manualValue": "Manual",
         "graphsyncValue": "Graphsync",
-        "httpValue": "Http"
+        "httpValue": "Http",
+        "libp2pValue": "Libp2p"
     },
     "price": {
         "label": "Price*",
