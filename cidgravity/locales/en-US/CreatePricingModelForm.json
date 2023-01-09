@@ -24,7 +24,7 @@
                 "manual": "Manual",
                 "graphsync": "Graphsync",
                 "http": "HTTP",
-                "libp2p": "Libp2p"
+                "libp2p": "Libp2p-HTTP"
             }
         },
         "isVerified": {
