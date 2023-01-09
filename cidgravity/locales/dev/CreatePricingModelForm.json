@@ -23,7 +23,8 @@
                 "any": "Any",
                 "manual": "Manual",
                 "graphsync": "Graphsync",
-                "http": "Http"
+                "http": "Http",
+                "libp2p": "Libp2p"
             }
         },
         "isVerified": {
