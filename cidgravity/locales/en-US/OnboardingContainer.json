@@ -3,7 +3,7 @@
     "subtitle": "To start enjoying CIDgravity you need to follow these 3 steps:",
     "step": {
         "joinSlackCommunity": "1. Join our <1>Slack</1>",
-        "claimMiner": "2. Claim a new address",
+        "claimMiner": "2. Claim a new miner (to prove you are managing it)",
         "deployTheConnector": "3. Deploy the <1>CIDgravity-X connector</1> once you have claimed a miner"
     },
     "button": {
