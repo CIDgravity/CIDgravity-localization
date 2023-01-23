@@ -2,6 +2,6 @@
     "title": "Bonjour {{userFirstName}} !",
     "lastHour": "Récentes",
     "storage": {
-        "title": "Stockage"
+        "title": "Deals stockés"
     }
 }
