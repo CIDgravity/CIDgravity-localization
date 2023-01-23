@@ -3,6 +3,8 @@
     "lastHour": "Récentes",
     "storage": {
         "title": "Deals stockés",
-        "received": "Reçu"
+        "received": "Reçu",
+        "accepted": "Acceptés",
+        "rejected": "Rejetés"
     }
 }
