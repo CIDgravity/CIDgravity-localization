@@ -1,5 +1,5 @@
 {
-    "title": "Salut {{userFirstName}} !",
+    "title": "Bonjour {{userFirstName}} !",
     "lastHour": "Dernière heure",
     "storage": {
         "title": "Stockage"
