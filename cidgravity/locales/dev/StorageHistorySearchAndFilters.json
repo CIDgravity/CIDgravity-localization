@@ -3,8 +3,7 @@
         "placeholder": "Search by address or proposal uid then PRESS ENTER"
     },
     "dateRangePicker": {
-        "startDatePlaceholderText": "From ({{dateFormat}})",
-        "endDatePlaceholderText": "To ({{dateFormat}})"
+        "placeholder": "From ({{dateFormat}}) - To ({{dateFormat}})"
     },
     "status": {
         "placeholder": "Deal status",
@@ -14,5 +13,10 @@
         "maintenance": "Maintenance",
         "rateLimit": "Rate limit exceeded",
         "blacklist": "Blacklisted"
+    },
+    "searchDatabase": {
+        "placeholder": "Where to search",
+        "recent": "Last 2 hours",
+        "archived": "Archived proposal"
     }
 }
