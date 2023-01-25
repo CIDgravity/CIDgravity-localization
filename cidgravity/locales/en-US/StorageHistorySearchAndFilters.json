@@ -3,7 +3,6 @@
         "placeholder": "Search by client address or proposal UID then press ENTER"
     },
     "dateRangePicker": {
-        "startDatePlaceholderText": "From ({{dateFormat}})",
         "endDatePlaceholderText": "To ({{dateFormat}})"
     },
     "status": {
