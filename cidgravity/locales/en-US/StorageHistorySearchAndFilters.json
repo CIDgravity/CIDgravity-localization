@@ -15,6 +15,7 @@
         "placeholder": "From ({{dateFormat}}) - To ({{dateFormat}})"
     },
     "searchDatabase": {
-        "recent": "Last 2 hours proposals"
+        "recent": "Last 2 hours proposals",
+        "archived": "Archived proposals"
     }
 }
