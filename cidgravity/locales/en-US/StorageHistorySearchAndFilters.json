@@ -16,7 +16,7 @@
     },
     "searchDatabase": {
         "recent": "Recent proposals (last 2 hours)",
-        "archived": "Archived proposals (< 3months)",
+        "archived": "Archived proposals (last 3months)",
         "placeholder": "Where to search"
     }
 }
