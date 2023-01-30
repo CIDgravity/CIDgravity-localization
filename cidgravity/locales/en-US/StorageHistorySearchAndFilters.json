@@ -13,5 +13,8 @@
     },
     "dateRangePicker": {
         "placeholder": "From ({{dateFormat}}) - To ({{dateFormat}})"
+    },
+    "searchDatabase": {
+        "recent": "Last 2 hours proposals"
     }
 }
