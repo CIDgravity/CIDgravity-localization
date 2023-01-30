@@ -4,7 +4,7 @@
     },
     "status": {
         "placeholder": "Deal status",
-        "all": "All",
+        "all": "All decisions",
         "accept": "Accepted",
         "invalidProposal": "Invalid proposal",
         "maintenance": "Under Maintenance",
