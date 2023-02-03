@@ -46,7 +46,7 @@
                 "tooltip": "Invalid proposal"
             },
             "startEpochBelowSealingBuffer": {
-                "tooltip": "Rejected due to start date to early (below defined Start epoch sealing buffer)"
+                "tooltip": "Rejected due to start date to early (below defined start epoch sealing buffer)"
             }
         },
         "internalMessage": {
