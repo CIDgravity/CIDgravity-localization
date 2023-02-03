@@ -11,13 +11,6 @@
             "title": "Unknown clients",
             "label": "Accept storage deals from unknown clients",
             "info": "When deactivated, all storage deals from unknown clients are rejected"
-        },
-        "bitswap": {
-            "maxBandwidth": {
-                "unit": {
-                    "B": "B"
-                }
-            }
         }
     },
     "other": {
