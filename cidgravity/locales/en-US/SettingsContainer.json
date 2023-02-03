@@ -58,7 +58,8 @@
             },
             "onUpdateCustomMessage": "The custom message has been saved.",
             "onUpdateFriendlyName": "The miner nickname has been updated.",
-            "onRegenerateConnectorToken": "Token has been regenerated."
+            "onRegenerateConnectorToken": "Token has been regenerated.",
+            "onUpdateStartEpochSealingBuffer": "The start epoch sealing buffer has been updated."
         },
         "error": {
             "onUpdateRateLimits": "An error occurred updating settings, Please try again in a few minutes or contact the CIDgravity team.",
