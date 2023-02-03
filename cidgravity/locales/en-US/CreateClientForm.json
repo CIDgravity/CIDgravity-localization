@@ -69,5 +69,8 @@
             "hasClientCreationFailed": "Failed to add new client.",
             "hasClientUpdateFailed": "Failed to modify client."
         }
+    },
+    "startEpochSealingBuffer": {
+        "title": "Start epoch sealing buffer"
     }
 }
