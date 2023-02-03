@@ -44,6 +44,9 @@
             },
             "invalidProposalOrError": {
                 "tooltip": "Reject due to proposal invalidity"
+            },
+            "startEpochBelowSealingBuffer": {
+                "tooltip": "Reject due to start date below defined sealing buffer"
             }
         },
         "internalMessage": {

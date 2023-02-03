@@ -11,6 +11,13 @@
             "title": "Unknown clients",
             "label": "Accept storage deals from unknown clients",
             "info": "When deactivated, all storage deals from unknown clients are rejected"
+        },
+        "startEpochSealingBuffer": {
+            "title": "Start epoch sealing buffer",
+            "tooltip": "Minimum start epoch buffer to give time for sealing of sector with deal",
+            "button": {
+                "save": "Save"
+            }
         }
     },
     "other": {
@@ -51,14 +58,16 @@
             },
             "onUpdateCustomMessage": "Your custom messages has been saved!",
             "onUpdateFriendlyName": "Your address friendly name has been updated!",
-            "onRegenerateConnectorToken": "Token has been regenerated!"
+            "onRegenerateConnectorToken": "Token has been regenerated!",
+            "onUpdateStartEpochSealingBuffer": "Your start epoch sealing buffer has been updated!"
         },
         "error": {
             "onUpdateRateLimits": "Unable to save your settings. Try later or reach out to CIDgravity team",
             "onUpdateMaintenanceMode": "Unable to update your maintenance mode. Try later or reach out to CIDgravity team",
             "onUpdateCustomMessage": "Unable to save your custom message. Try later or reach out to CIDgravity team",
             "onUpdateFriendlyName": "Unable to save your friendly name. Try later or reach out to CIDgravity team",
-            "onRegenerateConnectorToken": "Unable to regenerate the connector token. Try later or reach out to CIDgravity team"
+            "onRegenerateConnectorToken": "Unable to regenerate the connector token. Try later or reach out to CIDgravity team",
+            "onUpdateStartEpochSealingBuffer": "Something wrong while updating your start epoch sealing buffer setting. Try later or reach out to CIDgravity team"
         }
     },
     "error": {

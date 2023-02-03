@@ -9,6 +9,11 @@
     "slackUsername": {
         "label": "Slack username"
     },
+    "startEpochSealingBuffer": {
+        "title": "Start epoch sealing buffer",
+        "description": "Minimum start epoch buffer to give time for sealing of sector with deal, any deals below that time, will be rejected. Value expressed in HOURS.",
+        "switchLabel": "Override global settings"
+    },
     "storageDealRates": {
         "title": "Storage deal rates",
         "description": "Define deal rates limit allowed per hour (0 = unlimited)",
@@ -58,12 +63,15 @@
         "isHourlyDealLimitMandatory": "Storage deal limit is mandatory",
         "isHourlyDealSizeLimitValidType": "Must be a valid number",
         "isHourlyDealSizeLimitPositive": "Must be positive number",
-        "isHourlyDealSizeLimitMandatory": "Storage deal size rate limit is mandatory"
+        "isHourlyDealSizeLimitMandatory": "Storage deal size rate limit is mandatory",
+        "isStartEpochSealingBufferValidType": "Must be a valid number",
+        "isStartEpochSealingBufferPositive": "Must be a positive number",
+        "isStartEpochSealingBufferMandatory": "Start epoch sealing buffer is mandatory"
     },
     "notification": {
         "success": {
             "isClientSuccessfullyUpdated": "Client has been updated!",
-            "isClientSuccessfullyCreated": "Your client has been succesfully added!"
+            "isClientSuccessfullyCreated": "Your client has been successfully added!"
         },
         "error": {
             "hasClientCreationFailed": "Cannot add new client",
