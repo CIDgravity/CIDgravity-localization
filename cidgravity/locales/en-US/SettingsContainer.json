@@ -14,7 +14,10 @@
         },
         "startEpochSealingBuffer": {
             "title": "Start epoch sealing buffer",
-            "tooltip": "Minimum start epoch buffer to give time for sealing of sector with deal, any deals below that time, will be rejected. Value expressed in HOURS."
+            "tooltip": "Minimum start epoch buffer to give time for sealing of sector with deal, any deals below that time, will be rejected. Value expressed in HOURS.",
+            "button": {
+                "save": "Save"
+            }
         }
     },
     "other": {
