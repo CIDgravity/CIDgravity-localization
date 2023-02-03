@@ -58,7 +58,8 @@
         "isHourlyDealLimitPositive": "Must be a positive number.",
         "isHourlyDealLimitMandatory": "Storage deal limit is mandatory.",
         "isHourlyDealSizeLimitPositive": "Must be positive number.",
-        "isHourlyDealSizeLimitMandatory": "Cumulative deal size is mandatory."
+        "isHourlyDealSizeLimitMandatory": "Cumulative deal size is mandatory.",
+        "isStartEpochSealingBufferValidType": "Must be a valid number."
     },
     "notification": {
         "success": {
