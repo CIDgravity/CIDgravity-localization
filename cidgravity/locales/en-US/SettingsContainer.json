@@ -66,7 +66,8 @@
             "onUpdateMaintenanceMode": "An error occurred updating maintenance mode, Please try again in a few minutes or contact the CIDgravity team.",
             "onUpdateCustomMessage": "An error occurred updating custom message, Please try again in a few minutes or contact the CIDgravity team.",
             "onUpdateFriendlyName": "An error occurred updating the miner nickname, Please try again in a few minutes or contact the CIDgravity team.",
-            "onRegenerateConnectorToken": "An error occurred generating a new token, Please try again in a few minutes or contact the CIDgravity team."
+            "onRegenerateConnectorToken": "An error occurred generating a new token, Please try again in a few minutes or contact the CIDgravity team.",
+            "onUpdateStartEpochSealingBuffer": "An error occurred updating your start epoch sealing buffer setting, Please try again in a few minutes or contact the CIDgravity team."
         }
     },
     "error": {
