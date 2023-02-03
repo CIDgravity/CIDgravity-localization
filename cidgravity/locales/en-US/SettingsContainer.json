@@ -11,6 +11,9 @@
             "title": "Unknown clients",
             "label": "Accept storage deals from unknown clients",
             "info": "When deactivated, all storage deals from unknown clients are rejected"
+        },
+        "startEpochSealingBuffer": {
+            "title": "Start epoch sealing buffer"
         }
     },
     "other": {
