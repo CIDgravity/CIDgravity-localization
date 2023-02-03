@@ -60,7 +60,8 @@
         "isHourlyDealSizeLimitPositive": "Must be positive number.",
         "isHourlyDealSizeLimitMandatory": "Cumulative deal size is mandatory.",
         "isStartEpochSealingBufferValidType": "Must be a valid number.",
-        "isStartEpochSealingBufferPositive": "Must be a positive number."
+        "isStartEpochSealingBufferPositive": "Must be a positive number.",
+        "isStartEpochSealingBufferMandatory": "Start epoch sealing buffer is mandatory."
     },
     "notification": {
         "success": {
