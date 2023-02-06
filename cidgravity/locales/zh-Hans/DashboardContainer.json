@@ -8,6 +8,7 @@
         "rejected": "已拒绝"
     },
     "retrieval": {
-        "title": "检索订单"
+        "title": "检索订单",
+        "received": "已收到"
     }
 }
