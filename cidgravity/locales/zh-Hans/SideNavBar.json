@@ -3,6 +3,9 @@
         "dashboard": "面板",
         "client": "客户",
         "settings": "设置",
-        "helpCenter": "帮助中心"
+        "helpCenter": "帮助中心",
+        "storage": {
+            "title": "存储"
+        }
     }
 }
