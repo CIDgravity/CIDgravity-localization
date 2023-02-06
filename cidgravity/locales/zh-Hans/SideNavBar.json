@@ -1,5 +1,7 @@
 {
     "menu": {
-        "dashboard": "面板"
+        "dashboard": "面板",
+        "client": "客户",
+        "settings": "设置"
     }
 }
