@@ -1,6 +1,6 @@
 {
     "title": "欢迎 {{userFirstName}}！",
-    "lastHour": "上一个小时",
+    "lastHour": "一小时内",
     "storage": {
         "title": "存储订单",
         "received": "已收到",
