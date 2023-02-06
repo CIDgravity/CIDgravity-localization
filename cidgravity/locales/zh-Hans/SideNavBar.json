@@ -14,7 +14,8 @@
         },
         "retrieval": {
             "title": "检索",
-            "history": "历史"
+            "history": "历史",
+            "acl": "拒绝列表"
         }
     }
 }
