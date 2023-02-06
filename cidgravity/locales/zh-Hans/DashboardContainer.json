@@ -6,5 +6,8 @@
         "received": "已收到",
         "accepted": "已接受",
         "rejected": "已拒绝"
+    },
+    "retrieval": {
+        "title": "检索订单"
     }
 }
