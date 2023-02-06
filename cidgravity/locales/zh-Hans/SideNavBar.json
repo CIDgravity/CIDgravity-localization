@@ -8,7 +8,8 @@
             "title": "存储",
             "pricing": "定价",
             "integration": "集成",
-            "history": "历史"
+            "history": "历史",
+            "playground": "实验场"
         }
     }
 }
