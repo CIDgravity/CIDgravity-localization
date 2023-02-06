@@ -10,6 +10,7 @@
     "retrieval": {
         "title": "检索订单",
         "received": "已收到",
-        "accepted": "已接受"
+        "accepted": "已接受",
+        "rejected": "已拒绝"
     }
 }
