@@ -9,6 +9,7 @@
     },
     "retrieval": {
         "title": "检索订单",
-        "received": "已收到"
+        "received": "已收到",
+        "accepted": "已接受"
     }
 }
