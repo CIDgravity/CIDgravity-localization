@@ -2,6 +2,7 @@
     "menu": {
         "dashboard": "面板",
         "client": "客户",
-        "settings": "设置"
+        "settings": "设置",
+        "helpCenter": "帮助中心"
     }
 }
