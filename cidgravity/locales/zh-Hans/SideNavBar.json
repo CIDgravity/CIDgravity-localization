@@ -13,7 +13,8 @@
             "blacklist": "黑名单"
         },
         "retrieval": {
-            "title": "检索"
+            "title": "检索",
+            "history": "历史"
         }
     }
 }
