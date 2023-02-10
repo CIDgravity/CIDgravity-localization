@@ -2,9 +2,6 @@
     "inputSearch": {
         "placeholder": "Search by client Peer ID or proposal UID then press ENTER"
     },
-    "dateRangePicker": {
-        "endDatePlaceholderText": "To ({{dateFormat}})"
-    },
     "status": {
         "placeholder": "Deal status",
         "all": "All",
@@ -12,5 +9,8 @@
         "retrievalRateLimit": "Rate limit exceeded",
         "maintenance": "Under maintenance",
         "acl": "Whitelist / Blacklist"
+    },
+    "dateRangePicker": {
+        "placeholder": "From ({{dateFormat}}) - To ({{dateFormat}})"
     }
 }
