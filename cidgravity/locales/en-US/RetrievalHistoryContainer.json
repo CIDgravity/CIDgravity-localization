@@ -2,7 +2,7 @@
     "title": "Retrieval history",
     "subtitle": "Log of all retrieval deal proposals received.",
     "table": {
-        "empty": "Empty history",
+        "empty": "No records",
         "noMatch": "Your search did not match any retrieval proposals.",
         "from": {
             "title": "From client",
