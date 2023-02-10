@@ -3,7 +3,6 @@
         "placeholder": "Search by client Peer ID or proposal UID then press ENTER"
     },
     "dateRangePicker": {
-        "startDatePlaceholderText": "From ({{dateFormat}})",
         "endDatePlaceholderText": "To ({{dateFormat}})"
     },
     "status": {
