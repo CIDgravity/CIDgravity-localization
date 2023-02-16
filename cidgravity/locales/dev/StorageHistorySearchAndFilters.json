@@ -13,10 +13,5 @@
         "maintenance": "Maintenance",
         "rateLimit": "Rate limit exceeded",
         "blacklist": "Blacklisted"
-    },
-    "searchDatabase": {
-        "placeholder": "Where to search",
-        "recent": "Last 2 hours",
-        "archived": "Archived proposal"
     }
 }
