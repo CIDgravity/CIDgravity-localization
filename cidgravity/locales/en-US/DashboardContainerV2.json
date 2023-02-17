@@ -18,7 +18,8 @@
         "reasons": {
             "accept": "Accepted",
             "maintenance": "Maintenance mode",
-            "sizeRateLimit": "Size rate limit"
+            "sizeRateLimit": "Size rate limit",
+            "invalidProposal": "Invalid proposal"
         },
         "totalAcceptedDealsWithReasons": {
             "title": "Plop"
