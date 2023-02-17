@@ -101,6 +101,11 @@
                 "legend": {
                     "cumulativeRawSize": "Cumulative RAW size (TiB)"
                 }
+            },
+            "acceptedDealsByType": {
+                "legend": {
+                    "cumulativeRawSize": "Cumulative RAW size (TiB)"
+                }
             }
         }
     }
