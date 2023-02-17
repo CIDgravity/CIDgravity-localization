@@ -20,6 +20,15 @@
         }
     },
     "retool": {
+        "reasons": {
+            "accept": "Accepted",
+            "sizeRateLimit": "Size rate limit",
+            "rateLimit": "Rate limit",
+            "reject": "No matching pricing",
+            "maintenance": "Maintenance mode",
+            "invalidProposal": "Invalid proposal",
+            "startEpochBelowSealingBuffer": "Below sealing buffer"
+        },
         "totalAcceptedDealsWithReasons": {
             "title": "Total accepted deals / rejected reasons",
             "legend": {
@@ -37,8 +46,18 @@
                 "qualityAdjustedPower": "QaP (TiB)"
             }
         },
-        "top10Clients": {
-            "title": "Top 10 clients",
+        "top10ClientsAccepted": {
+            "title": "Top 10 clients (accepted deals)",
+            "noRowsFound": "No data found",
+            "columns": {
+                "clientName": "Client name",
+                "numberOfProposals": "Number of proposals",
+                "cumulativeRawSize": "Raw size (TiB)",
+                "qualityAdjustedPower": "QaP (TiB)"
+            }
+        },
+        "top10ClientsRejected": {
+            "title": "Top 10 clients (rejected deals)",
             "noRowsFound": "No data found",
             "columns": {
                 "clientName": "Client name",
