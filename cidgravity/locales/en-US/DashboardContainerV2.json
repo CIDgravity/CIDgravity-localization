@@ -132,7 +132,7 @@
             "acceptedDealsByType": {
                 "legend": {
                     "cumulativeRawSize": "Cumulative RAW size (TiB)",
-                    "qualityAdjustedPower": "\tCumulative QAP (TiB)"
+                    "qualityAdjustedPower": "Cumulative QAP (TiB)"
                 }
             },
             "top10PricingModels": {
