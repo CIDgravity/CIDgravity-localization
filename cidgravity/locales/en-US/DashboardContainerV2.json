@@ -83,6 +83,18 @@
                     "cumulativeRawSize": "Cumulative RAW size (TiB)"
                 }
             }
+        },
+        "rejectedDeals": {
+            "transferType": {
+                "legend": {
+                    "cumulativeRawSize": "Cumulative RAW size (TiB)"
+                }
+            },
+            "filPlusStatus": {
+                "legend": {
+                    "cumulativeRawSize": "Cumulative RAW size (TiB)"
+                }
+            }
         }
     }
 }
