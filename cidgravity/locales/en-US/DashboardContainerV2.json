@@ -191,7 +191,8 @@
                 "legend": {
                     "cumulativeRawSize": "Cumulative RAW size (TiB)"
                 }
-            }
+            },
+            "title": "Historical deal proposal metrics"
         }
     }
 }
