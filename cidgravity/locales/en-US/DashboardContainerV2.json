@@ -6,7 +6,8 @@
             "1day": "Last 24 hours"
         },
         "unit": {
-            "numberOfProposals": "Number of proposals"
+            "numberOfProposals": "Number of proposals",
+            "cumulativeRawSize": "Cumulative RAW size"
         }
     }
 }
