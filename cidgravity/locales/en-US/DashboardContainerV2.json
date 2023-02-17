@@ -55,8 +55,13 @@
             "title": "Top 10 clients (rejected deals)",
             "columns": {
                 "clientName": "Client name",
-                "numberOfProposals": "Number of proposals"
+                "numberOfProposals": "Number of proposals",
+                "cumulativeRawSize": "Cumulative RAW size (TiB)",
+                "qualityAdjustedPower": "Cumulative QAP (TiB)"
             }
+        },
+        "top10PricingModels": {
+            "title": "Top 10 pricing models"
         }
     }
 }
