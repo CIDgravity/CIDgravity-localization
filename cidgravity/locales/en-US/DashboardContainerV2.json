@@ -95,6 +95,13 @@
                     "cumulativeRawSize": "Cumulative RAW size (TiB)"
                 }
             }
+        },
+        "history": {
+            "top10Clients": {
+                "legend": {
+                    "cumulativeRawSize": "Cumulative RAW size (TiB)"
+                }
+            }
         }
     }
 }
