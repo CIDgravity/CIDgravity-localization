@@ -136,7 +136,8 @@
             },
             "top10PricingModels": {
                 "legend": {
-                    "cumulativeRawSize": "Cumulative RAW size (TiB)"
+                    "cumulativeRawSize": "Cumulative RAW size (TiB)",
+                    "qualityAdjustedPower": "Cumulative QAP (TiB)"
                 }
             },
             "acceptedDealsRejectedReasons": {
@@ -146,6 +147,11 @@
                 }
             },
             "rejectedDealsByType": {
+                "legend": {
+                    "qualityAdjustedPower": "Cumulative QAP (TiB)"
+                }
+            },
+            "acceptedDealsFilPlus": {
                 "legend": {
                     "qualityAdjustedPower": "Cumulative QAP (TiB)"
                 }
