@@ -28,7 +28,10 @@
             "startEpochBelowSealingBuffer": "Below min. start epoch"
         },
         "totalAcceptedDealsWithReasons": {
-            "title": "Accepted / rejected proposals"
+            "title": "Accepted / rejected proposals",
+            "legend": {
+                "numberOfProposals": "Number of proposals"
+            }
         }
     }
 }
