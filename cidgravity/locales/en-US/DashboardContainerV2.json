@@ -108,8 +108,10 @@
             "transferType": {
                 "legend": {
                     "cumulativeRawSize": "Cumulative RAW size (TiB)",
-                    "qualityAdjustedPower": "Cumulative QAP (TiB)"
-                }
+                    "qualityAdjustedPower": "Cumulative QAP (TiB)",
+                    "numberOfProposals": "Number of proposals"
+                },
+                "title": "By transfer type"
             },
             "filPlusStatus": {
                 "legend": {
@@ -126,9 +128,12 @@
             "dealSize": {
                 "legend": {
                     "cumulativeRawSize": "Cumulative RAW size (TiB)",
-                    "qualityAdjustedPower": "Cumulative QAP (TiB)"
-                }
-            }
+                    "qualityAdjustedPower": "Cumulative QAP (TiB)",
+                    "numberOfProposals": "Number of proposals"
+                },
+                "title": "By size"
+            },
+            "title": "Rejected deal proposal metrics"
         },
         "history": {
             "top10Clients": {
