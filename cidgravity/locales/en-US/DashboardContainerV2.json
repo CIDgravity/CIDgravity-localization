@@ -70,7 +70,13 @@
             }
         },
         "acceptedDeals": {
-            "title": "Accepted deal proposal metrics"
+            "title": "Accepted deal proposal metrics",
+            "transferType": {
+                "title": "By transfer type",
+                "legend": {
+                    "numberOfProposals": "Number of proposals"
+                }
+            }
         }
     }
 }
