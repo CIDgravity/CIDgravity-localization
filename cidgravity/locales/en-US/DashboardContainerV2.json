@@ -87,7 +87,8 @@
             },
             "filPlusStatus": {
                 "legend": {
-                    "qualityAdjustedPower": "Cumulative QAP (TiB)"
+                    "qualityAdjustedPower": "Cumulative QAP (TiB)",
+                    "numberOfProposals": "Number of proposals"
                 },
                 "title": "Verified (Fil+) / unverified"
             },
