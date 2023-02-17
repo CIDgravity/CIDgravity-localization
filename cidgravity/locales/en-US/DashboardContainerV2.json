@@ -99,6 +99,11 @@
                 "legend": {
                     "cumulativeRawSize": "Cumulative RAW size (TiB)"
                 }
+            },
+            "dealSize": {
+                "legend": {
+                    "cumulativeRawSize": "Cumulative RAW size (TiB)"
+                }
             }
         },
         "history": {
