@@ -10,7 +10,7 @@
         },
         "unit": {
             "numberOfProposals": "Number of proposals",
-            "cumulativeRawSize": "Cumulative RAW size",
+            "cumulativeRawSize": "Cumulative RBP (RAW power)",
             "qualityAdjustedPower": "Cumulative QAP"
         }
     },
