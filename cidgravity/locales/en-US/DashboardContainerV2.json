@@ -89,7 +89,7 @@
                 "legend": {
                     "qualityAdjustedPower": "Cumulative QAP (TiB)"
                 },
-                "title": "Verified / unverified (Fil+)"
+                "title": "Verified (Fil+) / unverified"
             },
             "dealSize": {
                 "legend": {
