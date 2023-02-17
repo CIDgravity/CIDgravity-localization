@@ -10,5 +10,10 @@
             "cumulativeRawSize": "Cumulative RAW size",
             "qualityAdjustedPower": "Cumulative QAP"
         }
+    },
+    "retool": {
+        "reasons": {
+            "accept": "Accepted"
+        }
     }
 }
