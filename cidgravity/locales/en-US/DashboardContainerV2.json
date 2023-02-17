@@ -2,7 +2,8 @@
     "title": "Welcome {{userFirstName}}!",
     "filter": {
         "timeRange": {
-            "1hour": "Last hour"
+            "1hour": "Last hour",
+            "1day": "Last 24 hours"
         }
     }
 }
