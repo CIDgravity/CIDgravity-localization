@@ -61,7 +61,11 @@
             }
         },
         "top10PricingModels": {
-            "title": "Top 10 pricing models"
+            "title": "Top 10 pricing models",
+            "columns": {
+                "pricingModelName": "Pricing model name",
+                "numberOfProposals": "Number of proposals"
+            }
         }
     }
 }
