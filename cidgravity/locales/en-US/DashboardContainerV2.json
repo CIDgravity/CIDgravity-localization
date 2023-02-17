@@ -142,6 +142,11 @@
                 "legend": {
                     "cumulativeRawSize": "Cumulative RAW size (TiB)"
                 }
+            },
+            "rejectedDealsByType": {
+                "legend": {
+                    "qualityAdjustedPower": "Cumulative QAP (TiB)"
+                }
             }
         }
     }
