@@ -31,7 +31,8 @@
             "title": "Accepted / rejected proposals",
             "legend": {
                 "numberOfProposals": "Number of proposals",
-                "cumulativeRawSize": "Cumulative RAW size (TiB)"
+                "cumulativeRawSize": "Cumulative RAW size (TiB)",
+                "qualityAdjustedPower": "Cumulative QAP (TiB)"
             }
         }
     }
