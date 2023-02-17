@@ -41,6 +41,9 @@
                 "cumulativeRawSize": "Cumulative RAW size (TiB)",
                 "qualityAdjustedPower": "Cumulative QAP (TiB)"
             }
+        },
+        "top10ClientsAccepted": {
+            "title": "Top 10 clients (accepted deals)"
         }
     }
 }
