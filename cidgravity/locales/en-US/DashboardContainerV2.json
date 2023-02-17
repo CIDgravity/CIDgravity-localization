@@ -156,7 +156,8 @@
             "top10PricingModels": {
                 "legend": {
                     "cumulativeRawSize": "Cumulative RAW size (TiB)",
-                    "qualityAdjustedPower": "Cumulative QAP (TiB)"
+                    "qualityAdjustedPower": "Cumulative QAP (TiB)",
+                    "numberOfProposals": "Number of proposals"
                 },
                 "title": "Top 10 pricing models"
             },
