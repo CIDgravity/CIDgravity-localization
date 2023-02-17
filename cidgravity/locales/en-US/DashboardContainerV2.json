@@ -17,7 +17,8 @@
     "retool": {
         "reasons": {
             "accept": "Accepted",
-            "maintenance": "Maintenance mode"
+            "maintenance": "Maintenance mode",
+            "sizeRateLimit": "Size rate limit"
         },
         "totalAcceptedDealsWithReasons": {
             "title": "Plop"
