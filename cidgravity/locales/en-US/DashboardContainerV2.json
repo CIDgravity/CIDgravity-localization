@@ -160,7 +160,8 @@
             },
             "rejectedDealsFilPlus": {
                 "legend": {
-                    "qualityAdjustedPower": "Cumulative QAP (TiB)"
+                    "qualityAdjustedPower": "Cumulative QAP (TiB)",
+                    "cumulativeRawSize": "Cumulative RAW size (TiB)"
                 }
             }
         }
