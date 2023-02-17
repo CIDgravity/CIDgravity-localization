@@ -1,3 +1,8 @@
 {
-    "title": "Welcome {{userFirstName}}!"
+    "title": "Welcome {{userFirstName}}!",
+    "filter": {
+        "timeRange": {
+            "1hour": "Last hour"
+        }
+    }
 }
