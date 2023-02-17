@@ -81,7 +81,8 @@
             },
             "dealDuration": {
                 "legend": {
-                    "cumulativeRawSize": "Cumulative RAW size (TiB)"
+                    "cumulativeRawSize": "Cumulative RAW size (TiB)",
+                    "qualityAdjustedPower": "Cumulative QAP (TiB)"
                 }
             },
             "filPlusStatus": {
@@ -103,7 +104,8 @@
             },
             "filPlusStatus": {
                 "legend": {
-                    "cumulativeRawSize": "Cumulative RAW size (TiB)"
+                    "cumulativeRawSize": "Cumulative RAW size (TiB)",
+                    "qualityAdjustedPower": "Cumulative QAP (TiB)"
                 }
             },
             "dealDuration": {
