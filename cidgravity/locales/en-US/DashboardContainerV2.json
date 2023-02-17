@@ -68,6 +68,9 @@
                 "cumulativeRawSize": "Cumulative RAW size (TiB)",
                 "qualityAdjustedPower": "Cumulative QAP (TiB)"
             }
+        },
+        "acceptedDeals": {
+            "title": "Accepted deal proposal metrics"
         }
     }
 }
