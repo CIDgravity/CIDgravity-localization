@@ -13,8 +13,5 @@
     },
     "dateRangePicker": {
         "placeholder": "From ({{dateFormat}}) - To ({{dateFormat}})"
-    },
-    "searchDatabase": {
-        "archived": "Archived proposals (last 3months)"
     }
 }
