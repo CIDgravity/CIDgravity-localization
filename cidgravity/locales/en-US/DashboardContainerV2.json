@@ -24,7 +24,8 @@
             "sizeRateLimit": "Rate limit - Cumulative size",
             "invalidProposal": "Invalid proposal",
             "rateLimit": "Rate limit - Number of proposals",
-            "reject": "No matching pricing rules"
+            "reject": "No matching pricing rules",
+            "startEpochBelowSealingBuffer": "Below min. start epoch"
         },
         "totalAcceptedDealsWithReasons": {
             "title": "Plop"
