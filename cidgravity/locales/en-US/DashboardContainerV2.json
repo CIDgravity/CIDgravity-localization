@@ -30,7 +30,8 @@
         "totalAcceptedDealsWithReasons": {
             "title": "Accepted / rejected proposals",
             "legend": {
-                "numberOfProposals": "Number of proposals"
+                "numberOfProposals": "Number of proposals",
+                "cumulativeRawSize": "Cumulative RAW size (TiB)"
             }
         }
     }
