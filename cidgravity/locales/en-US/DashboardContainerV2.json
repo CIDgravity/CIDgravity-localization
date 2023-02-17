@@ -82,6 +82,11 @@
                 "legend": {
                     "cumulativeRawSize": "Cumulative RAW size (TiB)"
                 }
+            },
+            "filPlusStatus": {
+                "legend": {
+                    "qualityAdjustedPower": "Cumulative QAP (TiB)"
+                }
             }
         },
         "rejectedDeals": {
