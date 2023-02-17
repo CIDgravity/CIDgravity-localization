@@ -88,7 +88,8 @@
             "filPlusStatus": {
                 "legend": {
                     "qualityAdjustedPower": "Cumulative QAP (TiB)"
-                }
+                },
+                "title": "Verified / unverified (Fil+)"
             },
             "dealSize": {
                 "legend": {
