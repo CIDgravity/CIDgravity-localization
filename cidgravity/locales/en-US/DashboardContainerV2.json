@@ -99,7 +99,8 @@
         "rejectedDeals": {
             "transferType": {
                 "legend": {
-                    "cumulativeRawSize": "Cumulative RAW size (TiB)"
+                    "cumulativeRawSize": "Cumulative RAW size (TiB)",
+                    "qualityAdjustedPower": "Cumulative QAP (TiB)"
                 }
             },
             "filPlusStatus": {
