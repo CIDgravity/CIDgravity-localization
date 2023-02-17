@@ -23,7 +23,8 @@
             "maintenance": "Maintenance mode",
             "sizeRateLimit": "Rate limit - Cumulative size",
             "invalidProposal": "Invalid proposal",
-            "rateLimit": "Rate limit - Number of proposals"
+            "rateLimit": "Rate limit - Number of proposals",
+            "reject": "No matching pricing rules"
         },
         "totalAcceptedDealsWithReasons": {
             "title": "Plop"
