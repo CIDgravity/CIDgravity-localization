@@ -155,6 +155,11 @@
                 "legend": {
                     "qualityAdjustedPower": "Cumulative QAP (TiB)"
                 }
+            },
+            "rejectedDealsFilPlus": {
+                "legend": {
+                    "qualityAdjustedPower": "Cumulative QAP (TiB)"
+                }
             }
         }
     }
