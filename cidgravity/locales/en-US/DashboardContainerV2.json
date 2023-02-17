@@ -52,7 +52,11 @@
             }
         },
         "top10ClientsRejected": {
-            "title": "Top 10 clients (rejected deals)"
+            "title": "Top 10 clients (rejected deals)",
+            "columns": {
+                "clientName": "Client name",
+                "numberOfProposals": "Number of proposals"
+            }
         }
     }
 }
