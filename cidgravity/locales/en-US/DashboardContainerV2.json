@@ -28,7 +28,7 @@
             "startEpochBelowSealingBuffer": "Below min. start epoch"
         },
         "totalAcceptedDealsWithReasons": {
-            "title": "Accepted / Rejected proposals"
+            "title": "Accepted / rejected proposals"
         }
     }
 }
