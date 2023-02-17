@@ -3,7 +3,8 @@
     "filter": {
         "timeRange": {
             "1hour": "Last 60 minutes",
-            "1day": "Last 24 hours"
+            "1day": "Last 24 hours",
+            "1week": "Last 7 days"
         },
         "unit": {
             "numberOfProposals": "Number of proposals",
