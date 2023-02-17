@@ -64,7 +64,9 @@
             "title": "Top 10 pricing models",
             "columns": {
                 "pricingModelName": "Pricing model name",
-                "numberOfProposals": "Number of proposals"
+                "numberOfProposals": "Number of proposals",
+                "cumulativeRawSize": "Cumulative RAW size (TiB)",
+                "qualityAdjustedPower": "Cumulative QAP (TiB)"
             }
         }
     }
