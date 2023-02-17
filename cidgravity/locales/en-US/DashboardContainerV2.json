@@ -163,6 +163,16 @@
                     "qualityAdjustedPower": "Cumulative QAP (TiB)",
                     "cumulativeRawSize": "Cumulative RAW size (TiB)"
                 }
+            },
+            "acceptedDealsAverageSize": {
+                "legend": {
+                    "cumulativeRawSize": "Cumulative RAW size (TiB)"
+                }
+            },
+            "rejectedDealsAverageSize": {
+                "legend": {
+                    "cumulativeRawSize": "Cumulative RAW size (TiB)"
+                }
             }
         }
     }
