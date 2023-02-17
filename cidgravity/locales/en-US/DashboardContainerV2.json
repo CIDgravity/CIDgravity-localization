@@ -4,6 +4,9 @@
         "timeRange": {
             "1hour": "Last hour",
             "1day": "Last 24 hours"
+        },
+        "unit": {
+            "numberOfProposals": "Number of proposals"
         }
     }
 }
