@@ -21,7 +21,7 @@
         "reasons": {
             "accept": "Accepted",
             "maintenance": "Maintenance mode",
-            "sizeRateLimit": "Size rate limit",
+            "sizeRateLimit": "Rate limit - Cumulative size",
             "invalidProposal": "Invalid proposal"
         },
         "totalAcceptedDealsWithReasons": {
