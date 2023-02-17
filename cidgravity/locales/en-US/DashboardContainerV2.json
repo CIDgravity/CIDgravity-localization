@@ -162,7 +162,8 @@
                 "legend": {
                     "cumulativeRawSize": "Cumulative RAW size (TiB)",
                     "qualityAdjustedPower": "Cumulative QAP (TiB)"
-                }
+                },
+                "title": "Accepted / rejected proposals"
             },
             "rejectedDealsByType": {
                 "legend": {
