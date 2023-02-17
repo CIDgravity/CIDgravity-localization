@@ -12,6 +12,9 @@
             "numberOfProposals": "Number of proposals",
             "cumulativeRawSize": "Cumulative RBP (RAW power)",
             "qualityAdjustedPower": "Cumulative QAP"
+        },
+        "datePicker": {
+            "placeholder": "Select date"
         }
     },
     "retool": {
