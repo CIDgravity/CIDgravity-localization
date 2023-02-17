@@ -77,6 +77,11 @@
                     "numberOfProposals": "Number of proposals",
                     "cumulativeRawSize": "Cumulative RAW size (TiB)"
                 }
+            },
+            "dealDuration": {
+                "legend": {
+                    "cumulativeRawSize": "Cumulative RAW size (TiB)"
+                }
             }
         }
     }
