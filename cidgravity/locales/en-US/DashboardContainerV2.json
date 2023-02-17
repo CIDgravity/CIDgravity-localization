@@ -34,6 +34,11 @@
                 "cumulativeRawSize": "Cumulative RAW size (TiB)",
                 "qualityAdjustedPower": "Cumulative QAP (TiB)"
             }
+        },
+        "totalAcceptedDealsSizeWithReasons": {
+            "legend": {
+                "numberOfProposals": "Number of proposals"
+            }
         }
     }
 }
