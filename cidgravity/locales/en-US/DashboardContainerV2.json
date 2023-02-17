@@ -16,7 +16,8 @@
     },
     "retool": {
         "reasons": {
-            "accept": "Accepted"
+            "accept": "Accepted",
+            "maintenance": "Maintenance mode"
         },
         "totalAcceptedDealsWithReasons": {
             "title": "Plop"
