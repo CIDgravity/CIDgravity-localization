@@ -17,6 +17,9 @@
     "retool": {
         "reasons": {
             "accept": "Accepted"
+        },
+        "totalAcceptedDealsWithReasons": {
+            "title": "Plop"
         }
     }
 }
