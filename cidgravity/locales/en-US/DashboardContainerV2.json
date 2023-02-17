@@ -43,7 +43,11 @@
             }
         },
         "top10ClientsAccepted": {
-            "title": "Top 10 clients (accepted deals)"
+            "title": "Top 10 clients (accepted deals)",
+            "columns": {
+                "clientName": "Client name",
+                "numberOfProposals": "Number of proposals"
+            }
         }
     }
 }
