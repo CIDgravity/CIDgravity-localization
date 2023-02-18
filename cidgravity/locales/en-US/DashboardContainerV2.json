@@ -69,7 +69,8 @@
                 "numberOfProposals": "Number of proposals",
                 "cumulativeRawSize": "Cumulative RAW size (TiB)",
                 "qualityAdjustedPower": "Cumulative QAP (TiB)"
-            }
+            },
+            "noRowsFound": "No data"
         },
         "acceptedDeals": {
             "title": "Accepted deal proposal metrics",
