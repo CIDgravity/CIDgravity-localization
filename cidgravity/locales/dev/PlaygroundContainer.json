@@ -24,6 +24,9 @@
             "reason": "Your deal proposal can't be analysed due to a error, if this behavior persist, please report it to the support team"
         }
     },
+    "error": {
+        "onLoadSpecificProposal": "Unable to load specific deal proposal to simulate. Try again in a few minutes or contact CIDgravity team!"
+    },
     "validation": {
         "isFromAddressNotSupported": "The from address you provide doesn't match a valid Filecoin address",
         "isPriceMandatory": "The price must be filled (at least O FIL)",

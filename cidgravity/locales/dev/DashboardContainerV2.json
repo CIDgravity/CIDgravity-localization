@@ -7,7 +7,8 @@
             "1day": "24 hours",
             "1week": "1 week",
             "1month": "1 month",
-            "3months": "3 months"
+            "3months": "3 months",
+            "specificDate": "Select specific date"
         },
         "datePicker": {
             "placeholder": "Select custom date"
