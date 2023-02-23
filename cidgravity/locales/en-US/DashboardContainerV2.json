@@ -104,7 +104,7 @@
                     "numberOfProposals": "Number of proposals",
                     "cumulativeRawSize": "Cumulative RAW size (TiB)"
                 },
-                "title": "By size"
+                "title": "By deal size"
             }
         },
         "rejectedDeals": {
