@@ -109,7 +109,9 @@
         "columnsName": {
             "pricingModelName": "Pricing model",
             "numberOfProposals": "Number of proposals",
-            "cumulativeRawSize": "RAW power (TiB)"
+            "cumulativeRawSize": "RAW power (TiB)",
+            "qualityAdjustedPower": "Cumulative QaP (TiB)",
+            "clientName": "Client"
         }
     }
 }
