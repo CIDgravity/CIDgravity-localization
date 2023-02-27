@@ -110,7 +110,7 @@
             "pricingModelName": "Pricing model",
             "numberOfProposals": "Number of proposals",
             "cumulativeRawSize": "RAW power (TiB)",
-            "qualityAdjustedPower": "Cumulative QaP (TiB)",
+            "qualityAdjustedPower": "Cumulative QAP (TiB)",
             "clientName": "Client",
             "reason": ""
         },
