@@ -37,5 +37,8 @@
         "error": {
             "isFromAddressNotSupported": "The \"from\" field must be a valid Filecoin address."
         }
+    },
+    "error": {
+        "onLoadSpecificProposal": "An error occurred when loading the storage proposal, please retry in a few minutes or contact the CIDgravity team."
     }
 }
