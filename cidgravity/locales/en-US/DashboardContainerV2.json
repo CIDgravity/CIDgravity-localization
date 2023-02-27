@@ -81,7 +81,11 @@
             "title": "Historical deal proposal metrics"
         },
         "transferTypes": {
-            "unkown": "Unkown"
+            "unkown": "Unkown",
+            "libp2p": "Libp2p-HTTP",
+            "http": "HTTP",
+            "graphsync": "Graphsync",
+            "manual": "Manual"
         }
     }
 }
