@@ -79,6 +79,9 @@
                 "title": "Accepted / rejected proposals"
             },
             "title": "Historical deal proposal metrics"
+        },
+        "transferTypes": {
+            "unkown": "Unkown"
         }
     }
 }
