@@ -90,6 +90,9 @@
             },
             "rejectedDealsByType": {
                 "title": "Rejected deals by transfer type"
+            },
+            "acceptedDealsFilPlus": {
+                "title": "Accepted deals Verified (Fil+) / unverified"
             }
         },
         "transferTypes": {
