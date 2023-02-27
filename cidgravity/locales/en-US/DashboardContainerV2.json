@@ -78,7 +78,13 @@
             "acceptedDealsRejectedReasons": {
                 "title": "Accepted / rejected proposals"
             },
-            "title": "Historical deal proposal metrics"
+            "title": "Historical deal proposal metrics",
+            "top10ClientsForAcceptedDeals": {
+                "title": "Top 10 clients (accepted deals)"
+            },
+            "top10ClientsForRejectedDeals": {
+                "title": "Top 10 clients (rejected deals)"
+            }
         },
         "transferTypes": {
             "unkown": "Unkown",
