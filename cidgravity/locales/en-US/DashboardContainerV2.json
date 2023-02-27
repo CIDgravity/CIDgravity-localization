@@ -96,6 +96,10 @@
             "34359738368": "32 GiB",
             "68719476736": "64 GiB",
             "-1": "< 1 GiB"
+        },
+        "filPlusStatus": {
+            "true": "Verified",
+            "false": "Unverified"
         }
     }
 }
