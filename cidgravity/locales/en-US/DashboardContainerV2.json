@@ -105,6 +105,9 @@
             "<= 12": "≤ 12 months",
             "> 12": "> 12 months",
             "> 15": "> 15 months"
+        },
+        "columnsName": {
+            "pricingModelName": "Pricing model"
         }
     }
 }
