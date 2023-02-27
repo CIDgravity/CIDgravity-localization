@@ -96,6 +96,12 @@
             },
             "rejectedDealsAverageSize": {
                 "title": "Rejected deals by size"
+            },
+            "acceptedDealsAverageSize": {
+                "title": "Accepted deals by size"
+            },
+            "rejectedDealsFilPlus": {
+                "title": "Rejected deals Verified (Fil+) / unverified"
             }
         },
         "transferTypes": {
