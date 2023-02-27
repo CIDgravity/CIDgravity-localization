@@ -118,6 +118,7 @@
             "numberOfProposals": "Number of proposals",
             "cumulativeRawSize": "RAW size (TiB)",
             "qualityAdjustedPower": "Cumulative QAP (TiB)"
-        }
+        },
+        "noRowsFound": "No data"
     }
 }
