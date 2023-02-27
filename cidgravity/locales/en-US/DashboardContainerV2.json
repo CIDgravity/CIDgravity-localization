@@ -87,6 +87,9 @@
             },
             "acceptedDealsByType": {
                 "title": "Accepted deals by transfer type"
+            },
+            "rejectedDealsByType": {
+                "title": "Rejected deals by transfer type"
             }
         },
         "transferTypes": {
