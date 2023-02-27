@@ -107,7 +107,8 @@
             "> 15": "> 15 months"
         },
         "columnsName": {
-            "pricingModelName": "Pricing model"
+            "pricingModelName": "Pricing model",
+            "numberOfProposals": "Number of proposals"
         }
     }
 }
