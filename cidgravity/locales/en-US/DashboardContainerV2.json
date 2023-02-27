@@ -12,7 +12,8 @@
         "unit": {
             "numberOfProposals": "Number of proposals",
             "cumulativeRawSize": "Cumulative RBP (RAW power)",
-            "qualityAdjustedPower": "Cumulative QAP"
+            "qualityAdjustedPower": "Cumulative QAP",
+            "placeholder": "Select charts unit"
         },
         "datePicker": {
             "placeholder": "Select date"
@@ -72,18 +73,10 @@
         },
         "history": {
             "top10PricingModels": {
-                "legend": {
-                    "qualityAdjustedPower": "Cumulative QAP (TiB)"
-                },
                 "title": "Top 10 pricing models"
             },
             "acceptedDealsRejectedReasons": {
                 "title": "Accepted / rejected proposals"
-            },
-            "rejectedDealsFilPlus": {
-                "legend": {
-                    "cumulativeRawSize": "Cumulative RAW size (TiB)"
-                }
             },
             "title": "Historical deal proposal metrics"
         }
