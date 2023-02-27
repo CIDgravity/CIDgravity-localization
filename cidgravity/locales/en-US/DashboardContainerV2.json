@@ -6,7 +6,8 @@
             "1day": "Last 24 hours",
             "1month": "Last 30 days",
             "3months": "Last 3 months",
-            "placeholder": "Pick-up date"
+            "placeholder": "Pick-up date",
+            "specificDate": "Specific date"
         },
         "unit": {
             "numberOfProposals": "Number of proposals",
@@ -30,28 +31,14 @@
         "totalAcceptedDealsWithReasons": {
             "title": "Accepted / rejected proposals"
         },
-        "totalAcceptedDealsSizeWithReasons": {
-            "legend": {
-                "numberOfProposals": "Number of proposals"
-            }
-        },
         "top10ClientsAccepted": {
-            "title": "Top 10 clients (accepted deals)",
-            "columns": {
-                "qualityAdjustedPower": "Cumulative QAP (TiB)"
-            }
+            "title": "Top 10 clients (accepted deals)"
         },
         "top10ClientsRejected": {
-            "title": "Top 10 clients (rejected deals)",
-            "columns": {
-                "qualityAdjustedPower": "Cumulative QAP (TiB)"
-            }
+            "title": "Top 10 clients (rejected deals)"
         },
         "top10PricingModels": {
-            "title": "Top 10 pricing models",
-            "columns": {
-                "qualityAdjustedPower": "Cumulative QAP (TiB)"
-            }
+            "title": "Top 10 pricing models"
         },
         "acceptedDeals": {
             "title": "Accepted deal proposal metrics",
@@ -59,9 +46,6 @@
                 "title": "By transfer type"
             },
             "dealDuration": {
-                "legend": {
-                    "cumulativeRawSize": "Cumulative RAW size (TiB)"
-                },
                 "title": "By duration"
             },
             "filPlusStatus": {
@@ -87,11 +71,6 @@
             "title": "Rejected deal proposal metrics"
         },
         "history": {
-            "acceptedDealsByType": {
-                "legend": {
-                    "cumulativeRawSize": "Cumulative RAW size (TiB)"
-                }
-            },
             "top10PricingModels": {
                 "legend": {
                     "qualityAdjustedPower": "Cumulative QAP (TiB)"
@@ -100,11 +79,6 @@
             },
             "acceptedDealsRejectedReasons": {
                 "title": "Accepted / rejected proposals"
-            },
-            "acceptedDealsFilPlus": {
-                "legend": {
-                    "qualityAdjustedPower": "Cumulative QAP (TiB)"
-                }
             },
             "rejectedDealsFilPlus": {
                 "legend": {
