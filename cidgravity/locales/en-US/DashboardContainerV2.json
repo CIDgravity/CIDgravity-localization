@@ -5,7 +5,8 @@
             "1hour": "Last 60 minutes",
             "1day": "Last 24 hours",
             "1month": "Last 30 days",
-            "3months": "Last 3 months"
+            "3months": "Last 3 months",
+            "placeholder": "Pick-up date"
         },
         "unit": {
             "numberOfProposals": "Number of proposals",
@@ -27,103 +28,68 @@
             "startEpochBelowSealingBuffer": "Below min. start epoch"
         },
         "totalAcceptedDealsWithReasons": {
-            "title": "Accepted / rejected proposals",
-            "legend": {
-                "cumulativeRawSize": "Cumulative RAW size (TiB)"
-            }
+            "title": "Accepted / rejected proposals"
         },
         "totalAcceptedDealsSizeWithReasons": {
             "legend": {
-                "numberOfProposals": "Number of proposals",
-                "qualityAdjustedPower": "Cumulative QAP (TiB)"
+                "numberOfProposals": "Number of proposals"
             }
         },
         "top10ClientsAccepted": {
             "title": "Top 10 clients (accepted deals)",
             "columns": {
-                "numberOfProposals": "Number of proposals",
                 "qualityAdjustedPower": "Cumulative QAP (TiB)"
             }
         },
         "top10ClientsRejected": {
             "title": "Top 10 clients (rejected deals)",
             "columns": {
-                "numberOfProposals": "Number of proposals",
                 "qualityAdjustedPower": "Cumulative QAP (TiB)"
             }
         },
         "top10PricingModels": {
             "title": "Top 10 pricing models",
             "columns": {
-                "numberOfProposals": "Number of proposals",
                 "qualityAdjustedPower": "Cumulative QAP (TiB)"
             }
         },
         "acceptedDeals": {
             "title": "Accepted deal proposal metrics",
             "transferType": {
-                "title": "By transfer type",
-                "legend": {
-                    "cumulativeRawSize": "Cumulative RAW size (TiB)"
-                }
+                "title": "By transfer type"
             },
             "dealDuration": {
                 "legend": {
-                    "cumulativeRawSize": "Cumulative RAW size (TiB)",
-                    "numberOfProposals": "Number of proposals"
+                    "cumulativeRawSize": "Cumulative RAW size (TiB)"
                 },
                 "title": "By duration"
             },
             "filPlusStatus": {
-                "legend": {
-                    "numberOfProposals": "Number of proposals"
-                },
                 "title": "Verified (Fil+) / unverified"
             },
             "dealSize": {
-                "legend": {
-                    "numberOfProposals": "Number of proposals"
-                },
                 "title": "By deal size"
             }
         },
         "rejectedDeals": {
             "transferType": {
-                "legend": {
-                    "qualityAdjustedPower": "Cumulative QAP (TiB)"
-                },
                 "title": "By transfer type"
             },
             "filPlusStatus": {
-                "legend": {
-                    "qualityAdjustedPower": "Cumulative QAP (TiB)"
-                },
                 "title": "Verified (Fil+) / unverified"
             },
             "dealDuration": {
-                "legend": {
-                    "qualityAdjustedPower": "Cumulative QAP (TiB)"
-                },
                 "title": "By duration"
             },
             "dealSize": {
-                "legend": {
-                    "qualityAdjustedPower": "Cumulative QAP (TiB)"
-                },
                 "title": "By size"
             },
             "title": "Rejected deal proposal metrics"
         },
         "history": {
-            "top10Clients": {
-                "legend": {
-                    "qualityAdjustedPower": "Cumulative QAP (TiB)"
-                }
-            },
             "acceptedDealsByType": {
                 "legend": {
-                    "cumulativeRawSize": "Cumulative RAW size (TiB)",
-                    "numberOfProposals": "Number of proposals"
+                    "cumulativeRawSize": "Cumulative RAW size (TiB)"
                 }
             },
             "top10PricingModels": {
@@ -133,28 +99,14 @@
                 "title": "Top 10 pricing models"
             },
             "acceptedDealsRejectedReasons": {
-                "legend": {
-                    "qualityAdjustedPower": "Cumulative QAP (TiB)"
-                },
                 "title": "Accepted / rejected proposals"
-            },
-            "rejectedDealsByType": {
-                "legend": {
-                    "cumulativeRawSize": "Cumulative RAW size (TiB)"
-                }
             },
             "acceptedDealsFilPlus": {
                 "legend": {
-                    "qualityAdjustedPower": "Cumulative QAP (TiB)",
-                    "numberOfProposals": "Number of proposals"
+                    "qualityAdjustedPower": "Cumulative QAP (TiB)"
                 }
             },
             "rejectedDealsFilPlus": {
-                "legend": {
-                    "cumulativeRawSize": "Cumulative RAW size (TiB)"
-                }
-            },
-            "acceptedDealsAverageSize": {
                 "legend": {
                     "cumulativeRawSize": "Cumulative RAW size (TiB)"
                 }
