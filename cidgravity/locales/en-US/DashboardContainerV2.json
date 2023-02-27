@@ -84,6 +84,9 @@
             },
             "top10ClientsForRejectedDeals": {
                 "title": "Top 10 clients (rejected deals)"
+            },
+            "acceptedDealsByType": {
+                "title": "Accepted deals by transfer type"
             }
         },
         "transferTypes": {
