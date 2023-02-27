@@ -12,7 +12,7 @@
         "unit": {
             "numberOfProposals": "Number of proposals",
             "cumulativeRawSize": "Cumulative RBP (RAW power)",
-            "qualityAdjustedPower": "Cumulative QAP",
+            "qualityAdjustedPower": "Cumulative QAP (TiB)",
             "placeholder": "Select charts unit"
         },
         "datePicker": {
