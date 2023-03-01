@@ -2,9 +2,7 @@
     "title": "Welcome {{userFirstName}}!",
     "filter": {
         "timeRange": {
-            "1hour": "Last 60 minutes",
             "1day": "Last 24 hours",
-            "1month": "Last 30 days",
             "3months": "Last 3 months",
             "placeholder": "Pick-up date",
             "specificDate": "Specific date"
