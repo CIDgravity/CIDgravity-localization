@@ -6,7 +6,8 @@
             "placeholder": "Pick-up date",
             "specificDate": "Specific date",
             "60minutes": "Last 60 minutes",
-            "24hours": "Last 24 hours"
+            "24hours": "Last 24 hours",
+            "30days": "Last 30 days"
         },
         "unit": {
             "numberOfProposals": "Number of proposals",
