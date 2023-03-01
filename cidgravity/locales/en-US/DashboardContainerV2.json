@@ -2,10 +2,11 @@
     "title": "Welcome {{userFirstName}}!",
     "filter": {
         "timeRange": {
-            "1day": "Last 24 hours",
             "3months": "Last 3 months",
             "placeholder": "Pick-up date",
-            "specificDate": "Specific date"
+            "specificDate": "Specific date",
+            "60minutes": "Last 60 minutes",
+            "24hours": "Last 24 hours"
         },
         "unit": {
             "numberOfProposals": "Number of proposals",
