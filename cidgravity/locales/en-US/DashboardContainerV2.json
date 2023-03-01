@@ -1,5 +1,5 @@
 {
-    "title": "Storage deal proposals dashboard",
+    "title": "Storage deal dashboard",
     "filter": {
         "timeRange": {
             "3months": "Last 3 months",
