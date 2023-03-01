@@ -3,10 +3,10 @@
     "filter": {
         "timeRange": {
             "placeholder": "Select a time range",
-            "1hour": "1 hour",
-            "1day": "24 hours",
-            "1month": "1 month",
-            "3months": "3 months",
+            "60minutes": "Last 60 minutes",
+            "24hours": "Last 24 hours",
+            "30days": "Last 30 days",
+            "3months": "Last 3 months",
             "specificDate": "Select specific date"
         },
         "datePicker": {
