@@ -1,7 +1,8 @@
 {
     "community": {
         "title": "Community",
-        "joinSlack": "Join our Slack channel"
+        "joinSlack": "Join our Slack channel",
+        "description": "Ask questions, get help, or discuss all things with fellow storage providers, developers and experts.<br /><br />You will also have DM access to the CIDgravity team."
     },
     "issue": {
         "title": "Issues",
