@@ -50,7 +50,7 @@
             "isAddressCantBeAddedOneMoreTime": "{{address}} already exists.",
             "isAddressResolvesToAlreadyUsed": "{{address}} resolves to {{resolvedAddress}} which is already in use.",
             "isAddressAlreadyConfigured": "{{address}} already attached to a client.",
-            "isAddressNotOfTypeAccount": "{{address}} is not a Filecoin supported actor type (f1/f3/f4).",
+            "isAddressNotOfTypeAccount": "{{address}} is not a Filecoin supported actor type (f1 / f3 / f4).",
             "isAddressGenericError": "{{address}} cannot be added, please try again later or contact the CIDgravity team.",
             "isAddressInvalidFilecoinFormat": "{{address}} is not a valid Filecoin address",
             "isAddressInvalidFormat": "{{address}} - this address type is not supported, use SECP256K1, ID or BLS address",
