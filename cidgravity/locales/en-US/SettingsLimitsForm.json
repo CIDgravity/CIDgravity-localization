@@ -33,7 +33,7 @@
                 "info": "Max bandwidth allocated to Bitswap (in Bytes/sec)",
                 "unit": {
                     "B": "b",
-                    "KB": "KB",
+                    "KB": "kb",
                     "GB": "GB",
                     "MB": "MB"
                 }
