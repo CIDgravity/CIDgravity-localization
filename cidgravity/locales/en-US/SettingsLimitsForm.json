@@ -34,8 +34,8 @@
                 "unit": {
                     "B": "b",
                     "KB": "kb",
-                    "GB": "GB",
-                    "MB": "MB"
+                    "GB": "Gb",
+                    "MB": "Mb"
                 }
             }
         }
