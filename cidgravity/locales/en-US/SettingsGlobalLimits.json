@@ -1,7 +1,11 @@
 {
     "client": {
         "rateLimit": {
-            "title": "Global rate limits"
+            "title": "Global rate limits",
+            "storageDealPerHour": {
+                "label": "Number of storage deals per hour",
+                "info": "Max number of storage deals per hour across all clients"
+            }
         }
     }
 }
