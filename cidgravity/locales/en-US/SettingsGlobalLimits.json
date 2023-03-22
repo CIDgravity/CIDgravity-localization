@@ -9,7 +9,18 @@
             "retrievalDealPerHour": {
                 "label": "Retrieval deals per hour",
                 "info": "Max number of retrieval deals per hour across all clients"
+            },
+            "cumulativeDealSize": {
+                "label": "Cumulative storage deal size (GiB/h)",
+                "info": "Max cumulative storage deal size per hour across all clients"
+            },
+            "button": {
+                "save": "Save"
             }
         }
+    },
+    "zeroMeanNoLimits": "value 0 means no limits",
+    "validation": {
+        "isInvalidValue": "Invalid value."
     }
 }
