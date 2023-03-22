@@ -1,1 +1,7 @@
-{}
+{
+    "client": {
+        "rateLimit": {
+            "title": "Global rate limits"
+        }
+    }
+}

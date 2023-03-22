@@ -1,7 +1,6 @@
 {
     "title": "Settings",
     "client": {
-        "title": "Client settings",
         "maintenanceMode": {
             "title": "Maintenance mode",
             "label": "Enable/disable maintenance mode",
@@ -21,7 +20,6 @@
         }
     },
     "other": {
-        "title": "Other settings",
         "connector": {
             "title": "CIDgravity connector",
             "downloadLink": "Download the connector",
