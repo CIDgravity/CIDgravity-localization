@@ -21,6 +21,8 @@
     },
     "zeroMeanNoLimits": "value 0 means no limits",
     "validation": {
-        "isInvalidValue": "Invalid value."
+        "isInvalidValue": "Invalid value.",
+        "isNotPositiveValue": "Value must be a positive integer.",
+        "isRequiredValue": "This field is mandatory."
     }
 }
