@@ -5,6 +5,10 @@
             "storageDealPerHour": {
                 "label": "Number of storage deals per hour",
                 "info": "Max number of storage deals per hour across all clients"
+            },
+            "retrievalDealPerHour": {
+                "label": "Retrieval deals per hour",
+                "info": "Max number of retrieval deals per hour across all clients"
             }
         }
     }
