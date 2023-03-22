@@ -1,25 +1,13 @@
 {
     "client": {
-        "rateLimit": {
-            "title": "Global rate limits",
-            "storageDealPerHour": {
-                "label": "Number of storage deals per hour",
-                "info": "Max number of storage deals per hour across all clients"
-            },
-            "retrievalDealPerHour": {
-                "label": "Retrieval deals per hour",
-                "info": "Max number of retrieval deals per hour across all clients"
-            },
-            "cumulativeDealSize": {
-                "label": "Cumulative storage deal size (GiB/h)",
-                "info": "Max cumulative storage deal size per hour across all clients"
-            },
-            "button": {
-                "save": "Save"
-            }
-        },
         "bitswap": {
-            "title": "Bitswap limits (NOT USED YET)",
+            "title": "Booster bitswap limits",
+            "description": "booster-bitswap can be configured to fetch its config from CIDgravity; these settings will be synced automatically. <1>boost documentation</1> <br /> The magic happen when you start booster-bitswap with 2 additional parameters:",
+            "recentActivity": {
+                "title": "Recent activity from boost bitswap",
+                "lastCheck": "Last request received on {{datetime}}",
+                "noMostRecentActivity": "No recent activity"
+            },
             "simultaneousRequests": {
                 "label": "Simultaneous retrievals",
                 "info": "Number of simultaneous requests allowed across all clients "
@@ -27,6 +15,9 @@
             "simultaneousRequestsPerPeer": {
                 "info": "Number of simultaneous retrievals allowed per Peer ID",
                 "label": "Simultaneous requests per Peer ID"
+            },
+            "button": {
+                "save": "Save"
             },
             "maxBandwidth": {
                 "label": "Max bandwidth",

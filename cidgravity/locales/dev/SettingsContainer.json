@@ -1,7 +1,6 @@
 {
     "title": "Manage miner settings",
     "client": {
-        "title": "Client settings",
         "maintenanceMode": {
             "title": "Maintenance mode",
             "label": "Enable/disable maintenance mode",
@@ -21,7 +20,6 @@
         }
     },
     "other": {
-        "title": "Other settings",
         "connector": {
             "title": "CIDgravity connector",
             "info": "The \"CIDgravity connector\" connects a lotus-miner to the CIDgravity <br/> service. This lightweight connector is executed locally by the lotus-miner <br/> process each time the lotus-miner receives a deal proposal.",
