@@ -1,1 +1,54 @@
-{}
+{
+    "client": {
+        "rateLimit": {
+            "storageDealPerHour": {
+                "label": "Number of storage deals per hour"
+            },
+            "retrievalDealPerHour": {
+                "label": "Retrieval deals per hour"
+            },
+            "cumulativeDealSize": {
+                "label": "Cumulative storage deal size (GiB/h)"
+            },
+            "button": {
+                "save": "Save"
+            }
+        },
+        "bitswap": {
+            "title": "Booster bitswap limits",
+            "simultaneousRequests": {
+                "label": "Simultaneous retrievals",
+                "info": "Number of simultaneous requests allowed across all clients"
+            },
+            "simultaneousRequestsPerPeer": {
+                "info": "Number of simultaneous retrievals allowed per Peer ID",
+                "label": "Simultaneous requests per Peer ID"
+            },
+            "maxBandwidth": {
+                "label": "Max bandwidth",
+                "info": "Max bandwidth allocated to bitswap (in bits/sec)",
+                "unit": {
+                    "B": "b",
+                    "KB": "kb",
+                    "GB": "Gb",
+                    "MB": "Mb"
+                }
+            },
+            "recentActivity": {
+                "noMostRecentActivity": "No recent activity",
+                "title": "Recent activity",
+                "lastCheck": "Last sync request received on {{datetime}}"
+            },
+            "button": {
+                "save": "Save"
+            },
+            "description": "booster-bitswap can be configured to fetch its config from CIDgravity; these settings will be synced automatically. <1>boost documentation</1> <br /> Use these 2 additional parameters when starting booster-bitswap:"
+        }
+    },
+    "zeroMeanNoLimits": "value 0 means no limits",
+    "validation": {
+        "isInvalidValue": "Invalid value.",
+        "isNotPositiveValue": "Value must be a positive integer.",
+        "isRequiredValue": "This field is mandatory."
+    }
+}
