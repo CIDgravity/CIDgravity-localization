@@ -8,6 +8,9 @@
         "cancel": "Cancel"
     },
     "removeConfirmation": {
-        "header": "Remove pricing model \"{{pricingModelName}}\""
+        "header": "Remove pricing model \"{{pricingModelName}}\"",
+        "body": {
+            "willRemoveThisPricingModel": "This pricing model will be removed, this action cannot be undone."
+        }
     }
 }
