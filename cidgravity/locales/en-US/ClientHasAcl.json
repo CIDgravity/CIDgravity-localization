@@ -1,6 +1,7 @@
 {
     "header": "Delete client \"{{clientName}}\"",
     "button": {
-        "cancel": "Cancel"
+        "cancel": "Cancel",
+        "goToRetrievalAclPage": "Go to Retrieval ACLs"
     }
 }
