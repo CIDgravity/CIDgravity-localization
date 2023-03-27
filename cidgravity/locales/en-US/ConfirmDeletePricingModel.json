@@ -1,5 +1,8 @@
 {
     "unableToRemove": {
         "header": "Unable to remove pricing model \"{{pricingModelName}}\""
+    },
+    "button": {
+        "close": "Close"
     }
 }
