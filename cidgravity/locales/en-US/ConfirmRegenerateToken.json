@@ -2,5 +2,8 @@
     "button": {
         "cancel": "Cancel"
     },
-    "header": "Renew the CIDgravity connector token"
+    "header": "Renew the CIDgravity connector token",
+    "body": {
+        "beCareful": "This action cannot be undone!"
+    }
 }
