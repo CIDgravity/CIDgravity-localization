@@ -4,6 +4,7 @@
     },
     "button": {
         "close": "Close",
-        "confirm": "Confirm"
+        "confirm": "Confirm",
+        "cancel": "Cancel"
     }
 }
