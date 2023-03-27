@@ -1,6 +1,9 @@
 {
     "unableToRemove": {
-        "header": "Unable to remove pricing model \"{{pricingModelName}}\""
+        "header": "Unable to remove pricing model \"{{pricingModelName}}\"",
+        "body": {
+            "needToUpdateClientsPricingModels": "This model is still assigned to active clients. Update the pricing model of all clients listed below, to enable model deletion:<br />"
+        }
     },
     "button": {
         "close": "Close",
