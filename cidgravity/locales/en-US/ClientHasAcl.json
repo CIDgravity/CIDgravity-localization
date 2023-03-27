@@ -3,5 +3,8 @@
     "button": {
         "cancel": "Cancel",
         "goToRetrievalAclPage": "Go to Retrieval ACLs"
+    },
+    "body": {
+        "clientHasLinkedAcl": "The client \"{{clientName}}\" is currently listed in the retrieval [whitelist/blacklist] access control. Remove all ACLs for this client, to enable client deletion."
     }
 }
