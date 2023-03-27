@@ -2,5 +2,8 @@
     "header": "Disconnect \"{{integrationName}}\" from CIDgravity",
     "body": {
         "willDisconnectIntegration": "You are about to disconnect this integration. The associated client and pricing will not be deleted."
+    },
+    "button": {
+        "continue": "Delete"
     }
 }
