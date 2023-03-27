@@ -1,14 +1,8 @@
 {
     "client": {
         "rateLimit": {
-            "storageDealPerHour": {
-                "label": "Number of storage deals per hour"
-            },
             "retrievalDealPerHour": {
                 "label": "Retrieval deals per hour"
-            },
-            "cumulativeDealSize": {
-                "label": "Cumulative storage deal size (GiB/h)"
             },
             "button": {
                 "save": "Save"
