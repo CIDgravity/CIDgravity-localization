@@ -6,7 +6,7 @@
         "signNewMessage": "the miner will continue to work with CIDgravity and all settings will remain unchanged.</br>\nThis miner can be relinked at any time by completing the claim process."
     },
     "button": {
-        "confirm": "Confirm",
+        "confirm": "Remove",
         "cancel": "Cancel"
     }
 }
