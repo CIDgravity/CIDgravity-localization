@@ -1,1 +1,3 @@
-{}
+{
+    "header": "Delete client \"{{clientName}}\""
+}
