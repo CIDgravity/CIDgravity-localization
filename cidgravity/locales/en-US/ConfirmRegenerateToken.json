@@ -4,6 +4,7 @@
     },
     "header": "Renew the CIDgravity connector token",
     "body": {
-        "beCareful": "This action cannot be undone!"
+        "beCareful": "This action cannot be undone!",
+        "yourTokenWillBeInvalidated": "You are about to regenerate your connector token<br /> <br />"
     }
 }
