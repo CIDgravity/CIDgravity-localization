@@ -3,7 +3,7 @@
     "body": {
         "willUnlinkFromYourAccount": "This action unlink the miner with your CIDgravity account. It's a none destructive action, the miner will keep running and working with CIDgravity.",
         "beCareful": "This action unlink the miner from your CIDgravity account.",
-        "signNewMessage": "Claim the miner again to relink it."
+        "signNewMessage": "It's a none destructive action, the miner will keep working with CIDgravity and the settings will remain as well."
     },
     "button": {
         "confirm": "Confirm",
