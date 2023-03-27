@@ -6,7 +6,7 @@
     "header": "Renew the CIDgravity connector token",
     "body": {
         "beCareful": "This action cannot be undone!",
-        "yourTokenWillBeInvalidated": "You are about to regenerate your connector token<br /> <br />",
+        "yourTokenWillBeInvalidated": "You are about to regenerate your connector token.<br /> <br />",
         "dealProposalsWillNotBeProcessed": "Deal proposals will not be processed until the miner connector is updated."
     }
 }
