@@ -1,6 +1,7 @@
 {
     "button": {
-        "cancel": "Cancel"
+        "cancel": "Cancel",
+        "confirm": "Confirm"
     },
     "header": "Renew the CIDgravity connector token",
     "body": {
