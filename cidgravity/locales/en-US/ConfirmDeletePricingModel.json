@@ -6,5 +6,8 @@
         "close": "Close",
         "confirm": "Confirm",
         "cancel": "Cancel"
+    },
+    "removeConfirmation": {
+        "header": "Remove pricing model \"{{pricingModelName}}\""
     }
 }
