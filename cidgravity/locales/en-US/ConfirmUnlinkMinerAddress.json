@@ -1,7 +1,7 @@
 {
     "header": "Remove miner {{addressId}}",
     "body": {
-        "willUnlinkFromYourAccount": "This action unlink the miner with your CIDgravity account.",
+        "willUnlinkFromYourAccount": "This action will unlink the miner with your CIDgravity account.",
         "beCareful": "It's a none destructive action,",
         "signNewMessage": "the miner will keep working with CIDgravity and the settings will remain as well.\nAt anytime, relink it by claim it."
     },
