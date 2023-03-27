@@ -48,7 +48,7 @@
                 "title": "Integration connected!",
                 "subtitle": {
                     "existingPricingModel": "Client '{{clientName}}' has been created with existing pricing model '{{pricingModelName}}'",
-                    "newPricingModel": "Client '{{clientName}}' has been created with pricing model '{pricingModelName}'"
+                    "newPricingModel": "Client '{{clientName}}' has been created with pricing model '{{pricingModelName}}'"
                 },
                 "error": {
                     "title": "An error occurred during Estuary integration",
