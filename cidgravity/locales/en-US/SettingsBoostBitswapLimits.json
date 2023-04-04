@@ -1,9 +1,6 @@
 {
     "client": {
         "rateLimit": {
-            "retrievalDealPerHour": {
-                "label": "Retrieval deals per hour"
-            },
             "button": {
                 "save": "Save"
             }
