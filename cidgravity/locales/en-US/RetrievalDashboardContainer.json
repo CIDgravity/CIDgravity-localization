@@ -6,7 +6,18 @@
             "60minutes": "Last 60 minutes",
             "24hours": "Last 24 hours",
             "30days": "Last 30 days",
-            "3months": "Last 3 months"
+            "3months": "Last 3 months",
+            "specificDate": "Select specific date"
+        },
+        "datePicker": {
+            "placeholder": "Select custom date"
+        }
+    },
+    "retool": {
+        "reasons": {
+            "accept": "Accepted",
+            "maintenance": "Maintenance mode",
+            "invalidProposal": "Invalid proposal"
         }
     }
 }
