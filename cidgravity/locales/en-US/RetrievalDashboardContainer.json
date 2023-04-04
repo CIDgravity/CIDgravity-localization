@@ -41,6 +41,13 @@
             "top10ReceiversForRejectedDeals": {
                 "title": "Top 10 Peer ID (rejected deals)"
             }
+        },
+        "columnsName": {
+            "numberOfProposals": "Number of proposals",
+            "peerID": "Peer ID"
+        },
+        "axisUnits": {
+            "numberOfProposals": "Number of proposals"
         }
     }
 }
