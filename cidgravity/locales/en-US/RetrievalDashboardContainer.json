@@ -34,7 +34,13 @@
             "acceptedDealsRejectedReasons": {
                 "title": "Accepted / rejected proposals"
             },
-            "title": "Historical retrieval proposal metrics"
+            "title": "Historical retrieval proposal metrics",
+            "top10ReceiversForAcceptedDeals": {
+                "title": "Top 10 Peer ID (accepted deals)"
+            },
+            "top10ReceiversForRejectedDeals": {
+                "title": "Top 10 Peer ID (rejected deals)"
+            }
         }
     }
 }
