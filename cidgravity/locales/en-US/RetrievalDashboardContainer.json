@@ -48,6 +48,10 @@
         },
         "axisUnits": {
             "numberOfProposals": "Number of proposals"
+        },
+        "noRowsFound": "No data",
+        "totalAcceptedDealsSizeWithReasons": {
+            "title": "Accepted / rejected proposals"
         }
     }
 }
