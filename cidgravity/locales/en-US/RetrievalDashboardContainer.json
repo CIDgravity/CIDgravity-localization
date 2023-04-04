@@ -17,7 +17,8 @@
         "reasons": {
             "accept": "Accepted",
             "maintenance": "Maintenance mode",
-            "invalidProposal": "Invalid proposal"
+            "invalidProposal": "Invalid proposal",
+            "retrievalRateLimit": "Rate limit - Number of retrievals"
         }
     }
 }
