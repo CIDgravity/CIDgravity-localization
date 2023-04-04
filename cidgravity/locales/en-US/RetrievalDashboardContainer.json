@@ -20,6 +20,9 @@
             "invalidProposal": "Invalid proposal",
             "retrievalRateLimit": "Rate limit - Number of retrievals",
             "reject": "Rejected"
+        },
+        "totalAcceptedDealsWithReasons": {
+            "title": "Accepted / rejected proposals"
         }
     }
 }
