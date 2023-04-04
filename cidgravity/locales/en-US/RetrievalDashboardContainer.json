@@ -29,6 +29,12 @@
         },
         "top10ReceiversRejected": {
             "title": "Top 10 Peer ID (rejected deals)"
+        },
+        "history": {
+            "acceptedDealsRejectedReasons": {
+                "title": "Accepted / rejected proposals"
+            },
+            "title": "Historical retrieval proposal metrics"
         }
     }
 }
