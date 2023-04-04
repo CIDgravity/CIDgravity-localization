@@ -15,7 +15,8 @@
         "retrieval": {
             "title": "Retrieval",
             "history": "History",
-            "acl": "Deny list"
+            "acl": "Deny list",
+            "dashboard": "Analytics"
         }
     }
 }
