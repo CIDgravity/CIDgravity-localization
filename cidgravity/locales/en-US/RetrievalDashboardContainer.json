@@ -18,7 +18,8 @@
             "accept": "Accepted",
             "maintenance": "Maintenance mode",
             "invalidProposal": "Invalid proposal",
-            "retrievalRateLimit": "Rate limit - Number of retrievals"
+            "retrievalRateLimit": "Rate limit - Number of retrievals",
+            "reject": "Rejected"
         }
     }
 }
