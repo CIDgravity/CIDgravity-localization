@@ -26,6 +26,9 @@
         },
         "top10ReceiversAccepted": {
             "title": "Top 10 Peer ID"
+        },
+        "top10ReceiversRejected": {
+            "title": "Top 10 Peer ID (rejected deals)"
         }
     }
 }
