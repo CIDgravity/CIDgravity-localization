@@ -23,6 +23,9 @@
         },
         "totalAcceptedDealsWithReasons": {
             "title": "Accepted / rejected proposals"
+        },
+        "top10ReceiversAccepted": {
+            "title": "Top 10 Peer ID"
         }
     }
 }
