@@ -14,6 +14,7 @@
         },
         "retrieval": {
             "title": "Retrieval",
+            "dashboard": "Analytics",
             "history": "History",
             "acl": "ACL"
         }

@@ -1,0 +1,57 @@
+{
+    "title": "Retrieval analytics",
+    "filter": {
+        "timeRange": {
+            "placeholder": "Select a time range",
+            "60minutes": "Last 60 minutes",
+            "24hours": "Last 24 hours",
+            "30days": "Last 30 days",
+            "3months": "Last 3 months",
+            "specificDate": "Select specific date"
+        },
+        "datePicker": {
+            "placeholder": "Select custom date"
+        }
+    },
+    "retool": {
+        "reasons": {
+            "accept": "Accepted",
+            "maintenance": "Maintenance mode",
+            "invalidProposal": "Invalid proposal",
+            "retrievalRateLimit": "Rate limit - Number of retrievals",
+            "reject": "Rejected"
+        },
+        "totalAcceptedDealsWithReasons": {
+            "title": "Accepted / rejected proposals"
+        },
+        "top10ReceiversAccepted": {
+            "title": "Top 10 receivers (accepted deals)"
+        },
+        "top10ReceiversRejected": {
+            "title": "Top 10 receivers (rejected deals)"
+        },
+        "history": {
+            "acceptedDealsRejectedReasons": {
+                "title": "Accepted / rejected proposals"
+            },
+            "title": "Historical retrieval proposal metrics",
+            "top10ReceiversForAcceptedDeals": {
+                "title": "Top 10 receivers (accepted deals)"
+            },
+            "top10ReceiversForRejectedDeals": {
+                "title": "Top 10 receivers (rejected deals)"
+            }
+        },
+        "columnsName": {
+            "numberOfProposals": "Number of proposals",
+            "peerID": "Peer ID"
+        },
+        "axisUnits": {
+            "numberOfProposals": "Number of proposals"
+        },
+        "noRowsFound": "No data",
+        "totalAcceptedDealsSizeWithReasons": {
+            "title": "Accepted / rejected proposals"
+        }
+    }
+}
