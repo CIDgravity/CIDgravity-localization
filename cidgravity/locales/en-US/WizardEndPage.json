@@ -1,6 +1,5 @@
 {
     "button": {
-        "goToDashboard": "Go to Dashboard",
         "configureIntegrations": "Configure integrations (Optional)",
         "deployConnector": "Deploy CIDgravity-X connector"
     },
