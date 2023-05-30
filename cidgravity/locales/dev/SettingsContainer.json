@@ -25,12 +25,25 @@
             "info": "The \"CIDgravity connector\" connects a lotus-miner to the CIDgravity <br/> service. This lightweight connector is executed locally by the lotus-miner <br/> process each time the lotus-miner receives a deal proposal.",
             "downloadLink": "Download the connector",
             "mostRecentActivity": "CIDgravity·connector version: {{version}} (last seen {{datetime}})",
+            "mostRecentActivityError": "Something wrong : {{errorCode}} (last seen {{lastCheck}})",
             "noMostRecentActivity": "No recent activity",
+            "activityErrorCodes": {
+                "connectorNotProperlyConfigured": "Your connector is misconfigured",
+                "invalidProposal": "Proposal was invalid",
+                "invalidProposalType": "Proposal was not supported",
+                "invalidConnectorVersion": "Update your connector version",
+                "invalidConnector": "Invalid connector request"
+            },
             "token": {
                 "title": "CIDgravity connector key",
                 "regenerate": "Disable and regenerate this token",
                 "subtitle": "Add this api key to the CIDgravity connector deployed on the miner"
             }
+        },
+        "minerStatusCheck": {
+            "title": "Automatic status check",
+            "label": "I want CIDgravity to check the availability of my miner regularly",
+            "info": "If you activate this option, we will send proposals at regular intervals, <br/>in order to check the configuration and availability of your miner"
         },
         "friendlyName": {
             "title": "Friendly name",

@@ -20,132 +20,132 @@
         }
     },
     "retool": {
-      "reasons": {
-        "accept": "Accepted",
-        "sizeRateLimit": "Size rate limit",
-        "rateLimit": "Rate limit",
-        "reject": "No matching pricing",
-        "maintenance": "Maintenance mode",
-        "invalidProposal": "Invalid proposal",
-        "startEpochBelowSealingBuffer": "Below sealing buffer"
-      },
-      "transferTypes": {
-        "unkown": "Unkown",
-        "libp2p": "Libp2p-HTTP",
-        "http": "HTTP",
-        "graphsync": "Graphsync",
-        "manual": "Manual"
-      },
-      "dealSize": {
-        "1073741824": "1 GiB",
-        "2147483648": "2 GiB",
-        "4294967296": "4 GiB",
-        "8589934592": "8 GiB",
-        "17179869184": "16 GiB",
-        "34359738368": "32 GiB",
-        "68719476736": "64 GiB",
-        "-1": "< 1 GiB"
-      },
-      "filPlusStatus": {
-        "true": "Verified",
-        "false": "Unverified"
-      },
-      "dealDuration": {
-        "<= 12": "≤ 12 months",
-        "> 12": "> 12 months",
-        "> 15": "> 15 months"
-      },
-      "columnsName": {
-        "pricingModelName": "Pricing model name",
-        "numberOfProposals": "Number of proposals",
-        "cumulativeRawSize": "Raw size (TiB)",
-        "qualityAdjustedPower": "QaP (TiB)",  
-        "clientName": "Client name",
-        "reason": "Accepted / rejected reason"
-      } ,
-      "axisUnits": {
-        "numberOfProposals": "Number of proposals",
-        "cumulativeRawSize": "Raw size (TiB)",
-        "qualityAdjustedPower": "QaP (TiB)"   
-      },
-      "noRowsFound": "No data found",
-      "totalAcceptedDealsWithReasons": {
-        "title": "Total accepted deals / rejected reasons"
-      },
-      "totalAcceptedDealsSizeWithReasons": {
-        "title": "Total accepted deals size / rejected reasons"
-      },
-      "top10ClientsAccepted": {
-        "title": "Top 10 clients (accepted deals)"
-      },
-      "top10ClientsRejected": {
-        "title": "Top 10 clients (rejected deals)"
-      },
-      "top10PricingModels": {
-        "title": "Top 10 pricing models"
-      },
-      "acceptedDeals": {
-        "title": "Accepted deals",
-        "transferType": {
-            "title": "By transfer type"
-          },
-          "dealSize": {
-            "title": "By size"
-          },
-          "filPlusStatus": {
-            "title": "By Fil+ status"
-          },
-          "dealDuration": {
-            "title": "By duration"
-          }
-      },
-      "rejectedDeals": {
-        "title": "Rejected deals",
-        "transferType": {
-            "title": "By transfer type"
-          },
-          "dealSize": {
-            "title": "By size"
-          },
-          "filPlusStatus": {
-            "title": "By Fil+ status"
-          },
-          "dealDuration": {
-            "title": "By duration"
-          }
-      },
-      "history": {
-        "title": "History view",
-        "acceptedDealsRejectedReasons": {
-          "title": "Accepted deals - Rejected reasons"
+        "reasons": {
+            "accept": "Accepted",
+            "sizeRateLimit": "Size rate limit",
+            "rateLimit": "Rate limit",
+            "reject": "No matching pricing",
+            "maintenance": "Maintenance mode",
+            "invalidProposal": "Invalid proposal",
+            "startEpochBelowSealingBuffer": "Below sealing buffer"
         },
-        "top10ClientsForAcceptedDeals": {
-          "title": "Top 10 clients (accepted deals)"
+        "transferTypes": {
+            "unkown": "Unkown",
+            "libp2p": "Libp2p-HTTP",
+            "http": "HTTP",
+            "graphsync": "Graphsync",
+            "manual": "Manual"
         },
-        "top10ClientsForRejectedDeals": {
-          "title": "Top 10 clients (rejected deals)"
+        "dealSize": {
+            "1073741824": "1 GiB",
+            "2147483648": "2 GiB",
+            "4294967296": "4 GiB",
+            "8589934592": "8 GiB",
+            "17179869184": "16 GiB",
+            "34359738368": "32 GiB",
+            "68719476736": "64 GiB",
+            "-1": "< 1 GiB"
+        },
+        "filPlusStatus": {
+            "true": "Verified",
+            "false": "Unverified"
+        },
+        "dealDuration": {
+            "<= 12": "≤ 12 months",
+            "> 12": "> 12 months",
+            "> 15": "> 15 months"
+        },
+        "columnsName": {
+            "pricingModelName": "Pricing model name",
+            "numberOfProposals": "Number of proposals",
+            "cumulativeRawSize": "Raw size (TiB)",
+            "qualityAdjustedPower": "QaP (TiB)",
+            "clientName": "Client name",
+            "reason": "Accepted / rejected reason"
+        },
+        "axisUnits": {
+            "numberOfProposals": "Number of proposals",
+            "cumulativeRawSize": "Raw size (TiB)",
+            "qualityAdjustedPower": "QaP (TiB)"
+        },
+        "noRowsFound": "No data found",
+        "totalAcceptedDealsWithReasons": {
+            "title": "Total accepted deals / rejected reasons"
+        },
+        "totalAcceptedDealsSizeWithReasons": {
+            "title": "Total accepted deals size / rejected reasons"
+        },
+        "top10ClientsAccepted": {
+            "title": "Top 10 clients (accepted deals)"
+        },
+        "top10ClientsRejected": {
+            "title": "Top 10 clients (rejected deals)"
         },
         "top10PricingModels": {
-          "title": "Top 10 pricing models"
+            "title": "Top 10 pricing models"
         },
-        "acceptedDealsByType": {
-          "title": "Accepted deals by type"
+        "acceptedDeals": {
+            "title": "Accepted deals",
+            "transferType": {
+                "title": "By transfer type"
+            },
+            "dealSize": {
+                "title": "By size"
+            },
+            "filPlusStatus": {
+                "title": "By Fil+ status"
+            },
+            "dealDuration": {
+                "title": "By duration"
+            }
         },
-        "rejectedDealsByType": {
-          "title": "Rejected deals by type"
+        "rejectedDeals": {
+            "title": "Rejected deals",
+            "transferType": {
+                "title": "By transfer type"
+            },
+            "dealSize": {
+                "title": "By size"
+            },
+            "filPlusStatus": {
+                "title": "By Fil+ status"
+            },
+            "dealDuration": {
+                "title": "By duration"
+            }
         },
-        "acceptedDealsFilPlus": {
-          "title": "Accepted deals Fil+"
-        },
-        "rejectedDealsAverageSize": {
-          "title": "Rejected deals average size"
-        },
-        "acceptedDealsAverageSize": {
-          "title": "Accepted deals average size"
-        },
-        "rejectedDealsFilPlus": {
-          "title": "Rejected deals Fil+"
+        "history": {
+            "title": "History view",
+            "acceptedDealsRejectedReasons": {
+                "title": "Accepted deals - Rejected reasons"
+            },
+            "top10ClientsForAcceptedDeals": {
+                "title": "Top 10 clients (accepted deals)"
+            },
+            "top10ClientsForRejectedDeals": {
+                "title": "Top 10 clients (rejected deals)"
+            },
+            "top10PricingModels": {
+                "title": "Top 10 pricing models"
+            },
+            "acceptedDealsByType": {
+                "title": "Accepted deals by type"
+            },
+            "rejectedDealsByType": {
+                "title": "Rejected deals by type"
+            },
+            "acceptedDealsFilPlus": {
+                "title": "Accepted deals Fil+"
+            },
+            "rejectedDealsAverageSize": {
+                "title": "Rejected deals average size"
+            },
+            "acceptedDealsAverageSize": {
+                "title": "Accepted deals average size"
+            },
+            "rejectedDealsFilPlus": {
+                "title": "Rejected deals Fil+"
+            }
         }
-      }
     }
 }

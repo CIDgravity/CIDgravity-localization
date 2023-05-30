@@ -10,7 +10,7 @@
         "stepConfigureIntegrations": "Step 3: Configure integrations (Optional)"
     },
     "button": {
-        "goToDashboard": "Go to Dashboard",
+        "testConnectivity": "Test end-to-end connectivity",
         "configureIntegrations": "Configure integrations (Optional)",
         "deployConnector": "Deploy CIDgravity-X connector"
     }
