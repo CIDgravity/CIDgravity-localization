@@ -1,10 +1,5 @@
 {
     "client": {
-        "rateLimit": {
-            "button": {
-                "save": "Save"
-            }
-        },
         "bitswap": {
             "title": "Booster bitswap limits",
             "simultaneousRequests": {
