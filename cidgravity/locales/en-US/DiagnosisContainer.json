@@ -6,7 +6,10 @@
         "launchTest": " ",
         "sendingProposal": "Sending test proposal...",
         "results": {
-            "howToSolve": "Hint"
+            "howToSolve": "Hint",
+            "finishedSuccess": {
+                "title": "All tests successfully passed."
+            }
         }
     }
 }
