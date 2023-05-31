@@ -10,6 +10,7 @@
             "finishedSuccess": {
                 "title": "All tests successfully passed."
             }
-        }
+        },
+        "finishedSuccess": "All diagnosis steps passed successfully"
     }
 }
