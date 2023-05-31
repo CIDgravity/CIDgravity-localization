@@ -24,7 +24,7 @@
         },
         "ERR_INVALID_MULTI_ADDRESS_IN_MINER_INFO": {
             "resolveTips": "Invalid Multiaddr",
-            "name": "Invalid Multiaddr on chain"
+            "name": "Invalid Multiaddr"
         }
     }
 }
