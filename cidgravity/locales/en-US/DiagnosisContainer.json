@@ -27,7 +27,8 @@
             "name": "Invalid Multiaddr"
         },
         "ERR_CONNECT_MINER_PEER_ID": {
-            "name": "Cannot connect the miner Peer ID"
+            "name": "Cannot connect the miner Peer ID",
+            "resolveTips": "Set the correct Peer ID on chain using the following commands (given that boost init generates a new identity) :<br />Get the miner Peer ID : \"boostd net id\"<br />2. Set the Peer ID on chain : \"lotus-miner actor set-peer-id <PEER_ID>\""
         }
     }
 }
