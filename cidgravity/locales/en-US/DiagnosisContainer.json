@@ -4,7 +4,7 @@
     "step": {
         "readyToLaunch": "Press the \"Start\" button",
         "launchTest": " ",
-        "sendingProposal": "Sending test proposal...",
+        "sendingProposal": "Sending test proposal…",
         "results": {
             "howToSolve": "Hint",
             "finishedSuccess": {
