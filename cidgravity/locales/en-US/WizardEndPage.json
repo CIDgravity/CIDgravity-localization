@@ -1,7 +1,8 @@
 {
     "button": {
         "configureIntegrations": "Configure integrations (Optional)",
-        "deployConnector": "Deploy CIDgravity-X connector"
+        "deployConnector": "Deploy CIDgravity-X connector",
+        "testConnectivity": "Test miner connectivity"
     },
     "minerAlreadyClaimed": {
         "title": "Successfully claimed {{address}}"
