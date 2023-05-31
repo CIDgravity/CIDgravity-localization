@@ -38,7 +38,8 @@
             "name": "Unsupported Markets node version"
         },
         "ERR_NO_MATCHING_DEAL_PROTOCOL_SUPPORTED": {
-            "name": "Unsupported Markets node version"
+            "name": "Unsupported Markets node version",
+            "resolveTips": "Consider running the last stable version of boost or venus"
         }
     }
 }
