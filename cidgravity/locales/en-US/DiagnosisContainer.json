@@ -16,7 +16,7 @@
     "errorCode": {
         "ERR_NO_PEER_ID_SET_ON_CHAIN": {
             "name": "No Peer ID set on chain",
-            "resolveTips": "Make sure that the correctPeer ID is set on chain (given that boost init generates a new identity).<br />Use the following commands to update the values on chain :<br />1. Get the miner Peer ID : \"boostd net id\"<br />2. Set the Peer ID on chain : \"lotus-miner actor set-peer-id <PEER_ID>\""
+            "resolveTips": "Make sure that the correct Peer ID is set on chain (given that boost init generates a new identity).<br />Use the following commands to update the values on chain :<br />1. Get the miner Peer ID : \"boostd net id\"<br />2. Set the Peer ID on chain : \"lotus-miner actor set-peer-id <PEER_ID>\""
         },
         "ERR_NO_MULTI_ADDRESS_SET_ON_CHAIN": {
             "name": "No Multiaddr set on chain"
