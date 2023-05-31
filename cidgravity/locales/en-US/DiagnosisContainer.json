@@ -12,5 +12,10 @@
             }
         },
         "finishedSuccess": "All tests successfully passed."
+    },
+    "errorCode": {
+        "ERR_NO_PEER_ID_SET_ON_CHAIN": {
+            "name": "No Peer ID set on chain"
+        }
     }
 }
