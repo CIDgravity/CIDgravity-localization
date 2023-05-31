@@ -20,7 +20,7 @@
         },
         "ERR_NO_MULTI_ADDRESS_SET_ON_CHAIN": {
             "name": "No Multiaddr set on chain",
-            "resolveTips": "Set Multiaddr on chain using the following commands t :<br />1. Get the value of LibP2P ListenAddresses from boostd config.toml<br />\n2. Set the Multiaddr on chain : \"lotus-miner actor set-addrs <MULTIADDR>\""
+            "resolveTips": "Set Multiaddr on chain using the following commands :<br />1. Get the value of LibP2P ListenAddresses from boostd config.toml<br />\n2. Set the Multiaddr on chain : \"lotus-miner actor set-addrs <MULTIADDR>\""
         }
     }
 }
