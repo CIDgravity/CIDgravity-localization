@@ -1,4 +1,4 @@
 {
     "title": "Miner connectivity",
-    "subtitle": "Test miner connectivity with CIDgravity and ability to receive deals"
+    "subtitle": "End to end connectivity check, validating the miner ability to receive storage deals, plus connectivity with CIDgravity"
 }
