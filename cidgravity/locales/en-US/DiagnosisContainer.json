@@ -1,6 +1,6 @@
 {
     "title": "Miner connectivity",
-    "subtitle": "End to end connectivity check, validating the miner ability to receive storage deals, plus connectivity with CIDgravity",
+    "subtitle": "End to end connectivity check, validating the miner ability to receive storage deals, and CIDgravity connectivity.",
     "step": {
         "readyToLaunch": "Press the \"Start\" button"
     }
