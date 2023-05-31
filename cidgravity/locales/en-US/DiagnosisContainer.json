@@ -19,7 +19,8 @@
             "resolveTips": "Make sure that the correct Peer ID is set on chain (given that boost init generates a new identity).<br />Use the following commands to update the values on chain :<br />1. Get the miner Peer ID : \"boostd net id\"<br />2. Set the Peer ID on chain : \"lotus-miner actor set-peer-id <PEER_ID>\""
         },
         "ERR_NO_MULTI_ADDRESS_SET_ON_CHAIN": {
-            "name": "No Multiaddr set on chain"
+            "name": "No Multiaddr set on chain",
+            "resolveTips": "Set Multiaddr on chain using the following commands t :<br />1. Get the value of LibP2P ListenAddresses from boostd config.toml<br />\n2. Set the Multiaddr on chain : \"lotus-miner actor set-addrs <MULTIADDR>\""
         }
     }
 }
