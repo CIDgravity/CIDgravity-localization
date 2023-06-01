@@ -2,7 +2,7 @@
     "title": "Miner connectivity",
     "subtitle": "End to end connectivity check, validating the miner ability to receive storage deals, and CIDgravity connectivity.",
     "step": {
-        "readyToLaunch": "Press the \"Start\" button",
+        "readyToLaunch": "Press the \"Launch test\" button",
         "sendingProposal": "Sending test proposal…",
         "results": {
             "howToSolve": "Hint",
