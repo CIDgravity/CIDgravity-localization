@@ -51,6 +51,9 @@
         },
         "DIAGNOSIS_SUCCESS": {
             "name": "Completed"
+        },
+        "ERR_TIMEOUT": {
+            "name": "An error occurred whilst trying to test the miner connectivity"
         }
     },
     "button": {
