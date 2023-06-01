@@ -47,5 +47,8 @@
         "ERR_BUILDING_DEAL_PROPOSAL": {
             "name": "CIDgravity connectivity test service is unavailable"
         }
+    },
+    "button": {
+        "sendTest": "Start"
     }
 }
