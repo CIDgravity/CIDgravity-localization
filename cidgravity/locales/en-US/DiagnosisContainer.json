@@ -11,7 +11,7 @@
                 "title": "All tests successfully passed"
             }
         },
-        "finishedSuccess": "All tests successfully passed",
+        "finishedSuccess": "All tests successfully passed USED ????",
         "checkingResults": "Waiting result ({{step}} / 6)…"
     },
     "errorCode": {
