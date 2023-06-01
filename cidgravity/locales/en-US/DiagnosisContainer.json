@@ -8,7 +8,7 @@
         "results": {
             "howToSolve": "Hint",
             "finishedSuccess": {
-                "title": "All tests successfully passed."
+                "title": "All tests successfully passed"
             }
         },
         "finishedSuccess": "All tests successfully passed",
