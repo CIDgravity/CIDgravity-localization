@@ -11,7 +11,10 @@
                 "description": "This miner is reachable and properly configured and to receive storage deals with CIDgravity."
             }
         },
-        "checkingResults": "Waiting result ({{step}} / 6)…"
+        "checkingResults": "Waiting result ({{step}} / 6)…",
+        "errorCodes": {
+            "timeout": "An error occurred whilst trying to test the miner connectivity, please try again later or contact the CIDgravity team."
+        }
     },
     "errorCode": {
         "ERR_NO_PEER_ID_SET_ON_CHAIN": {
