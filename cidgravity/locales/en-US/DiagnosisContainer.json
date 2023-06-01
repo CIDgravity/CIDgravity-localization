@@ -54,7 +54,7 @@
         },
         "ERR_TIMEOUT": {
             "name": "",
-            "resolveTips": "Please try again later or contact the CIDgravity team."
+            "resolveTips": "An error occurred whilst trying to test the miner connectivity, please try again later or contact the CIDgravity team."
         }
     },
     "button": {
