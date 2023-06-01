@@ -68,7 +68,8 @@
         },
         "ERR_OPEN_STREAM_TO_ADDRESS_FOR_GET_ASK": {
             "name": "Testing miner get-ask",
-            "resolveTips": "Cannot get miner get-ask info. Verify locally the pricing is properly set"
+            "resolveTips": "Cannot get miner get-ask info. Verify locally the pricing is properly set",
+            "resolveTipsCommand": "boost provider storage-ask \"MINER_ID\""
         }
     },
     "button": {
