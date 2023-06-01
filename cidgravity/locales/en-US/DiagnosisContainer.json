@@ -3,7 +3,6 @@
     "subtitle": "End to end connectivity check, validating the miner ability to receive storage deals, and CIDgravity connectivity.",
     "step": {
         "readyToLaunch": "Press the \"Start\" button",
-        "launchTest": " ",
         "sendingProposal": "Sending test proposal…",
         "results": {
             "howToSolve": "Hint",
@@ -12,7 +11,6 @@
                 "description": "This miner is reachable and properly configured and to receive storage deals with CIDgravity."
             }
         },
-        "finishedSuccess": "All tests successfully passed TO BE DELETED",
         "checkingResults": "Waiting result ({{step}} / 6)…"
     },
     "errorCode": {
