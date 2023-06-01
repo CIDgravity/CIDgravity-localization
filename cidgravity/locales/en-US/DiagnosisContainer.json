@@ -26,7 +26,7 @@
         },
         "ERR_INVALID_MULTI_ADDRESS_IN_MINER_INFO": {
             "resolveTips": "Set the correct Multiaddr on chain using the following commands :<br />1. Get the value of LibP2P ListenAddresses from boostd config.toml<br />2. Set the new Multiaddr on chain : \"lotus-miner actor set-addrs <MULTIADDR>\"",
-            "name": "Invalid Multiaddr"
+            "name": "Multiaddr is valid"
         },
         "ERR_CONNECT_MINER_PEER_ID": {
             "name": "Cannot connect the miner Peer ID",
