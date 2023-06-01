@@ -67,7 +67,8 @@
             "resolveTipsCommand": "N/A"
         },
         "ERR_OPEN_STREAM_TO_ADDRESS_FOR_GET_ASK": {
-            "name": "Testing miner get-ask"
+            "name": "Testing miner get-ask",
+            "resolveTips": "Cannot get miner get-ask info. Verify locally the pricing is correctly set"
         }
     },
     "button": {
