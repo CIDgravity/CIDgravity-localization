@@ -34,7 +34,7 @@
         },
         "ERR_CIDGRAVITY_SIDE": {
             "name": "CIDgravity connectivity test service is unavailable",
-            "resolveTips": "An error occurred whilst trying to test the miner connectivity.<br />Please try again later or contact the CIDgravity team."
+            "resolveTips": "An error occurred whilst trying to test the miner connectivity, please try again later or contact the CIDgravity team."
         },
         "ERR_DEAL_PROTOCOL_UNSUPPORTED": {
             "name": "Unsupported Markets node version"
