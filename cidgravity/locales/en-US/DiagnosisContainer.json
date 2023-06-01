@@ -67,9 +67,12 @@
             "resolveTipsCommand": "N/A"
         },
         "ERR_OPEN_STREAM_TO_ADDRESS_FOR_GET_ASK": {
-            "name": "Testing miner get-ask",
+            "name": "",
             "resolveTips": "Cannot get miner get-ask info. Verify locally the pricing is properly set",
             "resolveTipsCommand": "# Boost\nboost provider storage-ask \"MINER_ID\""
+        },
+        "ERR_GET_ASK": {
+            "name": "Testing miner get-ask"
         }
     },
     "button": {
