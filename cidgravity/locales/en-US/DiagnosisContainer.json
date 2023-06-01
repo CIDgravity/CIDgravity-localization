@@ -37,7 +37,7 @@
             "resolveTips": "An error occurred whilst trying to test the miner connectivity, please try again later or contact the CIDgravity team."
         },
         "ERR_DEAL_PROTOCOL_UNSUPPORTED": {
-            "name": "Unsupported Markets node version"
+            "name": "Testing Markets node compatibility"
         },
         "ERR_NO_MATCHING_DEAL_PROTOCOL_SUPPORTED": {
             "name": "Unsupported Markets node version",
