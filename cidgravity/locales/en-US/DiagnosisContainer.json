@@ -57,6 +57,6 @@
         }
     },
     "button": {
-        "sendTest": "Start"
+        "sendTest": "Launch tests"
     }
 }
