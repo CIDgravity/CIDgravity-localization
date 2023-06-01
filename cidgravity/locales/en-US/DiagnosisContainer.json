@@ -11,7 +11,8 @@
                 "title": "All tests successfully passed."
             }
         },
-        "finishedSuccess": "All tests successfully passed."
+        "finishedSuccess": "All tests successfully passed.",
+        "checkingResults": "Waiting result … ({{step}} / 6)"
     },
     "errorCode": {
         "ERR_NO_PEER_ID_SET_ON_CHAIN": {
