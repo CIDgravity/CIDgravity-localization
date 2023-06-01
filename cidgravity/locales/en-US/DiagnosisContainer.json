@@ -28,7 +28,8 @@
         },
         "ERR_CONNECT_MINER_PEER_ID": {
             "name": "Testing miner Peer ID reachability",
-            "resolveTips": "1. Verify miner libP2P port is publicly reachable.<br />\n2. Set the correct Peer ID on chain using the following commands (given that boost init generates a new identity) :<br />"
+            "resolveTips": "1. Verify miner libP2P port is publicly reachable.<br />\n2. Set the correct Peer ID on chain using the following commands (given that boost init generates a new identity) :<br />",
+            "resolveTipsCommand": "# Get the miner Peer ID<br />\nPEER_ID=$(boostd net id)<br />\n# Set the Peer ID on chain<br />\nlotus-miner actor set-peer-id \"$PEER_ID\""
         },
         "ERR_CIDGRAVITY_SIDE": {
             "name": "CIDgravity connectivity test service is unavailable",
