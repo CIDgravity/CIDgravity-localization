@@ -29,7 +29,7 @@
             "name": "Testing Multiaddr is valid"
         },
         "ERR_CONNECT_MINER_PEER_ID": {
-            "name": "Testing miner Peer ID is reachable",
+            "name": "Testing miner Peer ID reachability",
             "resolveTips": "Set the correct Peer ID on chain using the following commands (given that boost init generates a new identity) :<br />1. Verify miner libP2P port is publicaly reachable.<br />\n2. Get the miner Peer ID : \"boostd net id\"<br />\n3. Set the Peer ID on chain : \"lotus-miner actor set-peer-id <PEER_ID>\""
         },
         "ERR_CIDGRAVITY_SIDE": {
