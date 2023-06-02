@@ -85,7 +85,8 @@
         },
         "ERR_SEND_PROPOSAL": {
             "name": "Sending test deal proposal",
-            "resolveTips": "Could not established a connection to {{minerID}}({{peerId}}) at {{multiaddresses}}\n\nVerify miner is publicly reachable."
+            "resolveTips": "Could not established a connection to {{minerID}}({{peerId}}) at {{multiaddresses}}\n\nVerify miner is publicly reachable.",
+            "resolveTipsCommand": "N/"
         },
         "ERR_CIDGRAVITY_INVALID_CONNECTOR_TYPE": {
             "name": "Verifying CIDgravity connector type",
