@@ -99,7 +99,9 @@
             "resolveTipsCommand": "git pull\n# Boost\n./cidgravity_storage_connector.py --check-lotus\n# Venus\n./cidgravity_storage_connector.py --check-venus"
         },
         "ERR_OPEN_STREAM_TO_PEER_ID": {
-            "resolveTipsCommand": "N/A"
+            "resolveTipsCommand": "N/A",
+            "name": "Connecting to your miner to send a sample deal proposal",
+            "resolveTips": "N/A"
         }
     },
     "button": {
