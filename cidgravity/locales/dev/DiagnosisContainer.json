@@ -28,7 +28,7 @@
             "resolveTipsCommand": "N/A"
         },
         "ERR_NO_PEER_ID_SET_ON_CHAIN": {
-            "name": "Peer ID available on chain",
+            "name": "Peer ID available on chain {{peerId}}",
             "resolveTips": "N/A",
             "resolveTipsCommand": "N/A"
         },
@@ -38,7 +38,7 @@
             "resolveTipsCommand": "N/A"
         },
         "ERR_NO_MULTI_ADDRESS_SET_ON_CHAIN": {
-            "name": "Multi address available on chain",
+            "name": "Multi address available on chain : {{multiaddresses}}",
             "resolveTips": "N/A",
             "resolveTipsCommand": "N/A"
         },
@@ -48,12 +48,12 @@
             "resolveTipsCommand": "N/A"
         },
         "ERR_DEAL_PROTOCOL_UNSUPPORTED": {
-            "name": "Deal proposal version",
+            "name": "Deal proposal version : {{dealProtocolsSupported}}",
             "resolveTips": "N/A",
             "resolveTipsCommand": "N/A"
         },
         "ERR_NO_MATCHING_DEAL_PROTOCOL_SUPPORTED": {
-            "name": "Deal proposal version supported",
+            "name": "Deal proposal comptatible",
             "resolveTips": "N/A",
             "resolveTipsCommand": "N/A"
         },
@@ -68,12 +68,12 @@
             "resolveTipsCommand": "N/A"
         },
         "ERR_GET_ASK_PRICES_NOT_SET_TO_ZERO": {
-            "name": "Checking get-ask prices are set to 0",
+            "name": "Checking get-ask prices\n Validating price: {{getAskPricePerGib}}\nValidating verified price: {{getAskVerifiedPricePerGib}}",
             "resolveTips": "Set the prices via the boost UI/Settings menu",
             "resolveTipsCommand": "N/A"
         },
         "ERR_GET_ASK_SIZES_NOT_PROPERLY_SET": {
-            "name": "Checking get-ask size are properly configured",
+            "name": "Checking get-ask sizes\nValidating min piece size: {{getAskMinPieceSize}}\nValidating max piece size: {{getAskMaxPieceSize}}\nValidating sector size: {{getAskSectorSize}}",
             "resolveTips": "Set the sizes via the boost UI/Settings menu",
             "resolveTipsCommand": "N/A"
         },
@@ -94,7 +94,7 @@
         },
         "ERR_CIDGRAVITY_CONNECTOR_MISCONFIGURED": {
             "name": "Checking CIDgravity connector configuration",
-            "resolveTips": "Check your miner logs for more details",
+            "resolveTips": "Check your miner logs to find the problem",
             "resolveTipsCommand": "N/A"
         },
         "ERR_CIDGRAVITY_INVALID_CONNECTOR_TYPE": {
