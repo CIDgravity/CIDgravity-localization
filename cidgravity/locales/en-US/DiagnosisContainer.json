@@ -53,7 +53,7 @@
             "resolveTipsCommand": "N/A"
         },
         "ERR_CIDGRAVITY_CONNECTOR_MISCONFIGURED": {
-            "resolveTips": "No response from CIDgravity connector.\nDeploy the last release of CIDgravity",
+            "resolveTips": "No response from CIDgravity connector.\nDeploy the last release of CIDgravity ",
             "name": "Verifying CIDgravity connector is deployed"
         },
         "ERR_BUILDING_DEAL_PROPOSAL": {
