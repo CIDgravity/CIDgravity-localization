@@ -7,7 +7,7 @@
         "results": {
             "howToSolve": "Hint",
             "finishedSuccess": {
-                "title": "All tests successfully passed ",
+                "title": "All tests successfully passed 🚀🚀🚀",
                 "description": "This miner is reachable and properly configured to receive storage deals with CIDgravity."
             }
         },
@@ -58,7 +58,7 @@
             "resolveTipsCommand": "sudo -i -u \"<USER_RUNNING_BOOST_PROCESS>\"\ngit clone https://github.com/CIDgravity/CIDgravity-X.git\ncd CIDgravity-X\n# Follow the README.md instructions"
         },
         "DIAGNOSIS_SUCCESS": {
-            "name": "Completed 🚀🚀🚀"
+            "name": "Completed"
         },
         "ERR_TIMEOUT": {
             "name": "CIDgravity connectivity test service is unavailable",
