@@ -53,8 +53,9 @@
             "resolveTipsCommand": "N/A"
         },
         "ERR_CIDGRAVITY_CONNECTOR_MISCONFIGURED": {
-            "resolveTips": "No response from CIDgravity connector.\nDeploy the last release of CIDgravity (https://github.com/CIDgravity/CIDgravity-X)",
-            "name": "Verifying CIDgravity connector is deployed"
+            "resolveTips": "No response from CIDgravity connector.\nDeploy the last release of CIDgravity",
+            "name": "Verifying CIDgravity connector is deployed",
+            "resolveTipsCommand": ""
         },
         "ERR_BUILDING_DEAL_PROPOSAL": {
             "name": "CIDgravity connectivity test service is unavailable"
