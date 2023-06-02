@@ -33,7 +33,8 @@
             },
             "activityErrorCodes": {
                 "connectorNotProperlyConfigured": "Connector misconfigured",
-                "invalidProposal": "Invalid proposal"
+                "invalidProposal": "Invalid proposal",
+                "invalidProposalType": "Unsupported proposal type"
             }
         },
         "friendlyName": {
