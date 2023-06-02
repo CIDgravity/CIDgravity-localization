@@ -45,6 +45,9 @@
             "button": {
                 "save": "Save"
             }
+        },
+        "minerStatusCheck": {
+            "title": "Automatic miner status check"
         }
     },
     "notification": {
