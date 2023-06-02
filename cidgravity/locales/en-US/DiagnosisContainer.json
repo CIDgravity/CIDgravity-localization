@@ -93,7 +93,8 @@
             "resolveTipsCommand": "sudo -i -u \"<USER_RUNNING_BOOST_PROCESS>\"\ngit clone https://github.com/CIDgravity/CIDgravity-X.git\ncd CIDgravity-X"
         },
         "ERR_CIDGRAVITY_INVALID_CONNECTOR_VERSION": {
-            "name": "Verifying CIDgravity connector version"
+            "name": "Verifying CIDgravity connector version",
+            "resolveTips": ""
         }
     },
     "button": {
