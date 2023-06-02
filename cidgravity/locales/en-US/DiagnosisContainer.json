@@ -92,7 +92,7 @@
         },
         "ERR_CIDGRAVITY_INVALID_CONNECTOR_VERSION": {
             "name": "CIDgravity connector version  {{minerID}}",
-            "resolveTips": "Unsupported connector version\nUpdate it :",
+            "resolveTips": "Unsupported connector version {{connectorVersion}}\nUpdate it :",
             "resolveTipsCommand": "git pull\n# Boost\n./cidgravity_storage_connector.py --check-lotus\n# Venus\n./cidgravity_storage_connector.py --check-venus"
         }
     },
