@@ -16,5 +16,8 @@
     "button": {
         "book": "Book"
     },
-    "title": "Help center"
+    "title": "Help center",
+    "diagnosis": {
+        "title": "Diagnosis"
+    }
 }
