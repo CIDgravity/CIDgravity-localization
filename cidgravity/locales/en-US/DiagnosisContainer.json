@@ -23,7 +23,7 @@
             "resolveTipsCommand": "# Get the miner Peer ID\nPEER_ID=$(boostd net id)\n# Show Peer ID\necho \"$PEER_ID\"\n# Set the Peer ID on chain\nlotus-miner actor set-peer-id \"$PEER_ID\""
         },
         "ERR_NO_MULTI_ADDRESS_SET_ON_CHAIN": {
-            "name": "Multiaddr set on chain {{multiaddresses}}",
+            "name": "Multiaddr published on chain {{multiaddresses}}",
             "resolveTips": "No Multi address found on chain. Follow these actions:\n1. Get the value of LibP2P ListenAddresses from boostd config.toml\n2. Set the Multiaddr on chain :",
             "resolveTipsCommand": "lotus-miner actor set-addrs \"<MULTIADDR>\""
         },
