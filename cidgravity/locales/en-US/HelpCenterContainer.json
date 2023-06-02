@@ -18,6 +18,7 @@
     },
     "title": "Help center",
     "diagnosis": {
-        "title": "Diagnosis"
+        "title": "Diagnosis",
+        "description": "Troubleshoot miner ability to receive storage deals and connectivity with CIDgravity"
     }
 }
