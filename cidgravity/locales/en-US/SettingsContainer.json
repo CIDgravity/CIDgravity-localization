@@ -34,7 +34,8 @@
             "activityErrorCodes": {
                 "connectorNotProperlyConfigured": "Connector misconfigured",
                 "invalidProposal": "Invalid proposal",
-                "invalidProposalType": "Unsupported proposal type"
+                "invalidProposalType": "Unsupported proposal type",
+                "invalidConnectorVersion": "Connector outdated"
             }
         },
         "friendlyName": {
