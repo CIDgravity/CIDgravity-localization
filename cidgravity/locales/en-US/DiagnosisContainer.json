@@ -73,12 +73,12 @@
         },
         "ERR_GET_ASK_PRICES_NOT_SET_TO_ZERO": {
             "name": "Validating storage pricing:\n• unverified price: {{getAskPricePerGib}}\n• verified price: {{getAskVerifiedPricePerGib}}",
-            "resolveTips": "All prices must be set to 0 as pricing management is delegated and managed via CIDgravity.\nSet the prices via the boost UI [Settings][Storage Ask]",
+            "resolveTips": "All prices must be set to 0 as pricing management is delegated and managed via CIDgravity.\nSet the prices in boost UI [Settings][Storage Ask]",
             "resolveTipsCommand": "N/A"
         },
         "ERR_GET_ASK_SIZES_NOT_PROPERLY_SET": {
             "name": "Validating storage piece size criterias :\n• min piece size: {{getAskMinPieceSize}}\n• max piece size: {{getAskMaxPieceSize}}",
-            "resolveTips": "Piece sizes must be be set to 256B and {{getAskSectorSize}} as acceptance criterias are delegated and managed via CIDgravity.\nSet the prices via the boost UI [Settings][Storage Ask]"
+            "resolveTips": "Piece sizes must be be set to 256B and {{getAskSectorSize}} as acceptance criterias are delegated and managed via CIDgravity.\nSet the prices in boost UI [Settings][Storage Ask]"
         }
     },
     "button": {
