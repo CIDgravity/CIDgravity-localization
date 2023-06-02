@@ -87,7 +87,7 @@
         },
         "ERR_CIDGRAVITY_INVALID_CONNECTOR_TYPE": {
             "name": "Verifying CIDgravity connector type",
-            "resolveTips": "The connector doesn't seem to be the official CIDgravity connector\nDeploy the last release of CIDgravity",
+            "resolveTips": "The connector doesn't seem to be the official CIDgravity connector\nDeploy the latest release of CIDgravity connector",
             "resolveTipsCommand": "sudo -i -u \"<USER_RUNNING_BOOST_PROCESS>\"\ngit clone https://github.com/CIDgravity/CIDgravity-X.git\ncd CIDgravity-X\n# Follow the README.md instructions"
         },
         "ERR_CIDGRAVITY_INVALID_CONNECTOR_VERSION": {
