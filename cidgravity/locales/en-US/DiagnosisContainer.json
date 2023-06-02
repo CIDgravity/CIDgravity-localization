@@ -72,7 +72,7 @@
             "resolveTipsCommand": "# Boost\nboost provider storage-ask \"{{minerID}}\""
         },
         "ERR_GET_ASK_PRICES_NOT_SET_TO_ZERO": {
-            "name": "Validating storage pricing:\n\tunverified price: {{getAskPricePerGib}}\n\tverified price: {{getAskVerifiedPricePerGib}}",
+            "name": "Validating storage pricing:\n- unverified price: {{getAskPricePerGib}}\n- verified price: {{getAskVerifiedPricePerGib}}",
             "resolveTips": "All prices must be set to 0 as pricing management is delegated and managed via CIDgravity\nSet the prices via the boost UI [Settings][Storage Ask]",
             "resolveTipsCommand": "N/A"
         },
