@@ -37,7 +37,8 @@
                 "invalidProposalType": "Unsupported proposal type",
                 "invalidConnectorVersion": "Connector outdated",
                 "invalidConnector": "Invalid connector request"
-            }
+            },
+            "mostRecentActivityError": "Something goes wrong : {{errorCode}} (last seen {{lastCheck}})"
         },
         "friendlyName": {
             "button": {
