@@ -43,7 +43,7 @@
             "resolveTipsCommand": "N/A"
         },
         "ERR_DEAL_PROTOCOL_UNSUPPORTED": {
-            "name": "Testing Markets node protocol",
+            "name": "Deal protocol supported ",
             "resolveTips": "Consider running the last stable version of boost or venus",
             "resolveTipsCommand": "N/A"
         },
