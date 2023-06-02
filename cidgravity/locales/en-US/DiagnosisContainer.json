@@ -48,7 +48,7 @@
             "resolveTipsCommand": "N/A"
         },
         "ERR_NO_MATCHING_DEAL_PROTOCOL_SUPPORTED": {
-            "name": "Verifying deal proposal compatibility",
+            "name": "Verifying deal protocol compatibility",
             "resolveTips": "Unsupported libp2p market protocol.\nConsider running the last stable version of boost or venus",
             "resolveTipsCommand": "N/A"
         },
