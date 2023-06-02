@@ -34,7 +34,7 @@
         },
         "ERR_CONNECT_MINER_PEER_ID": {
             "name": "Testing miner Peer ID reachability",
-            "resolveTips": "1. Verify miner libP2P port is publicly reachable.<br />\n2. Set the correct Peer ID on chain using the following commands (given that boost init generates a new identity) :<br />",
+            "resolveTips": "Cannot connect to miner.\n1. Verify miner libP2P port is publicly reachable.\n2. Set the correct Peer ID on chain using the following commands (given that boost init generates a new identity) :",
             "resolveTipsCommand": "# Get the miner Peer ID\nPEER_ID=$(boostd net id)\n# Show Peer ID\necho \"$PEER_ID\"\n# Set the Peer ID on chain\nlotus-miner actor set-peer-id \"$PEER_ID\""
         },
         "ERR_CIDGRAVITY_SIDE": {
