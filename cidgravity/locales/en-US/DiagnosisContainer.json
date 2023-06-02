@@ -70,6 +70,9 @@
             "name": "Miner storage ask",
             "resolveTips": "Cannot get miner get-ask info. Verify locally the pricing is properly set :",
             "resolveTipsCommand": "# Boost\nboost provider storage-ask \"{{minerID}}\""
+        },
+        "ERR_GET_ASK_PRICES_NOT_SET_TO_ZERO": {
+            "name": "Validating storage pricing:\n unverified price: {{getAskPricePerGib}}\n verified price: {{getAskVerifiedPricePerGib}}"
         }
     },
     "button": {
