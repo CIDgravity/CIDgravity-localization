@@ -24,7 +24,7 @@
         },
         "ERR_NO_MULTI_ADDRESS_SET_ON_CHAIN": {
             "name": "Multiaddr set on chain {{multiaddresses}}",
-            "resolveTips": "Set the Multiaddr on chain using the following actions :<br />1. Get the value of LibP2P ListenAddresses from boostd config.toml<br />2. Set the Multiaddr on chain :",
+            "resolveTips": "No Multi Address found on chain. Follow these actions:\\n\n1. Get the value of LibP2P ListenAddresses from boostd config.toml\\n\n2. Set the Multiaddr on chain :",
             "resolveTipsCommand": "lotus-miner actor set-addrs \"<MULTIADDR>\""
         },
         "ERR_INVALID_MULTI_ADDRESS_IN_MINER_INFO": {
