@@ -48,7 +48,7 @@
             "resolveTipsCommand": "N/A"
         },
         "ERR_NO_MATCHING_DEAL_PROTOCOL_SUPPORTED": {
-            "name": "Testing Markets node compatibility",
+            "name": "Verifying deal proposal compatibility",
             "resolveTips": "Consider running the last stable version of boost or venus",
             "resolveTipsCommand": "N/A"
         },
