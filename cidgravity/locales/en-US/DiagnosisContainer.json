@@ -94,7 +94,7 @@
         },
         "ERR_CIDGRAVITY_INVALID_CONNECTOR_VERSION": {
             "name": "CIDgravity connector version {{}}",
-            "resolveTips": ""
+            "resolveTips": "Unsupported connector version"
         }
     },
     "button": {
