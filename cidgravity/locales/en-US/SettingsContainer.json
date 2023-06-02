@@ -48,7 +48,7 @@
         },
         "minerStatusCheck": {
             "title": "Automatic miner status check",
-            "label": "CIDgravity will monitor miner availability"
+            "label": "CIDgravity will monitor miner availability and provides statistics and cool features very soon"
         }
     },
     "notification": {
