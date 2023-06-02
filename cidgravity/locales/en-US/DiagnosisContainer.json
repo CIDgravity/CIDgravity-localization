@@ -53,7 +53,8 @@
             "resolveTipsCommand": "N/A"
         },
         "ERR_CIDGRAVITY_CONNECTOR_MISCONFIGURED": {
-            "resolveTips": ""
+            "resolveTips": "",
+            "name": "Verifying CIDgravity connector is deployed"
         },
         "ERR_BUILDING_DEAL_PROPOSAL": {
             "name": "CIDgravity connectivity test service is unavailable"
