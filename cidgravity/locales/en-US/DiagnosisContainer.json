@@ -55,7 +55,7 @@
         "ERR_CIDGRAVITY_CONNECTOR_MISCONFIGURED": {
             "resolveTips": "No response from CIDgravity connector.\nDeploy the last release of CIDgravity",
             "name": "Verifying CIDgravity connector is deployed",
-            "resolveTipsCommand": ""
+            "resolveTipsCommand": "sudo -i -u \"<USER_RUNNING_BOOST_PROCESS>\"\ngit clone https://github.com/CIDgravity/CIDgravity-X.git\ncd CIDgravity-X"
         },
         "ERR_BUILDING_DEAL_PROPOSAL": {
             "name": "CIDgravity connectivity test service is unavailable"
