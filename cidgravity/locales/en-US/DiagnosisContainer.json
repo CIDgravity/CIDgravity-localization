@@ -95,7 +95,7 @@
         "ERR_CIDGRAVITY_INVALID_CONNECTOR_VERSION": {
             "name": "CIDgravity connector version {{connectorVersion}}",
             "resolveTips": "Unsupported connector version\nUpdate it :",
-            "resolveTipsCommand": "sudo -i -u \"<USER_RUNNING_BOOST_PROCESS>\"\ngit clone https://github.com/CIDgravity/CIDgravity-X.git\ncd CIDgravity-X"
+            "resolveTipsCommand": "git pull\n"
         }
     },
     "button": {
