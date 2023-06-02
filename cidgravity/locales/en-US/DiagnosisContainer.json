@@ -88,7 +88,8 @@
             "resolveTips": "Could not established a connection to {{minerID}}({{peerId}}) at {{multiaddresses}}\n\nVerify miner is publicly reachable."
         },
         "ERR_CIDGRAVITY_INVALID_CONNECTOR_TYPE": {
-            "name": "Verifying CIDgravity connector type"
+            "name": "Verifying CIDgravity connector type",
+            "resolveTips": "The connector used doesn't seems to be the official CIDgravity connector\n"
         }
     },
     "button": {
