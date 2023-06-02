@@ -91,7 +91,7 @@
             "resolveTipsCommand": "sudo -i -u \"<USER_RUNNING_BOOST_PROCESS>\"\ngit clone https://github.com/CIDgravity/CIDgravity-X.git\ncd CIDgravity-X\n# Follow the README.md instructions"
         },
         "ERR_CIDGRAVITY_INVALID_CONNECTOR_VERSION": {
-            "name": "CIDgravity connector version {{connectorVersion}}{{minerID}",
+            "name": "CIDgravity connector version {{connectorVersion}}{{minerID}}",
             "resolveTips": "Unsupported connector version\nUpdate it :",
             "resolveTipsCommand": "git pull\n# Boost\n./cidgravity_storage_connector.py --check-lotus\n# Venus\n./cidgravity_storage_connector.py --check-venus"
         }
