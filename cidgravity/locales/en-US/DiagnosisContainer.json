@@ -18,7 +18,7 @@
     },
     "errorCode": {
         "ERR_NO_PEER_ID_SET_ON_CHAIN": {
-            "name": "Testing Peer ID set on chain  {{peerId}}",
+            "name": "Peer ID set on chain  {{peerId}}",
             "resolveTips": "Set the Peer ID on chain using the following commands (given that boost init generates a new identity) :",
             "resolveTipsCommand": "# Get the miner Peer ID\nPEER_ID=$(boostd net id)\n# Show Peer ID\necho \"$PEER_ID\"\n# Set the Peer ID on chain\nlotus-miner actor set-peer-id \"$PEER_ID\""
         },
