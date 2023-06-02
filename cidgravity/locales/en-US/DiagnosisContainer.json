@@ -57,9 +57,6 @@
             "name": "Verifying CIDgravity connector is deployed and configured",
             "resolveTipsCommand": "sudo -i -u \"<USER_RUNNING_BOOST_PROCESS>\"\ngit clone https://github.com/CIDgravity/CIDgravity-X.git\ncd CIDgravity-X\n# Follow the README.md instructions"
         },
-        "ERR_BUILDING_DEAL_PROPOSAL": {
-            "name": "CIDgravity connectivity test service is unavailable"
-        },
         "DIAGNOSIS_SUCCESS": {
             "name": "Completed"
         },
@@ -99,9 +96,7 @@
             "resolveTipsCommand": "git pull\n# Boost\n./cidgravity_storage_connector.py --check-lotus\n# Venus\n./cidgravity_storage_connector.py --check-venus"
         },
         "ERR_OPEN_STREAM_TO_PEER_ID": {
-            "resolveTipsCommand": "N/A",
-            "name": "Connecting to your miner to send a sample deal proposal",
-            "resolveTips": "N/A"
+            "name": "Connecting to your miner to send a sample deal proposal"
         }
     },
     "button": {
