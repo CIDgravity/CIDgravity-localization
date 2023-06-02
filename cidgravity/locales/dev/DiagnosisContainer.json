@@ -72,16 +72,6 @@
             "resolveTips": "Set the sizes via the boost UI/Settings menu",
             "resolveTipsCommand": "N/A"
         },
-        "ERR_BUILDING_DEAL_PROPOSAL": {
-            "name": "Building sample deal proposal",
-            "resolveTips": "N/A",
-            "resolveTipsCommand": "N/A"
-        },
-        "ERR_OPEN_STREAM_TO_PEER_ID": {
-            "name": "Connecting to your miner to send a sample deal proposal",
-            "resolveTips": "N/A",
-            "resolveTipsCommand": "N/A"
-        },
         "ERR_SEND_PROPOSAL": {
             "name": "Use boost client to send the deal proposal",
             "resolveTips": "N/A",
