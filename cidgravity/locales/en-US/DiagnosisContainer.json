@@ -72,8 +72,8 @@
             "resolveTipsCommand": ""
         },
         "ERR_GET_ASK": {
-            "name": "Testing miner get-ask",
-            "resolveTips": "Cannot get miner get-ask info. Verify locally the pricing is properly set",
+            "name": "Miner storage ask",
+            "resolveTips": "Cannot get miner get-ask info. Verify locally the pricing is properly set in boost ",
             "resolveTipsCommand": "# Boost\nboost provider storage-ask \"MINER_ID\""
         }
     },
