@@ -87,16 +87,13 @@
         },
         "ERR_CIDGRAVITY_INVALID_CONNECTOR_TYPE": {
             "name": "Verifying CIDgravity connector type",
-            "resolveTips": "The connector used doesn't seems to be the official CIDgravity connector\nDeploy the last release of CIDgravity",
+            "resolveTips": "The connector doesn't seem to be the official CIDgravity connector\nDeploy the last release of CIDgravity",
             "resolveTipsCommand": "sudo -i -u \"<USER_RUNNING_BOOST_PROCESS>\"\ngit clone https://github.com/CIDgravity/CIDgravity-X.git\ncd CIDgravity-X\n# Follow the README.md instructions"
         },
         "ERR_CIDGRAVITY_INVALID_CONNECTOR_VERSION": {
             "name": "CIDgravity connector version {{connectorVersion}}",
             "resolveTips": "Unsupported connector version\nUpdate it :",
             "resolveTipsCommand": "git pull\n# Boost\n./cidgravity_storage_connector.py --check-lotus\n# Venus\n./cidgravity_storage_connector.py --check-venus"
-        },
-        "ERR_OPEN_STREAM_TO_PEER_ID": {
-            "name": "Connecting to your miner to send a sample deal proposal"
         }
     },
     "button": {
