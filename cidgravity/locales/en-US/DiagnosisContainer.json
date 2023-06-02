@@ -61,7 +61,7 @@
             "name": "All tests completed"
         },
         "ERR_TIMEOUT": {
-            "name": "CIDgravity connectivity test service is unavailable",
+            "name": "CIDgravity connectivity test service is unavailable.",
             "resolveTips": "An error occurred whilst trying to test the miner connectivity, please try again later or contact the CIDgravity team.",
             "resolveTipsCommand": "N/A"
         },
