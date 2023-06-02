@@ -35,7 +35,8 @@
                 "connectorNotProperlyConfigured": "Connector misconfigured",
                 "invalidProposal": "Invalid proposal",
                 "invalidProposalType": "Unsupported proposal type",
-                "invalidConnectorVersion": "Connector outdated"
+                "invalidConnectorVersion": "Connector outdated",
+                "invalidConnector": "Invalid connector request"
             }
         },
         "friendlyName": {
