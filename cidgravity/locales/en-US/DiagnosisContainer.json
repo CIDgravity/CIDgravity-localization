@@ -8,7 +8,7 @@
             "howToSolve": "Hint",
             "finishedSuccess": {
                 "title": "All tests successfully passed",
-                "description": "This miner is reachable and properly configured and to receive storage deals with CIDgravity."
+                "description": "This miner is reachable and properly configured to receive storage deals with CIDgravity."
             }
         },
         "checkingResults": "Waiting result ({{step}} / 6)…",
