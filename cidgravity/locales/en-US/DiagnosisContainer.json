@@ -82,7 +82,7 @@
             "resolveTipsCommand": "N/A"
         },
         "ERR_SEND_PROPOSAL": {
-            "name": "Sending a test deal proposal",
+            "name": "Sending test deal proposal",
             "resolveTips": "Could not established a connection to {{minerID}}({{peerId}}) at {{multiaddresses}}\nVerify miner is publicly reachable."
         }
     },
