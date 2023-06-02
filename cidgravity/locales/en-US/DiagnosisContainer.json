@@ -29,7 +29,7 @@
         },
         "ERR_INVALID_MULTI_ADDRESS_IN_MINER_INFO": {
             "resolveTips": "Multiadress Set the correct Multiaddr on chain using the following actions:\n1. Get the value of LibP2P ListenAddresses from boostd config.toml\n2. Set the new Multiaddr on chain :",
-            "name": "Testing Multiaddr is valid",
+            "name": "Verifying Multiaddr format",
             "resolveTipsCommand": "lotus-miner actor set-addrs \"<MULTIADDR>\""
         },
         "ERR_CONNECT_MINER_PEER_ID": {
