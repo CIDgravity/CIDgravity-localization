@@ -89,7 +89,7 @@
         },
         "ERR_CIDGRAVITY_INVALID_CONNECTOR_TYPE": {
             "name": "Verifying CIDgravity connector type",
-            "resolveTips": "The connector used doesn't seems to be the official CIDgravity connector\n"
+            "resolveTips": "The connector used doesn't seems to be the official CIDgravity connector\nDeploy the last release of CIDgravity"
         }
     },
     "button": {
