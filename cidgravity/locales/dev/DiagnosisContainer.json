@@ -50,15 +50,10 @@
         "ERR_DEAL_PROTOCOL_UNSUPPORTED": {
             "name": "Deal proposal version : {{dealProtocolsSupported}}",
             "resolveTips": "N/A",
-            "resolveTipsCommand": "N/A"
+            "resolveTipsCommand": "boost provider storage-ask {{minerID}}"
         },
         "ERR_NO_MATCHING_DEAL_PROTOCOL_SUPPORTED": {
             "name": "Deal proposal comptatible",
-            "resolveTips": "N/A",
-            "resolveTipsCommand": "N/A"
-        },
-        "ERR_OPEN_STREAM_TO_ADDRESS_FOR_GET_ASK": {
-            "name": "Connecting to your miner for get-ask command",
             "resolveTips": "N/A",
             "resolveTipsCommand": "N/A"
         },
