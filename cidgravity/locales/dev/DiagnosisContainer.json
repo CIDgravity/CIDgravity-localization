@@ -50,7 +50,7 @@
         "ERR_DEAL_PROTOCOL_UNSUPPORTED": {
             "name": "Deal proposal version : {{dealProtocolsSupported}}",
             "resolveTips": "N/A",
-            "resolveTipsCommand": "boost provider storage-ask {{minerID}}"
+            "resolveTipsCommand": "N/A"
         },
         "ERR_NO_MATCHING_DEAL_PROTOCOL_SUPPORTED": {
             "name": "Deal proposal comptatible",
@@ -60,7 +60,7 @@
         "ERR_GET_ASK": {
             "name": "Get ask",
             "resolveTips": "Running get-ask command",
-            "resolveTipsCommand": "N/A"
+            "resolveTipsCommand": "boost provider storage-ask {{minerID}}"
         },
         "ERR_GET_ASK_PRICES_NOT_SET_TO_ZERO": {
             "name": "Checking get-ask prices\n Validating price: {{getAskPricePerGib}}\nValidating verified price: {{getAskVerifiedPricePerGib}}",
