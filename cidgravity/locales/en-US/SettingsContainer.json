@@ -32,7 +32,8 @@
                 "subtitle": "Add this api key to the CIDgravity connector deployed on the miner"
             },
             "activityErrorCodes": {
-                "connectorNotProperlyConfigured": "Connector misconfigured"
+                "connectorNotProperlyConfigured": "Connector misconfigured",
+                "invalidProposal": "Invalid proposal"
             }
         },
         "friendlyName": {
