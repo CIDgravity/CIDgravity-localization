@@ -77,7 +77,7 @@
             "resolveTipsCommand": "N/A"
         },
         "ERR_GET_ASK_SIZES_NOT_PROPERLY_SET": {
-            "name": "Validating storage piece size criterias :\nmin piece size: {{getAskMinPieceSize}}\nmax piece size: {{getAskMaxPieceSize}}",
+            "name": "Validating storage piece size criterias :\n\tmin piece size: {{getAskMinPieceSize}}\n\tmax piece size: {{getAskMaxPieceSize}}",
             "resolveTips": "Piece sizes must be be set to 256B and {{getAskSectorSize}} as acceptance criterias are delegated and managed via CIDgravity.\nSet the prices via the boost UI [Settings][Storage Ask]"
         }
     },
