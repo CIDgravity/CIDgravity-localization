@@ -32,6 +32,7 @@
         }
     },
     "error": {
-        "isAddressNotOnChain": "{{address}}（不在链上）"
+        "isAddressNotOnChain": "{{address}}（不在链上）",
+        "isClientNotExistingOrNotAllowed": "该客户不存在或此操作不可用。"
     }
 }
