@@ -23,7 +23,10 @@
                 "FIL": "FIL"
             },
             "dealSize": "交易大小",
-            "dealDuration": "交易持续时间"
+            "dealDuration": "交易持续时间",
+            "fallBackToDefaultPricing": {
+                "isDisabled": "回退到默认定价模式：已禁用"
+            }
         }
     }
 }
