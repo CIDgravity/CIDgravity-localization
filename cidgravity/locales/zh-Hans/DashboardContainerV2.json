@@ -1,1 +1,8 @@
-{}
+{
+    "filter": {
+        "timeRange": {
+            "placeholder": "选择日期"
+        }
+    },
+    "title": "存储交易仪表板"
+}
