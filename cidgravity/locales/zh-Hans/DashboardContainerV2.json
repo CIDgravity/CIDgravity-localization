@@ -71,6 +71,12 @@
         "noRowsFound": "无数据",
         "totalAcceptedDealsWithReasons": {
             "title": "已接受/拒绝的提案"
+        },
+        "totalAcceptedDealsSizeWithReasons": {
+            "title": "已接受/拒绝的提案"
+        },
+        "top10ClientsAccepted": {
+            "title": "前10个客户端（已接受的交易）"
         }
     }
 }
