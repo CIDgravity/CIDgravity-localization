@@ -48,6 +48,10 @@
     },
     "button": {
         "loading": "加载中",
-        "createClient": "创建客户"
+        "createClient": "创建客户",
+        "updateClient": "更新客户"
+    },
+    "validation": {
+        "isNameValidString": "名称必须是有效的字符串。"
     }
 }
