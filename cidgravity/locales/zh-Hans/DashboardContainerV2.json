@@ -67,6 +67,10 @@
             "numberOfProposals": "提案数量",
             "cumulativeRawSize": "原始算力（TiB）",
             "qualityAdjustedPower": "累积 QAP（TiB）"
+        },
+        "noRowsFound": "无数据",
+        "totalAcceptedDealsWithReasons": {
+            "title": "已接受/拒绝的提案"
         }
     }
 }
