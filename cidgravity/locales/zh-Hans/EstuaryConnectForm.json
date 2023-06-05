@@ -21,7 +21,8 @@
             "title": "签署信息",
             "dot": "{{stepIndex}}",
             "prerequisite": {
-                "label": "1. 在接受新存储供应商之前，Estuary执行基本测试："
+                "label": "1. 在接受新存储供应商之前，Estuary执行基本测试：",
+                "reachability": "存储供应商可达性为公开： <1>lotus-miner net reachability</1>"
             }
         }
     }
