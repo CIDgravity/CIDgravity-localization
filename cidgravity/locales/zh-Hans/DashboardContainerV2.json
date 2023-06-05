@@ -25,7 +25,8 @@
             "rateLimit": "速率限制 - 提案数量",
             "reject": "没有匹配的定价规则",
             "sizeRateLimit": "速率限制- 累积大小",
-            "maintenance": "维护模式"
+            "maintenance": "维护模式",
+            "invalidProposal": "无效提案"
         }
     }
 }
