@@ -7,6 +7,13 @@
             "30days": "最近30天",
             "specificDate": "指定日期",
             "3months": "最近3个月"
+        },
+        "unit": {
+            "placeholder": "选择图表单位",
+            "numberOfProposals": "提案数量"
+        },
+        "datePicker": {
+            "placeholder": "选择日期"
         }
     },
     "title": "存储交易仪表板"
