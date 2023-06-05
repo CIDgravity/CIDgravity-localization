@@ -124,6 +124,12 @@
             },
             "top10ClientsForRejectedDeals": {
                 "title": "前10个客户端（被拒绝的交易）"
+            },
+            "top10PricingModels": {
+                "title": "前10个定价模式"
+            },
+            "acceptedDealsByType": {
+                "title": "按传输类型分类的已接受交易"
             }
         }
     }
