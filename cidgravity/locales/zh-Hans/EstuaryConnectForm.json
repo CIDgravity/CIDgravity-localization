@@ -19,7 +19,10 @@
         },
         "1": {
             "title": "签署信息",
-            "dot": "{{stepIndex}}"
+            "dot": "{{stepIndex}}",
+            "prerequisite": {
+                "label": "1. 在接受新存储供应商之前，Estuary执行基本测试："
+            }
         }
     }
 }
