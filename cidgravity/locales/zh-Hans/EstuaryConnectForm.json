@@ -6,7 +6,8 @@
             "loading": "正在进行Estuary连接要求验证…",
             "error": {
                 "blacklisted": {
-                    "title": "地址已列入黑名单"
+                    "title": "地址已列入黑名单",
+                    "explanation": "请在继续之前从\"黑名单\"菜单中移除以下地址："
                 }
             }
         }
