@@ -15,7 +15,9 @@
             "title": "{{pricingModelName}}详细信息",
             "ruleNumber": "规则 # {{ruleNumber}}",
             "dealType": "交易类型",
-            "forVerifiedDeals": "针对已验证的交易"
+            "forVerifiedDeals": "针对已验证的交易",
+            "forUnverifiedDeals": "针对未验证的交易",
+            "forBothVerifiedAndUnverified": "针对已验证和未验证的交易"
         }
     }
 }
