@@ -41,7 +41,8 @@
             "deals_one": "{{count}} 交易",
             "deals_two": "{{count}} 交易",
             "deals_few": "{{count}} 交易",
-            "deals_many": "{{count}} 交易"
+            "deals_many": "{{count}} 交易",
+            "deals_other": "{{count}} 交易"
         }
     }
 }
