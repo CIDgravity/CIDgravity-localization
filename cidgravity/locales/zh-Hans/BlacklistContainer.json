@@ -38,7 +38,8 @@
             },
             "onBlacklistAddress": "无法将{{address}}列入黑名单，请稍后再试或联系CIDgravity团队.",
             "onAddressAlreadyBlacklisted": "{{address}} 已在黑名单中.",
-            "onWhitelistAddress": "在将此地址添加到白名单时发生错误，请稍后再试或联系CIDgravity团队."
+            "onWhitelistAddress": "在将此地址添加到白名单时发生错误，请稍后再试或联系CIDgravity团队.",
+            "onAddressGenericError": "在将此地址添加到白名单时发生错误，请稍后再试或联系CIDgravity团队."
         }
     }
 }
