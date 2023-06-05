@@ -11,11 +11,17 @@
         "unit": {
             "placeholder": "选择图表单位",
             "numberOfProposals": "提案数量",
-            "cumulativeRawSize": "累积 RBP（RAW power）"
+            "cumulativeRawSize": "累积 RBP（RAW power）",
+            "qualityAdjustedPower": "累积 QAP（TiB）"
         },
         "datePicker": {
             "placeholder": "选择日期"
         }
     },
-    "title": "存储交易仪表板"
+    "title": "存储交易仪表板",
+    "retool": {
+        "reasons": {
+            "accept": "已接受"
+        }
+    }
 }
