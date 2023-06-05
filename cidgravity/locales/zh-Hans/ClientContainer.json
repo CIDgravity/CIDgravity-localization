@@ -65,8 +65,12 @@
                 "title": "定价模式"
             },
             "currentStorageRateLimit": {
-                "title": "当前存储速率限制"
+                "title": "当前存储速率限制",
+                "tooltip": "接受交易的存储速率限制"
             }
+        },
+        "tooltip": {
+            "editClient": "编辑客户详细信息"
         }
     }
 }
