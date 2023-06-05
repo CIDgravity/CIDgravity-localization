@@ -56,7 +56,9 @@
             "> 15": "> 15月"
         },
         "columnsName": {
-            "pricingModelName": "定价模式"
+            "pricingModelName": "定价模式",
+            "cumulativeRawSize": "原始算力（TiB）",
+            "numberOfProposals": "提案数量"
         }
     }
 }
