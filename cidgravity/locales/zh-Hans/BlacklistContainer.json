@@ -35,7 +35,8 @@
             },
             "onCheckBlacklisted": {
                 "isShortAddress": "{{address}}解析为{{resolved}}，已在黑名单中."
-            }
+            },
+            "onBlacklistAddress": "无法将{{address}}列入黑名单，请稍后再试或联系CIDgravity团队."
         }
     }
 }
