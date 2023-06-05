@@ -19,7 +19,10 @@
             "GiB_few": "{{count}} GiB",
             "GiB_many": "{{count}} GiB",
             "GiB_other": "{{count}} GiB",
-            "TiB_zero": "{{count}} TiB"
+            "TiB_zero": "{{count}} TiB",
+            "TiB_one": "{{count}} TiB",
+            "TiB_two": "{{count}} TiB",
+            "TiB_few": "{{count}} TiB"
         }
     }
 }
