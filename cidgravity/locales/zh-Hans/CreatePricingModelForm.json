@@ -64,7 +64,7 @@
                 "placeholder": "最小",
                 "unit": {
                     "day": "天",
-                    "epoch": "Epochs"
+                    "epoch": "纪元"
                 }
             },
             "max": {
@@ -74,6 +74,9 @@
                     "epoch": "纪元"
                 }
             }
+        },
+        "price": {
+            "label": "价格 *"
         }
     }
 }
