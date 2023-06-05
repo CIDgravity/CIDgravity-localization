@@ -75,6 +75,8 @@
         "ERR_INVALID_ESTUARY_REQUEST": "Estuary遇到了错误。请稍后重试或联系CIDgravity团队。"
     },
     "button": {
-        "previous": "上一步"
+        "previous": "上一步",
+        "abort": "中止",
+        "next": "下一步"
     }
 }
