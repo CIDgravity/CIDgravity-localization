@@ -15,6 +15,7 @@
         "switchLabel": "覆盖全局设置"
     },
     "storageDealRates": {
-        "title": "存储交易速率*"
+        "title": "存储交易速率*",
+        "description": "定义每小时允许的交易速率限制（0 = 无限制）"
     }
 }
