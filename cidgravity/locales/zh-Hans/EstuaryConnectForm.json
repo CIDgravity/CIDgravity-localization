@@ -22,7 +22,8 @@
             "dot": "{{stepIndex}}",
             "prerequisite": {
                 "label": "1. 在接受新存储供应商之前，Estuary执行基本测试：",
-                "reachability": "存储供应商可达性为公开： <1>lotus-miner net reachability</1>"
+                "reachability": "存储供应商可达性为公开： <1>lotus-miner net reachability</1>",
+                "minerPrice": "对于已验证的交易，存储供应商价格设置为0： <1>lotus-miner storage-deals get-ask</1>"
             }
         }
     }
