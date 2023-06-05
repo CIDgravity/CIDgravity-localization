@@ -88,7 +88,13 @@
     "validation": {
         "name": {
             "typeError": "必须是有效的字符串。",
-            "required": "定价模式名称是必填项。"
+            "required": "定价模式名称是必填项。",
+            "matches": "只能包含字母、数字和下划线。"
+        }
+    },
+    "notification": {
+        "success": {
+            "onCreateDefaultPricingModel": "默认定价模式创建成功。"
         }
     }
 }
