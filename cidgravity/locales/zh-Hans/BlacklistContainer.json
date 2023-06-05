@@ -32,6 +32,9 @@
                 "invalidFormat": "{{address}} 不是有效的Filecoin地址",
                 "unsupportedType": "{{address}} - 不支持此地址类型，请使用SECP256K1、ID或BLS地址",
                 "default": "无法添加{{address}}，请稍后再试或联系CIDgravity团队."
+            },
+            "onCheckBlacklisted": {
+                "isShortAddress": "{{address}}解析为{{resolved}}，已在黑名单中."
             }
         }
     }
