@@ -40,6 +40,10 @@
         "description": "输入客户端将从中存取数据的所有 Peer ID",
         "select": {
             "placeholder": "输入 Peer ID 并按 Enter 键添加…"
+        },
+        "peerIdChecks": {
+            "description": "等待 Peer ID 验证",
+            "loading": "验证正在进行中，请稍候…"
         }
     }
 }
