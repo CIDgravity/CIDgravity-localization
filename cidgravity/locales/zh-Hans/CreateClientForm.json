@@ -72,6 +72,10 @@
         "success": {
             "isClientSuccessfullyUpdated": "已更新客户。",
             "isClientSuccessfullyCreated": "已成功添加客户。"
+        },
+        "error": {
+            "hasClientCreationFailed": "无法添加新客户。",
+            "hasClientUpdateFailed": "无法修改客户。"
         }
     }
 }
