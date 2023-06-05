@@ -1,4 +1,9 @@
 {
     "title": "黑名单管理",
-    "subtitle": "所有发送到黑名单地址的交易将被拒绝."
+    "subtitle": "所有发送到黑名单地址的交易将被拒绝.",
+    "searchForm": {
+        "searchInput": {
+            "placeholder": "在黑名单中搜索地址"
+        }
+    }
 }
