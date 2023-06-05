@@ -28,6 +28,10 @@
             "maintenance": "维护模式",
             "invalidProposal": "无效提案",
             "startEpochBelowSealingBuffer": "低于最小起始纪元"
+        },
+        "transferTypes": {
+            "libp2p": "Libp2p-HTTP",
+            "unkown": "未知"
         }
     }
 }
