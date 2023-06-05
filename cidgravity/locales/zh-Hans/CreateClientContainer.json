@@ -56,7 +56,8 @@
             "isAddressInvalidFilecoinFormat": "{{address}} 不是有效的Filecoin地址",
             "isAddressInvalidFormat": "{{address}}-此地址类型不受支持，请使用SECP256K1、ID或BLS地址",
             "isPeerIdAlreadyAdded": "{{peerId}}已存在。",
-            "isPeerIdAlreadyConfigured": "{{peerId}}已附加到客户端。"
+            "isPeerIdAlreadyConfigured": "{{peerId}}已附加到客户端。",
+            "isPeerIdInvalidFormat": "{{peerId}}不是有效的对等ID。"
         }
     }
 }
