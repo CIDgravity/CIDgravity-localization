@@ -42,8 +42,13 @@
                 "placeholder": "最小",
                 "unit": {
                     "B": "B",
-                    "KiB": "KiB"
+                    "KiB": "KiB",
+                    "MiB": "MiB",
+                    "GiB": "GiB"
                 }
+            },
+            "max": {
+                "placeholder": "最大"
             }
         }
     }
