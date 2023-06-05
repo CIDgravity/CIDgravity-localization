@@ -8,7 +8,8 @@
     "clientFromIntegrationWarn": "此客户是集成的一部分。",
     "pricingModel": {
         "select": {
-            "label": "选择定价模式"
+            "label": "选择定价模式",
+            "description": "从下拉菜单中选择或创建一个新的。"
         }
     }
 }
