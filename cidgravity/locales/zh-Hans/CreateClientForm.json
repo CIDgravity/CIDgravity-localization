@@ -5,5 +5,11 @@
     },
     "email": {
         "label": "电子邮件"
+    },
+    "slackUsername": {
+        "label": "Slack 用户名"
+    },
+    "startEpochSealingBuffer": {
+        "title": "开始纪元密封缓冲"
     }
 }
