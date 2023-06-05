@@ -83,6 +83,9 @@
         },
         "top10PricingModels": {
             "title": "前10个定价模式"
+        },
+        "acceptedDeals": {
+            "title": "已接受的交易提案指标"
         }
     }
 }
