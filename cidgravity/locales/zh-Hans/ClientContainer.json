@@ -38,7 +38,10 @@
             "cumulativeStorageDeals": "每小时累积存储交易大小",
             "deals": "{{count}} 交易",
             "deals_zero": "{{count}} 交易",
-            "deals_one": "{{count}} 交易"
+            "deals_one": "{{count}} 交易",
+            "deals_two": "{{count}} 交易",
+            "deals_few": "{{count}} 交易",
+            "deals_many": "{{count}} 交易"
         }
     }
 }
