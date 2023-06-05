@@ -36,6 +36,10 @@
         "isClientNotExistingOrNotAllowed": "该客户不存在或此操作不可用。"
     },
     "button": {
-        "createNewPricingModel": "新定价模式"
+        "createNewPricingModel": "新定价模式",
+        "backToClientList": "返回客户端"
+    },
+    "validation": {
+        "isGenericErrorWhileAddingClient": "添加客户时出现错误。"
     }
 }
