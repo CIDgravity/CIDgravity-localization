@@ -4,5 +4,8 @@
     },
     "comment": {
         "label": "评论"
+    },
+    "button": {
+        "loading": "正在添加…"
     }
 }
