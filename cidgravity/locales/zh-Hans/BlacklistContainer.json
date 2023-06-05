@@ -5,5 +5,10 @@
         "searchInput": {
             "placeholder": "在黑名单中搜索地址"
         }
+    },
+    "table": {
+        "address": {
+            "title": "地址"
+        }
     }
 }
