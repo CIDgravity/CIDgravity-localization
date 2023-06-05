@@ -25,7 +25,9 @@
             "dealSize": "交易大小",
             "dealDuration": "交易持续时间",
             "fallBackToDefaultPricing": {
-                "isDisabled": "回退到默认定价模式：已禁用"
+                "isDisabled": "回退到默认定价模式：已禁用",
+                "isEnabled": "回退到默认定价模式：已启用",
+                "notApplicable": "回退到默认定价模式：不适用"
             }
         }
     }
