@@ -23,5 +23,9 @@
         "cumulativeDealSize": {
             "label": "累积交易大小（以 GiB 为单位）"
         }
+    },
+    "manageClientAddresses": {
+        "title": "管理客户端的 Filecoin 地址",
+        "description": "输入客户端将从中发送交易的所有 Filecoin 地址"
     }
 }
