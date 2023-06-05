@@ -48,7 +48,12 @@
                 }
             },
             "max": {
-                "placeholder": "最大"
+                "placeholder": "最大",
+                "unit": {
+                    "B": "B",
+                    "KiB": "KiB",
+                    "MiB": "MiB"
+                }
             }
         }
     }
