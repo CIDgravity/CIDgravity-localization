@@ -1,3 +1,6 @@
 {
-    "header": "阻止{{clientName}}"
+    "header": "阻止{{clientName}}",
+    "body": {
+        "dealsWillBeRejected": "此操作将自动拒绝来自该客户的所有交易。<br />请键入拒绝信息以发送给客户。"
+    }
 }
