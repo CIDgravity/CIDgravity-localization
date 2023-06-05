@@ -60,7 +60,8 @@
             "cumulativeRawSize": "原始算力（TiB）",
             "numberOfProposals": "提案数量",
             "qualityAdjustedPower": "累积 QAP（TiB）",
-            "clientName": "客户端"
+            "clientName": "客户端",
+            "reason": "已接受/拒绝原因，待删除"
         }
     }
 }
