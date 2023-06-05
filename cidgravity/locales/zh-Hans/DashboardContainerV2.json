@@ -49,6 +49,9 @@
         "filPlusStatus": {
             "true": "已验证",
             "false": "未验证"
+        },
+        "dealDuration": {
+            "<= 12": "≤ 12 月"
         }
     }
 }
