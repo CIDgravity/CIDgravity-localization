@@ -2,5 +2,9 @@
     "header": "您即将离开此页面",
     "body": {
         "warningDataWillBeLost": "所有未保存的信息将会丢失. 您确定要继续吗？"
+    },
+    "button": {
+        "continue": "继续",
+        "cancel": "取消"
     }
 }
