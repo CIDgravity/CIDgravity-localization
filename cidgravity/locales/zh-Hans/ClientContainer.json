@@ -46,7 +46,8 @@
         },
         "retrieval": {
             "retrievalDeals": "每小时存取交易数",
-            "unlimited": "无限制"
+            "unlimited": "无限制",
+            "deals": "{{count}} 交易"
         }
     }
 }
