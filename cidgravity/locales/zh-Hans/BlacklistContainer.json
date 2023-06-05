@@ -13,6 +13,12 @@
             "copy": {
                 "tooltip": "复制"
             }
+        },
+        "addedDate": {
+            "title": "添入日期"
+        },
+        "action": {
+            "title": "操作"
         }
     }
 }
