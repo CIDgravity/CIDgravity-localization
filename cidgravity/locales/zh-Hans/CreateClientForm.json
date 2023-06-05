@@ -45,5 +45,8 @@
             "description": "等待 Peer ID 验证",
             "loading": "验证正在进行中，请稍候…"
         }
+    },
+    "button": {
+        "loading": "加载中"
     }
 }
