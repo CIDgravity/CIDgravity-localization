@@ -71,6 +71,7 @@
         "ERR_INVALID_MINER_CLAIM_POWER_BELOW_1TIB": "此存储供应商不符合最低算力要求（1TiB）。",
         "ERR_INVALID_MINER_CLAIM_NO_ASK": "无法查询storage-ask。",
         "ERR_INVALID_MINER_CLAIM_ASK_VERIFIED_PRICE_IS_NOT_ZERO": "验证交易价格必须为零。",
-        "ERR_INVALID_TIMEOUT_CONFIGURATION": "Estuary遇到了配置错误。请稍后重试或联系CIDgravity团队。"
+        "ERR_INVALID_TIMEOUT_CONFIGURATION": "Estuary遇到了配置错误。请稍后重试或联系CIDgravity团队。",
+        "ERR_INVALID_ESTUARY_REQUEST": "Estuary遇到了错误。请稍后重试或联系CIDgravity团队。"
     }
 }
