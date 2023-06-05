@@ -59,7 +59,14 @@
         },
         "duration": {
             "label": "持续时间 *",
-            "info": "允许的最小持续时间{{newLine}}允许的最大持续时间"
+            "info": "允许的最小持续时间{{newLine}}允许的最大持续时间",
+            "min": {
+                "placeholder": "最小",
+                "unit": {
+                    "day": "天",
+                    "epoch": "Epochs"
+                }
+            }
         }
     }
 }
