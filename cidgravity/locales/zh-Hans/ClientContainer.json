@@ -22,7 +22,9 @@
             "TiB_zero": "{{count}} TiB",
             "TiB_one": "{{count}} TiB",
             "TiB_two": "{{count}} TiB",
-            "TiB_few": "{{count}} TiB"
+            "TiB_few": "{{count}} TiB",
+            "TiB_many": "{{count}} TiB",
+            "TiB_other": "{{count}} TiB"
         }
     }
 }
