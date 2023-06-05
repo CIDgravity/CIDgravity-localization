@@ -41,7 +41,8 @@
             "min": {
                 "placeholder": "最小",
                 "unit": {
-                    "B": "B"
+                    "B": "B",
+                    "KiB": "KiB"
                 }
             }
         }
