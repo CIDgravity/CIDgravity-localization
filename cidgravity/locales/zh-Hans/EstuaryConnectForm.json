@@ -87,7 +87,10 @@
             },
             "3": {
                 "connected": {
-                    "goToIntegration": "返回集成"
+                    "goToIntegration": "返回集成",
+                    "error": {
+                        "previous": "上一步"
+                    }
                 }
             }
         }
