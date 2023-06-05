@@ -40,6 +40,9 @@
             "onAddressAlreadyBlacklisted": "{{address}} 已在黑名单中.",
             "onWhitelistAddress": "在将此地址添加到白名单时发生错误，请稍后再试或联系CIDgravity团队.",
             "onAddressGenericError": "在将此地址添加到白名单时发生错误，请稍后再试或联系CIDgravity团队."
+        },
+        "success": {
+            "onBlacklistAddress": "该地址的所有交易将被拒绝."
         }
     }
 }
