@@ -65,6 +65,8 @@
         "ERR_INVALID_INPUT": "提供的信息无效。",
         "ERR_RECORD_NOT_FOUND": "在Estuary上找不到此存储供应商。",
         "ERR_INVALID_MINER_CLAIM_SIG": "签名无效（太短）。",
-        "ERR_INVALID_MINER_CLAIM_NO_PEER_ID": "此存储供应商的对等ID未找到。"
+        "ERR_INVALID_MINER_CLAIM_NO_PEER_ID": "此存储供应商的对等ID未找到。",
+        "ERR_INVALID_MINER_CLAIM_NO_MULTI_ADDR": "链上没有找到此存储供应商的多重地址。",
+        "ERR_INVALID_MINER_CLAIM_NO_POWER": "此存储供应商没有算力。"
     }
 }
