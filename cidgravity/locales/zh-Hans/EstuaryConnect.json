@@ -7,6 +7,13 @@
                     "isAtLeastOneRequiredParamEmpty": "继续进行集成过程需要一个已签名的讯息。"
                 }
             }
+        },
+        "2": {
+            "notification": {
+                "error": {
+                    "isAtLeastOneRequiredParamEmpty": "继续进行集成过程需要一个已签名的讯息。"
+                }
+            }
         }
     },
     "notification": {
