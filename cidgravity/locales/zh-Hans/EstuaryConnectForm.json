@@ -77,6 +77,19 @@
     "button": {
         "previous": "上一步",
         "abort": "中止",
-        "next": "下一步"
+        "next": "下一步",
+        "step": {
+            "0": {
+                "error": {
+                    "goToIntegration": "转到集成",
+                    "goToBlacklist": "转到黑名单"
+                }
+            },
+            "3": {
+                "connected": {
+                    "goToIntegration": "返回集成"
+                }
+            }
+        }
     }
 }
