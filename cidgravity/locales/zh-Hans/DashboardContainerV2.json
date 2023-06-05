@@ -118,6 +118,9 @@
             "title": "历史交易提案指标",
             "acceptedDealsRejectedReasons": {
                 "title": "已接受/拒绝的提案"
+            },
+            "top10ClientsForAcceptedDeals": {
+                "title": "前10个客户端（已接受的交易）"
             }
         }
     }
