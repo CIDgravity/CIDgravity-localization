@@ -1,1 +1,7 @@
-{}
+{
+    "title": "页面未找到",
+    "pageDoesNotExist": "此页面不存在。",
+    "button": {
+        "goToDashboard": "转到仪表板"
+    }
+}
