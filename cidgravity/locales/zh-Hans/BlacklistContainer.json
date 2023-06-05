@@ -8,7 +8,8 @@
     },
     "table": {
         "address": {
-            "title": "地址"
+            "title": "地址",
+            "addressNotOnChain": "{{address}} （不在链上）"
         }
     }
 }
