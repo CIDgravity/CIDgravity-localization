@@ -1,3 +1,17 @@
 {
-    "title": "连接Estuary"
+    "title": "连接Estuary",
+    "step": {
+        "1": {
+            "notification": {
+                "error": {
+                    "isAtLeastOneRequiredParamEmpty": "继续进行集成过程需要一个已签名的讯息。"
+                }
+            }
+        }
+    },
+    "notification": {
+        "error": {
+            "onLoadData": "无法连接到Estuary，请稍后再试或联系CIDgravity团队。"
+        }
+    }
 }
