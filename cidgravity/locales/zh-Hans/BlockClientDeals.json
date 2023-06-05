@@ -1,6 +1,12 @@
 {
     "header": "阻止{{clientName}}",
     "body": {
-        "dealsWillBeRejected": "此操作将自动拒绝来自该客户的所有交易。<br />请键入拒绝信息以发送给客户。"
+        "dealsWillBeRejected": "此操作将自动拒绝来自该客户的所有交易。<br />请键入拒绝信息以发送给客户。",
+        "blockReason": {
+            "placeholder": "您的交易当前被阻止，原因是…"
+        }
+    },
+    "button": {
+        "proceed": "应用"
     }
 }
