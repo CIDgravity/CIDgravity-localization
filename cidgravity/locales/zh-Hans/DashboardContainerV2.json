@@ -21,7 +21,10 @@
     "title": "存储交易仪表板",
     "retool": {
         "reasons": {
-            "accept": "已接受"
+            "accept": "已接受",
+            "rateLimit": "速率限制 - 提案数量",
+            "reject": "没有匹配的定价规则",
+            "sizeRateLimit": "速率限制- 累积大小"
         }
     }
 }
