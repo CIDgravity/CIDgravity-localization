@@ -26,6 +26,9 @@
                 "minerPrice": "对于已验证的交易，存储供应商价格设置为0： <1>lotus-miner storage-deals get-ask</1>",
                 "onChain": "存储供应商公共地址已在链上发布： <1>lotus-miner actor set-addrs /ip4/PUBLIC_IP/tcp/PORT</1>",
                 "power": "存储供应商算力 > 1TiB"
+            },
+            "doSign": {
+                "label": "2. 运行此命令以签署Estuary连接信息："
             }
         }
     }
