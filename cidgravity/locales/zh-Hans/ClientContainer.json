@@ -13,7 +13,10 @@
             "B_few": "{{count}} B",
             "B_many": "{{count}} B",
             "B_other": "{{count}} B",
-            "GiB_zero": "{{count}} GiB"
+            "GiB_zero": "{{count}} GiB",
+            "GiB_one": "{{count}} GiB",
+            "GiB_two": "{{count}} GiB",
+            "GiB_few": "{{count}} GiB"
         }
     }
 }
