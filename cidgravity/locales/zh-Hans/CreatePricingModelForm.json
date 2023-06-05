@@ -97,6 +97,9 @@
             "onCreateDefaultPricingModel": "默认定价模式创建成功。",
             "onCreatePricingModel": "定价模式创建成功。",
             "onUpdatePricingModel": "定价模式更新成功。"
+        },
+        "error": {
+            "generic": "无法创建或更新定价模式，请稍后再试或联系 CIDgravity 团队。"
         }
     }
 }
