@@ -121,6 +121,9 @@
             },
             "top10ClientsForAcceptedDeals": {
                 "title": "前10个客户端（已接受的交易）"
+            },
+            "top10ClientsForRejectedDeals": {
+                "title": "前10个客户端（被拒绝的交易）"
             }
         }
     }
