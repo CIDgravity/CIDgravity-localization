@@ -1,1 +1,8 @@
-{}
+{
+    "addressToBlacklist": {
+        "label": "要加入黑名单的地址*"
+    },
+    "comment": {
+        "label": "评论"
+    }
+}
