@@ -66,6 +66,9 @@
                     "day": "天",
                     "epoch": "Epochs"
                 }
+            },
+            "max": {
+                "placeholder": "最大"
             }
         }
     }
