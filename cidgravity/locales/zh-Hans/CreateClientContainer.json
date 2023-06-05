@@ -42,6 +42,12 @@
     "validation": {
         "isGenericErrorWhileAddingClient": "添加客户时出现错误。",
         "isPricingModelSelectionMandatory": "需要定价模式。",
-        "isAddressOrPeerIdFieldMandatory": "至少需要一个Filecoin地址或对等ID。"
+        "isAddressOrPeerIdFieldMandatory": "至少需要一个Filecoin地址或对等ID。",
+        "isClientNameAlreadyUsed": "此客户名称已在使用中。"
+    },
+    "notification": {
+        "error": {
+            "isAddressCantBeAddedOneMoreTime": "{{address}}已存在。"
+        }
     }
 }
