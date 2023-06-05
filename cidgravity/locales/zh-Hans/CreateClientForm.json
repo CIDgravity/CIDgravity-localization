@@ -31,7 +31,11 @@
             "placeholder": "输入 Filecoin 地址并按 Enter 键添加…"
         },
         "addressChecks": {
-            "description": "等待地址验证"
+            "description": "等待地址验证",
+            "loading": "地址验证正在进行中，请稍候…"
         }
+    },
+    "manageClientPeerIds": {
+        "title": "管理客户端的 Peer IDs"
     }
 }
