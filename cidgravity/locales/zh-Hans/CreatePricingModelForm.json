@@ -4,6 +4,9 @@
         "name": {
             "label": "定价模式名称 *"
         },
-        "subtitle": "请填写下面的字段。"
+        "subtitle": "请填写下面的字段。",
+        "fallback": {
+            "label": "回退到默认定价模式"
+        }
     }
 }
