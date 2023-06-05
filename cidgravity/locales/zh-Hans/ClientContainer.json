@@ -4,5 +4,10 @@
     "button": {
         "newClient": "创建新客户",
         "modifyLimits": "修改"
+    },
+    "globalLimits": {
+        "sizeUnits": {
+            "B_zero": "{{count}} B"
+        }
     }
 }
