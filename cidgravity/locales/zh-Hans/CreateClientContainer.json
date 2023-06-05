@@ -1,1 +1,8 @@
-{}
+{
+    "createClient": {
+        "title": "创建新客户"
+    },
+    "editClient": {
+        "title": "编辑客户"
+    }
+}
