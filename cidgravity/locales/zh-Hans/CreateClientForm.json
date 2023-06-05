@@ -26,6 +26,12 @@
     },
     "manageClientAddresses": {
         "title": "管理客户端的 Filecoin 地址",
-        "description": "输入客户端将从中发送交易的所有 Filecoin 地址"
+        "description": "输入客户端将从中发送交易的所有 Filecoin 地址",
+        "select": {
+            "placeholder": "输入 Filecoin 地址并按 Enter 键添加…"
+        },
+        "addressChecks": {
+            "description": "等待地址验证"
+        }
     }
 }
