@@ -10,5 +10,9 @@
         "body": {
             "willRemoveThisPricingModel": "此定价模式将被删除，此操作无法撤销"
         }
+    },
+    "button": {
+        "cancel": "取消",
+        "close": "关闭"
     }
 }
