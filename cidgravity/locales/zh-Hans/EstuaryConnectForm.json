@@ -52,9 +52,13 @@
                 },
                 "error": {
                     "title": "Estuary集成失败。",
-                    "explanation": "Estuary响应了错误的状态码，集成失败。"
+                    "explanation": "Estuary响应了错误的状态码，集成失败。",
+                    "check": "请检查下方的信息："
                 }
             }
         }
+    },
+    "error": {
+        "ERR_INVALID_SIGNATURE_FORMAT": "无法验证或签名无效"
     }
 }
