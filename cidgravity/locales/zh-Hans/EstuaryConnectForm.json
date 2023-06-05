@@ -16,6 +16,10 @@
                     "title": "无法检查Estuary连接要求，请稍后再试或联系CIDgravity团队。"
                 }
             }
+        },
+        "1": {
+            "title": "签署信息",
+            "dot": "{{stepIndex}}"
         }
     }
 }
