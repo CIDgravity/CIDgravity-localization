@@ -3,7 +3,10 @@
         "timeRange": {
             "placeholder": "选择日期",
             "60minutes": "最近60分钟",
-            "24hours": "最近24小时"
+            "24hours": "最近24小时",
+            "30days": "最近30天",
+            "specificDate": "指定日期",
+            "3months": "最近3个月"
         }
     },
     "title": "存储交易仪表板"
