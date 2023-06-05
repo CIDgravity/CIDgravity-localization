@@ -33,7 +33,11 @@
             "libp2p": "Libp2p-HTTP",
             "unkown": "未知",
             "graphsync": "Graphsync",
-            "http": "HTTP"
+            "http": "HTTP",
+            "manual": "手动"
+        },
+        "dealSize": {
+            "1073741824": "1 GiB"
         }
     }
 }
