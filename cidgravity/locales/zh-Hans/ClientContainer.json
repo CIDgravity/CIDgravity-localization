@@ -73,7 +73,8 @@
             "editClient": "编辑客户详细信息",
             "deleteClient": "删除客户",
             "sendEmail": "发送电子邮件",
-            "blockClient": "阻止客户"
+            "blockClient": "阻止客户",
+            "unblockClient": "解除阻止客户"
         }
     }
 }
