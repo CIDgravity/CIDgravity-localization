@@ -2,5 +2,9 @@
     "header": "删除{{clientName}}",
     "body": {
         "willCompletelyRemoveClient": "点击删除将<strong>完全删除</strong>此客户。此操作无法撤销。<br />该客户的所有地址的交易提议将回退到默认定价模式。"
+    },
+    "button": {
+        "continue": "删除",
+        "close": "取消"
     }
 }
