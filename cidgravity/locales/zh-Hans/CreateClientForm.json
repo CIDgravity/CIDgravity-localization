@@ -36,6 +36,7 @@
         }
     },
     "manageClientPeerIds": {
-        "title": "管理客户端的 Peer IDs"
+        "title": "管理客户端的 Peer IDs",
+        "description": "输入客户端将从中存取数据的所有 Peer ID"
     }
 }
