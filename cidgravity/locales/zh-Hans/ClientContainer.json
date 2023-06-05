@@ -92,7 +92,8 @@
             }
         },
         "error": {
-            "onCheckHasAssociatedAcl": "该客户有关联的访问控制列表条目。在删除之前，请使用\"拒绝列表\"菜单将其删除."
+            "onCheckHasAssociatedAcl": "该客户有关联的访问控制列表条目。在删除之前，请使用\"拒绝列表\"菜单将其删除.",
+            "onRemoveClient": "无法删除客户，请稍后再试或联系CIDgravity团队."
         }
     }
 }
