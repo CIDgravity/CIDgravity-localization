@@ -45,7 +45,10 @@
             "title": "最后一步",
             "dot": "{{stepIndex}}",
             "connected": {
-                "title": "Estuary连接成功"
+                "title": "Estuary连接成功",
+                "subtitle": {
+                    "existingPricingModel": "已创建一个名为“{{clientName}}”的客户端，使用“{{pricingModelName}}”定价模式。"
+                }
             }
         }
     }
