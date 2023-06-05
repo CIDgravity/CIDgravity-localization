@@ -6,6 +6,7 @@
         "label": "评论"
     },
     "button": {
-        "loading": "正在添加…"
+        "loading": "正在添加…",
+        "addToBlacklist": "加入黑名单"
     }
 }
