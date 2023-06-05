@@ -63,6 +63,9 @@
             },
             "pricingModel": {
                 "title": "定价模式"
+            },
+            "currentStorageRateLimit": {
+                "title": "当前存储速率限制"
             }
         }
     }
