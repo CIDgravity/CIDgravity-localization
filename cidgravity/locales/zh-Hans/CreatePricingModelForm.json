@@ -36,7 +36,14 @@
             }
         },
         "size": {
-            "label": "大小 *"
+            "label": "大小 *",
+            "info": "允许的最小量{{newLine}}允许的最大量",
+            "min": {
+                "placeholder": "最小",
+                "unit": {
+                    "B": "B"
+                }
+            }
         }
     }
 }
