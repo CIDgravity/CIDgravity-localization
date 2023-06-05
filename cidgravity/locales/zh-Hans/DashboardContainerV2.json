@@ -1,7 +1,9 @@
 {
     "filter": {
         "timeRange": {
-            "placeholder": "选择日期"
+            "placeholder": "选择日期",
+            "60minutes": "最近60分钟",
+            "24hours": "最近24小时"
         }
     },
     "title": "存储交易仪表板"
