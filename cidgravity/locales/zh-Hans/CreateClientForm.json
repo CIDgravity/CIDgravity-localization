@@ -55,6 +55,7 @@
         "isNameValidString": "名称必须是有效的字符串。",
         "isNameFieldMandatory": "客户名称是必填项。",
         "isNameFieldInvalid": "只能包含字母、数字和下划线。",
-        "isEmailValidString": "电子邮件必须是有效的字符串。"
+        "isEmailValidString": "电子邮件必须是有效的字符串。",
+        "isEmailValidFormat": "请检查电子邮件是否有效。"
     }
 }
