@@ -16,7 +16,10 @@
             "GiB_zero": "{{count}} GiB",
             "GiB_one": "{{count}} GiB",
             "GiB_two": "{{count}} GiB",
-            "GiB_few": "{{count}} GiB"
+            "GiB_few": "{{count}} GiB",
+            "GiB_many": "{{count}} GiB",
+            "GiB_other": "{{count}} GiB",
+            "TiB_zero": "{{count}} TiB"
         }
     }
 }
