@@ -8,6 +8,12 @@
                 "blacklisted": {
                     "title": "地址已列入黑名单",
                     "explanation": "请在继续之前从\"黑名单\"菜单中移除以下地址："
+                },
+                "alreadyConnected": {
+                    "title": "Estuary已连接"
+                },
+                "generic": {
+                    "title": "无法检查Estuary连接要求，请稍后再试或联系CIDgravity团队。"
                 }
             }
         }
