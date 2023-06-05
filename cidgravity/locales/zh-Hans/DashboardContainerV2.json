@@ -142,6 +142,9 @@
             },
             "acceptedDealsAverageSize": {
                 "title": "按已接受交易大小分类"
+            },
+            "rejectedDealsFilPlus": {
+                "title": "按已拒绝交易大小分类的已验证（Fil+）/未验证交易"
             }
         }
     }
