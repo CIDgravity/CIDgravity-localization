@@ -87,7 +87,8 @@
     },
     "validation": {
         "name": {
-            "typeError": "必须是有效的字符串。"
+            "typeError": "必须是有效的字符串。",
+            "required": "定价模式名称是必填项。"
         }
     }
 }
