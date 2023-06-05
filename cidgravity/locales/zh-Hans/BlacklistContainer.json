@@ -23,5 +23,12 @@
                 "tooltip": "移除"
             }
         }
+    },
+    "notification": {
+        "error": {
+            "onCheckAddressValidity": {
+                "alreadyUsed": "{{address}} 已属于客户."
+            }
+        }
     }
 }
