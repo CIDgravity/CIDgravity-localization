@@ -1,5 +1,9 @@
 {
     "clientName": {
-        "label": "客户名称*"
+        "label": "客户名称*",
+        "placeholder": "ACME 公司"
+    },
+    "email": {
+        "label": "电子邮件"
     }
 }
