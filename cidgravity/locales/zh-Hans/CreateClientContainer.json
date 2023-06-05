@@ -49,7 +49,8 @@
         "error": {
             "isAddressCantBeAddedOneMoreTime": "{{address}}已存在。",
             "isAddressResolvesToAlreadyUsed": "{{address}}解析为{{resolvedAddress}}，已在使用中。",
-            "isAddressAlreadyConfigured": "{{address}}已附加到客户端。"
+            "isAddressAlreadyConfigured": "{{address}}已附加到客户端。",
+            "isAddressBlacklisted": "{{address}}在黑名单中，请在将其与客户关联之前将其加入白名单。"
         }
     }
 }
