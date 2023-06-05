@@ -58,7 +58,9 @@
         "columnsName": {
             "pricingModelName": "定价模式",
             "cumulativeRawSize": "原始算力（TiB）",
-            "numberOfProposals": "提案数量"
+            "numberOfProposals": "提案数量",
+            "qualityAdjustedPower": "累积 QAP（TiB）",
+            "clientName": "客户端"
         }
     }
 }
