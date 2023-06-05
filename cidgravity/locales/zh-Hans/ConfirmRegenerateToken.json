@@ -6,6 +6,7 @@
         "dealProposalsWillNotBeProcessed": "在存储供应商连接器更新之前，交易提议将不会被处理."
     },
     "button": {
-        "confirm": "确认"
+        "confirm": "确认",
+        "cancel": "取消"
     }
 }
