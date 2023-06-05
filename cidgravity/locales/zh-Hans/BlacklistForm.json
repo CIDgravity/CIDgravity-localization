@@ -11,6 +11,7 @@
     },
     "validation": {
         "addressFieldMustBeAString": "必须是有效的地址",
-        "addressFieldIsMandatory": "地址是必填项"
+        "addressFieldIsMandatory": "地址是必填项",
+        "commentFieldMustBeAString": "必须是有效的文字"
     }
 }
