@@ -59,6 +59,7 @@
         }
     },
     "error": {
-        "ERR_INVALID_SIGNATURE_FORMAT": "无法验证或签名无效"
+        "ERR_INVALID_SIGNATURE_FORMAT": "无法验证或签名无效",
+        "ERR_INVALID_PRICING_MODEL": "所选的定价模式无效"
     }
 }
