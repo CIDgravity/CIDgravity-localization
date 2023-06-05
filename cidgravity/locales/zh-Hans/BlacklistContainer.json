@@ -9,7 +9,10 @@
     "table": {
         "address": {
             "title": "地址",
-            "addressNotOnChain": "{{address}} （不在链上）"
+            "addressNotOnChain": "{{address}} （不在链上）",
+            "copy": {
+                "tooltip": "复制"
+            }
         }
     }
 }
