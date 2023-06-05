@@ -55,5 +55,15 @@
             "deals_many": "{{count}} 交易",
             "deals_other": "{{count}} 交易"
         }
+    },
+    "table": {
+        "columns": {
+            "clientName": {
+                "title": "客户名称"
+            },
+            "pricingModel": {
+                "title": "定价模式"
+            }
+        }
     }
 }
