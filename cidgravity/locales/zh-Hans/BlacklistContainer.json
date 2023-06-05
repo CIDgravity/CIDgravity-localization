@@ -18,7 +18,10 @@
             "title": "添入日期"
         },
         "action": {
-            "title": "操作"
+            "title": "操作",
+            "remove": {
+                "tooltip": "移除"
+            }
         }
     }
 }
