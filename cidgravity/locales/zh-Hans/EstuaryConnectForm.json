@@ -2,7 +2,13 @@
     "step": {
         "0": {
             "title": "要求",
-            "dot": "{{stepIndex}}"
+            "dot": "{{stepIndex}}",
+            "loading": "正在进行Estuary连接要求验证…",
+            "error": {
+                "blacklisted": {
+                    "title": "地址已列入黑名单"
+                }
+            }
         }
     }
 }
