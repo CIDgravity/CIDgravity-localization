@@ -43,6 +43,10 @@
             "deals_few": "{{count}} 交易",
             "deals_many": "{{count}} 交易",
             "deals_other": "{{count}} 交易"
+        },
+        "retrieval": {
+            "retrievalDeals": "每小时存取交易数",
+            "unlimited": "无限制"
         }
     }
 }
