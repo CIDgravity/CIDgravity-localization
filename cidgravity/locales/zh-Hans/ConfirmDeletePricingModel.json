@@ -8,7 +8,7 @@
     "removeConfirmation": {
         "header": "移除定价模式\"{{pricingModelName}}\"",
         "body": {
-            "willRemoveThisPricingModel": "此定价模式将被删除，此操作无法撤销"
+            "willRemoveThisPricingModel": "此定价模式将被删除，此操作无法撤销."
         }
     },
     "button": {
