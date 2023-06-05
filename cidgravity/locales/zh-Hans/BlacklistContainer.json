@@ -27,7 +27,8 @@
     "notification": {
         "error": {
             "onCheckAddressValidity": {
-                "alreadyUsed": "{{address}} 已属于客户."
+                "alreadyUsed": "{{address}} 已属于客户.",
+                "actorTypeIsNotAccount": "{{address}} 不是Filecoin账户的actor类型."
             }
         }
     }
