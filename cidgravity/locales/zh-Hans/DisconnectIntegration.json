@@ -2,5 +2,9 @@
     "header": "从CIDgravity断开连接 \"{{integrationName}}\"",
     "body": {
         "willDisconnectIntegration": "您即将断开此集成。相关的客户和定价将不会被删除。"
+    },
+    "button": {
+        "continue": "删除",
+        "cancel": "取消"
     }
 }
