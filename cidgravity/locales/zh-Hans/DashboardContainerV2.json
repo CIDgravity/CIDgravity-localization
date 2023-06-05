@@ -64,7 +64,9 @@
             "reason": "已接受/拒绝原因，待删除"
         },
         "axisUnits": {
-            "numberOfProposals": "提案数量"
+            "numberOfProposals": "提案数量",
+            "cumulativeRawSize": "原始算力（TiB）",
+            "qualityAdjustedPower": "累积 QAP（TiB）"
         }
     }
 }
