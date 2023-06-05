@@ -13,7 +13,9 @@
         },
         "details": {
             "title": "{{pricingModelName}}详细信息",
-            "ruleNumber": "规则 # {{ruleNumber}}"
+            "ruleNumber": "规则 # {{ruleNumber}}",
+            "dealType": "交易类型",
+            "forVerifiedDeals": "针对已验证的交易"
         }
     }
 }
