@@ -48,7 +48,8 @@
     "notification": {
         "error": {
             "isAddressCantBeAddedOneMoreTime": "{{address}}已存在。",
-            "isAddressResolvesToAlreadyUsed": "{{address}}解析为{{resolvedAddress}}，已在使用中。"
+            "isAddressResolvesToAlreadyUsed": "{{address}}解析为{{resolvedAddress}}，已在使用中。",
+            "isAddressAlreadyConfigured": "{{address}}已附加到客户端。"
         }
     }
 }
