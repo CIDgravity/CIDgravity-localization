@@ -100,7 +100,13 @@
             }
         },
         "rejectedDeals": {
-            "title": "被拒绝的交易提案指标"
+            "title": "被拒绝的交易提案指标",
+            "transferType": {
+                "title": "按传输类型分类"
+            },
+            "dealSize": {
+                "title": "按大小分类"
+            }
         }
     }
 }
