@@ -4,6 +4,7 @@
         "clientHasLinkedAcl": "客户\"{{clientName}}\"目前在存取[白名单/黑名单]访问控制中列出。删除此客户的所有ACL，以启用客户删除。"
     },
     "button": {
-        "goToRetrievalAclPage": "前往存取ACLs"
+        "goToRetrievalAclPage": "前往存取ACLs",
+        "cancel": "取消"
     }
 }
