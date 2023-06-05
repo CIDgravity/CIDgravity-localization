@@ -90,6 +90,9 @@
                 "estuary": "已通知Estuary，将不会发送任何新的交易.",
                 "other": "{{clientName}}的所有交易将被拒绝."
             }
+        },
+        "error": {
+            "onCheckHasAssociatedAcl": "该客户有关联的访问控制列表条目。在删除之前，请使用\"拒绝列表\"菜单将其删除."
         }
     }
 }
