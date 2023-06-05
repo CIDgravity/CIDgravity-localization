@@ -62,6 +62,7 @@
         "ERR_INVALID_SIGNATURE_FORMAT": "无法验证或签名无效",
         "ERR_INVALID_PRICING_MODEL": "所选的定价模式无效",
         "ERR_MINER_NOT_OWNED": "CIDgravity无法管理此存储供应商。请重新连接Estuary集成。",
-        "ERR_INVALID_INPUT": "提供的信息无效。"
+        "ERR_INVALID_INPUT": "提供的信息无效。",
+        "ERR_RECORD_NOT_FOUND": "在Estuary上找不到此存储供应商。"
     }
 }
