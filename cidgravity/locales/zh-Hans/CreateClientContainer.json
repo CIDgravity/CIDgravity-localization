@@ -21,7 +21,9 @@
             "pricePerGibAndEpoch": "价格 / GiB / 周期",
             "priceUnit": {
                 "FIL": "FIL"
-            }
+            },
+            "dealSize": "交易大小",
+            "dealDuration": "交易持续时间"
         }
     }
 }
