@@ -68,7 +68,11 @@
                 }
             },
             "max": {
-                "placeholder": "最大"
+                "placeholder": "最大",
+                "unit": {
+                    "day": "天",
+                    "epoch": "纪元"
+                }
             }
         }
     }
