@@ -28,7 +28,8 @@
         "error": {
             "onCheckAddressValidity": {
                 "alreadyUsed": "{{address}} 已属于客户.",
-                "actorTypeIsNotAccount": "{{address}} 不是Filecoin账户的actor类型."
+                "actorTypeIsNotAccount": "{{address}} 不是Filecoin账户的actor类型.",
+                "invalidFormat": "{{address}} 不是有效的Filecoin地址"
             }
         }
     }
