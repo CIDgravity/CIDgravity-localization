@@ -33,7 +33,8 @@
             "MiB_other": "{{count}} MiB"
         },
         "storage": {
-            "storageDeals": "每小时存储交易数"
+            "storageDeals": "每小时存储交易数",
+            "unlimited": "无限制"
         }
     }
 }
