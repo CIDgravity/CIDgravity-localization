@@ -31,6 +31,9 @@
             "MiB_few": "{{count}} MiB",
             "MiB_many": "{{count}} MiB",
             "MiB_other": "{{count}} MiB"
+        },
+        "storage": {
+            "storageDeals": "每小时存储交易数"
         }
     }
 }
