@@ -1,1 +1,10 @@
-{}
+{
+    "copy": {
+        "tooltip": "复制"
+    },
+    "notification": {
+        "success": {
+            "onCopyToClipboard": "已复制到剪贴板"
+        }
+    }
+}
