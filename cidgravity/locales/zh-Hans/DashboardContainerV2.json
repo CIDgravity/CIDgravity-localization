@@ -77,6 +77,12 @@
         },
         "top10ClientsAccepted": {
             "title": "前10个客户端（已接受的交易）"
+        },
+        "top10ClientsRejected": {
+            "title": "前10个客户端（被拒绝的交易）"
+        },
+        "top10PricingModels": {
+            "title": "前10个定价模式"
         }
     }
 }
