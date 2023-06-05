@@ -1,6 +1,7 @@
 {
     "header": "重新生成CIDgravity连接器代币",
     "body": {
-        "yourTokenWillBeInvalidated": "您即将重新生成连接器令牌。<br /> <br />"
+        "yourTokenWillBeInvalidated": "您即将重新生成连接器令牌。<br /> <br />",
+        "beCareful": "此操作无法撤销！"
     }
 }
