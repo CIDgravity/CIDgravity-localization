@@ -10,6 +10,10 @@
         "select": {
             "label": "选择定价模式",
             "description": "从下拉菜单中选择或创建一个新的。"
+        },
+        "details": {
+            "title": "{{pricingModelName}}详细信息",
+            "ruleNumber": "规则 # {{ruleNumber}}"
         }
     }
 }
