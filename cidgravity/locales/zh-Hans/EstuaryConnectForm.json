@@ -36,6 +36,13 @@
         },
         "2": {
             "title": "选择定价模式",
+            "dot": "{{stepIndex}}",
+            "choose": {
+                "label": "选择应用于所有Estuary交易的定价模式"
+            }
+        },
+        "3": {
+            "title": "最后一步",
             "dot": "{{stepIndex}}"
         }
     }
