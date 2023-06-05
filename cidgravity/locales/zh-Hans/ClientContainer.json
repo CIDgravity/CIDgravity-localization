@@ -34,7 +34,9 @@
         },
         "storage": {
             "storageDeals": "每小时存储交易数",
-            "unlimited": "无限制"
+            "unlimited": "无限制",
+            "cumulativeStorageDeals": "每小时累积存储交易大小",
+            "deals": "{{count}} 交易"
         }
     }
 }
