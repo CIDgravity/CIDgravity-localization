@@ -24,7 +24,11 @@
             "TiB_two": "{{count}} TiB",
             "TiB_few": "{{count}} TiB",
             "TiB_many": "{{count}} TiB",
-            "TiB_other": "{{count}} TiB"
+            "TiB_other": "{{count}} TiB",
+            "MiB_zero": "{{count}} MiB",
+            "MiB_one": "{{count}} MiB",
+            "MiB_two": "{{count}} MiB",
+            "MiB_few": "{{count}} MiB"
         }
     }
 }
