@@ -28,7 +28,9 @@
             "MiB_zero": "{{count}} MiB",
             "MiB_one": "{{count}} MiB",
             "MiB_two": "{{count}} MiB",
-            "MiB_few": "{{count}} MiB"
+            "MiB_few": "{{count}} MiB",
+            "MiB_many": "{{count}} MiB",
+            "MiB_other": "{{count}} MiB"
         }
     }
 }
