@@ -76,5 +76,8 @@
             "blockClient": "阻止客户",
             "unblockClient": "解除阻止客户"
         }
+    },
+    "errors": {
+        "unableToLoad": "无法加载现有客户列表，请稍后再试或联系CIDgravity团队."
     }
 }
