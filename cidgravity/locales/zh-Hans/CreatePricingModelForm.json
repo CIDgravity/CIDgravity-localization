@@ -79,5 +79,10 @@
             "label": "价格 *",
             "placeholder": "FIL/GiB/纪元"
         }
+    },
+    "button": {
+        "addNewRule": "添加新规则",
+        "update": "更新",
+        "create": "创建"
     }
 }
