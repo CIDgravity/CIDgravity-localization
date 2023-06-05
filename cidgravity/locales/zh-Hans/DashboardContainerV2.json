@@ -98,6 +98,9 @@
             "dealDuration": {
                 "title": "按持续时间分类"
             }
+        },
+        "rejectedDeals": {
+            "title": "被拒绝的交易提案指标"
         }
     }
 }
