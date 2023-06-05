@@ -115,7 +115,10 @@
             }
         },
         "history": {
-            "title": "历史交易提案指标"
+            "title": "历史交易提案指标",
+            "acceptedDealsRejectedReasons": {
+                "title": "已接受/拒绝的提案"
+            }
         }
     }
 }
