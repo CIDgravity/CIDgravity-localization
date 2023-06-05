@@ -58,6 +58,9 @@
         "isEmailValidString": "电子邮件必须是有效的字符串。",
         "isEmailValidFormat": "请检查电子邮件是否有效。",
         "isSlackValidString": "Slack 用户名必须是有效的字符串。",
-        "isHourlyDealLimitValidType": "必须是有效的数字。"
+        "isHourlyDealLimitValidType": "必须是有效的数字。",
+        "isHourlyDealLimitPositive": "必须是正数。",
+        "isHourlyDealLimitMandatory": "存储交易限制是必填项。",
+        "isHourlyDealSizeLimitValidType": "必须是有效的数字。"
     }
 }
