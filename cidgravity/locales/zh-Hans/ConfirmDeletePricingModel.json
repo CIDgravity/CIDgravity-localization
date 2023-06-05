@@ -1,5 +1,8 @@
 {
     "unableToRemove": {
-        "header": "无法删除定价模式\"{{pricingModelName}}\""
+        "header": "无法删除定价模式\"{{pricingModelName}}\"",
+        "body": {
+            "needToUpdateClientsPricingModels": "该模式仍分配给活动客户. 更新下面列出的所有客户的定价模式，以启用模式删除：<br />"
+        }
     }
 }
