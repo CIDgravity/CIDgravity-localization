@@ -61,6 +61,7 @@
         "isHourlyDealLimitValidType": "必须是有效的数字。",
         "isHourlyDealLimitPositive": "必须是正数。",
         "isHourlyDealLimitMandatory": "存储交易限制是必填项。",
-        "isHourlyDealSizeLimitValidType": "必须是有效的数字。"
+        "isHourlyDealSizeLimitValidType": "必须是有效的数字。",
+        "isHourlyDealSizeLimitPositive": "必须是正数。"
     }
 }
