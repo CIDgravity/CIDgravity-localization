@@ -65,6 +65,13 @@
         "isHourlyDealSizeLimitPositive": "必须是正数。",
         "isHourlyDealSizeLimitMandatory": "累积交易大小是必填项。",
         "isStartEpochSealingBufferValidType": "必须是有效的数字。",
-        "isStartEpochSealingBufferPositive": "必须是正数。"
+        "isStartEpochSealingBufferPositive": "必须是正数。",
+        "isStartEpochSealingBufferMandatory": "开始纪元密封缓冲是必填项。"
+    },
+    "notification": {
+        "success": {
+            "isClientSuccessfullyUpdated": "已更新客户。",
+            "isClientSuccessfullyCreated": "已成功添加客户。"
+        }
     }
 }
