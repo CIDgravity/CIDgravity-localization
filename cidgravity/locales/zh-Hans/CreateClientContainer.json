@@ -30,5 +30,8 @@
                 "notApplicable": "回退到默认定价模式：不适用"
             }
         }
+    },
+    "error": {
+        "isAddressNotOnChain": "{{address}}（不在链上）"
     }
 }
