@@ -73,5 +73,8 @@
         "ERR_INVALID_MINER_CLAIM_ASK_VERIFIED_PRICE_IS_NOT_ZERO": "验证交易价格必须为零。",
         "ERR_INVALID_TIMEOUT_CONFIGURATION": "Estuary遇到了配置错误。请稍后重试或联系CIDgravity团队。",
         "ERR_INVALID_ESTUARY_REQUEST": "Estuary遇到了错误。请稍后重试或联系CIDgravity团队。"
+    },
+    "button": {
+        "previous": "上一步"
     }
 }
