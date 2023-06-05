@@ -16,6 +16,12 @@
     },
     "storageDealRates": {
         "title": "存储交易速率*",
-        "description": "定义每小时允许的交易速率限制（0 = 无限制）"
+        "description": "定义每小时允许的交易速率限制（0 = 无限制）",
+        "numberOfDeal": {
+            "label": "交易数量"
+        },
+        "cumulativeDealSize": {
+            "label": "累积交易大小（以 GiB 为单位）"
+        }
     }
 }
