@@ -1,4 +1,8 @@
 {
     "title": "客户管理",
-    "subtitle": "指定每个客户的定制定价并配置交易接受条件。"
+    "subtitle": "指定每个客户的定制定价并配置交易接受条件。",
+    "button": {
+        "newClient": "创建新客户",
+        "modifyLimits": "修改"
+    }
 }
