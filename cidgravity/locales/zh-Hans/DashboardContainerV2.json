@@ -31,7 +31,9 @@
         },
         "transferTypes": {
             "libp2p": "Libp2p-HTTP",
-            "unkown": "未知"
+            "unkown": "未知",
+            "graphsync": "Graphsync",
+            "http": "HTTP"
         }
     }
 }
