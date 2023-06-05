@@ -13,5 +13,8 @@
         "title": "开始纪元密封缓冲",
         "description": "给予密封扇区与交易的起始纪元的最小缓冲时间，低于该时间的交易将被拒绝。值以小时表示。",
         "switchLabel": "覆盖全局设置"
+    },
+    "storageDealRates": {
+        "title": "存储交易速率*"
     }
 }
