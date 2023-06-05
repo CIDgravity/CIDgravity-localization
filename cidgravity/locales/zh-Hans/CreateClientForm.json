@@ -63,6 +63,7 @@
         "isHourlyDealLimitMandatory": "存储交易限制是必填项。",
         "isHourlyDealSizeLimitValidType": "必须是有效的数字。",
         "isHourlyDealSizeLimitPositive": "必须是正数。",
-        "isHourlyDealSizeLimitMandatory": "累积交易大小是必填项。"
+        "isHourlyDealSizeLimitMandatory": "累积交易大小是必填项。",
+        "isStartEpochSealingBufferValidType": "必须是有效的数字。"
     }
 }
