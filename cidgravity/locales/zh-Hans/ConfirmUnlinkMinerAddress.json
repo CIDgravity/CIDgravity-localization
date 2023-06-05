@@ -1,3 +1,6 @@
 {
-    "header": "移除存储供应商{{addressId}}"
+    "header": "移除存储供应商{{addressId}}",
+    "body": {
+        "willUnlinkFromYourAccount": "此操作将取消与您的CIDgravity账户关联的存储供应商."
+    }
 }
