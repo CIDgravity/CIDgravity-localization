@@ -47,6 +47,7 @@
         }
     },
     "button": {
-        "loading": "加载中"
+        "loading": "加载中",
+        "createClient": "创建客户"
     }
 }
