@@ -53,7 +53,8 @@
             "isAddressBlacklisted": "{{address}}在黑名单中，请在将其与客户关联之前将其加入白名单。",
             "isAddressNotOfTypeAccount": "{{address}}不是Filecoin支持的actor类型（f1 / f3 / f4）。",
             "isAddressGenericError": "无法添加{{address}}，请稍后再试或联系CIDgravity团队。",
-            "isAddressInvalidFilecoinFormat": "{{address}} 不是有效的Filecoin地址"
+            "isAddressInvalidFilecoinFormat": "{{address}} 不是有效的Filecoin地址",
+            "isAddressInvalidFormat": "{{address}}-此地址类型不受支持，请使用SECP256K1、ID或BLS地址"
         }
     }
 }
