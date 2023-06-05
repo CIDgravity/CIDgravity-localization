@@ -42,7 +42,8 @@
             "onAddressGenericError": "在将此地址添加到白名单时发生错误，请稍后再试或联系CIDgravity团队."
         },
         "success": {
-            "onBlacklistAddress": "该地址的所有交易将被拒绝."
+            "onBlacklistAddress": "该地址的所有交易将被拒绝.",
+            "onWhitelistAddress": "地址已加入白名单，交易将被处理."
         }
     }
 }
