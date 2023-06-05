@@ -51,7 +51,7 @@
                     "newPricingModel": "已创建一个名为“{{clientName}}”的客户端，使用“{{pricingModelName}}”定价模式。"
                 },
                 "error": {
-                    "title": "Estuary集成失败"
+                    "title": "Estuary集成失败。"
                 }
             }
         }
