@@ -78,6 +78,8 @@
         }
     },
     "errors": {
-        "unableToLoad": "无法加载现有客户列表，请稍后再试或联系CIDgravity团队."
+        "unableToLoad": "无法加载现有客户列表，请稍后再试或联系CIDgravity团队.",
+        "noClientFound": "無现有客户.",
+        "addPricingModelBefore": "在添加新客户之前，请创建定价模式."
     }
 }
