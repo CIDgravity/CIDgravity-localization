@@ -37,5 +37,8 @@
     "price": {
         "label": "价格*",
         "placeholder": "FIL / GiB / 纪元"
+    },
+    "validation": {
+        "isPriceInvalidValue": "请使用点十进制格式。"
     }
 }
