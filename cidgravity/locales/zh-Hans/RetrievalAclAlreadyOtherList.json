@@ -4,6 +4,10 @@
         "body": "{{elementLabel}} 已经在黑名单中。确认切换到白名单？"
     },
     "blacklist": {
-        "header": "确认切换到黑名单"
+        "header": "确认切换到黑名单",
+        "body": "{{elementLabel}} 已经在白名单中。确认切换到黑名单？",
+        "button": {
+            "confirm": "确认"
+        }
     }
 }
