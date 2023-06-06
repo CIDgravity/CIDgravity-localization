@@ -4,6 +4,8 @@
         "title": "诊断"
     },
     "community": {
-        "title": "社区"
+        "title": "社区",
+        "description": "提问、寻求帮助或与存储供应商、开发人员和专家讨论各种事务。<br /><br />您还可以直接与CIDgravity团队私信联系。",
+        "joinSlack": "加入我们的Slack频道"
     }
 }
