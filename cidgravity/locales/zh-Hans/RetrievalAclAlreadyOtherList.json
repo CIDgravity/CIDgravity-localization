@@ -10,5 +10,11 @@
             "confirm": "确认",
             "cancel": "取消"
         }
+    },
+    "button": {
+        "whitelist": {
+            "confirm": "确认",
+            "cancel": "取消"
+        }
     }
 }
