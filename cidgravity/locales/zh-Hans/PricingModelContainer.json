@@ -36,7 +36,8 @@
     },
     "notification": {
         "success": {
-            "onUpdateDefaultPricingModel": "默认价格模式已更新"
+            "onUpdateDefaultPricingModel": "默认价格模式已更新",
+            "onDeletePricingModel": "成功删除价格模式"
         }
     }
 }
