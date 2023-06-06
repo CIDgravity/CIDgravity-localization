@@ -4,7 +4,11 @@
     "isLoadingProposal": "正在加载模拟交易提案…",
     "testResult": {
         "success": {
-            "title": "成功！"
+            "title": "成功！",
+            "matchedPricing": "匹配{{pricingModel}} / 规则{{rule}}"
+        },
+        "rejected": {
+            "title": "提案被拒绝"
         }
     }
 }
