@@ -19,6 +19,9 @@
             "content_few": "{{count}} 个关联客户端",
             "content_many": "{{count}} 个关联客户端",
             "content_other": "{{count}} 个关联客户端"
+        },
+        "view": {
+            "tooltip": "查看关联的规则和客户端详细信息"
         }
     }
 }
