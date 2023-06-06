@@ -23,6 +23,7 @@
         }
     },
     "verified": {
-        "label": "已验证*"
+        "label": "已验证*",
+        "trueValue": "是"
     }
 }
