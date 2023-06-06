@@ -15,7 +15,13 @@
         },
         "blacklist": {
             "isSelectedElemEmpty": "此字段为必填项",
-            "isSelectedElemAlreadyInBlacklist": "对等 ID 已在黑名单中"
+            "isSelectedElemAlreadyInBlacklist": "对等 ID 已在黑名单中",
+            "isSelectedPeerIdInvalid": "无效的对等 ID 格式"
+        }
+    },
+    "notification": {
+        "success": {
+            "onApplyAcl": "成功应用"
         }
     }
 }
