@@ -33,5 +33,8 @@
         "graphsyncValue": "Graphsync",
         "httpValue": "Http",
         "libp2pValue": "Libp2p-HTTP"
+    },
+    "price": {
+        "label": "价格*"
     }
 }
