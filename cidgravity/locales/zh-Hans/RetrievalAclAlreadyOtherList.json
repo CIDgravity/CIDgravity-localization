@@ -7,7 +7,8 @@
         "header": "确认切换到黑名单",
         "body": "{{elementLabel}} 已经在白名单中。确认切换到黑名单？",
         "button": {
-            "confirm": "确认"
+            "confirm": "确认",
+            "cancel": "取消"
         }
     }
 }
