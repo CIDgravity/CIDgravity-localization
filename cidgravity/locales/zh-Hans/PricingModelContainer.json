@@ -46,5 +46,8 @@
     },
     "empty": {
         "title": "此存储供应商下没有价格模式。必须创建默认价格模式才能使用CIDgravity。"
+    },
+    "error": {
+        "generic": "无法加载价格模式。请稍后再试或联系CIDgravity团队。"
     }
 }
