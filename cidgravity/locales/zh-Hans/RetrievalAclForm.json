@@ -13,7 +13,9 @@
     "whitelist": {
         "title": "添加对等 ID 或客户端",
         "elementToSelect": {
-            "label": "对等 ID 或客户端名称*"
+            "label": "对等 ID 或客户端名称*",
+            "placeholder": "选择…",
+            "formatCreateLabel": "选择此对等 ID"
         }
     }
 }
