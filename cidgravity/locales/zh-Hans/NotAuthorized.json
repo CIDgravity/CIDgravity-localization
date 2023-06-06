@@ -1,4 +1,8 @@
 {
     "title": "禁止访问",
-    "permissionDenied": "您没有权限访问此资源。"
+    "permissionDenied": "您没有权限访问此资源。",
+    "button": {
+        "back": "返回",
+        "claim": "认领新地址"
+    }
 }
