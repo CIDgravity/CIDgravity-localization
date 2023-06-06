@@ -19,7 +19,9 @@
                 "noLatestDate": "无"
             },
             "nok": {
-                "label": "同步状态"
+                "label": "同步状态",
+                "latestDate": "上次请求接收时间：{{datetime}}",
+                "noLatestDate": "无"
             }
         }
     }
