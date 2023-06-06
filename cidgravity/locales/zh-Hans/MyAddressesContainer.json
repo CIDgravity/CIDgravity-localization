@@ -50,5 +50,13 @@
         "errors": {
             "generic": "无法加载其他地址。请稍后再试或联系CIDgravity团队。"
         }
+    },
+    "button": {
+        "claimNewAddress": {
+            "label": "认领新地址",
+            "tooltip": {
+                "onMaximumReached": "您已达到最大认领地址数"
+            }
+        }
     }
 }
