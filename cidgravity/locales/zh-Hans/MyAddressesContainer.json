@@ -6,6 +6,9 @@
             "empty": "未认领的存储供应商",
             "friendlyName": {
                 "title": "昵称"
+            },
+            "addressId": {
+                "title": "地址ID"
             }
         }
     }
