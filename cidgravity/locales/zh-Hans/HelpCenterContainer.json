@@ -9,6 +9,10 @@
         "joinSlack": "加入我们的Slack频道"
     },
     "issue": {
-        "title": "问题"
+        "title": "问题",
+        "createIssueOnGithub": "直接在<1>Github</1>上创建问题"
+    },
+    "training": {
+        "title": "培训"
     }
 }
