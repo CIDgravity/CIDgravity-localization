@@ -33,5 +33,10 @@
             "tooltip": "将此价格模式设置为默认"
         },
         "defaultBadge": "默认"
+    },
+    "notification": {
+        "success": {
+            "onUpdateDefaultPricingModel": "默认价格模式已更新"
+        }
     }
 }
