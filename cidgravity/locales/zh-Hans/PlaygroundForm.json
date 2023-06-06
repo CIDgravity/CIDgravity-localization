@@ -28,6 +28,7 @@
         "falseValue": "否"
     },
     "transferType": {
-        "label": "传输类型*"
+        "label": "传输类型*",
+        "manualValue": "手动"
     }
 }
