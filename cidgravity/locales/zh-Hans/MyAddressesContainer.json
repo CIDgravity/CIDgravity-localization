@@ -36,6 +36,9 @@
             },
             "longAddress": {
                 "title": "长格式地址"
+            },
+            "actorType": {
+                "title": "Actor类型"
             }
         }
     }
