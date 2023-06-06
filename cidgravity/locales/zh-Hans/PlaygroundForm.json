@@ -6,5 +6,10 @@
     "fromAddress": {
         "label": "发送地址*",
         "formatCreateLabel": "选择此地址"
+    },
+    "dealDuration": {
+        "label": "交易持续时间*",
+        "daysValue": "天",
+        "epochsValue": "纪元"
     }
 }
