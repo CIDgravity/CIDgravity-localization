@@ -9,6 +9,8 @@
             "registerMiner": "自动将此存储供应商注册到Estuary并开始接受交易",
             "setPublicName": "在<1>estuary.tech</1>上设置存储供应商的公共名称",
             "informEstuary": "实时与Estuary共享矿工的接受条件"
-        }
+        },
+        "more": "更多详细信息",
+        "less": "较少详细信息"
     }
 }
