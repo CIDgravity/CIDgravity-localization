@@ -14,6 +14,9 @@
         "loading": {
             "title": "等待结果中…",
             "description": "正在处理提案，此页面将自动更新…"
+        },
+        "waiting": {
+            "title": "等待请求"
         }
     }
 }
