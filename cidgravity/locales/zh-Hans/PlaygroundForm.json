@@ -17,7 +17,8 @@
         "tooltip": "交易大小将自动向上舍入到下一个2的幂次方",
         "sizeUnits": {
             "B": "B",
-            "KIB": "KiB"
+            "KIB": "KiB",
+            "MIB": "MiB"
         }
     }
 }
