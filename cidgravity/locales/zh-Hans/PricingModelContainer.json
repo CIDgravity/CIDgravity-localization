@@ -16,7 +16,9 @@
             "content_zero": "无",
             "content_one": "{{count}} 个关联客户端",
             "content_two": "{{count}} 个关联客户端",
-            "content_few": "{{count}} 个关联客户端"
+            "content_few": "{{count}} 个关联客户端",
+            "content_many": "{{count}} 个关联客户端",
+            "content_other": "{{count}} 个关联客户端"
         }
     }
 }
