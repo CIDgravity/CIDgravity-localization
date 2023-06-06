@@ -9,6 +9,9 @@
             },
             "addressId": {
                 "title": "地址ID"
+            },
+            "actorType": {
+                "title": "Actor类型"
             }
         }
     }
