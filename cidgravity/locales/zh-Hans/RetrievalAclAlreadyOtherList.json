@@ -1,6 +1,6 @@
 {
     "whitelist": {
         "header": "确认切换到白名单",
-        "body": "{{elementLabel}} 已经在黑名单中。"
+        "body": "{{elementLabel}} 已经在黑名单中。确认切换到白名单？"
     }
 }
