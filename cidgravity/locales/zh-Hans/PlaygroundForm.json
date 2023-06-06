@@ -21,5 +21,8 @@
             "MIB": "MiB",
             "GIB": "GiB"
         }
+    },
+    "verified": {
+        "label": "已验证*"
     }
 }
