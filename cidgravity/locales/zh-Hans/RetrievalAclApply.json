@@ -5,6 +5,7 @@
         "close": "取消",
         "apply_zero": "应用",
         "apply_one": "应用{{count}}个更改",
-        "apply_two": "应用{{count}}个更改"
+        "apply_two": "应用{{count}}个更改",
+        "apply_few": "应用{{count}}个更改"
     }
 }
