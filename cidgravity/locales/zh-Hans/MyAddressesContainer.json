@@ -65,7 +65,8 @@
             "onRemoveAccess": "访问权限已成功移除。"
         },
         "error": {
-            "onDeleteAddress": "无法删除地址。请稍后再试或联系CIDgravity团队。"
+            "onDeleteAddress": "无法删除地址。请稍后再试或联系CIDgravity团队。",
+            "onRemoveAccess": "无法移除权限。请稍后再试或联系CIDgravity团队。"
         }
     }
 }
