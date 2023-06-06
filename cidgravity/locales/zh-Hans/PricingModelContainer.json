@@ -38,6 +38,9 @@
         "success": {
             "onUpdateDefaultPricingModel": "默认价格模式已更新",
             "onDeletePricingModel": "成功删除价格模式"
+        },
+        "error": {
+            "onUpdateDefaultPricingModel": "无法更新默认价格模式, 请稍后再试或联系CIDgravity团队。"
         }
     }
 }
