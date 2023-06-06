@@ -11,6 +11,12 @@
             "informEstuary": "实时与Estuary共享矿工的接受条件"
         },
         "more": "更多详细信息",
-        "less": "较少详细信息"
+        "less": "较少详细信息",
+        "sync": {
+            "ok": {
+                "label": "同步状态",
+                "latestDate": "上次同步时间：{{datetime}}"
+            }
+        }
     }
 }
