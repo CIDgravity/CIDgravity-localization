@@ -24,6 +24,10 @@
     },
     "verified": {
         "label": "已验证*",
-        "trueValue": "是"
+        "trueValue": "是",
+        "falseValue": "否"
+    },
+    "transferType": {
+        "label": "传输类型*"
     }
 }
