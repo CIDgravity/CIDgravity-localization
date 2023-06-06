@@ -33,6 +33,7 @@
         "isFromAddressMandatory": "发送地址是必填项。",
         "isDurationOutsideLimits": "持续时间必须在180到548天之间。",
         "isProposalPieceSizeUnderLimit": "交易大小必须大于256B。",
-        "isTestSuccessfullySent": "测试成功处理。"
+        "isTestSuccessfullySent": "测试成功处理。",
+        "isTestFailed": "发生错误，请稍后几分钟后重试或联系CIDgravity团队。"
     }
 }
