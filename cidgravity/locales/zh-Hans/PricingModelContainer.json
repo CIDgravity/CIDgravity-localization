@@ -31,6 +31,7 @@
         },
         "setToDefault": {
             "tooltip": "将此价格模式设置为默认"
-        }
+        },
+        "defaultBadge": "默认"
     }
 }
