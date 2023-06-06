@@ -13,6 +13,7 @@
         "createIssueOnGithub": "直接在<1>Github</1>上创建问题"
     },
     "training": {
-        "title": "培训"
+        "title": "培训",
+        "bookCallWithExpert": "与我们的专家进行30分钟一对一培训，充分发挥CIDgravity的所有功能。<br /><br />我们将回答您的所有问题，协助解决问题，或为您提供全面的产品演示。"
     }
 }
