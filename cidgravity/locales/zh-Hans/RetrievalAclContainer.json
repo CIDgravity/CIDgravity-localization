@@ -4,6 +4,12 @@
     "error": {
         "unableToFetchClients": "存取列表元素时发生错误, 请稍后重试或联系 CIDgravity 团队。",
         "unableToFetchCurrentBehavior": "显示列表元素时发生错误, 请稍后重试或联系 CIDgravity 团队。",
-        "unableToFetchWhitelist": "存取白名单元素时发生错误。请稍后重试或联系 CIDgravity 团队。"
+        "unableToFetchWhitelist": "存取白名单元素时发生错误。请稍后重试或联系 CIDgravity 团队。",
+        "unableToFetchBlacklist": "存取黑名单元素时发生错误, 请稍后重试或联系 CIDgravity 团队。"
+    },
+    "validation": {
+        "whitelist": {
+            "isSelectedElemAlreadyInWhitelist": "对等 ID 已在白名单中"
+        }
     }
 }
