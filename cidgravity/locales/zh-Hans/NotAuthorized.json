@@ -1,1 +1,4 @@
-{}
+{
+    "title": "禁止访问",
+    "permissionDenied": "您没有权限访问此资源。"
+}
