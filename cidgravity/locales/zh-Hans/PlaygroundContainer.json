@@ -10,6 +10,9 @@
         "rejected": {
             "title": "提案被拒绝",
             "matchedPricing": "被{{pricingModel}} / 规则{{rule}}拒绝"
+        },
+        "loading": {
+            "title": "等待结果中…"
         }
     }
 }
