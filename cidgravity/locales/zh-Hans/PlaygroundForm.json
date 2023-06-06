@@ -13,6 +13,7 @@
         "epochsValue": "纪元"
     },
     "dealSize": {
-        "label": "交易大小*"
+        "label": "交易大小*",
+        "tooltip": "交易大小将自动向上舍入到下一个2的幂次方"
     }
 }
