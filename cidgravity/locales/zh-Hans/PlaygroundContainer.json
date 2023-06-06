@@ -35,5 +35,10 @@
         "isProposalPieceSizeUnderLimit": "交易大小必须大于256B。",
         "isTestSuccessfullySent": "测试成功处理。",
         "isTestFailed": "发生错误，请稍后几分钟后重试或联系CIDgravity团队。"
+    },
+    "notification": {
+        "error": {
+            "isFromAddressNotSupported": "此\"from\"字段必须是有效的Filecoin地址。"
+        }
     }
 }
