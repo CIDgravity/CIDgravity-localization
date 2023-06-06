@@ -3,7 +3,10 @@
     "minerAddress": {
         "title": "存储供应商地址",
         "table": {
-            "empty": "未认领的存储供应商"
+            "empty": "未认领的存储供应商",
+            "friendlyName": {
+                "title": "昵称"
+            }
         }
     }
 }
