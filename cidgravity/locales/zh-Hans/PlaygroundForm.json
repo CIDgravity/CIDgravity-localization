@@ -2,5 +2,9 @@
     "button": {
         "isSendingTest": "处理中…",
         "sendATest": "发送"
+    },
+    "fromAddress": {
+        "label": "发送地址*",
+        "formatCreateLabel": "选择此地址"
     }
 }
