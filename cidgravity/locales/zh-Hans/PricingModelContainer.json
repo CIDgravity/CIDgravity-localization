@@ -6,7 +6,8 @@
             "title": "名称"
         },
         "rule": {
-            "title": "规则"
+            "title": "规则",
+            "noContent": "无"
         }
     }
 }
