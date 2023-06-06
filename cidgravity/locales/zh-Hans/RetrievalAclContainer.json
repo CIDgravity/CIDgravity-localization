@@ -22,6 +22,12 @@
     "notification": {
         "success": {
             "onApplyAcl": "成功应用"
+        },
+        "error": {
+            "onApplyAcl": "无法应用更改。请稍后重试或联系 CIDgravity 团队。"
         }
+    },
+    "prompt": {
+        "onLeavingWithUnsavedChanges": "有未保存的更改。确定要离开此页面吗？"
     }
 }
