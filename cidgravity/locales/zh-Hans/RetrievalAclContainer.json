@@ -1,4 +1,8 @@
 {
     "title": "允许/拒绝列表管理",
-    "subtitle": "管理客户端对等 ID 的黑名单和白名单。"
+    "subtitle": "管理客户端对等 ID 的黑名单和白名单。",
+    "error": {
+        "unableToFetchClients": "存取列表元素时发生错误, 请稍后重试或联系 CIDgravity 团队。",
+        "unableToFetchCurrentBehavior": "显示列表元素时发生错误, 请稍后重试或联系 CIDgravity 团队。"
+    }
 }
