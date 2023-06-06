@@ -8,7 +8,8 @@
             "matchedPricing": "匹配{{pricingModel}} / 规则{{rule}}"
         },
         "rejected": {
-            "title": "提案被拒绝"
+            "title": "提案被拒绝",
+            "matchedPricing": "被{{pricingModel}} / 规则{{rule}}拒绝"
         }
     }
 }
