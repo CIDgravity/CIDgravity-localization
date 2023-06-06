@@ -26,5 +26,8 @@
     },
     "error": {
         "onLoadSpecificProposal": "加载存储提案时发生错误，请稍后几分钟后重试或联系CIDgravity团队。"
+    },
+    "validation": {
+        "isFromAddressNotSupported": "此\"from\"字段应为有效的Filecoin地址"
     }
 }
