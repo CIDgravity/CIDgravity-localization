@@ -30,6 +30,7 @@
     "transferType": {
         "label": "传输类型*",
         "manualValue": "手动",
-        "graphsyncValue": "Graphsync"
+        "graphsyncValue": "Graphsync",
+        "httpValue": "Http"
     }
 }
