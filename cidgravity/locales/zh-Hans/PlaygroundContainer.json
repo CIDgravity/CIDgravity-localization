@@ -23,5 +23,8 @@
             "title": "错误请求",
             "reason": "在处理交易时发生错误，请稍后几分钟后重试或联系CIDgravity团队。"
         }
+    },
+    "error": {
+        "onLoadSpecificProposal": "加载存储提案时发生错误，请稍后几分钟后重试或联系CIDgravity团队。"
     }
 }
