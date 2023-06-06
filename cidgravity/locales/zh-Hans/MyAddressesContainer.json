@@ -15,6 +15,9 @@
             },
             "access": {
                 "tooltip": "权限"
+            },
+            "delete": {
+                "tooltip": "删除"
             }
         }
     }
