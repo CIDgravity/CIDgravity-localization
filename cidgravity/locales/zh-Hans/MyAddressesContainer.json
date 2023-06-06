@@ -12,6 +12,9 @@
             },
             "actorType": {
                 "title": "Actor类型"
+            },
+            "access": {
+                "tooltip": "权限"
             }
         }
     }
