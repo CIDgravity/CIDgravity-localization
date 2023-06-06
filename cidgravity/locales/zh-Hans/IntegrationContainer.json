@@ -7,7 +7,8 @@
         "details": {
             "opener": "将Estuary与CIDgravity集成可以实现以下功能：",
             "registerMiner": "自动将此存储供应商注册到Estuary并开始接受交易",
-            "setPublicName": "在<1>estuary.tech</1>上设置存储供应商的公共名称"
+            "setPublicName": "在<1>estuary.tech</1>上设置存储供应商的公共名称",
+            "informEstuary": "实时与Estuary共享矿工的接受条件"
         }
     }
 }
