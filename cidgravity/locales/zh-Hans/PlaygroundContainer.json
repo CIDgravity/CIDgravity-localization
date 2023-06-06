@@ -20,7 +20,8 @@
             "description": "请填写表单"
         },
         "error": {
-            "title": "错误请求"
+            "title": "错误请求",
+            "reason": "在处理交易时发生错误，请稍后几分钟后重试或联系CIDgravity团队。"
         }
     }
 }
