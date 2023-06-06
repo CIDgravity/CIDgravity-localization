@@ -31,6 +31,7 @@
         "label": "传输类型*",
         "manualValue": "手动",
         "graphsyncValue": "Graphsync",
-        "httpValue": "Http"
+        "httpValue": "Http",
+        "libp2pValue": "Libp2p-HTTP"
     }
 }
