@@ -18,7 +18,8 @@
         "sizeUnits": {
             "B": "B",
             "KIB": "KiB",
-            "MIB": "MiB"
+            "MIB": "MiB",
+            "GIB": "GiB"
         }
     }
 }
