@@ -2,6 +2,8 @@
     "header": "警告：空白白名单！",
     "body": "您将激活一个空白白名单：CIDgravity 将拒绝所有交易。是否继续？",
     "button": {
-        "close": "取消"
+        "close": "取消",
+        "apply_zero": "应用",
+        "apply_one": "应用{{count}}个更改"
     }
 }
