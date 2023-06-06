@@ -30,6 +30,12 @@
             "empty": "无地址",
             "friendlyName": {
                 "title": "昵称"
+            },
+            "addressId": {
+                "title": "地址ID"
+            },
+            "longAddress": {
+                "title": "长格式地址"
             }
         }
     }
