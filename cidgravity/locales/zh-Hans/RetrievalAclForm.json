@@ -16,6 +16,17 @@
             "label": "对等 ID 或客户端名称*",
             "placeholder": "选择…",
             "formatCreateLabel": "选择此对等 ID"
+        },
+        "comment": {
+            "label": "评论"
+        }
+    },
+    "button": {
+        "blacklist": {
+            "addToAcl": "添加到黑名单"
+        },
+        "whitelist": {
+            "addToAcl": "添加到黑名单"
         }
     }
 }
