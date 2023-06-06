@@ -23,6 +23,10 @@
                 "latestDate": "上次请求接收时间：{{datetime}}",
                 "noLatestDate": "无"
             }
+        },
+        "button": {
+            "info": "信息",
+            "connect": "连接"
         }
     }
 }
