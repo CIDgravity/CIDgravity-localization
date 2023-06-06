@@ -1,1 +1,8 @@
-{}
+{
+    "blacklist": {
+        "title": "添加对等 ID 或客户端",
+        "elementToSelect": {
+            "label": "对等 ID 或客户端名称*"
+        }
+    }
+}
