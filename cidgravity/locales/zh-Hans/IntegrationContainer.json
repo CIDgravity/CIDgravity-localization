@@ -5,7 +5,9 @@
         "title": "Estuary",
         "subtitle": "Estuary允许用户通过浏览器界面或API将公共数据存储在IPFS和Filecoin上。",
         "details": {
-            "opener": "将Estuary与CIDgravity集成可以实现以下功能："
+            "opener": "将Estuary与CIDgravity集成可以实现以下功能：",
+            "registerMiner": "自动将此存储供应商注册到Estuary并开始接受交易",
+            "setPublicName": "在<1>estuary.tech</1>上设置存储供应商的公共名称"
         }
     }
 }
