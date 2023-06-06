@@ -11,5 +11,8 @@
         "label": "交易持续时间*",
         "daysValue": "天",
         "epochsValue": "纪元"
+    },
+    "dealSize": {
+        "label": "交易大小*"
     }
 }
