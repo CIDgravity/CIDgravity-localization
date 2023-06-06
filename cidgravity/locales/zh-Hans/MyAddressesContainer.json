@@ -1,6 +1,9 @@
 {
     "title": "管理我的地址",
     "minerAddress": {
-        "title": "存储供应商地址"
+        "title": "存储供应商地址",
+        "table": {
+            "empty": "未认领的存储供应商"
+        }
     }
 }
