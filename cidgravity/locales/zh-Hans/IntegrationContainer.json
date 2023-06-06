@@ -2,6 +2,7 @@
     "title": "集成管理",
     "subtitle": "管理第三方交易提供商的集成。",
     "estuary": {
-        "title": "Estuary"
+        "title": "Estuary",
+        "subtitle": "Estuary允许用户通过浏览器界面或API将公共数据存储在IPFS和Filecoin上。"
     }
 }
