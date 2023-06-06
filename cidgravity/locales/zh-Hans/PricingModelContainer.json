@@ -8,6 +8,10 @@
         "rule": {
             "title": "规则",
             "noContent": "无"
+        },
+        "client": {
+            "title": "客户端",
+            "noContent": "无"
         }
     }
 }
