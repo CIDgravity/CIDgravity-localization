@@ -1,5 +1,6 @@
 {
     "button": {
-        "isSendingTest": "处理中…"
+        "isSendingTest": "处理中…",
+        "sendATest": "发送"
     }
 }
