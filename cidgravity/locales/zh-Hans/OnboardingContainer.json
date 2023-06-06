@@ -1,3 +1,6 @@
 {
-    "title": "欢迎来到CIDgravity！"
+    "title": "欢迎来到CIDgravity！",
+    "step": {
+        "joinSlackCommunity": "加入我们的<1>Slack</1>频道"
+    }
 }
