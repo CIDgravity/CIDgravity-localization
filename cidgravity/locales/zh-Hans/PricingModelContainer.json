@@ -11,7 +11,8 @@
         },
         "client": {
             "title": "客户端",
-            "noContent": "无"
+            "noContent": "无",
+            "defaultContent": "默认价格模式"
         }
     }
 }
