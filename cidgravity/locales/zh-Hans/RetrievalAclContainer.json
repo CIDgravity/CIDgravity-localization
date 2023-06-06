@@ -29,5 +29,9 @@
     },
     "prompt": {
         "onLeavingWithUnsavedChanges": "有未保存的更改。确定要离开此页面吗？"
+    },
+    "button": {
+        "apply_zero": "应用",
+        "apply_one": "应用{{count}}个更改"
     }
 }
