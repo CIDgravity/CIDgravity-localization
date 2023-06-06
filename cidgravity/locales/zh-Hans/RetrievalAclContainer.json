@@ -9,7 +9,9 @@
     },
     "validation": {
         "whitelist": {
-            "isSelectedElemAlreadyInWhitelist": "对等 ID 已在白名单中"
+            "isSelectedElemAlreadyInWhitelist": "对等 ID 已在白名单中",
+            "isSelectedElemEmpty": "此字段为必填项",
+            "isSelectedPeerIdInvalid": "无效的对等 ID 格式"
         }
     }
 }
