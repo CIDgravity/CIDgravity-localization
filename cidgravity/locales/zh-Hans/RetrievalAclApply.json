@@ -3,6 +3,7 @@
     "body": "应用白名单/黑名单的更改？",
     "button": {
         "close": "取消",
-        "apply_zero": "应用"
+        "apply_zero": "应用",
+        "apply_one": "应用{{count}}个更改"
     }
 }
