@@ -1,4 +1,5 @@
 {
     "title": "存储交易沙盒",
-    "subtitle": "该页面允许根据当前CIDgravity配置向定价引擎发送虚拟交易提案。"
+    "subtitle": "该页面允许根据当前CIDgravity配置向定价引擎发送虚拟交易提案。",
+    "isLoadingProposal": "正在加载模拟交易提案…"
 }
