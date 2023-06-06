@@ -32,6 +32,7 @@
         "isPriceMandatory": "价格是必填项。",
         "isFromAddressMandatory": "发送地址是必填项。",
         "isDurationOutsideLimits": "持续时间必须在180到548天之间。",
-        "isProposalPieceSizeUnderLimit": "交易大小必须大于256B。"
+        "isProposalPieceSizeUnderLimit": "交易大小必须大于256B。",
+        "isTestSuccessfullySent": "测试成功处理。"
     }
 }
