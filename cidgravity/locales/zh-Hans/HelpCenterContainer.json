@@ -2,5 +2,8 @@
     "title": "帮助中心",
     "diagnosis": {
         "title": "诊断"
+    },
+    "community": {
+        "title": "社区"
     }
 }
