@@ -58,5 +58,10 @@
                 "onMaximumReached": "您已达到最大认领地址数"
             }
         }
+    },
+    "notification": {
+        "success": {
+            "onDeleteAddress": "已成功删除存储供应商。"
+        }
     }
 }
