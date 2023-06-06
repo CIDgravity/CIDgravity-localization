@@ -28,6 +28,9 @@
         },
         "delete": {
             "tooltip": "删除此价格模式"
+        },
+        "setToDefault": {
+            "tooltip": "将此价格模式设置为默认"
         }
     }
 }
