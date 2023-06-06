@@ -46,6 +46,9 @@
             "delete": {
                 "tooltip": "删除"
             }
+        },
+        "errors": {
+            "generic": "无法加载其他地址。请稍后再试或联系CIDgravity团队。"
         }
     }
 }
