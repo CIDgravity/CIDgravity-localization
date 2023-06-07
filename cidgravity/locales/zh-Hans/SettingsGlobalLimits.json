@@ -1,1 +1,10 @@
-{}
+{
+    "client": {
+        "rateLimit": {
+            "title": "全局速率限制",
+            "storageDealPerHour": {
+                "label": "每小时存储交易数量"
+            }
+        }
+    }
+}
