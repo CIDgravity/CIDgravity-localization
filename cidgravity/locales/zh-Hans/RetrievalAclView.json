@@ -29,6 +29,12 @@
     },
     "whitelist": {
         "title": "白名单",
-        "subtitle": "CIDgravity 默认拒绝所有交易，并应用以下白名单："
+        "subtitle": "CIDgravity 默认拒绝所有交易，并应用以下白名单：",
+        "table": {
+            "empty": "无记录",
+            "peerId": {
+                "title": "对等 ID"
+            }
+        }
     }
 }
