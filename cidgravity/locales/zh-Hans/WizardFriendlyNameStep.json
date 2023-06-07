@@ -1,4 +1,8 @@
 {
     "defaultFriendlyName": "{{userNickname}}的超级存储供应商",
-    "title": "设置存储供应商昵称*"
+    "title": "设置存储供应商昵称*",
+    "subtitle": "此信息将帮助您在界面中快速识别该矿工。",
+    "validation": {
+        "isFriendlyNameMandatory": "昵称是必填项。"
+    }
 }
