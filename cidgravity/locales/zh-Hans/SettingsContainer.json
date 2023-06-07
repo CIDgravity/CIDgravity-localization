@@ -64,7 +64,11 @@
             "onUpdateMaintenanceMode": "更新维护模式时发生错误，请稍后再试或联系 CIDgravity 团队。",
             "onUpdateCustomMessage": "更新自定义信息时发生错误，请稍后再试或联系 CIDgravity 团队。",
             "onUpdateFriendlyName": "更新存储供应商昵称时发生错误，请稍后再试或联系 CIDgravity 团队。",
-            "onRegenerateConnectorToken": "生成新代币时发生错误，请稍后再试或联系 CIDgravity 团队。"
+            "onRegenerateConnectorToken": "生成新代币时发生错误，请稍后再试或联系 CIDgravity 团队。",
+            "onUpdateStartEpochSealingBuffer": "更新起始时期密封缓冲区设置时发生错误，请稍后再试或联系 CIDgravity 团队。"
         }
+    },
+    "error": {
+        "generic": "存取帐户详细信息时发生错误，请稍后再试或联系 CIDgravity 团队。"
     }
 }
