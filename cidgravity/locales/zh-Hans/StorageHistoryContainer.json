@@ -13,6 +13,9 @@
         },
         "datetime": {
             "title": "接收于（{{datetimeFormat}}）"
+        },
+        "reason": {
+            "title": "结果"
         }
     }
 }
