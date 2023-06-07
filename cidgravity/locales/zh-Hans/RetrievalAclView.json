@@ -35,7 +35,11 @@
             "peerId": {
                 "title": "对等 ID",
                 "content_zero": "无对等 ID",
-                "content_one": "{{count}} 个对等 ID"
+                "content_one": "{{count}} 个对等 ID",
+                "content_two": "{{count}} 个对等 IDs",
+                "content_few": "{{count}} 个对等 IDs",
+                "content_many": "{{count}} 个对等 IDs",
+                "content_other": "{{count}} 个对等 IDs"
             }
         }
     }
