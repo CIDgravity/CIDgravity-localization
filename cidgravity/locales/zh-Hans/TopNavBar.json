@@ -13,5 +13,9 @@
     "tenantSelector": {
         "noAddress": "没有地址",
         "noAddressSelected": "未选择地址"
+    },
+    "userDropdownMenu": {
+        "account": "我的账户",
+        "addresses": "我的地址"
     }
 }
