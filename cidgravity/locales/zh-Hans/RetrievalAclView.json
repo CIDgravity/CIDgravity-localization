@@ -3,6 +3,9 @@
     "subtitle": "管理客户端对等 ID 的黑名单和白名单。",
     "blacklist": {
         "title": "黑名单",
-        "subtitle": "CIDgravity 默认接受所有交易，并应用以下黑名单："
+        "subtitle": "CIDgravity 默认接受所有交易，并应用以下黑名单：",
+        "table": {
+            "empty": "无记录"
+        }
     }
 }
