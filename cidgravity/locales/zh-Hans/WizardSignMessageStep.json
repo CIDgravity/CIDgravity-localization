@@ -9,5 +9,12 @@
     },
     "putSignedMessageStep": {
         "label": "2. 签名输出*"
+    },
+    "error": {
+        "isUnableToGenerateChallenge": "生成签署挑战时出现错误。请稍后重试或联系CIDgravity团队。",
+        "isUnableToCheckSignature": "无法验证签署的信息"
+    },
+    "button": {
+        "next": "下一步"
     }
 }
