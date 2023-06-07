@@ -49,7 +49,11 @@
     },
     "notification": {
         "success": {
-            "onUpdateRateLimits": "设置已保存！"
+            "onUpdateRateLimits": "设置已保存！",
+            "onUpdateMaintenanceMode": {
+                "enabled": "维护模式已启用，现在所有交易将被拒绝。",
+                "disabled": "维护模式已禁用。"
+            }
         }
     }
 }
