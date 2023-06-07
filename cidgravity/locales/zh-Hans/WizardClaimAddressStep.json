@@ -6,5 +6,8 @@
         "isAddressNotAStorageMiner": "此地址不是存储供应商的地址。",
         "isAddressAlreadyClaimed": "地址已被认领。",
         "isAddressInvalid": "无效的地址。"
+    },
+    "claimAddressField": {
+        "placeholder": "fxxxxxx"
     }
 }
