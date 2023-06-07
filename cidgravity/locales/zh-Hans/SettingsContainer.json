@@ -33,7 +33,14 @@
             }
         },
         "friendlyName": {
-            "title": "昵称"
+            "title": "昵称",
+            "button": {
+                "save": "保存"
+            }
+        },
+        "customMessage": {
+            "info": "每当交易被拒绝时，此信息将发送给客户端。",
+            "title": "自定义信息"
         }
     }
 }
