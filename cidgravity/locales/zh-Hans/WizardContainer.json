@@ -4,6 +4,8 @@
         "start": "开始",
         "signMessage": "签署信息",
         "friendlyName": "昵称",
-        "settings": "全局设置"
+        "settings": "全局设置",
+        "importClientsAndPricing": "导入客户和定价",
+        "complete": "完成"
     }
 }
