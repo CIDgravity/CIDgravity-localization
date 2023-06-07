@@ -1,1 +1,9 @@
-{}
+{
+    "client": {
+        "maintenanceMode": {
+            "label": "启用/禁用维护模式",
+            "title": "维护模式"
+        }
+    },
+    "title": "设置"
+}
