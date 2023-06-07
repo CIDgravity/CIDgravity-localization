@@ -1,3 +1,8 @@
 {
-    "title": "认领新地址"
+    "title": "认领新地址",
+    "subtitle": "输入您要认领的地址。",
+    "validation": {
+        "isAddressFieldMandatory": "此字段为必填项。",
+        "isAddressNotAStorageMiner": "此地址不是存储供应商的地址。"
+    }
 }
