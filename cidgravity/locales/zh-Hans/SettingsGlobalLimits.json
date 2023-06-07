@@ -5,6 +5,9 @@
             "storageDealPerHour": {
                 "label": "每小时存储交易数量",
                 "info": "所有客户端每小时的最大存储交易数量"
+            },
+            "retrievalDealPerHour": {
+                "label": "每小时存取交易数量"
             }
         }
     }
