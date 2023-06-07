@@ -11,6 +11,7 @@
     },
     "button": {
         "testConnectivity": "测试存储供应商的连接性",
-        "configureIntegrations": "配置集成（可选）"
+        "configureIntegrations": "配置集成（可选）",
+        "deployConnector": "部署CIDgravity-X连接器"
     }
 }
