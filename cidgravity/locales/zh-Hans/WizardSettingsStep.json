@@ -31,6 +31,7 @@
         "isDealSizeInteger": "必须是正整数。",
         "isDealSizeMandatory": "此字段为必填项。",
         "isRetrievalDealsPerHourValidNumber": "无效数字。",
-        "isRetrievalDealsPerHourPositiveNumber": "必须是正整数。"
+        "isRetrievalDealsPerHourPositiveNumber": "必须是正整数。",
+        "isRetrievalDealsPerHourInteger": "此字段为必填项。"
     }
 }
