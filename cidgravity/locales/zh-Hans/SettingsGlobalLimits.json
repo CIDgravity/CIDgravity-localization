@@ -11,8 +11,13 @@
                 "info": "所有客户端每小时的最大存取交易数量"
             },
             "cumulativeDealSize": {
-                "label": "每小时累积存储交易大小（GiB）"
+                "label": "每小时累积存储交易大小（GiB）",
+                "info": "所有客户端每小时的最大累积存储交易大小"
+            },
+            "button": {
+                "save": "保存"
             }
         }
-    }
+    },
+    "zeroMeanNoLimits": "值为0表示无限制"
 }
