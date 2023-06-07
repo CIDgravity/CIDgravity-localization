@@ -1,5 +1,7 @@
 {
     "button": {
-        "previous": "上一步"
+        "previous": "上一步",
+        "submit": "提交",
+        "next": "下一步"
     }
 }
