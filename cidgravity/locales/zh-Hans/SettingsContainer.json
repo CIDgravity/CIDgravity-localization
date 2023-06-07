@@ -2,7 +2,11 @@
     "client": {
         "maintenanceMode": {
             "label": "启用/禁用维护模式",
-            "title": "维护模式"
+            "title": "维护模式",
+            "info": "当维护模式被激活时，所有传入的交易提案（存储和存取）将被拒绝。"
+        },
+        "unknownClient": {
+            "title": "未知客户端"
         }
     },
     "title": "设置"
