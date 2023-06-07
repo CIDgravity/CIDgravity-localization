@@ -2,6 +2,8 @@
     "title": "从其他地址导入配置",
     "subtitle": "因为您已经认领了其他地址，您可以从其中一个地址导入配置。",
     "doYouWantToImportRadio": {
-        "label": "您是否要从其他地址导入配置？"
+        "label": "您是否要从其他地址导入配置？",
+        "noOption": "否（将创建默认定价模式）",
+        "yesOption": "是"
     }
 }
