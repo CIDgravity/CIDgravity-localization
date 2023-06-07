@@ -10,6 +10,10 @@
         "tooltip": "所有客户端每小时允许的存储交易累积大小上限。"
     },
     "retrievalDealsPerHourField": {
-        "label": "每小时存取交易数量*"
+        "label": "每小时存取交易数量*",
+        "tooltip": "所有客户端每小时允许的最大存取交易数量。"
+    },
+    "customMessageField": {
+        "label": "自定义信息"
     }
 }
