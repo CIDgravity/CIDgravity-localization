@@ -44,7 +44,13 @@
             },
             "invalidProposalOrError": {
                 "tooltip": "无效提案"
+            },
+            "startEpochBelowSealingBuffer": {
+                "tooltip": "由于开始日期过早（低于定义的开始时期密封缓冲区）而被拒绝"
             }
+        },
+        "internalMessage": {
+            "empty": "无"
         }
     }
 }
