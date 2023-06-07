@@ -38,6 +38,12 @@
             },
             "rateLimit": {
                 "tooltip": "由于速率限制而拒绝"
+            },
+            "sizeRateLimit": {
+                "tooltip": "由于交易大小限制而拒绝"
+            },
+            "invalidProposalOrError": {
+                "tooltip": "无效提案"
             }
         }
     }
