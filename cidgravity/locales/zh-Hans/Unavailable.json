@@ -4,7 +4,8 @@
     "action": "请尝试重新加载此页面或联系CIDgravity团队。<br /><br />{{errorMessage}}",
     "button": {
         "email": {
-            "label": "通过电子邮件报告"
+            "label": "通过电子邮件报告",
+            "subject": "[警报] CIDgravity当前不可用"
         }
     }
 }
