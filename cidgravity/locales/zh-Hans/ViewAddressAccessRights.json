@@ -1,7 +1,10 @@
 {
     "body": {
         "table": {
-            "profile": "个人头像"
+            "profile": "个人头像",
+            "nickname": "昵称",
+            "email": "电子邮件",
+            "action": "操作"
         }
     },
     "header": "{{addressId}} 的访问权限"
