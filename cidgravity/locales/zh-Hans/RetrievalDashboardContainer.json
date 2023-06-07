@@ -1,7 +1,10 @@
 {
     "filter": {
         "timeRange": {
-            "placeholder": "选择时间范围"
+            "placeholder": "选择时间范围",
+            "60minutes": "最近60分钟",
+            "24hours": "最近24小时",
+            "30days": "最近30天"
         }
     },
     "title": "存取分析仪表盘"
