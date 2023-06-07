@@ -16,6 +16,12 @@
         },
         "reason": {
             "title": "结果"
+        },
+        "inspect": {
+            "tooltip": "检查交易提案"
+        },
+        "simulate": {
+            "tooltip": "在playground中模拟"
         }
     }
 }
