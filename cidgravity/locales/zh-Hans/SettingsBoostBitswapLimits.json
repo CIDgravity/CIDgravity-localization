@@ -1,7 +1,11 @@
 {
     "client": {
         "bitswap": {
-            "title": "提升 Bitswap 限制"
+            "title": "提升 Bitswap 限制",
+            "description": "可以配置提升 Bitswap 以从 CIDgravity 获取其配置；这些设置将自动同步。<1>提升文档</1><br />在启动提升 Bitswap 时使用以下两个附加参数：",
+            "recentActivity": {
+                "title": "最近的活动"
+            }
         }
     }
 }
