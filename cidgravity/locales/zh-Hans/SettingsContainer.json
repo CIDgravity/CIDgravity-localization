@@ -18,5 +18,11 @@
             }
         }
     },
-    "title": "设置"
+    "title": "设置",
+    "other": {
+        "connector": {
+            "title": "CIDgravity 连接器",
+            "info": "\"CIDgravity 连接器\" 连接矿工与 CIDgravity 平台。<br/>这个轻量级连接器在每次接收到提案时由 lotus/boost 在本地执行。"
+        }
+    }
 }
