@@ -1,4 +1,10 @@
 {
     "title": "CIDgravity当前不可用。",
-    "explanation": "我们的运维团队正在努力恢复服务。<br />"
+    "explanation": "我们的运维团队正在努力恢复服务。<br />",
+    "action": "请尝试重新加载此页面或联系CIDgravity团队。<br /><br />{{errorMessage}}",
+    "button": {
+        "email": {
+            "label": "通过电子邮件报告"
+        }
+    }
 }
