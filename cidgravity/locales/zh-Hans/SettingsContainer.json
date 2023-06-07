@@ -28,7 +28,8 @@
             "noMostRecentActivity": "无最近活动",
             "token": {
                 "title": "CIDgravity 连接器密钥",
-                "regenerate": "禁用并重新生成代币"
+                "regenerate": "禁用并重新生成代币",
+                "subtitle": "密钥添加到部署在存储供应商上的 CIDgravity 连接器"
             }
         }
     }
