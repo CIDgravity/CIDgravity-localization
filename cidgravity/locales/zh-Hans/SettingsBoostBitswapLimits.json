@@ -1,1 +1,7 @@
-{}
+{
+    "client": {
+        "bitswap": {
+            "title": "提升 Bitswap 限制"
+        }
+    }
+}
