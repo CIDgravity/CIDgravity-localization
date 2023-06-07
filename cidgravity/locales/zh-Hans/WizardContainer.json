@@ -1,3 +1,9 @@
 {
-    "title": "认领存储供应商 {{address}}"
+    "title": "认领存储供应商 {{address}}",
+    "step": {
+        "start": "开始",
+        "signMessage": "签署信息",
+        "friendlyName": "昵称",
+        "settings": "全局设置"
+    }
 }
