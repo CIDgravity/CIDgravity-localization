@@ -46,5 +46,10 @@
             },
             "placeholder": "如有任何问题或特殊定价，请在 Slack 上联系我"
         }
+    },
+    "notification": {
+        "success": {
+            "onUpdateRateLimits": "设置已保存！"
+        }
     }
 }
