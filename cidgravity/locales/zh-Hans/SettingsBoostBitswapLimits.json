@@ -20,7 +20,11 @@
                 "save": "保存"
             },
             "maxBandwidth": {
-                "label": "最大带宽"
+                "label": "最大带宽",
+                "info": "分配给 Bitswap 的最大带宽（in bits/sec）",
+                "unit": {
+                    "B": "b"
+                }
             }
         }
     }
