@@ -45,6 +45,13 @@
         "columnsName": {
             "peerID": "对等 ID",
             "numberOfProposals": "提案数量"
+        },
+        "noRowsFound": "无数据",
+        "totalAcceptedDealsSizeWithReasons": {
+            "title": "已接受/已拒绝的提案"
+        },
+        "axisUnits": {
+            "numberOfProposals": "提案数量"
         }
     }
 }
