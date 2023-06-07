@@ -12,5 +12,11 @@
             "placeholder": "选择自定义日期"
         }
     },
-    "title": "存取分析仪表盘"
+    "title": "存取分析仪表盘",
+    "retool": {
+        "reasons": {
+            "accept": "已接受",
+            "maintenance": "维护模式"
+        }
+    }
 }
