@@ -1,1 +1,6 @@
-{}
+{
+    "header": "{{pricingModelName}}规则集",
+    "body": {
+        "position": "规则{{position}}"
+    }
+}
