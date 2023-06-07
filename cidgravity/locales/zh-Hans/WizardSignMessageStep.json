@@ -6,5 +6,8 @@
         "codeHighlight": {
             "content": "lotus钱包标志{{workerKey}} {{hexMessage}}"
         }
+    },
+    "putSignedMessageStep": {
+        "label": "2. 签名输出*"
     }
 }
