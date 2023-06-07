@@ -18,7 +18,14 @@
             "accept": "已接受",
             "maintenance": "维护模式",
             "retrievalRateLimit": "速率限制 - 存取次数",
-            "invalidProposal": "无效提案"
+            "invalidProposal": "无效提案",
+            "reject": "已拒绝"
+        },
+        "totalAcceptedDealsWithReasons": {
+            "title": "已接受/已拒绝的提案"
+        },
+        "top10ReceiversAccepted": {
+            "title": "前10个对等 ID"
         }
     }
 }
