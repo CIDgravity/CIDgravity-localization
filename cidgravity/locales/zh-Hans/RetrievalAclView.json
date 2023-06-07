@@ -9,7 +9,8 @@
             "peerId": {
                 "title": "对等 ID",
                 "noContent": "无对等 ID",
-                "content_zero": "无对等 IDs"
+                "content_zero": "无对等 IDs",
+                "content_one": "{{count}}对等 ID"
             }
         }
     }
