@@ -31,6 +31,9 @@
                 "regenerate": "禁用并重新生成代币",
                 "subtitle": "密钥添加到部署在存储供应商上的 CIDgravity 连接器"
             }
+        },
+        "friendlyName": {
+            "title": "昵称"
         }
     }
 }
