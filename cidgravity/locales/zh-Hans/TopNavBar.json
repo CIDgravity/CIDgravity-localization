@@ -11,6 +11,7 @@
         }
     },
     "tenantSelector": {
-        "noAddress": "没有地址"
+        "noAddress": "没有地址",
+        "noAddressSelected": "未选择地址"
     }
 }
