@@ -23,6 +23,9 @@
         "success": {
             "onCheckNetwork": {
                 "restored": "已恢复与CIDgravity的连接。"
+            },
+            "onFirstNetworkConnection": {
+                "available": "已恢复与CIDgravity的连接。"
             }
         }
     }
