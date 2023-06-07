@@ -6,7 +6,11 @@
     },
     "maintenanceMode": {
         "switch": {
-            "tooltipEnabled": "维护模式已启用，{{address}}的所有交易将被拒绝"
+            "tooltipEnabled": "维护模式已启用，{{address}}的所有交易将被拒绝",
+            "tooltipAcceptingDeals": "CIDgravity正在接受交易"
         }
+    },
+    "tenantSelector": {
+        "noAddress": "没有地址"
     }
 }
