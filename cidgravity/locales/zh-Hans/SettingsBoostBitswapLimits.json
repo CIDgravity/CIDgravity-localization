@@ -18,6 +18,9 @@
             },
             "button": {
                 "save": "保存"
+            },
+            "maxBandwidth": {
+                "label": "最大带宽"
             }
         }
     }
