@@ -40,6 +40,15 @@
                 "content_few": "{{count}} 个对等 IDs",
                 "content_many": "{{count}} 个对等 IDs",
                 "content_other": "{{count}} 个对等 IDs"
+            },
+            "client": {
+                "title": "客户端"
+            },
+            "comment": {
+                "title": "评论"
+            },
+            "action": {
+                "title": "操作"
             }
         }
     }
