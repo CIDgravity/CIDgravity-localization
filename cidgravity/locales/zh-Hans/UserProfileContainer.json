@@ -18,5 +18,8 @@
         "email": {
             "label": "电子邮件"
         }
+    },
+    "error": {
+        "unableToFetchUserDetails": "无法存取您的账户详细信息, 请稍后再试，或联系CIDgravity团队。"
     }
 }
