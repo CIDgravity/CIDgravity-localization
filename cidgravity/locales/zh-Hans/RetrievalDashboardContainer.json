@@ -41,6 +41,10 @@
             "top10ReceiversForRejectedDeals": {
                 "title": "前10个对等 ID（被拒绝的交易）"
             }
+        },
+        "columnsName": {
+            "peerID": "对等 ID",
+            "numberOfProposals": "提案数量"
         }
     }
 }
