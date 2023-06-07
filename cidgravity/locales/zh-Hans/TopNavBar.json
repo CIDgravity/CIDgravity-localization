@@ -26,7 +26,8 @@
             },
             "onFirstNetworkConnection": {
                 "available": "已恢复与CIDgravity的连接。"
-            }
+            },
+            "onEnableMaintenanceMode": "维护模式已启用，{{address}}的所有交易将被拒绝。"
         }
     }
 }
