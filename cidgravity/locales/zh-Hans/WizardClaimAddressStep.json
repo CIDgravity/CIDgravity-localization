@@ -9,5 +9,8 @@
     },
     "claimAddressField": {
         "placeholder": "fxxxxxx"
+    },
+    "button": {
+        "next": "下一步"
     }
 }
