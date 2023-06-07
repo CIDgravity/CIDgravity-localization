@@ -1,1 +1,7 @@
-{}
+{
+    "title": "管理我的账户",
+    "profile": {
+        "connectionStatus": "已连接为{{name}}",
+        "updatedAt": "更新于{{datetime}}"
+    }
+}
