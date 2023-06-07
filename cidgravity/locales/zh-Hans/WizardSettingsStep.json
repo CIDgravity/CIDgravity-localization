@@ -22,6 +22,7 @@
         "tooltip": "当未激活时，将拒绝所有来自未知客户端的存储交易。"
     },
     "validation": {
-        "isStorageDealsPerHourValidNumber": "无效数字。"
+        "isStorageDealsPerHourValidNumber": "无效数字。",
+        "isStorageDealsPerHourPositiveNumber": "必须是正数。"
     }
 }
