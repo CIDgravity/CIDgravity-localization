@@ -5,7 +5,10 @@
         "title": "黑名单",
         "subtitle": "CIDgravity 默认接受所有交易，并应用以下黑名单：",
         "table": {
-            "empty": "无记录"
+            "empty": "无记录",
+            "peerId": {
+                "title": "对等 ID"
+            }
         }
     }
 }
