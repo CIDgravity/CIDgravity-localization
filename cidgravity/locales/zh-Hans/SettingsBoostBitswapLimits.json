@@ -23,7 +23,9 @@
                 "label": "最大带宽",
                 "info": "分配给 Bitswap 的最大带宽（in bits/sec）",
                 "unit": {
-                    "B": "b"
+                    "B": "b",
+                    "KB": "kb",
+                    "GB": "kb"
                 }
             }
         }
