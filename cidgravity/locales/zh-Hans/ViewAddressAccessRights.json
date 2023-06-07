@@ -1,1 +1,8 @@
-{}
+{
+    "body": {
+        "table": {
+            "profile": "个人头像"
+        }
+    },
+    "header": "{{addressId}} 的访问权限"
+}
