@@ -9,6 +9,15 @@
             "copy": {
                 "tooltip": "复制对等 ID"
             }
+        },
+        "datetime": {
+            "title": "接收时间（{{datetimeFormat}}）"
+        },
+        "reason": {
+            "title": "结果"
+        },
+        "inspect": {
+            "tooltip": "查看交易提案"
         }
     }
 }
