@@ -62,7 +62,8 @@
         "error": {
             "onUpdateRateLimits": "更新设置时发生错误，请稍后再试或联系 CIDgravity 团队。",
             "onUpdateMaintenanceMode": "更新维护模式时发生错误，请稍后再试或联系 CIDgravity 团队。",
-            "onUpdateCustomMessage": "更新自定义信息时发生错误，请稍后再试或联系 CIDgravity 团队。"
+            "onUpdateCustomMessage": "更新自定义信息时发生错误，请稍后再试或联系 CIDgravity 团队。",
+            "onUpdateFriendlyName": "更新存储供应商昵称时发生错误，请稍后再试或联系 CIDgravity 团队。"
         }
     }
 }
