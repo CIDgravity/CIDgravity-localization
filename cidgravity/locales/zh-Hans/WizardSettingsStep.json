@@ -15,6 +15,6 @@
     },
     "customMessageField": {
         "label": "自定义信息",
-        "tooltip": "当拒绝交易时，将向客户端发送此信息。"
+        "tooltip": "当拒绝交易时，将向客户端发送此信息"
     }
 }
