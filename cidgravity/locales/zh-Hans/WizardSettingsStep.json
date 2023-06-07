@@ -25,6 +25,8 @@
         "isStorageDealsPerHourValidNumber": "无效数字。",
         "isStorageDealsPerHourPositiveNumber": "必须是正数。",
         "isStorageDealsPerHourInteger": "必须是正整数。",
-        "isStorageDealsPerHourMandatory": "此字段为必填项。"
+        "isStorageDealsPerHourMandatory": "此字段为必填项。",
+        "isDealSizeValidNumber": "无效数字。",
+        "isDealSizePositiveNumber": "必须是正整数。"
     }
 }
