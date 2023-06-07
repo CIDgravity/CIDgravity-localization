@@ -3,7 +3,8 @@
         "rateLimit": {
             "title": "全局速率限制",
             "storageDealPerHour": {
-                "label": "每小时存储交易数量"
+                "label": "每小时存储交易数量",
+                "info": "所有客户端每小时的最大存储交易数量"
             }
         }
     }
