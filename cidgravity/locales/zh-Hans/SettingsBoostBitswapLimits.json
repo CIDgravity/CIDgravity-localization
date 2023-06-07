@@ -34,6 +34,7 @@
     "zeroMeanNoLimits": "值为 0 表示无限制",
     "validation": {
         "isInvalidValue": "无效的值。",
-        "isNotPositiveValue": "值必须为正整数。"
+        "isNotPositiveValue": "值必须为正整数。",
+        "isRequiredValue": "此字段为必填项。"
     }
 }
