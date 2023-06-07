@@ -58,6 +58,9 @@
             "onUpdateFriendlyName": "存储供应商昵称已更新。",
             "onRegenerateConnectorToken": "代币已重新生成。",
             "onUpdateStartEpochSealingBuffer": "起始时期密封缓冲区已更新。"
+        },
+        "error": {
+            "onUpdateRateLimits": "更新设置时发生错误，请稍后再试或联系 CIDgravity 团队。"
         }
     }
 }
