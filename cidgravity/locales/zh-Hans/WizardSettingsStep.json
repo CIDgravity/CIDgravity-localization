@@ -4,5 +4,8 @@
     "numberOfStorageDealsPerHourField": {
         "tooltip": "所有客户端每小时允许的最大存储交易数量。",
         "label": "每小时存储交易数量*"
+    },
+    "cumulativeDealSizeForStorageField": {
+        "label": "每小时累积存储交易大小（GiB）*"
     }
 }
