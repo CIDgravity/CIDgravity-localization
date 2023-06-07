@@ -34,6 +34,9 @@
         "error": {
             "onCheckNetwork": {
                 "lost": "与CIDgravity无连接。"
+            },
+            "onFirstNetworkConnection": {
+                "lost": "与CIDgravity无连接。"
             }
         }
     }
