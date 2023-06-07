@@ -11,6 +11,9 @@
             "simultaneousRequests": {
                 "info": "允许在所有客户端之间的同时请求数",
                 "label": "同时存取数"
+            },
+            "simultaneousRequestsPerPeer": {
+                "info": "每个对等 ID 允许的同时存取数"
             }
         }
     }
