@@ -22,6 +22,17 @@
         },
         "simulate": {
             "tooltip": "在playground中模拟"
+        },
+        "internalDecision": {
+            "accept": {
+                "tooltip": "已接受"
+            },
+            "maintenance": {
+                "tooltip": "维护中"
+            },
+            "blacklist": {
+                "tooltip": "地址已列入黑名单"
+            }
         }
     }
 }
