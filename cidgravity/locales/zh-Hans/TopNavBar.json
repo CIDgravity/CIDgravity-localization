@@ -30,6 +30,11 @@
             "onEnableMaintenanceMode": "维护模式已启用，{{address}}的所有交易将被拒绝。",
             "onDisableMaintenanceMode": "CIDgravity现在根据{{address}}的配置接受交易。",
             "onSwitchTenant": "已切换至{{address}}。"
+        },
+        "error": {
+            "onCheckNetwork": {
+                "lost": "与CIDgravity无连接。"
+            }
         }
     }
 }
