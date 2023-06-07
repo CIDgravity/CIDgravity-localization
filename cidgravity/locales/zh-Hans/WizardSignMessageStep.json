@@ -2,6 +2,9 @@
     "title": "签署信息以声明此地址",
     "subtitle": "这将使CIDgravity能够验证所需的权限。",
     "runThisCommandStep": {
-        "label": "1. 运行以下命令来签署信息"
+        "label": "1. 运行以下命令来签署信息",
+        "codeHighlight": {
+            "content": "lotus钱包标志{{workerKey}} {{hexMessage}}"
+        }
     }
 }
