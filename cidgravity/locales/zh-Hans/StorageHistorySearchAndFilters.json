@@ -9,6 +9,9 @@
         "placeholder": "交易状态",
         "accept": "已接受",
         "invalidProposal": "无效提案",
-        "all": "所有决策"
+        "all": "所有决策",
+        "maintenance": "维护中",
+        "rateLimit": "维护中",
+        "blacklist": "列入黑名单"
     }
 }
