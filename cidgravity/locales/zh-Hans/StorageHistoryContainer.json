@@ -52,5 +52,8 @@
         "internalMessage": {
             "empty": "无"
         }
+    },
+    "error": {
+        "generic": "无法加载数据。请稍后再试，或与CIDgravity团队联系。"
     }
 }
