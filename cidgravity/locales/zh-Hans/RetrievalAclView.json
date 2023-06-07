@@ -10,7 +10,11 @@
                 "title": "对等 ID",
                 "noContent": "无对等 ID",
                 "content_zero": "无对等 IDs",
-                "content_one": "{{count}}对等 ID"
+                "content_one": "{{count}}对等 ID",
+                "content_two": "{{count}}对等 IDs",
+                "content_few": "{{count}}对等 IDs",
+                "content_many": "{{count}}对等 IDs",
+                "content_other": "{{count}}对等 IDs"
             }
         }
     }
