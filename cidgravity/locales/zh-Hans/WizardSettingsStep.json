@@ -1,4 +1,8 @@
 {
     "title": "全局设置配置",
-    "subtitle": "这些设置允许配置交易接受条件。"
+    "subtitle": "这些设置允许配置交易接受条件。",
+    "numberOfStorageDealsPerHourField": {
+        "tooltip": "所有客户端每小时允许的最大存储交易数量。",
+        "label": "每小时存储交易数量*"
+    }
 }
