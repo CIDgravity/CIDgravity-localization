@@ -15,6 +15,11 @@
         "isUnableToCheckSignature": "无法验证签署的信息"
     },
     "button": {
-        "next": "下一步"
+        "next": "下一步",
+        "previous": "上一步"
+    },
+    "validation": {
+        "isSignedMessageMandatory": "需要签署的信息。",
+        "isSignatureInvalid": "无效的签名。"
     }
 }
