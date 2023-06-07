@@ -26,6 +26,14 @@
         },
         "top10ReceiversAccepted": {
             "title": "前10个对等 ID"
+        },
+        "top10ReceiversRejected": {
+            "title": "前10个对等 ID（被拒绝的交易）"
+        },
+        "history": {
+            "acceptedDealsRejectedReasons": {
+                "title": "已接受/已拒绝的提案"
+            }
         }
     }
 }
