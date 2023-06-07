@@ -6,7 +6,9 @@
         "all": "全部",
         "placeholder": "交易状态",
         "accept": "已接受",
-        "maintenance": "维护中"
+        "maintenance": "维护中",
+        "retrievalRateLimit": "超过速率限制",
+        "acl": "白名单/黑名单"
     },
     "dateRangePicker": {
         "placeholder": "从（{{dateFormat}}） - 到（{{dateFormat}}）"
