@@ -7,6 +7,10 @@
                 "title": "最近的活动",
                 "lastCheck": "最后一次同步请求接收时间：{{datetime}}",
                 "noMostRecentActivity": "无最近活动"
+            },
+            "simultaneousRequests": {
+                "info": "允许在所有客户端之间的同时请求数",
+                "label": "同时存取数"
             }
         }
     }
