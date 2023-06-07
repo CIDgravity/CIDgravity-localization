@@ -20,5 +20,8 @@
     "acceptDealsFromUnkownClientsField": {
         "label": "接受未知客户端的存储交易",
         "tooltip": "当未激活时，将拒绝所有来自未知客户端的存储交易。"
+    },
+    "validation": {
+        "isStorageDealsPerHourValidNumber": "无效数字。"
     }
 }
