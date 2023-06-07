@@ -14,6 +14,7 @@
         "tooltip": "所有客户端每小时允许的最大存取交易数量。"
     },
     "customMessageField": {
-        "label": "自定义信息"
+        "label": "自定义信息",
+        "tooltip": "当拒绝交易时，将向客户端发送此信息。"
     }
 }
