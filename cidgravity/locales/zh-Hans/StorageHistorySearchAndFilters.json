@@ -1,1 +1,5 @@
-{}
+{
+    "inputSearch": {
+        "placeholder": "按客户地址或提案UID搜索，然后按ENTER键"
+    }
+}
