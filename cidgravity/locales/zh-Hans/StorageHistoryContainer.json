@@ -32,6 +32,12 @@
             },
             "blacklist": {
                 "tooltip": "地址已列入黑名单"
+            },
+            "reject": {
+                "tooltip": "已拒绝"
+            },
+            "rateLimit": {
+                "tooltip": "由于速率限制而拒绝"
             }
         }
     }
