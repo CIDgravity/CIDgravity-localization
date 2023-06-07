@@ -1,1 +1,8 @@
-{}
+{
+    "minerAlreadyClaimed": {
+        "title": "成功认领 {{address}}"
+    },
+    "wizardComplete": {
+        "title": "已完成"
+    }
+}
