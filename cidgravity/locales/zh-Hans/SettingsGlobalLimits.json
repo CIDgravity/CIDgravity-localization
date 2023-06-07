@@ -19,5 +19,9 @@
             }
         }
     },
-    "zeroMeanNoLimits": "值为0表示无限制"
+    "zeroMeanNoLimits": "值为0表示无限制",
+    "validation": {
+        "isInvalidValue": "无效值。",
+        "isNotPositiveValue": "值必须是正整数。"
+    }
 }
