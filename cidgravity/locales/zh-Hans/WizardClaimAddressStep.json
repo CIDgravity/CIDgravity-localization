@@ -3,6 +3,8 @@
     "subtitle": "输入您要认领的地址。",
     "validation": {
         "isAddressFieldMandatory": "此字段为必填项。",
-        "isAddressNotAStorageMiner": "此地址不是存储供应商的地址。"
+        "isAddressNotAStorageMiner": "此地址不是存储供应商的地址。",
+        "isAddressAlreadyClaimed": "地址已被认领。",
+        "isAddressInvalid": "无效的地址。"
     }
 }
