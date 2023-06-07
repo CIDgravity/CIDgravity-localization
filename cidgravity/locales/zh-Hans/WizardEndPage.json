@@ -10,6 +10,7 @@
         "stepConfigureIntegrations": "步骤3：配置集成（可选）"
     },
     "button": {
-        "testConnectivity": ""
+        "testConnectivity": "测试存储供应商的连接性",
+        "configureIntegrations": "配置集成（可选）"
     }
 }
