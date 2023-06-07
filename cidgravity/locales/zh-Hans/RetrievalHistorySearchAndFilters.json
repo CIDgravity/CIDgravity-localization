@@ -4,7 +4,9 @@
     },
     "status": {
         "all": "全部",
-        "placeholder": "交易状态"
+        "placeholder": "交易状态",
+        "accept": "已接受",
+        "maintenance": "维护中"
     },
     "dateRangePicker": {
         "placeholder": "从（{{dateFormat}}） - 到（{{dateFormat}}）"
