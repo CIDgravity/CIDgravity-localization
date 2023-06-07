@@ -37,7 +37,8 @@
             },
             "onFirstNetworkConnection": {
                 "lost": "与CIDgravity无连接。"
-            }
+            },
+            "onErrorMaintenanceMode": "无法更改{{address}}的维护模式。请稍后再试，或联系CIDgravity团队。"
         }
     }
 }
