@@ -18,6 +18,17 @@
         },
         "inspect": {
             "tooltip": "查看交易提案"
+        },
+        "internalDecision": {
+            "accept": {
+                "tooltip": "已接受"
+            },
+            "maintenance": {
+                "tooltip": "维护中"
+            },
+            "retrievalRateLimit": {
+                "tooltip": "超过速率限制"
+            }
         }
     }
 }
