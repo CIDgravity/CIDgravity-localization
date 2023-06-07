@@ -7,5 +7,16 @@
             "isVerified": "您的电子邮件已验证",
             "isNotVerified": "您的电子邮件未验证"
         }
+    },
+    "user": {
+        "nickname": {
+            "label": "昵称"
+        },
+        "userId": {
+            "label": "用户ID"
+        },
+        "email": {
+            "label": "电子邮件"
+        }
     }
 }
