@@ -54,7 +54,9 @@
                 "enabled": "维护模式已启用，现在所有交易将被拒绝。",
                 "disabled": "维护模式已禁用。"
             },
-            "onUpdateCustomMessage": "自定义信息已保存。"
+            "onUpdateCustomMessage": "自定义信息已保存。",
+            "onUpdateFriendlyName": "存储供应商昵称已更新。",
+            "onRegenerateConnectorToken": "代币已重新生成。"
         }
     }
 }
