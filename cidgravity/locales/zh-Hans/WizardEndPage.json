@@ -10,6 +10,6 @@
         "stepConfigureIntegrations": "步骤3：配置集成（可选）"
     },
     "button": {
-        "testConnectivity": "前往仪表盘"
+        "testConnectivity": ""
     }
 }
