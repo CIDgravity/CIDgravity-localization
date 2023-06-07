@@ -1,1 +1,5 @@
-{}
+{
+    "inputSearch": {
+        "placeholder": "按客户端对等 ID 或提案 UID 进行搜索，然后按回车键"
+    }
+}
