@@ -13,7 +13,11 @@
                 "label": "同时存取数"
             },
             "simultaneousRequestsPerPeer": {
-                "info": "每个对等 ID 允许的同时存取数"
+                "info": "每个对等 ID 允许的同时存取数",
+                "label": "每个对等 ID 的同时请求数"
+            },
+            "button": {
+                "save": "保存"
             }
         }
     }
