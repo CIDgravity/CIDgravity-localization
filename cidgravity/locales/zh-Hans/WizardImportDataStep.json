@@ -5,5 +5,11 @@
         "label": "您是否要从其他地址导入配置？",
         "noOption": "否（将创建默认定价模式）",
         "yesOption": "是"
+    },
+    "addressSelect": {
+        "placeholder": "选择要从中导入配置的源地址"
+    },
+    "validation": {
+        "isAddressSelectionMandatory": "此字段为必填项。"
     }
 }
