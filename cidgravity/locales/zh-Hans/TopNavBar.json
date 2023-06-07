@@ -16,6 +16,14 @@
     },
     "userDropdownMenu": {
         "account": "我的账户",
-        "addresses": "我的地址"
+        "addresses": "我的地址",
+        "logout": "退出登录"
+    },
+    "notification": {
+        "success": {
+            "onCheckNetwork": {
+                "restored": "已恢复与CIDgravity的连接。"
+            }
+        }
     }
 }
