@@ -1,6 +1,12 @@
 {
     "ticker": {
         "retrievingPrice": "存取价格…",
-        "retrievingBaseFee": "存取基础费用…"
+        "retrievingBaseFee": "存取基础费用…",
+        "baseFee": "基础费用"
+    },
+    "maintenanceMode": {
+        "switch": {
+            "tooltipEnabled": "维护模式已启用，{{address}}的所有交易将被拒绝"
+        }
     }
 }
