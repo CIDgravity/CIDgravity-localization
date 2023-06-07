@@ -1,1 +1,8 @@
-{}
+{
+    "filter": {
+        "timeRange": {
+            "placeholder": "选择时间范围"
+        }
+    },
+    "title": "存取分析仪表盘"
+}
