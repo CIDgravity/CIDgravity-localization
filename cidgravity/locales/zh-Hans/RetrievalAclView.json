@@ -33,7 +33,8 @@
         "table": {
             "empty": "无记录",
             "peerId": {
-                "title": "对等 ID"
+                "title": "对等 ID",
+                "content_zero": "无对等 ID"
             }
         }
     }
