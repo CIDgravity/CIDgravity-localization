@@ -37,7 +37,10 @@
             "top10ReceiversForAcceptedDeals": {
                 "title": "前10个对等 ID（已接受的交易）"
             },
-            "title": "历史存取提案指标"
+            "title": "历史存取提案指标",
+            "top10ReceiversForRejectedDeals": {
+                "title": "前10个对等 ID（被拒绝的交易）"
+            }
         }
     }
 }
