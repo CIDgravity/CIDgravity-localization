@@ -27,7 +27,8 @@
             "mostRecentActivity": "CIDgravity·连接器版本：{{version}}（上次出现时间 - {{datetime}}）",
             "noMostRecentActivity": "无最近活动",
             "token": {
-                "title": "CIDgravity 连接器密钥"
+                "title": "CIDgravity 连接器密钥",
+                "regenerate": "禁用并重新生成代币"
             }
         }
     }
