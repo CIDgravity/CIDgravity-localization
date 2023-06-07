@@ -2,6 +2,10 @@
     "title": "管理我的账户",
     "profile": {
         "connectionStatus": "已连接为{{name}}",
-        "updatedAt": "更新于{{datetime}}"
+        "updatedAt": "更新于{{datetime}}",
+        "email": {
+            "isVerified": "您的电子邮件已验证",
+            "isNotVerified": "您的电子邮件未验证"
+        }
     }
 }
