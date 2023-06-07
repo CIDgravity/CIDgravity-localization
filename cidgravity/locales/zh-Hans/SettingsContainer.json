@@ -40,7 +40,11 @@
         },
         "customMessage": {
             "info": "每当交易被拒绝时，此信息将发送给客户端。",
-            "title": "自定义信息"
+            "title": "自定义信息",
+            "button": {
+                "save": "保存"
+            },
+            "placeholder": "如有任何问题或特殊定价，请在 Slack 上联系我"
         }
     }
 }
