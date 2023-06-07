@@ -1,6 +1,12 @@
 {
     "header": "{{pricingModelName}}规则集",
     "body": {
-        "position": "规则{{position}}"
+        "position": "规则{{position}}",
+        "type": {
+            "label": "交易类型",
+            "verified": {
+                "true": "已验证的交易"
+            }
+        }
     }
 }
