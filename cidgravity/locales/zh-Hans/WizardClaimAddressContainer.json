@@ -2,5 +2,8 @@
     "validation": {
         "isAddressLimitReached": "已达到地址认领限制，请取消与您账户关联的一个地址以认领新地址。",
         "isAddressAlreadyClaimed": "地址已被认领。"
+    },
+    "error": {
+        "isUnableToSubmitForm": "提交表单时出错。请稍后重试或联系CIDgravity团队。"
     }
 }
