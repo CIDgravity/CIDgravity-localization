@@ -1,5 +1,6 @@
 {
     "ticker": {
-        "retrievingPrice": "存取价格…"
+        "retrievingPrice": "存取价格…",
+        "retrievingBaseFee": "存取基础费用…"
     }
 }
