@@ -16,7 +16,9 @@
     "retool": {
         "reasons": {
             "accept": "已接受",
-            "maintenance": "维护模式"
+            "maintenance": "维护模式",
+            "retrievalRateLimit": "速率限制 - 存取次数",
+            "invalidProposal": "无效提案"
         }
     }
 }
