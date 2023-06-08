@@ -1,7 +1,9 @@
 {
     "title": "帮助中心",
     "diagnosis": {
-        "title": "诊断"
+        "title": "诊断",
+        "description": "排查矿工接收存储交易和与CIDgravity的连接能力问题",
+        "goToDiagnosisPage": "运行连接性测试"
     },
     "community": {
         "title": "社区",
