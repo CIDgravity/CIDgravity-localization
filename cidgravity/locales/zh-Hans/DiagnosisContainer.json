@@ -58,7 +58,8 @@
             "resolveTipsCommand": "不适用"
         },
         "ERR_GET_ASK": {
-            "name": "存取miner存储询价"
+            "name": "存取miner存储询价",
+            "resolveTips": "无法获取miner的询价信息。请验证本地定价是否设置正确："
         }
     }
 }
