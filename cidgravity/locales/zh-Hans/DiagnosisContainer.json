@@ -68,7 +68,8 @@
             "resolveTipsCommand": "不适用"
         },
         "ERR_GET_ASK_SIZES_NOT_PROPERLY_SET": {
-            "name": "验证存储片段大小标准：\n• 最小片段大小：{{getAskMinPieceSize}} \n• 最大片段大小：{{getAskMaxPieceSize}}"
+            "name": "验证存储片段大小标准：\n• 最小片段大小：{{getAskMinPieceSize}} \n• 最大片段大小：{{getAskMaxPieceSize}}",
+            "resolveTips": "片段大小必须设置为256B和{{getAskSectorSize}}，因为验收标准是通过CIDgravity委托和管理的。\n在Boost UI [设置][存储询价]中设置价格"
         }
     }
 }
