@@ -1,3 +1,4 @@
 {
-    "title": "Miner连接性"
+    "title": "Miner连接性",
+    "subtitle": "端到端连接检查，验证Miner接收存储交易的能力和CIDgravity的连接。"
 }
