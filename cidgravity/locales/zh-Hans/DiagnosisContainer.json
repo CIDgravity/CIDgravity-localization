@@ -36,6 +36,9 @@
             "name": "验证Multiaddr格式",
             "resolveTips": "格式无效，请按以下操作发布正确的Multiaddr：\n1. 从boostd config.toml中获取LibP2P ListenAddresses的值\n2. 在链上设置新的Multiaddr：",
             "resolveTipsCommand": "lotus-miner actor set-addrs \"<MULTIADDR>\""
+        },
+        "ERR_NO_MULTI_ADDRESS_SET_ON_CHAIN": {
+            "name": "在链上发布的Multiaddr为{{multiaddresses}}"
         }
     }
 }
