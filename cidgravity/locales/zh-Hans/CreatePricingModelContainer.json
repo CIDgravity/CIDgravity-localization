@@ -3,5 +3,8 @@
         "newDefault": "创建默认定价模型",
         "new": "创建新的定价模型",
         "edit": "编辑定价模型"
+    },
+    "validation": {
+        "onCreatePricingModel": "无法创建定价模型，请稍后再试或联系CIDgravity团队"
     }
 }
