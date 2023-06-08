@@ -53,6 +53,10 @@
                 "save": "保存"
             },
             "placeholder": "如有任何问题或特殊定价，请在 Slack 上联系我"
+        },
+        "minerStatusCheck": {
+            "title": "miner状态",
+            "label": "自动miner状态检查"
         }
     },
     "notification": {
