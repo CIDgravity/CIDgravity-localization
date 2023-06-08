@@ -76,6 +76,9 @@
             "name": "发送测试交易提案",
             "resolveTips": "无法与{{minerID}}（{{peerId}}）在{{multiaddresses}}建立连接。\n验证miner是否可以连上。",
             "resolveTipsCommand": "不适用"
+        },
+        "ERR_CIDGRAVITY_CONNECTOR_MISCONFIGURED": {
+            "name": "验证CIDgravity连接器是否已部署和配置"
         }
     }
 }
