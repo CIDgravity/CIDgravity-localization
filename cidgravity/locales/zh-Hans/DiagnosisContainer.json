@@ -15,5 +15,10 @@
                 "description": "该Miner可连上，并已正确配置以接收CIDgravity的存储交易。"
             }
         }
+    },
+    "errorCode": {
+        "ERR_TIMEOUT": {
+            "name": "CIDgravity连接测试服务不可用。"
+        }
     }
 }
