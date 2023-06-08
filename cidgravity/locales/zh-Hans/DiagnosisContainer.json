@@ -43,7 +43,9 @@
             "resolveTipsCommand": "lotus-miner actor set-addrs \"<MULTIADDR>\""
         },
         "ERR_CONNECT_MINER_PEER_ID": {
-            "name": "测试miner节点ID的可达性"
+            "name": "测试miner节点ID的可达性",
+            "resolveTips": "无法连接到miner。\n1. 验证miner的libP2P端口是否可以公开访问。\n2. 使用以下命令设置正确的节点ID：假设boost init生成了新的身份）：",
+            "resolveTipsCommand": "# Get the miner Peer ID\nPEER_ID=$(boostd net id)\n# Show Peer ID\necho \"$PEER_ID\"\n# Set the Peer ID on chain\nlotus-miner actor set-peer-id \"$PEER_ID\""
         }
     }
 }
