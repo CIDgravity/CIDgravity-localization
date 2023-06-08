@@ -66,6 +66,9 @@
             "name": "验证存储定价：\n• 未验证价格{{getAskPricePerGib}}\n• 已验证价格:{{getAskVerifiedPricePerGib}}",
             "resolveTips": "所有价格必须设置为0，因为定价管理是通过CIDgravity委托和管理的。\n在Boost UI [设置][存储询价]中设置价格",
             "resolveTipsCommand": "不适用"
+        },
+        "ERR_GET_ASK_SIZES_NOT_PROPERLY_SET": {
+            "name": "验证存储片段大小标准：\n• 最小片段大小：{{getAskMinPieceSize}} \n• 最大片段大小：{{getAskMaxPieceSize}}"
         }
     }
 }
