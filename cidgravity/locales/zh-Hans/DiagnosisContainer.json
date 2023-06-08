@@ -81,6 +81,9 @@
             "name": "验证CIDgravity连接器是否已部署和配置",
             "resolveTips": "CIDgravity连接器无回应。\n部署最新版本的CIDgravity",
             "resolveTipsCommand": "sudo -i -u \"<USER_RUNNING_BOOST_PROCESS>\"\ngit clone https://github.com/CIDgravity/CIDgravity-X.git\ncd CIDgravity-X\n# Follow the README.md instructions"
+        },
+        "ERR_CIDGRAVITY_INVALID_CONNECTOR_TYPE": {
+            "name": "验证CIDgravity连接器类型"
         }
     }
 }
