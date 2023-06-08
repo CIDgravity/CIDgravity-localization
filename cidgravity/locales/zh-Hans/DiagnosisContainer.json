@@ -1,4 +1,7 @@
 {
     "title": "Miner连接性",
-    "subtitle": "端到端连接检查，验证Miner接收存储交易的能力和CIDgravity的连接。"
+    "subtitle": "端到端连接检查，验证Miner接收存储交易的能力和CIDgravity的连接。",
+    "step": {
+        "readyToLaunch": "点击\"启动测试\"按钮"
+    }
 }
