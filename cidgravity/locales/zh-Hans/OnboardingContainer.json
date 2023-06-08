@@ -3,9 +3,11 @@
     "step": {
         "joinSlackCommunity": "加入我们的<1>Slack</1>频道",
         "claimMiner": "注册新的存储供应商或客户地址",
-        "deployTheConnector": "一旦您认领了一个矿工，部署<1>CIDgravity-X连接器</1>"
+        "deployTheConnector": "一旦您认领了一个矿工，部署<1>CIDgravity-X连接器</1>",
+        "testConnectivity": "测试miner连接性"
     },
     "button": {
         "next": "下一步"
-    }
+    },
+    "subtitle": "通过以下4个简单步骤开始使用CIDGravity："
 }
