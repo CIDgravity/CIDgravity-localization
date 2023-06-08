@@ -5,6 +5,6 @@
         "edit": "编辑定价模型"
     },
     "validation": {
-        "onCreatePricingModel": "无法创建定价模型，请稍后再试或联系CIDgravity团队"
+        "onCreatePricingModel": "无法创建定价模型，请稍后再试或联系CIDgravity团队。"
     }
 }
