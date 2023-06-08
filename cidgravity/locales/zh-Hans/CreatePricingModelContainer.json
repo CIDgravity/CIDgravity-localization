@@ -8,6 +8,7 @@
         "onCreatePricingModel": "无法创建定价模型，请稍后再试或联系CIDgravity团队。",
         "onUpdatePricingModel": "无法更新定价模型，请稍后再试或联系CIDgravity团队。",
         "isNameAlreadyUsed": "定价模型名称已存在，必须是唯一的。",
-        "hasNotAllRulesBeenFilled": "所有规则字段均为必填项。"
+        "hasNotAllRulesBeenFilled": "所有规则字段均为必填项。",
+        "hasNoRule": "定价模型中至少需要一个规则。"
     }
 }
