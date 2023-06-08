@@ -95,5 +95,8 @@
         "DIAGNOSIS_SUCCESS": {
             "name": "所有测试已完成"
         }
+    },
+    "button": {
+        "sendTest": "启动测试"
     }
 }
