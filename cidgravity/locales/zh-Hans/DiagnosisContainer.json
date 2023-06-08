@@ -89,7 +89,11 @@
         },
         "ERR_CIDGRAVITY_INVALID_CONNECTOR_VERSION": {
             "name": "CIDgravity连接器版本{{connectorVersion}}",
-            "resolveTips": "不支持的连接器版本。 \n部署最新版本的CIDgravity连接器"
+            "resolveTips": "不支持的连接器版本。 \n部署最新版本的CIDgravity连接器",
+            "resolveTipsCommand": "git pull\n# Boost\n./cidgravity_storage_connector.py --check-lotus\n# Venus\n./cidgravity_storage_connector.py --check-venus"
+        },
+        "DIAGNOSIS_SUCCESS": {
+            "name": "所有测试已完成"
         }
     }
 }
