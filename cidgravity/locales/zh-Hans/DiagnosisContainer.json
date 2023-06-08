@@ -88,7 +88,8 @@
             "resolveTipsCommand": "sudo -i -u \"<USER_RUNNING_BOOST_PROCESS>\"\ngit clone https://github.com/CIDgravity/CIDgravity-X.git\ncd CIDgravity-X\n# Follow the README.md instructions"
         },
         "ERR_CIDGRAVITY_INVALID_CONNECTOR_VERSION": {
-            "name": "CIDgravity连接器版本{{connectorVersion}}"
+            "name": "CIDgravity连接器版本{{connectorVersion}}",
+            "resolveTips": "不支持的连接器版本。 \n部署最新版本的CIDgravity连接器"
         }
     }
 }
