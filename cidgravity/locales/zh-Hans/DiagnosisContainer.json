@@ -74,7 +74,8 @@
         },
         "ERR_SEND_PROPOSAL": {
             "name": "发送测试交易提案",
-            "resolveTips": "无法与{{minerID}}（{{peerId}}）在{{multiaddresses}}建立连接。\n验证miner是否可以连上。"
+            "resolveTips": "无法与{{minerID}}（{{peerId}}）在{{multiaddresses}}建立连接。\n验证miner是否可以连上。",
+            "resolveTipsCommand": "不适用"
         }
     }
 }
