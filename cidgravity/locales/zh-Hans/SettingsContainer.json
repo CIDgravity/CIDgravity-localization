@@ -34,7 +34,10 @@
             "mostRecentActivityError": "出现问题：{{errorCode}}（最后检查时间{{lastCheck}}）",
             "activityErrorCodes": {
                 "connectorNotProperlyConfigured": "连接配置错误",
-                "invalidProposal": "无效的提案"
+                "invalidProposal": "无效的提案",
+                "invalidProposalType": "不支持的提案类型",
+                "invalidConnectorVersion": "连接已过时",
+                "invalidConnector": "无效的连接器请求"
             }
         },
         "friendlyName": {
