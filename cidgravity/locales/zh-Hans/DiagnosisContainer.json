@@ -33,7 +33,8 @@
             "resolveTipsCommand": "# Get the miner Peer ID\nPEER_ID=$(boostd net id)\n# Show Peer ID\necho \"$PEER_ID\"\n# Set the Peer ID on chain\nlotus-miner actor set-peer-id \"$PEER_ID\""
         },
         "ERR_INVALID_MULTI_ADDRESS_IN_MINER_INFO": {
-            "name": "验证Multiaddr格式"
+            "name": "验证Multiaddr格式",
+            "resolveTips": "格式无效，请按以下操作发布正确的Multiaddr：\n1. 从boostd config.toml中获取LibP2P ListenAddresses的值\n2. 在链上设置新的Multiaddr："
         }
     }
 }
