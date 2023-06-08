@@ -64,7 +64,8 @@
         },
         "ERR_GET_ASK_PRICES_NOT_SET_TO_ZERO": {
             "name": "验证存储定价：\n• 未验证价格{{getAskPricePerGib}}\n• 已验证价格:{{getAskVerifiedPricePerGib}}",
-            "resolveTips": "所有价格必须设置为0，因为定价管理是通过CIDgravity委托和管理的。"
+            "resolveTips": "所有价格必须设置为0，因为定价管理是通过CIDgravity委托和管理的。",
+            "resolveTipsCommand": "不适用"
         }
     }
 }
