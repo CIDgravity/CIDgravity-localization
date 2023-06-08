@@ -49,7 +49,11 @@
         },
         "ERR_DEAL_PROTOCOL_UNSUPPORTED": {
             "name": "支援的交易协议{{dealProtocolsSupported}}",
-            "resolveTips": "无法存取支援的libp2p存储市场协议。\n考虑运行最新稳定版的BOOST或VENUS"
+            "resolveTips": "无法存取支援的libp2p存储市场协议。\n考虑运行最新稳定版的BOOST或VENUS",
+            "resolveTipsCommand": "不适用"
+        },
+        "ERR_NO_MATCHING_DEAL_PROTOCOL_SUPPORTED": {
+            "name": "验证交易协议的兼容性"
         }
     }
 }
