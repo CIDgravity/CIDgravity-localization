@@ -7,6 +7,9 @@
         "checkingResults": "等待结果（{{step}} / 6）…",
         "errorCodes": {
             "timeout": "在尝试测试Miner连接性时出现错误，请稍后再试或联系CIDgravity团队。"
+        },
+        "results": {
+            "howToSolve": "提示"
         }
     }
 }
