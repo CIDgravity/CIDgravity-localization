@@ -30,7 +30,8 @@
                 "title": "CIDgravity 连接器密钥",
                 "regenerate": "禁用并重新生成代币",
                 "subtitle": "密钥添加到部署在存储供应商上的 CIDgravity 连接器"
-            }
+            },
+            "mostRecentActivityError": "出现问题：{{errorCode}}（最后检查时间{{lastCheck}}）"
         },
         "friendlyName": {
             "title": "昵称",
