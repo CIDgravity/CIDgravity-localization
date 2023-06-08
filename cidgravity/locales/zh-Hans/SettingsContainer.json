@@ -56,7 +56,8 @@
         },
         "minerStatusCheck": {
             "title": "miner状态",
-            "label": "自动miner状态检查"
+            "label": "自动miner状态检查",
+            "info": "CIDgravity将监控miner的可用性，并很快提供统计信息和其他很棒的功能"
         }
     },
     "notification": {
