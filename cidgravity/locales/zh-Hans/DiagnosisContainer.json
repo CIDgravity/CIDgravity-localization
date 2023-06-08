@@ -61,6 +61,9 @@
             "name": "存取miner存储询价",
             "resolveTips": "无法获取miner的询价信息。请验证本地定价是否设置正确：",
             "resolveTipsCommand": "# Boost\nboost provider storage-ask \"{{minerID}}\""
+        },
+        "ERR_GET_ASK_PRICES_NOT_SET_TO_ZERO": {
+            "name": "验证存储定价：\n• 未验证价格{{getAskPricePerGib}}\n• 已验证价格:{{getAskVerifiedPricePerGib}}"
         }
     }
 }
