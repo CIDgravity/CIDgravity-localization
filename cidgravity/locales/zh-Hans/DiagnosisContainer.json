@@ -53,7 +53,8 @@
             "resolveTipsCommand": "不适用"
         },
         "ERR_NO_MATCHING_DEAL_PROTOCOL_SUPPORTED": {
-            "name": "验证交易协议的兼容性"
+            "name": "验证交易协议的兼容性",
+            "resolveTips": "不支持的libp2p市场协议。 \n考虑运行最新稳定版的BOOST或VENUS"
         }
     }
 }
