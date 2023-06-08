@@ -48,7 +48,8 @@
             "resolveTipsCommand": "# Get the miner Peer ID\nPEER_ID=$(boostd net id)\n# Show Peer ID\necho \"$PEER_ID\"\n# Set the Peer ID on chain\nlotus-miner actor set-peer-id \"$PEER_ID\""
         },
         "ERR_DEAL_PROTOCOL_UNSUPPORTED": {
-            "name": "支援的交易协议{{dealProtocolsSupported}}"
+            "name": "支援的交易协议{{dealProtocolsSupported}}",
+            "resolveTips": "无法存取支援的libp2p存储市场协议。\n考虑运行最新稳定版的BOOST或VENUS"
         }
     }
 }
