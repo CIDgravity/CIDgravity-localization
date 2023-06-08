@@ -79,7 +79,7 @@
         },
         "ERR_CIDGRAVITY_CONNECTOR_MISCONFIGURED": {
             "name": "验证CIDgravity连接器是否已部署和配置",
-            "resolveTips": "CID重力连接器无回应。\n部署最新版本的CID重力"
+            "resolveTips": "CIDgravity连接器无回应。\n部署最新版本的CIDgravity"
         }
     }
 }
