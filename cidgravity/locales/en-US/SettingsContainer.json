@@ -43,7 +43,8 @@
                 "ERR_TIMEOUT": "Status is unavailable",
                 "ERR_GET_ASK": "Cannot retrieve storage ask",
                 "ERR_GET_ASK_PRICES_NOT_SET_TO_ZERO": "Get ask misconfigured",
-                "ERR_GET_ASK_SIZES_NOT_PROPERLY_SET": "Get ask misconfigured"
+                "ERR_GET_ASK_SIZES_NOT_PROPERLY_SET": "Get ask misconfigured",
+                "ERR_SEND_PROPOSAL": "Status cannot be verified"
             },
             "mostRecentActivityError": "Something goes wrong : {{errorCode}} (last seen {{lastCheck}})"
         },
