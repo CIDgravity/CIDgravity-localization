@@ -32,8 +32,8 @@
                 "subtitle": "Add this api key to the CIDgravity connector deployed on the miner"
             },
             "activityErrorCodes": {
-                "invalidConnectorVersion": "Connector outdated",
-                "ERR_NO_PEER_ID_SET_ON_CHAIN": "Peer ID not published on chain"
+                "ERR_NO_PEER_ID_SET_ON_CHAIN": "Peer ID not published on chain",
+                "ERR_NO_MULTI_ADDRESS_SET_ON_CHAIN": "Multiaddr not published on chain"
             },
             "mostRecentActivityError": "Something goes wrong : {{errorCode}} (last seen {{lastCheck}})"
         },
