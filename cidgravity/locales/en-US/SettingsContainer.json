@@ -32,11 +32,8 @@
                 "subtitle": "Add this api key to the CIDgravity connector deployed on the miner"
             },
             "activityErrorCodes": {
-                "connectorNotProperlyConfigured": "Connector misconfigured",
                 "invalidProposal": "Invalid proposal",
-                "invalidProposalType": "Unsupported proposal type",
-                "invalidConnectorVersion": "Connector outdated",
-                "invalidConnector": "Invalid connector request"
+                "invalidConnectorVersion": "Connector outdated"
             },
             "mostRecentActivityError": "Something goes wrong : {{errorCode}} (last seen {{lastCheck}})"
         },
@@ -62,7 +59,6 @@
     },
     "notification": {
         "success": {
-            "onUpdateRateLimits": "Settings have been saved!",
             "onUpdateMaintenanceMode": {
                 "enabled": "Maintenance mode has been enabled, all deals will now be rejected.",
                 "disabled": "Maintenance mode has been disabled."
@@ -73,7 +69,6 @@
             "onUpdateStartEpochSealingBuffer": "The start epoch sealing buffer has been updated."
         },
         "error": {
-            "onUpdateRateLimits": "An error occurred updating settings, Please try again in a few minutes or contact the CIDgravity team.",
             "onUpdateMaintenanceMode": "An error occurred updating maintenance mode, Please try again in a few minutes or contact the CIDgravity team.",
             "onUpdateCustomMessage": "An error occurred updating custom message, Please try again in a few minutes or contact the CIDgravity team.",
             "onUpdateFriendlyName": "An error occurred updating the miner nickname, Please try again in a few minutes or contact the CIDgravity team.",

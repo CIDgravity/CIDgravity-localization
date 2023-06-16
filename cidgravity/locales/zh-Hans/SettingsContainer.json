@@ -33,11 +33,8 @@
             },
             "mostRecentActivityError": "出现问题：{{errorCode}}（最后检查时间{{lastCheck}}）",
             "activityErrorCodes": {
-                "connectorNotProperlyConfigured": "连接配置错误",
                 "invalidProposal": "无效的提案",
-                "invalidProposalType": "不支持的提案类型",
-                "invalidConnectorVersion": "连接已过时",
-                "invalidConnector": "无效的连接器请求"
+                "invalidConnectorVersion": "连接已过时"
             }
         },
         "friendlyName": {
@@ -62,7 +59,6 @@
     },
     "notification": {
         "success": {
-            "onUpdateRateLimits": "设置已保存！",
             "onUpdateMaintenanceMode": {
                 "enabled": "维护模式已启用，现在所有交易将被拒绝。",
                 "disabled": "维护模式已禁用。"
@@ -73,7 +69,6 @@
             "onUpdateStartEpochSealingBuffer": "起始时期密封缓冲区已更新。"
         },
         "error": {
-            "onUpdateRateLimits": "更新设置时发生错误，请稍后再试或联系 CIDgravity 团队。",
             "onUpdateMaintenanceMode": "更新维护模式时发生错误，请稍后再试或联系 CIDgravity 团队。",
             "onUpdateCustomMessage": "更新自定义信息时发生错误，请稍后再试或联系 CIDgravity 团队。",
             "onUpdateFriendlyName": "更新存储供应商昵称时发生错误，请稍后再试或联系 CIDgravity 团队。",
