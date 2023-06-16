@@ -1,3 +1,6 @@
 {
-    "header": "Enable automatic status check"
+    "header": "Enable automatic status check",
+    "button": {
+        "cancel": "Abort"
+    }
 }
