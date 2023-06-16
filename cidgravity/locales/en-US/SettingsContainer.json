@@ -40,7 +40,8 @@
                 "ERR_DEAL_PROTOCOL_UNSUPPORTED": "No protocol supported",
                 "ERR_NO_MATCHING_DEAL_PROTOCOL_SUPPORTED": "Incompatible protocol",
                 "ERR_CIDGRAVITY_CONNECTOR_MISCONFIGURED": "CIDgravity connector not deployed or misconfigured",
-                "ERR_TIMEOUT": "Status is unavailable"
+                "ERR_TIMEOUT": "Status is unavailable",
+                "ERR_GET_ASK": "Cannot retrieve storage ask"
             },
             "mostRecentActivityError": "Something goes wrong : {{errorCode}} (last seen {{lastCheck}})"
         },
