@@ -36,7 +36,8 @@
                 "ERR_NO_MULTI_ADDRESS_SET_ON_CHAIN": "Multiaddr not published on chain",
                 "ERR_INVALID_MULTI_ADDRESS_IN_MINER_INFO": "Invalid Multiaddr format",
                 "ERR_CONNECT_MINER_PEER_ID": "Peer ID unreachable",
-                "ERR_CIDGRAVITY_SIDE": "Status unavailable"
+                "ERR_CIDGRAVITY_SIDE": "Status unavailable",
+                "ERR_DEAL_PROTOCOL_UNSUPPORTED": "No Deal protocol supported"
             },
             "mostRecentActivityError": "Something goes wrong : {{errorCode}} (last seen {{lastCheck}})"
         },
