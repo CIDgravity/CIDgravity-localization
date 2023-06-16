@@ -90,7 +90,8 @@
             "onRegenerateConnectorToken": "An error occurred generating a new token, Please try again in a few minutes or contact the CIDgravity team.",
             "onUpdateStartEpochSealingBuffer": "An error occurred updating your start epoch sealing buffer setting, Please try again in a few minutes or contact the CIDgravity team.",
             "onUpdateSettings": "An error occurred saving the miner settings, Please try again in a few minutes or contact the CIDgravity team.",
-            "onMinerStatusCheckServiceUnavailable": "Automatic miner status check is unavailable, Please try again in a few minutes or contact the CIDgravity team."
+            "onMinerStatusCheckServiceUnavailable": "Automatic miner status check is unavailable, Please try again in a few minutes or contact the CIDgravity team.",
+            "onMinerStatusCheckNotReachable": "Automatic miner disabled as the miner is not reachable. Vo to Help Center > Diagnosis for more details"
         },
         "info": {
             "onMinerStatusCheckTestLoading": "Testing miner reachability, please wait 30 seconds."
