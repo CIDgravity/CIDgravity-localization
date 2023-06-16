@@ -80,7 +80,8 @@
             "onUpdateFriendlyName": "The miner nickname has been updated.",
             "onRegenerateConnectorToken": "Token has been regenerated.",
             "onUpdateStartEpochSealingBuffer": "The start epoch sealing buffer has been updated.",
-            "onUpdateSettings": "Settings have been saved!"
+            "onUpdateSettings": "Settings have been saved!",
+            "onMinerStatusCheckChanged": "Automatic status check successfully enabled"
         },
         "error": {
             "onUpdateMaintenanceMode": "An error occurred updating maintenance mode, Please try again in a few minutes or contact the CIDgravity team.",
