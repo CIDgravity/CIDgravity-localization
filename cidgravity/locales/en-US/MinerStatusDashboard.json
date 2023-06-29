@@ -5,7 +5,10 @@
             "CommitFinalize": "CommitFinalize",
             "SubmitPreCommitBatch": "SubmitPreCommitBatch",
             "PreCommitBatchWait": "PreCommitBatchWait",
-            "WaitSeed": "WaitSeed"
+            "WaitSeed": "WaitSeed",
+            "WaitDeals": "WaitDeals",
+            "Packing": "Packing",
+            "AddPiece": "AP"
         }
     }
 }
