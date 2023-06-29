@@ -10,7 +10,8 @@
             "integration": "Integrations",
             "history": "History",
             "playground": "Playground",
-            "blacklist": "Blacklist"
+            "blacklist": "Blacklist",
+            "dashboard": "Analytics"
         },
         "retrieval": {
             "title": "Retrieval",
