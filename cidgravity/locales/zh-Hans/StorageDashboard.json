@@ -44,7 +44,13 @@
             "dealDuration": {
                 "title": "按持续时间分类"
             },
-            "title": "已接受的交易提案指标"
+            "title": "已接受的交易提案指标",
+            "dealSize": {
+                "title": "按交易大小分类"
+            },
+            "filPlusStatus": {
+                "title": "已验证（Fil+）/未验证"
+            }
         },
         "rejectedDeals": {
             "transferType": {
