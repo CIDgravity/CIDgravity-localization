@@ -11,7 +11,8 @@
         "unit": {
             "numberOfProposals": "提案数量",
             "placeholder": "选择图表单位",
-            "cumulativeRawSize": "累积 RBP（RAW power）"
+            "cumulativeRawSize": "累积 RBP（RAW power）",
+            "qualityAdjustedPower": "累积 QAP（TiB）"
         },
         "datePicker": {
             "placeholder": "选择日期"
@@ -21,7 +22,8 @@
         "reasons": {
             "accept": "已接受",
             "invalidProposal": "无效提案",
-            "maintenance": "维护模式"
+            "maintenance": "维护模式",
+            "sizeRateLimit": "速率限制- 累积大小"
         },
         "top10ClientsAccepted": {
             "title": "前10个客户端（已接受的交易）"
