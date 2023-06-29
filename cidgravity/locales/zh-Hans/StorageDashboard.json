@@ -23,7 +23,8 @@
             "accept": "已接受",
             "invalidProposal": "无效提案",
             "maintenance": "维护模式",
-            "sizeRateLimit": "速率限制- 累积大小"
+            "sizeRateLimit": "速率限制- 累积大小",
+            "rateLimit": "速率限制 - 提案数量"
         },
         "top10ClientsAccepted": {
             "title": "前10个客户端（已接受的交易）"
