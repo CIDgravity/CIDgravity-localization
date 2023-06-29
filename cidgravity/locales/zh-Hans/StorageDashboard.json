@@ -4,7 +4,9 @@
             "3months": "最近3个月",
             "60minutes": "最近60分钟",
             "24hours": "最近24小时",
-            "30days": "最近30天"
+            "30days": "最近30天",
+            "placeholder": "选择日期",
+            "specificDate": "指定日期"
         },
         "unit": {
             "numberOfProposals": "提案数量"
