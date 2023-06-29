@@ -8,7 +8,13 @@
             "WaitSeed": "WaitSeed",
             "WaitDeals": "WaitDeals",
             "Packing": "Packing",
-            "AddPiece": "AP"
+            "AddPiece": "AP",
+            "AddPieceFailed": "AddPieceFailed",
+            "GetTicket": "GetTicket",
+            "PreCommit1": "PC1",
+            "PreCommit2": "PC2",
+            "PreCommitting": "PreCommitting",
+            "PreCommitWait": "PreCommitWait"
         }
     }
 }
