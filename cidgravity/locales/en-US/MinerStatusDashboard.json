@@ -77,7 +77,8 @@
             "PR1/PR2": "PR1/PR2"
         },
         "button": {
-            "reload": "Refresh"
+            "reload": "Refresh",
+            "filscan": "View on Filscan.io"
         }
     },
     "filter": {
