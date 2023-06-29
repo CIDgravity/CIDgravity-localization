@@ -62,7 +62,10 @@
             "dealSize": {
                 "title": "按大小分类"
             },
-            "title": "被拒绝的交易提案指标"
+            "title": "被拒绝的交易提案指标",
+            "filPlusStatus": {
+                "title": "已验证（Fil+）/未验证"
+            }
         },
         "history": {
             "top10PricingModels": {
@@ -73,7 +76,8 @@
             },
             "top10ClientsForRejectedDeals": {
                 "title": "前10个客户端（被拒绝的交易）"
-            }
+            },
+            "title": "历史交易提案指标"
         },
         "axisUnits": {
             "numberOfProposals": "提案数量",
