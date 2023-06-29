@@ -56,6 +56,11 @@
             "FinalizeReplicaUpdateFailed": "FinalizeReplicaUpdateFailed",
             "AbortUpgrade": "AbortUpgrade",
             "ReceiveSector": "ReceiveSector"
+        },
+        "sectorStatesStandardized": {
+            "WaitDeals": "WaitDeals",
+            "AP": "AP",
+            "WaitChain": "WaitChain"
         }
     }
 }
