@@ -61,7 +61,8 @@
             },
             "dealSize": {
                 "title": "按大小分类"
-            }
+            },
+            "title": "被拒绝的交易提案指标"
         },
         "history": {
             "top10PricingModels": {
