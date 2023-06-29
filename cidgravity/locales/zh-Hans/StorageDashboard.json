@@ -105,6 +105,10 @@
             "qualityAdjustedPower": "累积 QAP（TiB）",
             "clientName": "客户端",
             "reason": "已接受/拒绝原因，待删除"
+        },
+        "noRowsFound": "无数据",
+        "totalAcceptedDealsWithReasons": {
+            "title": "已接受/拒绝的提案"
         }
     }
 }
