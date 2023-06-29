@@ -26,7 +26,12 @@
             "FailedUnrecoverable": "FailedUnrecoverable",
             "SealPreCommit1Failed": "SealPreCommit1Failed",
             "PreCommitFailed": "PreCommitFailed",
-            "ComputeProofFailed": "ComputeProofFailed"
+            "ComputeProofFailed": "ComputeProofFailed",
+            "RemoteCommitFailed": "RemoteCommitFailed",
+            "CommitFailed": "CommitFailed",
+            "FinalizeFailed": "FinalizeFailed",
+            "DealsExpired": "DealsExpired",
+            "RecoverDealIDs": "RecoverDealIDs"
         }
     }
 }
