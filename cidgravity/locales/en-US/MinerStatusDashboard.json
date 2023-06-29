@@ -38,7 +38,10 @@
             "TerminateFinality": "TerminateFinality",
             "TerminateFailed": "TerminateFailed",
             "Removing": "Removing",
-            "RemoveFailed": "RemoveFailed"
+            "RemoveFailed": "RemoveFailed",
+            "SnapDealsWaitDeals": "SnapDealsWaitDeals",
+            "SnapDealsAddPiece": "SnapDealsAddPiece",
+            "UpdateReplica": "UpdateReplica"
         }
     }
 }
