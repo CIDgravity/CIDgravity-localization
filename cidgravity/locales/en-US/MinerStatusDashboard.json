@@ -31,7 +31,14 @@
             "CommitFailed": "CommitFailed",
             "FinalizeFailed": "FinalizeFailed",
             "DealsExpired": "DealsExpired",
-            "RecoverDealIDs": "RecoverDealIDs"
+            "RecoverDealIDs": "RecoverDealIDs",
+            "FaultReported": "FaultReported",
+            "FaultedFinal": "FaultedFinal",
+            "Terminating": "Terminating",
+            "TerminateFinality": "TerminateFinality",
+            "TerminateFailed": "TerminateFailed",
+            "Removing": "Removing",
+            "RemoveFailed": "RemoveFailed"
         }
     }
 }
