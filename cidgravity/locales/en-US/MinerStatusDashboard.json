@@ -76,5 +76,12 @@
             "RU": "RU",
             "PR1/PR2": "PR1/PR2"
         }
+    },
+    "filter": {
+        "timeRange": {
+            "24hours": "Last 24 hours\t",
+            "30days": "Last 30 days",
+            "3months": "Last 3 months"
+        }
     }
 }
