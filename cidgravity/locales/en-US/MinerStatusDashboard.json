@@ -102,7 +102,8 @@
         "axisUnits": {
             "numberOfDeals": "Number of deals"
         },
-        "noRowsFound": "No data"
+        "noRowsFound": "No data",
+        "unknownValue": "No data"
     },
     "filter": {
         "timeRange": {
