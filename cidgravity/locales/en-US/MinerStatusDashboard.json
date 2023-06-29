@@ -86,6 +86,10 @@
         },
         "datePicker": {
             "placeholder": "Select date"
+        },
+        "unit": {
+            "numberOfProposals": "Number of proposals",
+            "placeholder": "Select charts unit"
         }
     }
 }
