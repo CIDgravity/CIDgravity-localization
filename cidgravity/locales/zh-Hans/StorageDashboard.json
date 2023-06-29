@@ -86,6 +86,9 @@
             },
             "rejectedDealsByType": {
                 "title": "按传输类型分类的被拒绝交易"
+            },
+            "acceptedDealsFilPlus": {
+                "title": "按已接受交易大小分类的已验证（Fil+）/未验证交易"
             }
         },
         "axisUnits": {
