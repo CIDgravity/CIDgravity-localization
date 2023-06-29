@@ -79,7 +79,8 @@
         "button": {
             "reload": "Refresh",
             "filscan": "View on Filscan.io"
-        }
+        },
+        "noDataAvailable": "No data"
     },
     "filter": {
         "timeRange": {
