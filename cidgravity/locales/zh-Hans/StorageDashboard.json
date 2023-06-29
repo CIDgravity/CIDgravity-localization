@@ -10,7 +10,8 @@
         },
         "unit": {
             "numberOfProposals": "提案数量",
-            "placeholder": "选择图表单位"
+            "placeholder": "选择图表单位",
+            "cumulativeRawSize": "累积 RBP（RAW power）"
         },
         "datePicker": {
             "placeholder": "选择日期"
