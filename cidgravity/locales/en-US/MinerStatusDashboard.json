@@ -64,7 +64,10 @@
             "Error": "Error",
             "PC1": "PC1",
             "PC2": "PC2",
-            "C1/C2": "C1/C2"
+            "C1/C2": "C1/C2",
+            "FIN": "FIN",
+            "RU": "RU",
+            "PR1/PR2": "PR1/PR2"
         }
     }
 }
