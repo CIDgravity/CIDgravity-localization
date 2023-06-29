@@ -85,7 +85,8 @@
             "24hours": "Last 24 hours\t",
             "30days": "Last 30 days",
             "3months": "Last 3 months",
-            "specificDate": "Specific date"
+            "specificDate": "Specific date",
+            "60minutes": "Last 60 minutes"
         },
         "datePicker": {
             "placeholder": "Select date"
