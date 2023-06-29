@@ -14,7 +14,9 @@
             "PreCommit1": "PC1",
             "PreCommit2": "PC2",
             "PreCommitting": "PreCommitting",
-            "PreCommitWait": "PreCommitWait"
+            "PreCommitWait": "PreCommitWait",
+            "CommitFinalizeFailed": "CommitFinalizeFailed",
+            "SubmitCommit": "SubmitCommit"
         }
     }
 }
