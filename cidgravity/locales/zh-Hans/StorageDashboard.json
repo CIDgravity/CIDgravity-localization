@@ -68,7 +68,8 @@
             }
         },
         "axisUnits": {
-            "numberOfProposals": "提案数量"
+            "numberOfProposals": "提案数量",
+            "cumulativeRawSize": "原始算力（TiB）"
         },
         "transferTypes": {
             "unkown": "未知",
@@ -101,7 +102,8 @@
             "pricingModelName": "定价模式",
             "cumulativeRawSize": "原始算力（TiB）",
             "qualityAdjustedPower": "累积 QAP（TiB）",
-            "clientName": "客户端"
+            "clientName": "客户端",
+            "reason": "已接受/拒绝原因，待删除"
         }
     }
 }
