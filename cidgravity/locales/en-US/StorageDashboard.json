@@ -3,7 +3,7 @@
         "timeRange": {
             "3months": "Last 3 months",
             "placeholder": "Pick-up date",
-            "specificDate": "Specific date",
+            "specificDate": "Select specific date",
             "60minutes": "Last 60 minutes",
             "24hours": "Last 24 hours",
             "30days": "Last 30 days"
