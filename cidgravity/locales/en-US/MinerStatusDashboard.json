@@ -80,7 +80,10 @@
             "reload": "Refresh",
             "filscan": "View on Filscan.io"
         },
-        "noDataAvailable": "No data"
+        "noDataAvailable": "No data",
+        "minerStatus": {
+            "available": "Available"
+        }
     },
     "filter": {
         "timeRange": {
