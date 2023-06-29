@@ -1,5 +1,5 @@
 {
-    "title": "Retrieval analytic dashboard",
+    "title": "Retrieval analytic dashboard (Graphsync)",
     "filter": {
         "timeRange": {
             "placeholder": "Select a time range",
