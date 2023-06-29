@@ -1,1 +1,91 @@
-{}
+{
+    "filter": {
+        "timeRange": {
+            "3months": "最近3个月",
+            "60minutes": "最近60分钟",
+            "24hours": "最近24小时",
+            "30days": "最近30天"
+        },
+        "unit": {
+            "numberOfProposals": "提案数量"
+        }
+    },
+    "retool": {
+        "reasons": {
+            "accept": "已接受",
+            "invalidProposal": "无效提案",
+            "maintenance": "维护模式"
+        },
+        "top10ClientsAccepted": {
+            "title": "前10个客户端（已接受的交易）"
+        },
+        "top10ClientsRejected": {
+            "title": "前10个客户端（被拒绝的交易）"
+        },
+        "top10PricingModels": {
+            "title": "前10个定价模式"
+        },
+        "acceptedDeals": {
+            "transferType": {
+                "title": "按传输类型分类"
+            },
+            "dealDuration": {
+                "title": "按持续时间分类"
+            }
+        },
+        "rejectedDeals": {
+            "transferType": {
+                "title": "按传输类型分类"
+            },
+            "dealDuration": {
+                "title": "按持续时间分类"
+            },
+            "dealSize": {
+                "title": "按大小分类"
+            }
+        },
+        "history": {
+            "top10PricingModels": {
+                "title": "前10个定价模式"
+            },
+            "top10ClientsForAcceptedDeals": {
+                "title": "前10个客户端（已接受的交易）"
+            },
+            "top10ClientsForRejectedDeals": {
+                "title": "前10个客户端（被拒绝的交易）"
+            }
+        },
+        "axisUnits": {
+            "numberOfProposals": "提案数量"
+        },
+        "transferTypes": {
+            "unkown": "未知",
+            "libp2p": "Libp2p-HTTP",
+            "http": "HTTP",
+            "graphsync": "Graphsync",
+            "manual": "手动"
+        },
+        "dealSize": {
+            "1073741824": "1 GiB",
+            "2147483648": "2 GiB",
+            "4294967296": "4 GiB",
+            "8589934592": "8 GiB",
+            "17179869184": "16 GiB",
+            "34359738368": "32 GiB",
+            "68719476736": "64 GiB",
+            "-1": "< 1 GiB"
+        },
+        "filPlusStatus": {
+            "true": "已验证",
+            "false": "未验证"
+        },
+        "dealDuration": {
+            "<= 12": "≤ 12 月",
+            "> 12": "> 12月",
+            "> 15": "> 15月"
+        },
+        "columnsName": {
+            "numberOfProposals": "提案数量"
+        }
+    }
+}
