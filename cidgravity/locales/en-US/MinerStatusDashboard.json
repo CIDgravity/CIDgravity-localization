@@ -95,6 +95,9 @@
             "ERR_TIMEOUT": "Service unavailable",
             "ERR_DEAL_PROTOCOL_UNSUPPORTED": "No protocol supported",
             "ERR_NO_MATCHING_DEAL_PROTOCOL_SUPPORTED": "Incompatible protocol"
+        },
+        "columnsName": {
+            "numberOfDeals": "Number of deals"
         }
     },
     "filter": {
