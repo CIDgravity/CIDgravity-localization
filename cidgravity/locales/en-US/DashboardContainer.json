@@ -1,9 +1,9 @@
 {
     "title": "Welcome {{userFirstName}}!",
-    "storage": {
-        "rejected": "Rejected"
-    },
     "retrieval": {
         "accepted": "Accepted"
+    },
+    "button": {
+        "reloadDashboard": "Reload dashboard"
     }
 }
