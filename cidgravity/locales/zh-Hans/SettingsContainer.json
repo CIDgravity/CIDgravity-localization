@@ -33,7 +33,6 @@
             },
             "mostRecentActivityError": "出现问题：{{errorCode}}（最后检查时间{{lastCheck}}）",
             "activityErrorCodes": {
-                "invalidProposal": "无效的提案",
                 "invalidConnectorVersion": "连接已过时"
             }
         },
