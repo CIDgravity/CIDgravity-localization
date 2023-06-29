@@ -80,6 +80,12 @@
             "title": "历史交易提案指标",
             "acceptedDealsRejectedReasons": {
                 "title": "已接受/拒绝的提案"
+            },
+            "acceptedDealsByType": {
+                "title": "按传输类型分类的已接受交易"
+            },
+            "rejectedDealsByType": {
+                "title": "按传输类型分类的被拒绝交易"
             }
         },
         "axisUnits": {
