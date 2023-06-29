@@ -97,7 +97,8 @@
             "> 15": "> 15月"
         },
         "columnsName": {
-            "numberOfProposals": "提案数量"
+            "numberOfProposals": "提案数量",
+            "pricingModelName": "定价模式"
         }
     }
 }
