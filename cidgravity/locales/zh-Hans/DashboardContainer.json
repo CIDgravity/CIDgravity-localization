@@ -1,16 +1,12 @@
 {
     "title": "欢迎 {{userFirstName}}！",
-    "lastHour": "一小时内",
     "storage": {
         "title": "存储订单",
-        "received": "已收到",
         "accepted": "已接受",
         "rejected": "已拒绝"
     },
     "retrieval": {
-        "title": "检索订单",
         "received": "已收到",
-        "accepted": "已接受",
-        "rejected": "已拒绝"
+        "accepted": "已接受"
     }
 }

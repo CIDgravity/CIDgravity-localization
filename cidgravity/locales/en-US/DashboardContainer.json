@@ -1,11 +1,9 @@
 {
     "title": "Welcome {{userFirstName}}!",
     "storage": {
-        "received": "Received",
         "rejected": "Rejected"
     },
     "retrieval": {
-        "title": "Retrieval deals",
         "accepted": "Accepted"
     }
 }
