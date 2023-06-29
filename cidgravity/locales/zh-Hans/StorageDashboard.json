@@ -69,7 +69,8 @@
         },
         "axisUnits": {
             "numberOfProposals": "提案数量",
-            "cumulativeRawSize": "原始算力（TiB）"
+            "cumulativeRawSize": "原始算力（TiB）",
+            "qualityAdjustedPower": "累积 QAP（TiB）"
         },
         "transferTypes": {
             "unkown": "未知",
