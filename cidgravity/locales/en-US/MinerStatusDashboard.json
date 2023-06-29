@@ -82,7 +82,7 @@
     },
     "filter": {
         "timeRange": {
-            "24hours": "Last 24 hours\t",
+            "24hours": "Last 24 hours",
             "30days": "Last 30 days",
             "3months": "Last 3 months",
             "specificDate": "Specific date",
