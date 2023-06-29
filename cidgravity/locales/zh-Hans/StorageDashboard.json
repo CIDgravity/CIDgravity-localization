@@ -77,7 +77,10 @@
             "top10ClientsForRejectedDeals": {
                 "title": "前10个客户端（被拒绝的交易）"
             },
-            "title": "历史交易提案指标"
+            "title": "历史交易提案指标",
+            "acceptedDealsRejectedReasons": {
+                "title": "已接受/拒绝的提案"
+            }
         },
         "axisUnits": {
             "numberOfProposals": "提案数量",
