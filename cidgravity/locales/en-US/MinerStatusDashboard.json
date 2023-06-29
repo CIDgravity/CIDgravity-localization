@@ -55,7 +55,12 @@
             "ReleaseSectorKeyFailed": "ReleaseSectorKeyFailed",
             "FinalizeReplicaUpdateFailed": "FinalizeReplicaUpdateFailed",
             "AbortUpgrade": "AbortUpgrade",
-            "ReceiveSector": "ReceiveSector"
+            "ReceiveSector": "ReceiveSector",
+            "PackingFailed": "PackingFailed",
+            "Faulty": "Faulty",
+            "Removed": "Removed",
+            "SubmitReplicaUpdate": "SubmitReplicaUpdate",
+            "FinalizeReplicaUpdate": "FinalizeReplicaUpdate"
         },
         "sectorStatesStandardized": {
             "WaitDeals": "WaitDeals",
