@@ -60,7 +60,11 @@
         "sectorStatesStandardized": {
             "WaitDeals": "WaitDeals",
             "AP": "AP",
-            "WaitChain": "WaitChain"
+            "WaitChain": "WaitChain",
+            "Error": "Error",
+            "PC1": "PC1",
+            "PC2": "PC2",
+            "C1/C2": "C1/C2"
         }
     }
 }
