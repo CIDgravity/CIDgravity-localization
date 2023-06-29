@@ -98,7 +98,11 @@
         },
         "columnsName": {
             "numberOfDeals": "Number of deals"
-        }
+        },
+        "axisUnits": {
+            "numberOfDeals": "Number of deals"
+        },
+        "noRowsFound": "No data"
     },
     "filter": {
         "timeRange": {
