@@ -41,7 +41,13 @@
             "RemoveFailed": "RemoveFailed",
             "SnapDealsWaitDeals": "SnapDealsWaitDeals",
             "SnapDealsAddPiece": "SnapDealsAddPiece",
-            "UpdateReplica": "UpdateReplica"
+            "UpdateReplica": "UpdateReplica",
+            "SnapDealsPacking": "SnapDealsPacking",
+            "ProveReplicaUpdate": "ProveReplicaUpdate",
+            "WaitMutable": "WaitMutable",
+            "ReplicaUpdateWait": "ReplicaUpdateWait",
+            "UpdateActivating": "UpdateActivating",
+            "ReleaseSectorKey": "ReleaseSectorKey"
         }
     }
 }
