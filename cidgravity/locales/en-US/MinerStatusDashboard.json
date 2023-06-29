@@ -83,6 +83,9 @@
         "noDataAvailable": "No data",
         "minerStatus": {
             "available": "Available"
+        },
+        "fundsState": {
+            "available": "Available"
         }
     },
     "filter": {
