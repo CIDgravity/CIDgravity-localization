@@ -75,6 +75,9 @@
             "FIN": "FIN",
             "RU": "RU",
             "PR1/PR2": "PR1/PR2"
+        },
+        "button": {
+            "reload": "Refresh"
         }
     },
     "filter": {
