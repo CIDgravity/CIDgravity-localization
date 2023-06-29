@@ -9,7 +9,8 @@
             "specificDate": "指定日期"
         },
         "unit": {
-            "numberOfProposals": "提案数量"
+            "numberOfProposals": "提案数量",
+            "placeholder": "选择图表单位"
         },
         "datePicker": {
             "placeholder": "选择日期"
