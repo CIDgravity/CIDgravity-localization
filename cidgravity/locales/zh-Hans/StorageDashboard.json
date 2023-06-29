@@ -10,6 +10,9 @@
         },
         "unit": {
             "numberOfProposals": "提案数量"
+        },
+        "datePicker": {
+            "placeholder": "选择日期"
         }
     },
     "retool": {
