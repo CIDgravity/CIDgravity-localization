@@ -89,7 +89,8 @@
         },
         "unit": {
             "numberOfProposals": "Number of proposals",
-            "placeholder": "Select charts unit"
+            "placeholder": "Select charts unit",
+            "cumulativeRawSize": "Cumulative raw size"
         }
     }
 }
