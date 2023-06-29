@@ -16,7 +16,12 @@
             "PreCommitting": "PreCommitting",
             "PreCommitWait": "PreCommitWait",
             "CommitFinalizeFailed": "CommitFinalizeFailed",
-            "SubmitCommit": "SubmitCommit"
+            "SubmitCommit": "SubmitCommit",
+            "CommitWait": "CommitWait",
+            "SubmitCommitAggregate": "SubmitCommitAggregate",
+            "CommitAggregateWait": "CommitAggregateWait",
+            "FinalizeSector": "FinalizeSector",
+            "Proving": "Proving"
         }
     }
 }
