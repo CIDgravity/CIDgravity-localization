@@ -60,7 +60,9 @@
             "Faulty": "Faulty",
             "Removed": "Removed",
             "SubmitReplicaUpdate": "SubmitReplicaUpdate",
-            "FinalizeReplicaUpdate": "FinalizeReplicaUpdate"
+            "FinalizeReplicaUpdate": "FinalizeReplicaUpdate",
+            "SealPreCommit2Failed": "SealPreCommit2Failed",
+            "TerminateWait": "TerminateWait"
         },
         "sectorStatesStandardized": {
             "WaitDeals": "WaitDeals",
