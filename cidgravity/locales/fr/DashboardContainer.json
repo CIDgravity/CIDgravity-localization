@@ -1,8 +1,6 @@
 {
     "title": "Bonjour {{userFirstName}} !",
     "storage": {
-        "title": "Deals stockés",
-        "accepted": "Acceptés",
-        "rejected": "Rejetés"
+        "accepted": "Acceptés"
     }
 }

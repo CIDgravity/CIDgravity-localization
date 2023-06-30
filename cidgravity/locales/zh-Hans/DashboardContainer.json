@@ -1,12 +1,9 @@
 {
     "title": "欢迎 {{userFirstName}}！",
     "storage": {
-        "title": "存储订单",
-        "accepted": "已接受",
-        "rejected": "已拒绝"
+        "accepted": "已接受"
     },
     "retrieval": {
-        "received": "已收到",
-        "accepted": "已接受"
+        "received": "已收到"
     }
 }
