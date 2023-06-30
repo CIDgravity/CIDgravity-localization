@@ -113,6 +113,9 @@
             "title": "Miner info",
             "status": {
                 "title": "Status"
+            },
+            "availabilityRatio": {
+                "title": "Availability ratio"
             }
         }
     },
