@@ -3,5 +3,8 @@
     "button": {
         "cancel": "Abort",
         "confirm": "Activate"
+    },
+    "body": {
+        "storageStatus": ""
     }
 }
