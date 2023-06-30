@@ -132,6 +132,9 @@
         },
         "minerAvailability": {
             "title": "Miner availability"
+        },
+        "minerStatusErrorCodes": {
+            "title": "Status checks"
         }
     },
     "filter": {
