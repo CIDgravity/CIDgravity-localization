@@ -107,13 +107,17 @@
             "ERR_GET_ASK": "Get ask error",
             "ERR_GET_ASK_PRICES_NOT_SET_TO_ZERO": "Storage pricing misconfigured",
             "ERR_GET_ASK_SIZES_NOT_PROPERLY_SET": "Storage piece size misconfigured",
-            "ERR_SEND_PROPOSAL": "Unable to send proposal"
+            "ERR_SEND_PROPOSAL": "Unable to send proposal",
+            "ERR_CIDGRAVITY_INVALID_CONNECTOR_TYPE": "Wrong CIDgravity connector",
+            "ERR_CIDGRAVITY_INVALID_CONNECTOR_VERSION": "Wrong CIDgravity connector version"
         },
         "columnsName": {
-            "numberOfDeals": "Number of deals"
+            "numberOfDeals": "Number of deals",
+            "sectorState": "Sector state"
         },
         "axisUnits": {
-            "numberOfDeals": "Number of deals"
+            "numberOfDeals": "Number of deals",
+            "numberOfChecks": "Checks"
         },
         "noRowsFound": "No data",
         "unknownValue": "No data",
