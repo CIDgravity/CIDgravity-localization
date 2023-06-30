@@ -84,7 +84,8 @@
         "minerStatus": {
             "available": "Available",
             "unavailable": "Unavailable",
-            "internal_error": "Internal error"
+            "internal_error": "Internal error",
+            "unkown": "Unknown"
         },
         "fundsState": {
             "available": "Available"
