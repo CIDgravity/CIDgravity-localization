@@ -126,6 +126,12 @@
             "collateral": "Collateral",
             "pubMsg": "PubMsg",
             "title": "Balances"
+        },
+        "sealingPipeline": {
+            "title": "Sectors state"
+        },
+        "minerAvailability": {
+            "title": "Miner availability"
         }
     },
     "filter": {
