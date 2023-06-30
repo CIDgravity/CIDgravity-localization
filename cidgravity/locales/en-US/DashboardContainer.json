@@ -1,9 +1,9 @@
 {
     "title": "Welcome {{userFirstName}}!",
-    "retrieval": {
-        "accepted": "Accepted"
-    },
     "button": {
         "reloadDashboard": "Reload dashboard"
+    },
+    "error": {
+        "unableToLoadMinerSettings": "Unable to load the dashboard. Please try again later or contact the CIDgravity team."
     }
 }
