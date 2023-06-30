@@ -110,7 +110,10 @@
             "upToDate": "Up to date"
         },
         "minerInformations": {
-            "title": "Miner infos"
+            "title": "Miner info",
+            "status": {
+                "title": "Status"
+            }
         }
     },
     "filter": {
