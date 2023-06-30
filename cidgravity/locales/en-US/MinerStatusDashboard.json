@@ -163,20 +163,13 @@
     "filter": {
         "timeRange": {
             "24hours": "Last 24 hours",
-            "30days": "Last 30 days",
             "3months": "Last 3 months",
-            "specificDate": "Specific date",
             "60minutes": "Last 60 minutes",
             "placeholder": "Pick-up date"
         },
-        "datePicker": {
-            "placeholder": "Select date"
-        },
         "unit": {
             "numberOfProposals": "Number of proposals",
-            "placeholder": "Select charts unit",
-            "cumulativeRawSize": "Cumulative RBP (RAW power)",
-            "qualityAdjustedPower": "Cumulative QAP (TiB)"
+            "cumulativeRawSize": "Cumulative RBP (RAW power)"
         }
     }
 }
