@@ -163,12 +163,12 @@
     "filter": {
         "timeRange": {
             "24hours": "Last 24 hours",
-            "3months": "Last 3 months",
             "60minutes": "Last 60 minutes",
-            "placeholder": "Pick-up date"
+            "placeholder": "Pick-up date",
+            "72hours": "Last 3 days",
+            "7days": "Last 7 days"
         },
         "unit": {
-            "numberOfProposals": "Number of proposals",
             "cumulativeRawSize": "Cumulative RBP (RAW power)"
         }
     }
