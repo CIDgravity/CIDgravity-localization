@@ -82,7 +82,9 @@
         },
         "noDataAvailable": "No data",
         "minerStatus": {
-            "available": "Available"
+            "available": "Available",
+            "unavailable": "Unavailable",
+            "internal_error": "Internal error"
         },
         "fundsState": {
             "available": "Available"
@@ -135,6 +137,11 @@
         },
         "minerStatusErrorCodes": {
             "title": "Status checks"
+        },
+        "history": {
+            "sectorStates": {
+                "title": "Sealing pipeline"
+            }
         }
     },
     "filter": {
