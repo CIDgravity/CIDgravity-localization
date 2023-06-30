@@ -5,7 +5,7 @@
         "confirm": "Activate"
     },
     "body": {
-        "storageStatus": "",
+        "storageStatus": " ",
         "minerDataWillBeCollected": "This service provides live measurement of the miner reachability and sealing pipeline.<br />\nIt will automatically turn off when the miner is unreachable for more than 24 hours.<br />\n<br />\nOnce enabled, CIDgravity will keep track of the following information natively shared by boost :",
         "sealingPipelineStatus": "Total number of sectors by sector state",
         "walletStatus": "Balance of escrow, collateral and PubMsg addresses",
