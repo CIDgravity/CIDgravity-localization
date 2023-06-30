@@ -117,7 +117,8 @@
         },
         "axisUnits": {
             "numberOfDeals": "Number of deals",
-            "numberOfChecks": "Checks"
+            "numberOfChecks": "Checks",
+            "amounts": "Amount"
         },
         "noRowsFound": "No data",
         "unknownValue": "No data",
