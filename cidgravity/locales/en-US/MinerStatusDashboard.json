@@ -103,7 +103,13 @@
             "numberOfDeals": "Number of deals"
         },
         "noRowsFound": "No data",
-        "unknownValue": "No data"
+        "unknownValue": "No data",
+        "connectorVersion": {
+            "outdated": "Outdated"
+        },
+        "minerInformations": {
+            "title": "Miner info"
+        }
     },
     "filter": {
         "timeRange": {
