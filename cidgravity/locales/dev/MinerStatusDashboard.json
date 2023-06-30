@@ -2,20 +2,9 @@
     "filter": {
         "timeRange": {
             "placeholder": "Select a time range",
-            "60minutes": "Last 60 minutes",
             "24hours": "Last 24 hours",
-            "30days": "Last 30 days",
-            "3months": "Last 3 months",
-            "specificDate": "Select specific date"
-        },
-        "datePicker": {
-            "placeholder": "Select custom date"
-        },
-        "unit": {
-            "placeholder": "Select a unit for the charts",
-            "numberOfProposals": "Number of proposals",
-            "cumulativeRawSize": "Cumulative raw size",
-            "qualityAdjustedPower": "Quality adjusted power"
+            "72hours": "Last 72 hours",
+            "7days": "Last 7 days"
         }
     },
     "retool": {
