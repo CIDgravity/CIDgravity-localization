@@ -1,5 +1,5 @@
 {
-    "header": "Enable automatic status check",
+    "header": "Enable automatic status check (BETA)",
     "button": {
         "cancel": "Abort",
         "confirm": "Activate"
