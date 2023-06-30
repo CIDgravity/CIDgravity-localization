@@ -105,7 +105,9 @@
             "ERR_CONNECT_MINER_PEER_ID": "Peer ID unreacheable",
             "ERR_CIDGRAVITY_CONNECTOR_MISCONFIGURED": "CIDgravity connector misconfigured",
             "ERR_GET_ASK": "Get ask error",
-            "ERR_GET_ASK_PRICES_NOT_SET_TO_ZERO": "Storage pricing misconfigured"
+            "ERR_GET_ASK_PRICES_NOT_SET_TO_ZERO": "Storage pricing misconfigured",
+            "ERR_GET_ASK_SIZES_NOT_PROPERLY_SET": "Storage piece size misconfigured",
+            "ERR_SEND_PROPOSAL": "Unable to send proposal"
         },
         "columnsName": {
             "numberOfDeals": "Number of deals"
