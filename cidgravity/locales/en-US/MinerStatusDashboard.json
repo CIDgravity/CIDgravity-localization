@@ -120,6 +120,12 @@
             "connectorStatus": {
                 "title": "Connector status"
             }
+        },
+        "walletBalances": {
+            "escrow": "Escrow",
+            "collateral": "Collateral",
+            "pubMsg": "PubMsg",
+            "title": "Balances"
         }
     },
     "filter": {
