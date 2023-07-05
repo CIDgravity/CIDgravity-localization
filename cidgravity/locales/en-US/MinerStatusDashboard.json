@@ -112,7 +112,7 @@
             "ERR_CIDGRAVITY_INVALID_CONNECTOR_VERSION": "Wrong CIDgravity connector version"
         },
         "columnsName": {
-            "numberOfDeals": "Number of deals",
+            "numberOfDeals": "Number of sectors",
             "sectorState": "Sector state"
         },
         "axisUnits": {
