@@ -116,7 +116,7 @@
             "sectorState": "Sector state"
         },
         "axisUnits": {
-            "numberOfDeals": "Number of deals",
+            "numberOfDeals": "Number of sectors",
             "numberOfChecks": "Checks",
             "amounts": "Amount"
         },
@@ -163,13 +163,9 @@
     "filter": {
         "timeRange": {
             "24hours": "Last 24 hours",
-            "60minutes": "Last 60 minutes",
             "placeholder": "Pick-up date",
             "72hours": "Last 3 days",
             "7days": "Last 7 days"
-        },
-        "unit": {
-            "cumulativeRawSize": "Cumulative RBP (RAW power)"
         }
     }
 }
