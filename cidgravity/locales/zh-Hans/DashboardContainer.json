@@ -1,9 +1,9 @@
 {
     "title": "欢迎 {{userFirstName}}！",
-    "storage": {
-        "accepted": "已接受"
-    },
     "retrieval": {
         "received": "已收到"
+    },
+    "error": {
+        "unableToLoadMinerSettings": "无法加载仪表盘。请稍后再试，或联系CIDgravity团队。"
     }
 }
