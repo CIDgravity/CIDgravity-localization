@@ -37,6 +37,9 @@
         },
         "sealingPipeline": {
             "title": "扇区状态"
+        },
+        "minerAvailability": {
+            "title": "存储供应商可用性"
         }
     }
 }
