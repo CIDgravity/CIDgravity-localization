@@ -54,6 +54,10 @@
             "unavailable": "不可用",
             "internal_error": "内部错误",
             "unkown": "未知"
+        },
+        "fundsState": {
+            "balance": "余额",
+            "locked": "已锁定"
         }
     }
 }
