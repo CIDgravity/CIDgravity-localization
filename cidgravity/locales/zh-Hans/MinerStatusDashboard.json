@@ -60,6 +60,10 @@
             "locked": "已锁定",
             "available": "可用",
             "tagged": "已标记"
+        },
+        "errorCodes": {
+            "OK": "成功",
+            "ERR_NO_PEER_ID_SET_ON_CHAIN": "Peer ID未在链上发布"
         }
     }
 }
