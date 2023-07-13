@@ -18,7 +18,13 @@
             "upToDate": "已更新"
         },
         "minerInformations": {
-            "title": "存储供应商信息"
+            "title": "存储供应商信息",
+            "status": {
+                "title": "状态"
+            },
+            "availabilityRatio": {
+                "title": "可用性"
+            }
         }
     }
 }
