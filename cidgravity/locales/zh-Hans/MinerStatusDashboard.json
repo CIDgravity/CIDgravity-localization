@@ -57,7 +57,9 @@
         },
         "fundsState": {
             "balance": "余额",
-            "locked": "已锁定"
+            "locked": "已锁定",
+            "available": "可用",
+            "tagged": "已标记"
         }
     }
 }
