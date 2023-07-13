@@ -1,1 +1,9 @@
-{}
+{
+    "filter": {
+        "timeRange": {
+            "72hours": "最近3天",
+            "placeholder": "提取日期",
+            "24hours": "最近24小时"
+        }
+    }
+}
