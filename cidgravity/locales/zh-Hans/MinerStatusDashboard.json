@@ -73,7 +73,8 @@
             "ERR_CIDGRAVITY_CONNECTOR_MISCONFIGURED": "CIDgravity连接器配置错误",
             "ERR_TIMEOUT": "没有服务",
             "ERR_GET_ASK_PRICES_NOT_SET_TO_ZERO": "存储定价配置错误",
-            "ERR_GET_ASK": "获取询问错误"
+            "ERR_GET_ASK": "获取询问错误",
+            "ERR_GET_ASK_SIZES_NOT_PROPERLY_SET": "存储片段大小配置错误"
         }
     }
 }
