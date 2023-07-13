@@ -63,7 +63,9 @@
         },
         "errorCodes": {
             "OK": "成功",
-            "ERR_NO_PEER_ID_SET_ON_CHAIN": "Peer ID未在链上发布"
+            "ERR_NO_PEER_ID_SET_ON_CHAIN": "Peer ID未在链上发布",
+            "ERR_NO_MULTI_ADDRESS_SET_ON_CHAIN": "Multiaddr未在链上发布",
+            "ERR_INVALID_MULTI_ADDRESS_IN_MINER_INFO": "无效的Multiaddr格式"
         }
     }
 }
