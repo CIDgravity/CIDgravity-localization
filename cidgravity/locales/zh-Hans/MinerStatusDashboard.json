@@ -16,6 +16,9 @@
             "outdated": "过时",
             "latest": "最新版本为",
             "upToDate": "已更新"
+        },
+        "minerInformations": {
+            "title": "存储供应商信息"
         }
     }
 }
