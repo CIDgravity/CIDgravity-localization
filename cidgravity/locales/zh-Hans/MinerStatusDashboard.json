@@ -71,7 +71,9 @@
             "ERR_DEAL_PROTOCOL_UNSUPPORTED": "不支持协议",
             "ERR_NO_MATCHING_DEAL_PROTOCOL_SUPPORTED": "不相容的协议",
             "ERR_CIDGRAVITY_CONNECTOR_MISCONFIGURED": "CIDgravity连接器配置错误",
-            "ERR_TIMEOUT": "没有服务"
+            "ERR_TIMEOUT": "没有服务",
+            "ERR_GET_ASK_PRICES_NOT_SET_TO_ZERO": "存储定价配置错误",
+            "ERR_GET_ASK": "获取询问错误"
         }
     }
 }
