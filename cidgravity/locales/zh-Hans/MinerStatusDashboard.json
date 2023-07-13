@@ -51,7 +51,9 @@
         },
         "minerStatus": {
             "available": "可用",
-            "unavailable": "不可用"
+            "unavailable": "不可用",
+            "internal_error": "内部错误",
+            "unkown": "未知"
         }
     }
 }
