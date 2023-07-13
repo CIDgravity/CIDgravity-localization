@@ -3,6 +3,8 @@
     "body": {
         "minerDataWillBeCollected": "此服务提供存储供应商可达性和密封管道的实时测量。<br /> \n当存储供应商在超过24小时不可达时，它将自动关闭。\n<br /> \n<br /> \n启用后，CIDgravity将跟踪以下由boost原生共享的信息：",
         "sealingPipelineStatus": "按扇区状态的扇区总数",
-        "walletStatus": "托管款项、抵押和PubMsg地址的余额"
+        "walletStatus": "托管款项、抵押和PubMsg地址的余额",
+        "testBeforeEnabling": "随时可以在设置菜单中禁用此功能。",
+        "storageStatus": "增加临时存储空间"
     }
 }
