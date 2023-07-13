@@ -48,6 +48,10 @@
             "sectorStates": {
                 "title": "密封管道"
             }
+        },
+        "minerStatus": {
+            "available": "可用",
+            "unavailable": "不可用"
         }
     }
 }
