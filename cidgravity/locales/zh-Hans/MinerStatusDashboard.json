@@ -34,6 +34,9 @@
             "escrow": "托管款项",
             "collateral": "抵押",
             "pubMsg": "PubMsg"
+        },
+        "sealingPipeline": {
+            "title": "扇区状态"
         }
     }
 }
