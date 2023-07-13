@@ -28,6 +28,9 @@
             "connectorStatus": {
                 "title": "连接器状态"
             }
+        },
+        "walletBalances": {
+            "title": "余额"
         }
     }
 }
