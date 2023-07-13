@@ -30,7 +30,9 @@
             }
         },
         "walletBalances": {
-            "title": "余额"
+            "title": "余额",
+            "escrow": "托管款项",
+            "collateral": "抵押"
         }
     }
 }
