@@ -40,6 +40,14 @@
         },
         "minerAvailability": {
             "title": "存储供应商可用性"
+        },
+        "minerStatusErrorCodes": {
+            "title": "状态检查"
+        },
+        "history": {
+            "sectorStates": {
+                "title": "密封管道"
+            }
         }
     }
 }
