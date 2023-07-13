@@ -24,6 +24,9 @@
             },
             "availabilityRatio": {
                 "title": "可用性"
+            },
+            "connectorStatus": {
+                "title": "连接器状态"
             }
         }
     }
