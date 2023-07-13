@@ -6,5 +6,9 @@
         "walletStatus": "托管款项、抵押和PubMsg地址的余额",
         "testBeforeEnabling": "随时可以在设置菜单中禁用此功能。",
         "storageStatus": "增加临时存储空间"
+    },
+    "button": {
+        "cancel": "中止",
+        "confirm": "激活"
     }
 }
