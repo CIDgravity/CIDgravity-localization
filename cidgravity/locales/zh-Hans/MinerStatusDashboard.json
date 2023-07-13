@@ -11,6 +11,11 @@
         "button": {
             "reload": "刷新",
             "filscan": "在Filscan.io上查看"
+        },
+        "connectorVersion": {
+            "outdated": "过时",
+            "latest": "最新版本为",
+            "upToDate": "已更新"
         }
     }
 }
