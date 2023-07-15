@@ -138,7 +138,9 @@
             "SnapDealsDealsExpired": "SnapDeals交易过期",
             "SnapDealsRecoverDealIDs": "SnapDeals恢复交易IDs",
             "ReplicaUpdateFailed": "副本更新失败",
-            "ReleaseSectorKeyFailed": "释放扇区密钥失败"
+            "ReleaseSectorKeyFailed": "释放扇区密钥失败",
+            "FinalizeReplicaUpdateFailed": "最终化副本更新失败",
+            "AbortUpgrade": "中止升级"
         }
     }
 }
