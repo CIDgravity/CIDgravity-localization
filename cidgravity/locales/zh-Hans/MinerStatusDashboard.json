@@ -112,7 +112,8 @@
             "PackingFailed": "打包失败",
             "FinalizeFailed": "最终化失败",
             "DealsExpired": "交易过期",
-            "RecoverDealIDs": "恢复交易IDs"
+            "RecoverDealIDs": "恢复交易IDs",
+            "Faulty": "故障"
         }
     }
 }
