@@ -146,7 +146,9 @@
         "sectorStatesStandardized": {
             "WaitDeals": "等待交易",
             "AP": "AP",
-            "WaitChain": "等待链"
+            "WaitChain": "等待链",
+            "Error": "错误",
+            "PC1": "PC1"
         }
     }
 }
