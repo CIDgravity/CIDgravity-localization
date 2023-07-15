@@ -113,7 +113,9 @@
             "FinalizeFailed": "最终化失败",
             "DealsExpired": "交易过期",
             "RecoverDealIDs": "恢复交易IDs",
-            "Faulty": "故障"
+            "Faulty": "故障",
+            "FaultReported": "故障已报告",
+            "FaultedFinal": "故障最终"
         }
     }
 }
