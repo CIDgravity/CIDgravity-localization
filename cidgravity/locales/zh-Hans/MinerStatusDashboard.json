@@ -110,7 +110,9 @@
             "RemoteCommitFailed": "远程保证失败",
             "CommitFailed": "保证失败",
             "PackingFailed": "打包失败",
-            "FinalizeFailed": "最终化失败"
+            "FinalizeFailed": "最终化失败",
+            "DealsExpired": "交易过期",
+            "RecoverDealIDs": "恢复交易ID"
         }
     }
 }
