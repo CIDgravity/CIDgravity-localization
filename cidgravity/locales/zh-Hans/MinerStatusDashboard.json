@@ -82,7 +82,9 @@
         "sectorStates": {
             "WaitDeals": "等待交易",
             "Packing": "打包",
-            "AddPiece": "AP"
+            "AddPiece": "AP",
+            "GetTicket": "获取Ticket",
+            "AddPieceFailed": "添加片段失败"
         }
     }
 }
