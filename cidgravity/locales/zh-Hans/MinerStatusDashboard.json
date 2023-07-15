@@ -127,7 +127,9 @@
             "SnapDealsAddPiece": "SnapDeals添加片段",
             "SnapDealsPacking": "SnapDeals打包",
             "UpdateReplica": "更新副本",
-            "ProveReplicaUpdate": "证明副本更新"
+            "ProveReplicaUpdate": "证明副本更新",
+            "SubmitReplicaUpdate": "提交副本更新",
+            "WaitMutable": "等待可变"
         }
     }
 }
