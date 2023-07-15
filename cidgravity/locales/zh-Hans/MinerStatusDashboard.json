@@ -78,6 +78,9 @@
             "ERR_SEND_PROPOSAL": "无法发送提案",
             "ERR_CIDGRAVITY_INVALID_CONNECTOR_TYPE": "错误的CIDgravity连接器",
             "ERR_CIDGRAVITY_INVALID_CONNECTOR_VERSION": "错误的CIDgravity连接器版本"
+        },
+        "sectorStates": {
+            "WaitDeals": "等待交易"
         }
     }
 }
