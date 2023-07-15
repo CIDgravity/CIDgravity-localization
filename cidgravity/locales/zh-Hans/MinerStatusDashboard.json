@@ -125,7 +125,9 @@
             "Removed": "已移除",
             "SnapDealsWaitDeals": "SnapDeals等待交易",
             "SnapDealsAddPiece": "SnapDeals添加片段",
-            "SnapDealsPacking": "SnapDeals打包"
+            "SnapDealsPacking": "SnapDeals打包",
+            "UpdateReplica": "更新副本",
+            "ProveReplicaUpdate": "证明副本更新"
         }
     }
 }
