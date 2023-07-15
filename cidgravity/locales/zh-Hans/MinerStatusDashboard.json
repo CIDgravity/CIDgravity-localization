@@ -102,7 +102,9 @@
             "FinalizeSector": "最终化扇区",
             "Proving": "验证中",
             "Available": "可用",
-            "FailedUnrecoverable": "无法恢复的失败"
+            "FailedUnrecoverable": "无法恢复的失败",
+            "SealPreCommit1Failed": "密封预保证失败1",
+            "SealPreCommit2Failed": "密封预保证失败2"
         }
     }
 }
