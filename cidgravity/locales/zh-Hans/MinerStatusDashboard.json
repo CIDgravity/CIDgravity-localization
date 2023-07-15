@@ -122,7 +122,9 @@
             "TerminateFailed": "终止失败",
             "Removing": "移除",
             "RemoveFailed": "移除失败",
-            "Removed": "已移除"
+            "Removed": "已移除",
+            "SnapDealsWaitDeals": "SnapDeals等待交易",
+            "SnapDealsAddPiece": "SnapDeals添加片段"
         }
     }
 }
