@@ -91,7 +91,9 @@
             "PreCommitWait": "预保证等待",
             "SubmitPreCommitBatch": "提交预保证批次",
             "WaitSeed": "等待 seed",
-            "PreCommitBatchWait": "预保证批次等待"
+            "PreCommitBatchWait": "预保证批次等待",
+            "Committing": "提保证中",
+            "CommitFinalize": "保证最终化"
         }
     }
 }
