@@ -140,7 +140,8 @@
             "ReplicaUpdateFailed": "副本更新失败",
             "ReleaseSectorKeyFailed": "释放扇区密钥失败",
             "FinalizeReplicaUpdateFailed": "最终化副本更新失败",
-            "AbortUpgrade": "中止升级"
+            "AbortUpgrade": "中止升级",
+            "ReceiveSector": "接收扇区"
         }
     }
 }
