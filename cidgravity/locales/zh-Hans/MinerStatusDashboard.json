@@ -120,7 +120,9 @@
             "TerminateWait": "终止等待",
             "TerminateFinality": "终止定局",
             "TerminateFailed": "终止失败",
-            "Removing": "移除"
+            "Removing": "移除",
+            "RemoveFailed": "移除失败",
+            "Removed": "已移除"
         }
     }
 }
