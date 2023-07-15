@@ -106,7 +106,8 @@
             "SealPreCommit1Failed": "密封预保证失败1",
             "SealPreCommit2Failed": "密封预保证失败2",
             "PreCommitFailed": "预保证失败",
-            "ComputeProofFailed": "计算证明失败"
+            "ComputeProofFailed": "计算证明失败",
+            "RemoteCommitFailed": "远程保证失败"
         }
     }
 }
