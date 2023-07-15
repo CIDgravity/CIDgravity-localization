@@ -156,7 +156,8 @@
             "PR1/PR2": "PR1/PR2"
         },
         "columnsName": {
-            "sectorState": "扇区状态"
+            "sectorState": "扇区状态",
+            "numberOfDeals": "扇区数量"
         }
     }
 }
