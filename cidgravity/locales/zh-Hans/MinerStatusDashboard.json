@@ -161,7 +161,9 @@
         },
         "axisUnits": {
             "numberOfChecks": "检查",
-            "numberOfDeals": "扇区数量"
-        }
+            "numberOfDeals": "扇区数量",
+            "amounts": "数量"
+        },
+        "noRowsFound": "无数据"
     }
 }
