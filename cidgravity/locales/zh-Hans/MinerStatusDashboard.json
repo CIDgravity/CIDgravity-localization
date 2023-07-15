@@ -84,7 +84,9 @@
             "Packing": "打包",
             "AddPiece": "AP",
             "GetTicket": "获取Ticket",
-            "AddPieceFailed": "添加片段失败"
+            "AddPieceFailed": "添加片段失败",
+            "PreCommit1": "PC1",
+            "PreCommit2": "PC2"
         }
     }
 }
