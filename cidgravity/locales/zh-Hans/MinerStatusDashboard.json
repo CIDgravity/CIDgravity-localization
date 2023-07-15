@@ -129,7 +129,9 @@
             "UpdateReplica": "更新副本",
             "ProveReplicaUpdate": "证明副本更新",
             "SubmitReplicaUpdate": "提交副本更新",
-            "WaitMutable": "等待可变"
+            "WaitMutable": "等待可变",
+            "ReplicaUpdateWait": "副本更新等待",
+            "UpdateActivating": "更新激活"
         }
     }
 }
