@@ -100,7 +100,9 @@
             "SubmitCommitAggregate": "提交保证聚合",
             "CommitAggregateWait": "等待保证聚合",
             "FinalizeSector": "最终化扇区",
-            "Proving": "验证中"
+            "Proving": "验证中",
+            "Available": "可用",
+            "FailedUnrecoverable": "无法恢复的失败"
         }
     }
 }
