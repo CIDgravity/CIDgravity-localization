@@ -87,7 +87,8 @@
             "AddPieceFailed": "添加片段失败",
             "PreCommit1": "PC1",
             "PreCommit2": "PC2",
-            "PreCommitting": "预保证"
+            "PreCommitting": "预保证",
+            "PreCommitWait": "预保证等待"
         }
     }
 }
