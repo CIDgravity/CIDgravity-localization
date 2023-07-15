@@ -89,7 +89,9 @@
             "PreCommit2": "PC2",
             "PreCommitting": "预保证",
             "PreCommitWait": "预保证等待",
-            "SubmitPreCommitBatch": "提交预保证批次"
+            "SubmitPreCommitBatch": "提交预保证批次",
+            "WaitSeed": "等待 seed",
+            "PreCommitBatchWait": "预保证批次等待"
         }
     }
 }
