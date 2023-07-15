@@ -115,7 +115,9 @@
             "RecoverDealIDs": "恢复交易IDs",
             "Faulty": "故障",
             "FaultReported": "故障已报告",
-            "FaultedFinal": "故障最终"
+            "FaultedFinal": "故障最终",
+            "Terminating": "终止",
+            "TerminateWait": "终止等待"
         }
     }
 }
