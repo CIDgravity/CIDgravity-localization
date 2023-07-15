@@ -164,6 +164,8 @@
             "numberOfDeals": "扇区数量",
             "amounts": "数量"
         },
-        "noRowsFound": "无数据"
+        "noRowsFound": "无数据",
+        "noDataAvailable": "无数据",
+        "unknownValue": "无数据"
     }
 }
