@@ -142,6 +142,10 @@
             "FinalizeReplicaUpdateFailed": "最终化副本更新失败",
             "AbortUpgrade": "中止升级",
             "ReceiveSector": "接收扇区"
+        },
+        "sectorStatesStandardized": {
+            "WaitDeals": "等待交易",
+            "AP": "AP"
         }
     }
 }
