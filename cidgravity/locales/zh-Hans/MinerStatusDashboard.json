@@ -124,7 +124,8 @@
             "RemoveFailed": "移除失败",
             "Removed": "已移除",
             "SnapDealsWaitDeals": "SnapDeals等待交易",
-            "SnapDealsAddPiece": "SnapDeals添加片段"
+            "SnapDealsAddPiece": "SnapDeals添加片段",
+            "SnapDealsPacking": "SnapDeals打包"
         }
     }
 }
