@@ -80,7 +80,9 @@
             "ERR_CIDGRAVITY_INVALID_CONNECTOR_VERSION": "错误的CIDgravity连接器版本"
         },
         "sectorStates": {
-            "WaitDeals": "等待交易"
+            "WaitDeals": "等待交易",
+            "Packing": "打包",
+            "AddPiece": "AP"
         }
     }
 }
