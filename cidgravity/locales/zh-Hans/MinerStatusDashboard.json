@@ -158,6 +158,10 @@
         "columnsName": {
             "sectorState": "扇区状态",
             "numberOfDeals": "扇区数量"
+        },
+        "axisUnits": {
+            "numberOfChecks": "检查",
+            "numberOfDeals": "扇区数量"
         }
     }
 }
