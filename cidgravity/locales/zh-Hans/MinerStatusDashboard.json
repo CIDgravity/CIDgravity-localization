@@ -131,7 +131,10 @@
             "SubmitReplicaUpdate": "提交副本更新",
             "WaitMutable": "等待可变",
             "ReplicaUpdateWait": "副本更新等待",
-            "UpdateActivating": "更新激活"
+            "UpdateActivating": "更新激活",
+            "ReleaseSectorKey": "释放扇区密钥",
+            "FinalizeReplicaUpdate": "最终化副本更新",
+            "SnapDealsAddPieceFailed": "SnapDeals添加片段失败"
         }
     }
 }
