@@ -12,7 +12,7 @@
             "placeholder": "选择自定义日期"
         }
     },
-    "title": "存取分析仪表盘",
+    "title": "存取分析仪表盘(Graphsync)",
     "retool": {
         "reasons": {
             "accept": "已接受",
