@@ -40,7 +40,8 @@
                 "ERR_CIDGRAVITY_SIDE": "状态未知",
                 "ERR_DEAL_PROTOCOL_UNSUPPORTED": "不支持协议",
                 "ERR_NO_MATCHING_DEAL_PROTOCOL_SUPPORTED": "协议不相容",
-                "ERR_CIDGRAVITY_CONNECTOR_MISCONFIGURED": "未部署或配置错误的CIDgravity"
+                "ERR_CIDGRAVITY_CONNECTOR_MISCONFIGURED": "未部署或配置错误的CIDgravity",
+                "ERR_TIMEOUT": "状态未知"
             }
         },
         "friendlyName": {
