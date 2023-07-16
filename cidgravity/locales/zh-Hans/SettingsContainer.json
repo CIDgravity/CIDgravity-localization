@@ -33,7 +33,8 @@
             },
             "mostRecentActivityError": "出现问题：{{errorCode}}（最后检查时间{{lastCheck}}）",
             "activityErrorCodes": {
-                "ERR_NO_PEER_ID_SET_ON_CHAIN": "Peer ID未在链上发布"
+                "ERR_NO_PEER_ID_SET_ON_CHAIN": "Peer ID未在链上发布",
+                "ERR_NO_MULTI_ADDRESS_SET_ON_CHAIN": "Multiaddr未在链上发布"
             }
         },
         "friendlyName": {
