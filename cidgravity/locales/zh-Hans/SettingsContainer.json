@@ -46,7 +46,8 @@
                 "ERR_GET_ASK_PRICES_NOT_SET_TO_ZERO": "获取询问配置错误",
                 "ERR_GET_ASK_SIZES_NOT_PROPERLY_SET": "获取询问配置错误",
                 "ERR_SEND_PROPOSAL": "无法验证状态",
-                "ERR_CIDGRAVITY_INVALID_CONNECTOR_TYPE": "不支持的CIDgravity连接器版本"
+                "ERR_CIDGRAVITY_INVALID_CONNECTOR_TYPE": "不支持的CIDgravity连接器版本",
+                "ERR_CIDGRAVITY_INVALID_CONNECTOR_VERSION": "不支持的CIDgravity连接器版本"
             }
         },
         "friendlyName": {
