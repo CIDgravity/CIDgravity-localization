@@ -87,6 +87,9 @@
             "onUpdateFriendlyName": "更新存储供应商昵称时发生错误，请稍后再试或联系 CIDgravity 团队。",
             "onRegenerateConnectorToken": "生成新代币时发生错误，请稍后再试或联系 CIDgravity 团队。",
             "onUpdateStartEpochSealingBuffer": "更新起始时期密封缓冲区设置时发生错误，请稍后再试或联系 CIDgravity 团队。"
+        },
+        "info": {
+            "onMinerStatusCheckTestLoading": "正在测试存储供应商可达性请等待30秒"
         }
     },
     "error": {
