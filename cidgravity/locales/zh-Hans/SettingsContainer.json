@@ -31,7 +31,10 @@
                 "regenerate": "禁用并重新生成代币",
                 "subtitle": "密钥添加到部署在存储供应商上的 CIDgravity 连接器"
             },
-            "mostRecentActivityError": "出现问题：{{errorCode}}（最后检查时间{{lastCheck}}）"
+            "mostRecentActivityError": "出现问题：{{errorCode}}（最后检查时间{{lastCheck}}）",
+            "activityErrorCodes": {
+                "ERR_NO_PEER_ID_SET_ON_CHAIN": "Peer ID未在链上发布"
+            }
         },
         "friendlyName": {
             "title": "昵称",
