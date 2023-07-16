@@ -89,12 +89,12 @@
             "onUpdateFriendlyName": "更新存储供应商昵称时发生错误，请稍后再试或联系 CIDgravity 团队。",
             "onRegenerateConnectorToken": "生成新代币时发生错误，请稍后再试或联系 CIDgravity 团队。",
             "onUpdateStartEpochSealingBuffer": "更新起始时期密封缓冲区设置时发生错误，请稍后再试或联系 CIDgravity 团队。",
-            "onUpdateSettings": "保存存储供应商设置时发生错误，请稍后再试，或联系CIDgravity团队",
-            "onMinerStatusCheckServiceUnavailable": "存储供应商状态自动检查不可用，请稍后再试，或联系CIDgravity团队",
+            "onUpdateSettings": "保存存储供应商设置时发生错误，请稍后再试，或联系CIDgravity团队。",
+            "onMinerStatusCheckServiceUnavailable": "存储供应商状态自动检查不可用，请稍后再试，或联系CIDgravity团队。",
             "onMinerStatusCheckNotReachable": "由于存储供应商不可达，自动存储供应商已禁用，请前往帮助中心>诊断以获取更多详细信息"
         },
         "info": {
-            "onMinerStatusCheckTestLoading": "正在测试存储供应商可达性请等待30秒"
+            "onMinerStatusCheckTestLoading": "正在测试存储供应商可达性请等待30秒。"
         }
     },
     "error": {
