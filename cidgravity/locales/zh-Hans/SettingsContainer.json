@@ -79,7 +79,8 @@
             "onUpdateCustomMessage": "自定义信息已保存。",
             "onUpdateFriendlyName": "存储供应商昵称已更新。",
             "onRegenerateConnectorToken": "代币已重新生成。",
-            "onUpdateStartEpochSealingBuffer": "起始时期密封缓冲区已更新。"
+            "onUpdateStartEpochSealingBuffer": "起始时期密封缓冲区已更新。",
+            "onUpdateSettings": "设置已保存！"
         },
         "error": {
             "onUpdateMaintenanceMode": "更新维护模式时发生错误，请稍后再试或联系 CIDgravity 团队。",
