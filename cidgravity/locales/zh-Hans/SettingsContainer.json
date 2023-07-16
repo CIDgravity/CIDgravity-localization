@@ -43,7 +43,8 @@
                 "ERR_CIDGRAVITY_CONNECTOR_MISCONFIGURED": "未部署或配置错误的CIDgravity",
                 "ERR_TIMEOUT": "状态未知",
                 "ERR_GET_ASK": "无法存取存储询问",
-                "ERR_GET_ASK_PRICES_NOT_SET_TO_ZERO": "获取询问配置错误"
+                "ERR_GET_ASK_PRICES_NOT_SET_TO_ZERO": "获取询问配置错误",
+                "ERR_GET_ASK_SIZES_NOT_PROPERLY_SET": "无法验证状态"
             }
         },
         "friendlyName": {
