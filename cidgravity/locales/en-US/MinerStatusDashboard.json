@@ -167,5 +167,8 @@
             "72hours": "Last 3 days",
             "7days": "Last 7 days"
         }
+    },
+    "button": {
+        "refresh": "Refresh"
     }
 }
