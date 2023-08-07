@@ -169,6 +169,7 @@
         }
     },
     "button": {
-        "refresh": "Refresh"
+        "refresh": "Refresh",
+        "viewOnFilscan": "View on Filscan.io"
     }
 }
