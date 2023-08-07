@@ -146,5 +146,8 @@
         "totalAcceptedDealsSizeWithReasons": {
             "title": "Accepted / rejected proposals"
         }
+    },
+    "button": {
+        "refresh": "Refresh"
     }
 }
