@@ -1,6 +1,3 @@
 {
-    "title": "Bonjour {{userFirstName}} !",
-    "storage": {
-        "accepted": "Acceptés"
-    }
+    "title": "Bonjour {{userFirstName}} !"
 }
