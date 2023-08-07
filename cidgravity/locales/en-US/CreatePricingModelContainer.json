@@ -10,5 +10,8 @@
         "isNameAlreadyUsed": "Pricing model name already exist, it must be unique.",
         "hasNotAllRulesBeenFilled": "All rule fields are mandatory.",
         "hasNoRule": "At least one rule is required in a pricing model."
+    },
+    "error": {
+        "isPricingModelNotExistingOrNotAllowed": "Pricing model unavailable."
     }
 }
