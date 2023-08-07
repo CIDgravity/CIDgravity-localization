@@ -18,6 +18,9 @@
             "qualityAdjustedPower": "Quality adjusted power"
         }
     },
+    "button": {
+        "refresh": "Refresh"
+    },
     "retool": {
         "reasons": {
             "accept": "Accepted",

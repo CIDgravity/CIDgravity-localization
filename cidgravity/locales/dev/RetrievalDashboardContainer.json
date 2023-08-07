@@ -13,6 +13,9 @@
             "placeholder": "Select custom date"
         }
     },
+    "button": {
+        "refresh": "Refresh"
+    },
     "retool": {
         "reasons": {
             "accept": "Accepted",

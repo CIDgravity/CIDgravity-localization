@@ -4,6 +4,12 @@
         "new": "Create a new pricing model",
         "edit": "Edit a pricing model"
     },
+    "error": {
+        "isPricingModelNotExistingOrNotAllowed": "The pricing model you ask doesn't exist or you are not allowed to perform this operation"
+    },
+    "button": {
+        "backToClientList": "Go back to pricing models"
+    },
     "validation": {
         "onCreatePricingModel": "Unable to create the pricing model. Try later or reach out to CIDgravity team",
         "onUpdatePricingModel": "Unable to update the pricing model. Try later or reach out to CIDgravity team",

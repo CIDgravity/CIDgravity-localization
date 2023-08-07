@@ -7,6 +7,10 @@
             "7days": "Last 7 days"
         }
     },
+    "button": {
+        "refresh": "Refresh",
+        "viewOnFilscan": "View miner on Filscan.io"
+    },
     "retool": {
         "button": {
             "reload": "Refresh",

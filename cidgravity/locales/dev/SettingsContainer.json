@@ -53,7 +53,7 @@
         "minerStatusCheck": {
             "title": "Automatic status check",
             "label": "I want CIDgravity to check the availability of my miner regularly",
-            "info": "If you activate this option, we will send proposals at regular intervals, <br/>in order to check the configuration and availability of your miner"
+            "info": "If you activate this option, we will send proposals at regular intervals, in order to check the configuration and availability of your miner"
         },
         "friendlyName": {
             "title": "Friendly name",
