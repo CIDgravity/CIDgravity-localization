@@ -13,5 +13,8 @@
     },
     "error": {
         "isPricingModelNotExistingOrNotAllowed": "Pricing model unavailable."
+    },
+    "button": {
+        "backToClientList": "Go back to pricing models"
     }
 }
