@@ -12,25 +12,26 @@
         "viewOnFilscan": "View miner on Filscan.io"
     },
     "retool": {
-        "button": {
-            "reload": "Refresh",
-            "filscan": "View miner on Filscan.io"
-        },
-        "connectorVersion": {
-            "outdated": "Outdated",
-            "latest": "latest is",
-            "upToDate": "Up to date"
-        },
-        "minerInformations": {
-            "title": "Miner infos",
+        "storageAvailability": {
+            "title": "Storage availability",
             "status": {
                 "title": "Status"
             },
-            "availabilityRatio": {
-                "title": "Availability ratio"
+            "storageRatio": {
+                "title": "Storage ratio"
+            }
+        },
+        "retrievalAvailability": {
+            "title": "Retrieval availability",
+            "retrievalBot": "Retrieval bot",
+            "graphsyncRatio": {
+                "title": "Graphsync ratio"
             },
-            "connectorStatus": {
-                "title": "Connector status"
+            "httpRatio": {
+                "title": "HTTP ratio"
+            },
+            "bitswapRatio": {
+                "title": "Bitswap ratio"
             }
         },
         "walletBalances": {

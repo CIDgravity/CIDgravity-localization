@@ -5,6 +5,11 @@
         "description": "Test the end-to-end connectivity between CIDgravity and your miner",
         "goToDiagnosisPage": "Run diagnosis"
     },
+    "docs": {
+        "title": "Documentation",
+        "description": "Access guides on installing and using CIDgravity",
+        "readDocumentation": "Read documentation"
+    },
     "community": {
         "title": "Community",
         "joinSlack": "Join our Slack",
