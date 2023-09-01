@@ -142,6 +142,9 @@
             "title": "Storage availability",
             "status": {
                 "title": "Current status"
+            },
+            "storageRatio": {
+                "title": "Availability"
             }
         }
     },
