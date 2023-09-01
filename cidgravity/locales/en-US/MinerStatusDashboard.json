@@ -76,9 +76,6 @@
             "RU": "RU",
             "PR1/PR2": "PR1/PR2"
         },
-        "button": {
-            "filscan": "View on Filscan.io"
-        },
         "noDataAvailable": "No data",
         "minerStatus": {
             "available": "Available",
@@ -121,14 +118,8 @@
         },
         "noRowsFound": "No data",
         "unknownValue": "No data",
-        "connectorVersion": {
-            "latest": "latest is"
-        },
         "minerInformations": {
-            "title": "Miner info",
-            "availabilityRatio": {
-                "title": "Availability"
-            }
+            "title": "Miner info"
         },
         "walletBalances": {
             "escrow": "Escrow",
@@ -149,6 +140,9 @@
             "sectorStates": {
                 "title": "Sealing pipeline"
             }
+        },
+        "storageAvailability": {
+            "title": "Storage availability"
         }
     },
     "filter": {
