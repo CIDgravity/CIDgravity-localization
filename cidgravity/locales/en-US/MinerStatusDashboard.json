@@ -118,9 +118,6 @@
         },
         "noRowsFound": "No data",
         "unknownValue": "No data",
-        "minerInformations": {
-            "title": "Miner info"
-        },
         "walletBalances": {
             "escrow": "Escrow",
             "collateral": "Collateral",
@@ -142,7 +139,10 @@
             }
         },
         "storageAvailability": {
-            "title": "Storage availability"
+            "title": "Storage availability",
+            "status": {
+                "title": "Status"
+            }
         }
     },
     "filter": {
