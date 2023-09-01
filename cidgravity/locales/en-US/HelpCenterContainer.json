@@ -23,6 +23,7 @@
         "goToDiagnosisPage": "Run connectivity test"
     },
     "docs": {
-        "title": "Documentation"
+        "title": "Documentation",
+        "description": "Miner configuration, API, FAQ, and more…"
     }
 }
