@@ -24,6 +24,7 @@
     },
     "docs": {
         "title": "Documentation",
-        "description": "Miner configuration, API, FAQ, and more…"
+        "description": "Miner configuration, API, FAQ, and more…",
+        "readDocumentation": "Access documentation"
     }
 }
