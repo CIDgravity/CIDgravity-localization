@@ -77,7 +77,6 @@
             "PR1/PR2": "PR1/PR2"
         },
         "button": {
-            "reload": "Refresh",
             "filscan": "View on Filscan.io"
         },
         "noDataAvailable": "No data",
@@ -123,20 +122,12 @@
         "noRowsFound": "No data",
         "unknownValue": "No data",
         "connectorVersion": {
-            "outdated": "Outdated",
-            "latest": "latest is",
-            "upToDate": "Up to date"
+            "latest": "latest is"
         },
         "minerInformations": {
             "title": "Miner info",
-            "status": {
-                "title": "Status"
-            },
             "availabilityRatio": {
                 "title": "Availability"
-            },
-            "connectorStatus": {
-                "title": "Connector status"
             }
         },
         "walletBalances": {
