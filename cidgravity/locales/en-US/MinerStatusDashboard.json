@@ -148,7 +148,14 @@
             }
         },
         "retrievalAvailability": {
-            "title": "Retrieval availability"
+            "title": "Retrieval availability",
+            "retrievalBot": "Retrieval bot",
+            "graphsyncRatio": {
+                "title": "Graphsync"
+            },
+            "httpRatio": {
+                "title": "HTTP"
+            }
         }
     },
     "filter": {
