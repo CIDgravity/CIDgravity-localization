@@ -141,7 +141,7 @@
         "storageAvailability": {
             "title": "Storage availability",
             "status": {
-                "title": "Status"
+                "title": "Current status"
             }
         }
     },
