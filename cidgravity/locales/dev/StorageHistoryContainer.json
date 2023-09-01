@@ -20,6 +20,9 @@
         "inspect": {
             "tooltip": "Inspect deal proposal"
         },
+        "inspectAcceptanceLogic": {
+            "tooltip": "Inspect acceptance logic results"
+        },
         "simulate": {
             "tooltip": "Simulate in playground"
         },
@@ -32,6 +35,9 @@
             },
             "blacklist": {
                 "tooltip": "Address blacklisted"
+            },
+            "storageAcceptanceLogic": {
+                "tooltip": "Storage acceptance logic not passed"
             },
             "reject": {
                 "tooltip": "Rejected"

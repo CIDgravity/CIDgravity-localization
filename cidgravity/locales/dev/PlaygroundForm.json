@@ -1,6 +1,15 @@
 {
+    "dealProposal": {
+        "title": "Deal proposal",
+        "subtitle": "Fill the form to create a dummy deal proposal and test your pricing models"
+    },
+    "storageAcceptanceLogic": {
+        "title": "Storage acceptance logic",
+        "subtitle": "Simulate values for sealing pipeline to test your storage acceptance logic"
+    },
     "button": {
         "isSendingTest": "Sending ...",
+        "addSealingPipelineValue": "Add new value",
         "sendATest": "Send a test"
     },
     "fromAddress": {
@@ -37,6 +46,17 @@
     "price": {
         "label": "Price *",
         "placeholder": "FIL / GiB / Epoch"
+    },
+    "sealingpipeline": {
+        "value": {
+            "placeholder": "Value",
+            "tooltips": {
+                "valueMustBeNanoFil": "Value must be in nano Fil",
+                "valueMustBeAttoFil": "Value must be in attoFil",
+                "mustBeInUSDollars": "Price must be specified in US $",
+                "decimalNumberWillBeTruncated": "Must be whole number, decimal will be truncated"
+            }
+        }
     },
     "validation": {
         "isPriceInvalidValue": "Invalid value (use dots not commas)",

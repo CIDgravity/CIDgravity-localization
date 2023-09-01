@@ -11,7 +11,8 @@
             "integration": "Integrations",
             "history": "History",
             "playground": "Playground",
-            "blacklist": "Blacklist"
+            "blacklist": "Blacklist",
+            "acceptanceLogic": "Acceptance logic"
         },
         "retrieval": {
             "title": "Retrieval",

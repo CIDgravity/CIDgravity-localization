@@ -29,7 +29,8 @@
             "reject": "No matching pricing",
             "maintenance": "Maintenance mode",
             "invalidProposal": "Invalid proposal",
-            "startEpochBelowSealingBuffer": "Below sealing buffer"
+            "startEpochBelowSealingBuffer": "Below sealing buffer",
+            "storageAcceptanceLogic": "Storage acceptance logic"
         },
         "transferTypes": {
             "unkown": "Unkown",

@@ -1,0 +1,18 @@
+{
+    "general": {
+        "title": "General informations",
+        "subtitle": "Fill main informations on the acceptance logic",
+        "name": {
+            "label": "Acceptance logic name *"
+        }
+    },
+    "rule": {
+        "title": "Manage rules",
+        "subtitle": "Set advanced rules based on your sealing pipeline state or other available values",
+        "enableSimplifiedView": "Enable simplified view"
+    },
+    "button": {
+        "update": "Update",
+        "create": "Create"
+    }
+}

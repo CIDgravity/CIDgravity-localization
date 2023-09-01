@@ -64,6 +64,10 @@
             "pricingModel": {
                 "title": "Pricing Model"
             },
+            "storageAcceptanceLogic": {
+                "title": "Storage acceptance logic",
+                "default": "Default applied"
+            },
             "currentStorageRateLimit": {
                 "title": "Current storage rate limits",
                 "tooltip": "Storage deal rate / limit for ACCEPTED deals"
