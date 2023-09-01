@@ -9,24 +9,15 @@
     },
     "retool": {
         "button": {
-            "reload": "刷新",
             "filscan": "在Filscan.io上查看"
         },
         "connectorVersion": {
-            "outdated": "过时",
-            "latest": "最新版本为",
-            "upToDate": "已更新"
+            "latest": "最新版本为"
         },
         "minerInformations": {
             "title": "存储供应商信息",
-            "status": {
-                "title": "状态"
-            },
             "availabilityRatio": {
                 "title": "可用性"
-            },
-            "connectorStatus": {
-                "title": "连接器状态"
             }
         },
         "walletBalances": {
