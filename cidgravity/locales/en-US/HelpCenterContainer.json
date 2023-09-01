@@ -21,5 +21,8 @@
         "title": "Diagnosis",
         "description": "Troubleshoot miner ability to receive storage deals and connectivity with CIDgravity",
         "goToDiagnosisPage": "Run connectivity test"
+    },
+    "docs": {
+        "title": "Documentation"
     }
 }
