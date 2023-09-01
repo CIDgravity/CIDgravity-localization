@@ -155,6 +155,9 @@
             },
             "httpRatio": {
                 "title": "HTTP"
+            },
+            "bitswapRatio": {
+                "title": "Bitswap"
             }
         }
     },
