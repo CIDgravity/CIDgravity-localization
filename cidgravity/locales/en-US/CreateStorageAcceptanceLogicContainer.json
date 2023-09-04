@@ -120,7 +120,8 @@
                 "title": "Others",
                 "tooltip": "Others",
                 "values": {
-                    "BaseFee": "Base Fee"
+                    "BaseFee": "Base Fee",
+                    "ReceivedOn": "Received on (time of the day)"
                 }
             }
         }
