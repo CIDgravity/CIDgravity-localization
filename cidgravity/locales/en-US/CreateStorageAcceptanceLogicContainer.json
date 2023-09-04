@@ -146,7 +146,8 @@
     "notification": {
         "success": {
             "onCreateDefaultAcceptanceLogic": "Default acceptance logic successfully created.",
-            "onCreateAcceptanceLogic": "Acceptance logic successfully created."
+            "onCreateAcceptanceLogic": "Acceptance logic successfully created.",
+            "onUpdateAcceptanceLogic": "Acceptance logic successfully updated."
         }
     }
 }
