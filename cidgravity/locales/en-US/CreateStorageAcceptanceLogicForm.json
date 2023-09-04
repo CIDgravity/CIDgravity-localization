@@ -10,5 +10,8 @@
         "title": "Manage logic rules",
         "subtitle": "When a new deal proposal is received, the logic defined below is applied<br />If the logic doesn't match (returns FALSE), the deal is rejected. Logic can be tested in the playground.",
         "enableSimplifiedView": "Simplified view"
+    },
+    "button": {
+        "update": "Update"
     }
 }
