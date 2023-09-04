@@ -64,7 +64,12 @@
                     "SubmitPreCommitBatch": "SubmitPreCommitBatch",
                     "PreCommitBatchWait": "PreCommitBatchWait",
                     "WaitSeed": "WaitSeed",
-                    "Committing": "Committing"
+                    "Committing": "Committing",
+                    "CommitFinalize": "CommitFinalize",
+                    "CommitFinalizeFailed": "CommitFinalizeFailed",
+                    "SubmitCommit": "SubmitCommit",
+                    "CommitWait": "CommitWait",
+                    "SubmitCommitAggregate": "SubmitCommitAggregate"
                 }
             }
         }
