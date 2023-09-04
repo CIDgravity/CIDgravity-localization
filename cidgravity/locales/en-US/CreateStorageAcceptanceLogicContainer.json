@@ -118,7 +118,10 @@
             },
             "additionalFields": {
                 "title": "Others",
-                "tooltip": "Others"
+                "tooltip": "Others",
+                "values": {
+                    "BaseFee": "Base Fee"
+                }
             }
         }
     }
