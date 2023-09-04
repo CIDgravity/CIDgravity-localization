@@ -50,7 +50,11 @@
         "fields": {
             "sectorStates": {
                 "title": "Sealing pipeline - sector states",
-                "tooltip": "Sealing pipeline - sector states"
+                "tooltip": "Sealing pipeline - sector states",
+                "values": {
+                    "Packing": "Packing",
+                    "WaitDeals": "WaitDeals"
+                }
             }
         }
     }
