@@ -23,7 +23,9 @@
         "advancedOperationSecondArgLabel": "Select integer, variable or arithmetic operation",
         "operators": {
             "between": {
-                "label": "Between"
+                "label": "Between",
+                "from": "from",
+                "to": "to"
             }
         }
     }
