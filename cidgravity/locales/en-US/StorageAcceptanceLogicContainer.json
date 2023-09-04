@@ -9,7 +9,8 @@
         "client": {
             "title": "Clients",
             "noContent": "None",
-            "defaultContent": "Default acceptance logic"
+            "defaultContent": "Default acceptance logic",
+            "content_zero": "None"
         }
     }
 }
