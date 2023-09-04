@@ -123,7 +123,7 @@
                     "BaseFee": "Base Fee",
                     "ReceivedOn": "Received on (time of the day)",
                     "FilPriceInUsd": "Fil price (USD)",
-                    "ChainEpochReceivedOn": "Received on (chain epoch)"
+                    "ChainEpochReceivedOn": "Received on (chain epoch) TO BE DELETED"
                 }
             }
         }
