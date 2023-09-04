@@ -16,6 +16,7 @@
         "operatorPlaceholder": "Select an operator",
         "addGroupLabel": "Group",
         "addRuleLabel": "Rule",
-        "addSubRuleLabel": "Rule"
+        "addSubRuleLabel": "Rule",
+        "notLabel": "Not"
     }
 }
