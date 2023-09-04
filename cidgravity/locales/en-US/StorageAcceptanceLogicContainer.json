@@ -1,3 +1,4 @@
 {
-    "title": "Acceptance logic management"
+    "title": "Acceptance logic management",
+    "subtitle": "Create rules of storage deal acceptance based on the current state of the sealing pipeline, basefee, Fil price and more…"
 }
