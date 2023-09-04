@@ -37,5 +37,8 @@
             "onUpdateDefaultAcceptanceLogic": "Unable to update default acceptance logic. Try in a few minutes or contact the CIDgravity team.",
             "onDeleteAcceptanceLogic": "Unable to delete acceptance logic. Try in a few minutes or contact the CIDgravity team."
         }
+    },
+    "empty": {
+        "title": "There are no acceptance logics under this miner. A default acceptance logic must be created to use CIDgravity."
     }
 }
