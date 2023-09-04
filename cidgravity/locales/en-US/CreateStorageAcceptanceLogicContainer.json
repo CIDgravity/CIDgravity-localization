@@ -19,6 +19,12 @@
         "addSubRuleLabel": "Rule",
         "notLabel": "Not",
         "fieldSourcesPopupTitle": "Select source",
-        "valueSourcesPopupTitle": "Select value source"
+        "valueSourcesPopupTitle": "Select value source",
+        "advancedOperationSecondArgLabel": "Select integer, variable or arithmetic operation",
+        "operators": {
+            "between": {
+                "label": "Between"
+            }
+        }
     }
 }
