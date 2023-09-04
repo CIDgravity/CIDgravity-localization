@@ -36,6 +36,15 @@
         "functions": {
             "sum": {
                 "label": "Sum"
+            },
+            "minus": {
+                "label": "Substraction"
+            },
+            "multiply": {
+                "label": "Multiply"
+            },
+            "divide": {
+                "label": "Divide"
             }
         }
     }
