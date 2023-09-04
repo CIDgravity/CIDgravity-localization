@@ -10,6 +10,7 @@
         "valuePlaceholder": "Enter integer",
         "fieldLabel": "Variable",
         "operatorLabel": "Operator",
-        "funcLabel": "Arithmetic"
+        "funcLabel": "Arithmetic",
+        "fieldPlaceholder": "Select variable"
     }
 }
