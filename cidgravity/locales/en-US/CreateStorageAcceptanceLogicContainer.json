@@ -136,6 +136,9 @@
             "required": "Acceptance logic name is mandatory.",
             "matches": "Can only contain letters, numbers and underscore.",
             "alreadyUsed": "Acceptance logic name already exist, it must be unique."
+        },
+        "builder": {
+            "empty": "The acceptance logic is empty."
         }
     }
 }
