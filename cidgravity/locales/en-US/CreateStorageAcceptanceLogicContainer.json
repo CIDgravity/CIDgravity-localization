@@ -1,5 +1,6 @@
 {
     "title": {
-        "newDefault": "Create a default acceptance logic"
+        "newDefault": "Create a default acceptance logic",
+        "new": "Create a new acceptance logic"
     }
 }
