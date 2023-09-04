@@ -87,7 +87,12 @@
                     "RecoverDealIDs": "RecoverDealIDs",
                     "Faulty": "Faulty",
                     "FaultReported": "FaultReported",
-                    "FaultedFinal": "FaultedFinal"
+                    "FaultedFinal": "FaultedFinal",
+                    "Terminating": "Terminating",
+                    "TerminateWait": "TerminateWait",
+                    "TerminateFinality": "TerminateFinality",
+                    "TerminateFailed": "TerminateFailed",
+                    "Removing": "Removing"
                 }
             }
         }
