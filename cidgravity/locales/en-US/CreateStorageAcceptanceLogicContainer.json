@@ -130,5 +130,10 @@
     },
     "button": {
         "backToAcceptanceLogicList": "Go back to acceptance logics"
+    },
+    "validation": {
+        "name": {
+            "required": "Acceptance logic name is mandatory."
+        }
     }
 }
