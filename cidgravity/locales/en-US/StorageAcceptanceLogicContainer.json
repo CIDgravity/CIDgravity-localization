@@ -32,6 +32,9 @@
         "success": {
             "onUpdateDefaultAcceptanceLogic": "Default storage acceptance logic updated",
             "onDeleteAcceptanceLogic": "Acceptance logic successfully deleted"
+        },
+        "error": {
+            "onUpdateDefaultAcceptanceLogic": "Unable to update default acceptance logic. Try in a few minutes or contact the CIDgravity team."
         }
     }
 }
