@@ -133,7 +133,8 @@
     },
     "validation": {
         "name": {
-            "required": "Acceptance logic name is mandatory."
+            "required": "Acceptance logic name is mandatory.",
+            "matches": "Can only contain letters, numbers and underscore."
         }
     }
 }
