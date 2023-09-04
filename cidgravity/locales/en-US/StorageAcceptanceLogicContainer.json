@@ -43,5 +43,8 @@
     },
     "error": {
         "generic": "Unable to load storage acceptance logics. Try in a few minutes or contact the CIDgravity team."
+    },
+    "button": {
+        "new": "Create a new acceptance logic"
     }
 }
