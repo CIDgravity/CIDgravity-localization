@@ -16,6 +16,9 @@
             "content_few": "{{count}} clients associated",
             "content_many": "{{count}} clients associated",
             "content_other": "{{count}} clients associated"
+        },
+        "edit": {
+            "tooltip": "Edit this acceptance logic"
         }
     }
 }
