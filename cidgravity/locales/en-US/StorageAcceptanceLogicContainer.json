@@ -30,7 +30,8 @@
     },
     "notification": {
         "success": {
-            "onUpdateDefaultAcceptanceLogic": "Default storage acceptance logic updated"
+            "onUpdateDefaultAcceptanceLogic": "Default storage acceptance logic updated",
+            "onDeleteAcceptanceLogic": "Acceptance logic successfully deleted"
         }
     }
 }
