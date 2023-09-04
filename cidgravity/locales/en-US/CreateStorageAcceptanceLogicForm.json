@@ -12,6 +12,7 @@
         "enableSimplifiedView": "Simplified view"
     },
     "button": {
-        "update": "Update"
+        "update": "Update",
+        "create": "Create"
     }
 }
