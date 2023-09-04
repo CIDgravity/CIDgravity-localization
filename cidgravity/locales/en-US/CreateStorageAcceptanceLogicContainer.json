@@ -54,7 +54,10 @@
                 "values": {
                     "Packing": "Packing",
                     "WaitDeals": "WaitDeals",
-                    "AddPiece": "AddPiece"
+                    "AddPiece": "AddPiece",
+                    "AddPieceFailed": "AddPieceFailed",
+                    "PreCommit1": "PreCommit1",
+                    "GetTicket": "GetTicket"
                 }
             }
         }
