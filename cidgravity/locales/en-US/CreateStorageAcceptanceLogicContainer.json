@@ -57,7 +57,14 @@
                     "AddPiece": "AddPiece",
                     "AddPieceFailed": "AddPieceFailed",
                     "PreCommit1": "PreCommit1",
-                    "GetTicket": "GetTicket"
+                    "GetTicket": "GetTicket",
+                    "PreCommit2": "PreCommit2",
+                    "PreCommitting": "PreCommitting",
+                    "PreCommitWait": "PreCommitWait",
+                    "SubmitPreCommitBatch": "SubmitPreCommitBatch",
+                    "PreCommitBatchWait": "PreCommitBatchWait",
+                    "WaitSeed": "WaitSeed",
+                    "Committing": "Committing"
                 }
             }
         }
