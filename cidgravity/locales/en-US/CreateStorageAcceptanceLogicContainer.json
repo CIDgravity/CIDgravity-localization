@@ -148,6 +148,9 @@
             "onCreateDefaultAcceptanceLogic": "Default acceptance logic successfully created.",
             "onCreateAcceptanceLogic": "Acceptance logic successfully created.",
             "onUpdateAcceptanceLogic": "Acceptance logic successfully updated."
+        },
+        "error": {
+            "generic": "Unable to create or update the acceptance logic, please try later or contact the CIDgravity team."
         }
     }
 }
