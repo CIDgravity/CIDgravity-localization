@@ -8,6 +8,7 @@
     "queryBuilder": {
         "valueLabel": "integer",
         "valuePlaceholder": "Enter integer",
-        "fieldLabel": "Variable"
+        "fieldLabel": "Variable",
+        "operatorLabel": "Operator"
     }
 }
