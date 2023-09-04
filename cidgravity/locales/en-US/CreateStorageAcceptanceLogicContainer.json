@@ -75,7 +75,14 @@
                     "Proving": "Proving",
                     "FailedUnrecoverable": "FailedUnrecoverable",
                     "SealPreCommit1Failed": "SealPreCommit1Failed",
-                    "Available": "Available"
+                    "Available": "Available",
+                    "SealPreCommit2Failed": "SealPreCommit2Failed",
+                    "PreCommitFailed": "PreCommitFailed",
+                    "ComputeProofFailed": "ComputeProofFailed",
+                    "RemoteCommitFailed": "RemoteCommitFailed",
+                    "CommitFailed": "CommitFailed",
+                    "PackingFailed": "PackingFailed",
+                    "FinalizeFailed": "FinalizeFailed"
                 }
             }
         }
