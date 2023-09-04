@@ -92,7 +92,14 @@
                     "TerminateWait": "TerminateWait",
                     "TerminateFinality": "TerminateFinality",
                     "TerminateFailed": "TerminateFailed",
-                    "Removing": "Removing"
+                    "Removing": "Removing",
+                    "RemoveFailed": "RemoveFailed",
+                    "Removed": "Removed",
+                    "SnapDealsWaitDeals": "SnapDealsWaitDeals",
+                    "SnapDealsAddPiece": "SnapDealsAddPiece",
+                    "SnapDealsPacking": "SnapDealsPacking",
+                    "UpdateReplica": "UpdateReplica",
+                    "ProveReplicaUpdate": "ProveReplicaUpdate"
                 }
             }
         }
