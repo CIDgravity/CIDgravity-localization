@@ -115,6 +115,9 @@
                     "AbortUpgrade": "AbortUpgrade",
                     "ReceiveSector": "ReceiveSector"
                 }
+            },
+            "additionalFields": {
+                "title": "Others"
             }
         }
     }
