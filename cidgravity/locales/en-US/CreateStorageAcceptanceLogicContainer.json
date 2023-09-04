@@ -140,6 +140,7 @@
         "builder": {
             "empty": "The acceptance logic is empty."
         },
-        "onCreateAcceptanceLogic": "Unable to create the acceptance logic, please try later or contact the CIDgravity team."
+        "onCreateAcceptanceLogic": "Unable to create the acceptance logic, please try later or contact the CIDgravity team.",
+        "onUpdateAcceptanceLogic": "Unable to update the acceptance logic, please try later or contact the CIDgravity team."
     }
 }
