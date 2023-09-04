@@ -15,6 +15,7 @@
         "funcPlaceholder": "Select an arithmetic operation",
         "operatorPlaceholder": "Select an operator",
         "addGroupLabel": "Group",
-        "addRuleLabel": "Rule"
+        "addRuleLabel": "Rule",
+        "addSubRuleLabel": "Rule"
     }
 }
