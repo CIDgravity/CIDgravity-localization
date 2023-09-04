@@ -122,7 +122,8 @@
                 "values": {
                     "BaseFee": "Base Fee",
                     "ReceivedOn": "Received on (time of the day)",
-                    "FilPriceInUsd": "Fil price (USD)"
+                    "FilPriceInUsd": "Fil price (USD)",
+                    "ChainEpochReceivedOn": "Received on (chain epoch)"
                 }
             }
         }
