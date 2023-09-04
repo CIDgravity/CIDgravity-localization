@@ -127,5 +127,8 @@
                 }
             }
         }
+    },
+    "button": {
+        "backToAcceptanceLogicList": "Go back to acceptance logics"
     }
 }
