@@ -18,6 +18,7 @@
         "addRuleLabel": "Rule",
         "addSubRuleLabel": "Rule",
         "notLabel": "Not",
-        "fieldSourcesPopupTitle": "Select source"
+        "fieldSourcesPopupTitle": "Select source",
+        "valueSourcesPopupTitle": "Select value source"
     }
 }
