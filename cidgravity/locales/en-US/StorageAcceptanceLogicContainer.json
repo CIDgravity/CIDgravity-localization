@@ -25,6 +25,7 @@
         },
         "setToDefault": {
             "tooltip": "Set this acceptance logic as default"
-        }
+        },
+        "defaultBadge": "DEFAULT"
     }
 }
