@@ -49,7 +49,8 @@
         },
         "fields": {
             "sectorStates": {
-                "title": "Sealing pipeline - sector states"
+                "title": "Sealing pipeline - sector states",
+                "tooltip": "Sealing pipeline - sector states"
             }
         }
     }
