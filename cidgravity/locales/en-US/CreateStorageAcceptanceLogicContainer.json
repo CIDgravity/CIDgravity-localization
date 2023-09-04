@@ -99,7 +99,13 @@
                     "SnapDealsAddPiece": "SnapDealsAddPiece",
                     "SnapDealsPacking": "SnapDealsPacking",
                     "UpdateReplica": "UpdateReplica",
-                    "ProveReplicaUpdate": "ProveReplicaUpdate"
+                    "ProveReplicaUpdate": "ProveReplicaUpdate",
+                    "SubmitReplicaUpdate": "SubmitReplicaUpdate",
+                    "WaitMutable": "WaitMutable",
+                    "ReplicaUpdateWait": "ReplicaUpdateWait",
+                    "UpdateActivating": "UpdateActivating",
+                    "ReleaseSectorKey": "ReleaseSectorKey",
+                    "FinalizeReplicaUpdate": "FinalizeReplicaUpdate"
                 }
             }
         }
