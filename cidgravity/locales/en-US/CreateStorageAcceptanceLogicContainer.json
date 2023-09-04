@@ -27,6 +27,16 @@
                 "from": "from",
                 "to": "to"
             }
+        },
+        "types": {
+            "boolean": {
+                "is": "is"
+            }
+        },
+        "functions": {
+            "sum": {
+                "label": "Sum"
+            }
         }
     }
 }
