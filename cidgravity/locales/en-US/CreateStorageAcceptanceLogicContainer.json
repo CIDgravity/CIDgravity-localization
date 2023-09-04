@@ -46,6 +46,11 @@
             "divide": {
                 "label": "Divide"
             }
+        },
+        "fields": {
+            "sectorStates": {
+                "title": "Sealing pipeline - sector states"
+            }
         }
     }
 }
