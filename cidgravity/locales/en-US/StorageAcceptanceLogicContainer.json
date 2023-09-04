@@ -27,5 +27,10 @@
             "tooltip": "Set this acceptance logic as default"
         },
         "defaultBadge": "DEFAULT"
+    },
+    "notification": {
+        "success": {
+            "onUpdateDefaultAcceptanceLogic": "Default storage acceptance logic updated"
+        }
     }
 }
