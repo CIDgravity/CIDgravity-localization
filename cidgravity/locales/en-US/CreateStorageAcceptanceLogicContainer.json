@@ -72,7 +72,10 @@
                     "SubmitCommitAggregate": "SubmitCommitAggregate",
                     "CommitAggregateWait": "CommitAggregateWait",
                     "FinalizeSector": "FinalizeSector",
-                    "Proving": "Proving"
+                    "Proving": "Proving",
+                    "FailedUnrecoverable": "FailedUnrecoverable",
+                    "SealPreCommit1Failed": "SealPreCommit1Failed",
+                    "Available": "Available"
                 }
             }
         }
