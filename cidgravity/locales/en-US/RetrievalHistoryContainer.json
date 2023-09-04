@@ -1,6 +1,6 @@
 {
     "title": "Retrieval history",
-    "subtitle": "Log of all retrieval deal proposals received.",
+    "subtitle": "Logs of the graphsync retrieval deal proposals received (last 3 months).",
     "table": {
         "empty": "No records",
         "noMatch": "Your search did not match any retrieval proposals.",
