@@ -117,7 +117,8 @@
                 }
             },
             "additionalFields": {
-                "title": "Others"
+                "title": "Others",
+                "tooltip": "Others"
             }
         }
     }
