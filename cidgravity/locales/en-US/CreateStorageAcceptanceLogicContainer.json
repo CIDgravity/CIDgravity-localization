@@ -69,7 +69,10 @@
                     "CommitFinalizeFailed": "CommitFinalizeFailed",
                     "SubmitCommit": "SubmitCommit",
                     "CommitWait": "CommitWait",
-                    "SubmitCommitAggregate": "SubmitCommitAggregate"
+                    "SubmitCommitAggregate": "SubmitCommitAggregate",
+                    "CommitAggregateWait": "CommitAggregateWait",
+                    "FinalizeSector": "FinalizeSector",
+                    "Proving": "Proving"
                 }
             }
         }
