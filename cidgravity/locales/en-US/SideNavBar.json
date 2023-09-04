@@ -11,7 +11,8 @@
             "history": "History",
             "playground": "Playground",
             "blacklist": "Blacklist",
-            "dashboard": "Analytics"
+            "dashboard": "Analytics",
+            "acceptanceLogic": "Acceptance logic"
         },
         "retrieval": {
             "title": "Retrieval",
