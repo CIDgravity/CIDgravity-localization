@@ -1,6 +1,9 @@
 {
     "general": {
         "title": "General information",
-        "subtitle": "Please complete the fields below."
+        "subtitle": "Please complete the fields below.",
+        "name": {
+            "label": "Acceptance logic name *"
+        }
     }
 }
