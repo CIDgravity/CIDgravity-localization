@@ -7,6 +7,7 @@
     },
     "queryBuilder": {
         "valueLabel": "integer",
-        "valuePlaceholder": "Enter integer"
+        "valuePlaceholder": "Enter integer",
+        "fieldLabel": "Variable"
     }
 }
