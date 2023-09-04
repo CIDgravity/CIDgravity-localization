@@ -105,7 +105,8 @@
                     "ReplicaUpdateWait": "ReplicaUpdateWait",
                     "UpdateActivating": "UpdateActivating",
                     "ReleaseSectorKey": "ReleaseSectorKey",
-                    "FinalizeReplicaUpdate": "FinalizeReplicaUpdate"
+                    "FinalizeReplicaUpdate": "FinalizeReplicaUpdate",
+                    "SnapDealsAddPieceFailed": "SnapDealsAddPieceFailed"
                 }
             }
         }
