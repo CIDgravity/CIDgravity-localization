@@ -26,7 +26,8 @@
             "invalidProposal": "Invalid proposal",
             "rateLimit": "Rate limit - Number of proposals",
             "reject": "No matching pricing rules",
-            "startEpochBelowSealingBuffer": "Below min. start epoch"
+            "startEpochBelowSealingBuffer": "Below min. start epoch",
+            "storageAcceptanceLogic": "Acceptance logic not passed"
         },
         "totalAcceptedDealsWithReasons": {
             "title": "Accepted / rejected proposals"
