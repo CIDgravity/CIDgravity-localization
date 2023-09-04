@@ -19,6 +19,12 @@
         },
         "edit": {
             "tooltip": "Edit this acceptance logic"
+        },
+        "delete": {
+            "tooltip": "Delete this acceptance logic"
+        },
+        "setToDefault": {
+            "tooltip": "Set this acceptance logic as default"
         }
     }
 }
