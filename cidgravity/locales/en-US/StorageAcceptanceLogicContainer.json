@@ -34,7 +34,8 @@
             "onDeleteAcceptanceLogic": "Acceptance logic successfully deleted"
         },
         "error": {
-            "onUpdateDefaultAcceptanceLogic": "Unable to update default acceptance logic. Try in a few minutes or contact the CIDgravity team."
+            "onUpdateDefaultAcceptanceLogic": "Unable to update default acceptance logic. Try in a few minutes or contact the CIDgravity team.",
+            "onDeleteAcceptanceLogic": "Unable to delete acceptance logic. Try in a few minutes or contact the CIDgravity team."
         }
     }
 }
