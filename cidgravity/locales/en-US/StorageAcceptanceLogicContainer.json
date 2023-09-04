@@ -40,5 +40,8 @@
     },
     "empty": {
         "title": "There are no acceptance logics under this miner. A default acceptance logic must be created to use CIDgravity."
+    },
+    "error": {
+        "generic": "Unable to load storage acceptance logics. Try in a few minutes or contact the CIDgravity team."
     }
 }
