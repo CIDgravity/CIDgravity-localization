@@ -6,6 +6,7 @@
         "requirements": "Only apply to online deals with proposal format > 2.1.0 (Boost 1.6.3+)"
     },
     "queryBuilder": {
-        "valueLabel": "integer"
+        "valueLabel": "integer",
+        "valuePlaceholder": "Enter integer"
     }
 }
