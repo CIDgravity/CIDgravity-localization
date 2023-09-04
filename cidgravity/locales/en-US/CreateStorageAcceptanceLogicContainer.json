@@ -142,5 +142,10 @@
         },
         "onCreateAcceptanceLogic": "Unable to create the acceptance logic, please try later or contact the CIDgravity team.",
         "onUpdateAcceptanceLogic": "Unable to update the acceptance logic, please try later or contact the CIDgravity team."
+    },
+    "notification": {
+        "success": {
+            "onCreateDefaultAcceptanceLogic": "Default acceptance logic successfully created."
+        }
     }
 }
