@@ -13,6 +13,6 @@
         "funcLabel": "Arithmetic",
         "fieldPlaceholder": "Select a variable",
         "funcPlaceholder": "Select an arithmetic operation",
-        "operatorPlaceholder": "Select operator"
+        "operatorPlaceholder": "Select an arithmetic operator"
     }
 }
