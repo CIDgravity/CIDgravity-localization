@@ -54,6 +54,9 @@
         },
         "internalMessage": {
             "empty": "None"
+        },
+        "inspectAcceptanceLogic": {
+            "tooltip": "Inspect acceptance logic"
         }
     },
     "error": {
