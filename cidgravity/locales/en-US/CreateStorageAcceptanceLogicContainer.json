@@ -17,6 +17,7 @@
         "addGroupLabel": "Group",
         "addRuleLabel": "Rule",
         "addSubRuleLabel": "Rule",
-        "notLabel": "Not"
+        "notLabel": "Not",
+        "fieldSourcesPopupTitle": "Select source"
     }
 }
