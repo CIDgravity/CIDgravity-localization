@@ -121,7 +121,8 @@
                 "tooltip": "Others",
                 "values": {
                     "BaseFee": "Base Fee",
-                    "ReceivedOn": "Received on (time of the day)"
+                    "ReceivedOn": "Received on (time of the day)",
+                    "FilPriceInUsd": "Fil price (USD)"
                 }
             }
         }
