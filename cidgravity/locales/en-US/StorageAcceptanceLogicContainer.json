@@ -5,6 +5,9 @@
     "table": {
         "name": {
             "title": "Acceptance Logic Name"
+        },
+        "client": {
+            "title": "Clients"
         }
     }
 }
