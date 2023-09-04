@@ -152,5 +152,8 @@
         "error": {
             "generic": "Unable to create or update the acceptance logic, please try later or contact the CIDgravity team."
         }
+    },
+    "error": {
+        "isAcceptanceLogicNotExistingOrNotAllowed": "Acceptance logic unavailable."
     }
 }
