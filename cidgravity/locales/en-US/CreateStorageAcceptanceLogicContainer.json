@@ -53,7 +53,8 @@
                 "tooltip": "Sealing pipeline - sector states",
                 "values": {
                     "Packing": "Packing",
-                    "WaitDeals": "WaitDeals"
+                    "WaitDeals": "WaitDeals",
+                    "AddPiece": "AddPiece"
                 }
             }
         }
