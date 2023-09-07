@@ -1,6 +1,9 @@
 {
     "sectorStates": {
         "WaitDeals": "WaitDeals",
-        "Packing": "Packing"
+        "Packing": "Packing",
+        "AddPieceFailed": "AddPieceFailed",
+        "AddPiece": "AddPiece",
+        "GetTicket": "GetTicket"
     }
 }
