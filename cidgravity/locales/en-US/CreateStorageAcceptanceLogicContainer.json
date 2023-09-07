@@ -2,8 +2,7 @@
     "title": {
         "newDefault": "Create a default acceptance logic",
         "new": "Create a new acceptance logic",
-        "edit": "Edit an acceptance logic",
-        "requirements": "Only apply to online deals with proposal format > 2.1.0 (Boost 1.6.3+)"
+        "edit": "Edit an acceptance logic"
     },
     "queryBuilder": {
         "valueLabel": "integer",
@@ -120,9 +119,7 @@
                 "title": "Others",
                 "tooltip": "Others",
                 "values": {
-                    "BaseFee": "Base Fee",
                     "ReceivedOn": "Received on (time of the day)",
-                    "FilPriceInUsd": "Fil price (USD)",
                     "ChainEpochReceivedOn": "Received on (chain epoch) TO BE DELETED"
                 }
             }
@@ -136,9 +133,6 @@
             "required": "Acceptance logic name is mandatory.",
             "matches": "Can only contain letters, numbers and underscore.",
             "alreadyUsed": "Acceptance logic name already exist, it must be unique."
-        },
-        "builder": {
-            "empty": "The acceptance logic is empty."
         },
         "onCreateAcceptanceLogic": "Unable to create the acceptance logic, please try later or contact the CIDgravity team.",
         "onUpdateAcceptanceLogic": "Unable to update the acceptance logic, please try later or contact the CIDgravity team."
