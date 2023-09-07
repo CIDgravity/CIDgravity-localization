@@ -43,6 +43,7 @@
         "isPriceMandatoryField": "Deal price is required."
     },
     "dealProposal": {
-        "title": "Deal proposal"
+        "title": "Deal proposal",
+        "subtitle": ""
     }
 }
