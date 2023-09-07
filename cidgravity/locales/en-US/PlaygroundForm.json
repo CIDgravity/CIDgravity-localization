@@ -1,7 +1,8 @@
 {
     "button": {
         "isSendingTest": "Processing…",
-        "sendATest": "Send"
+        "sendATest": "Send",
+        "addSealingPipelineValue": "+"
     },
     "fromAddress": {
         "label": "From address*",
