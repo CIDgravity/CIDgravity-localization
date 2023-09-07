@@ -136,7 +136,8 @@
         "onCreateAcceptanceLogic": "Unable to create the acceptance logic, please try later or contact the CIDgravity team.",
         "onUpdateAcceptanceLogic": "Unable to update the acceptance logic, please try later or contact the CIDgravity team.",
         "builder": {
-            "invalid": "Invalid acceptance logic, please verify all fields are set correctly"
+            "invalid": "Invalid acceptance logic, please verify all fields are set correctly",
+            "positiveNumberOnly": "Must be a positive integer."
         }
     },
     "notification": {
