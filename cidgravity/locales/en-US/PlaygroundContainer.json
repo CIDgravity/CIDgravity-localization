@@ -10,7 +10,7 @@
         "rejected": {
             "title": "Proposal rejected",
             "matchedPricing": "Rejected by {{pricingModel}} / Rule {{rule}}",
-            "storageAcceptanceLogicNotPassed": "Acceptance logic return FALSE\n\n",
+            "storageAcceptanceLogicNotPassed": "Acceptance logic return FALSE",
             "storageLogicUsedExplanation": "Acceptance logic evaluation : "
         },
         "loading": {
