@@ -2,8 +2,7 @@
     "title": {
         "newDefault": "Create your default acceptance logic",
         "new": "Create a new acceptance logic",
-        "edit": "Edit an acceptance logic",
-        "requirements": "Applies only if for ONLINE DEALS, and if you use a BOOST node with a version higher than 2.1.0"
+        "edit": "Edit an acceptance logic"
     },
     "queryBuilder": {
         "valueLabel": "value",
@@ -120,10 +119,7 @@
                 "title": "Other fields",
                 "tooltip": "Additional fields",
                 "values": {
-                    "BaseFee": "BaseFee",
-                    "ReceivedOn": "Received on (time)",
-                    "FilPriceInUsd": "Fil price (USD)",
-                    "ChainEpochReceivedOn": "Received on (chain epoch)"
+                    "ReceivedOn": "Received on (time)"
                 }
             }
         }
@@ -141,7 +137,9 @@
             "alreadyUsed": "Acceptance logic name already used, it must be unique for all your logics"
         },
         "builder": {
-            "empty": "The acceptance logic can't be empty"
+            "invalid": "Invalid acceptance logic, check all rules for more details",
+            "positiveNumberOnly": "You can use positive number only",
+            "integerOnly": "Only integer can be used"
         },
         "onCreateAcceptanceLogic": "Unable to create the acceptance logic. Try later or reach out to CIDgravity team",
         "onUpdateAcceptanceLogic": "Unable to update the acceptance logic. Try later or reach out to CIDgravity team"

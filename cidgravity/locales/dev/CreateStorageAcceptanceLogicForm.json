@@ -8,8 +8,7 @@
     },
     "rule": {
         "title": "Manage rules",
-        "subtitle": "Set advanced rules based on your sealing pipeline state or other available values",
-        "enableSimplifiedView": "Enable simplified view"
+        "subtitle": "Set advanced rules based on your sealing pipeline state or other available values"
     },
     "button": {
         "update": "Update",

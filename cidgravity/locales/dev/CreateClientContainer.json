@@ -31,17 +31,23 @@
             }
         }
     },
+    "storageAcceptanceLogic": {
+        "title": "Acceptance logic",
+        "description": "Select from the dropdown or create a new one."
+    },
     "error": {
         "isAddressNotOnChain": "{{address}} (not on chain)",
         "isClientNotExistingOrNotAllowed": "The client you ask doesn't exist or you are not allowed to perform this operation"
     },
     "button": {
         "createNewPricingModel": "New pricing model",
+        "createNewStorageAcceptanceLogic": "New acceptance logic",
         "backToClientList": "Go back to your clients"
     },
     "validation": {
         "isGenericErrorWhileAddingClient": "Something wrong while adding the client",
-        "isPricingModelSelectionMandatory": "You must select the rules model to be associated with this new client!",
+        "isPricingModelSelectionMandatory": "You must select the rules model to be associated with this client!",
+        "isStorageAcceptanceLogicSelectionMandatory": "You must select the storage acceptance logic to be associated with this client",
         "isAddressOrPeerIdFieldMandatory": "You must select at least one address or Peer ID for this client!",
         "isClientNameAlreadyUsed": "Client name is already used, it must be unique for all your clients!"
     },
