@@ -39,6 +39,17 @@
         "Terminating": "Terminating",
         "TerminateWait": "TerminateWait",
         "TerminateFinality": "TerminateFinality",
-        "TerminateFailed": "TerminateFailed"
+        "TerminateFailed": "TerminateFailed",
+        "SubmitReplicaUpdate": "SubmitReplicaUpdate",
+        "WaitMutable": "WaitMutable",
+        "ReplicaUpdateWait": "ReplicaUpdateWait",
+        "Removing": "Removing",
+        "RemoveFailed": "RemoveFailed",
+        "Removed": "Removed",
+        "SnapDealsWaitDeals": "SnapDealsWaitDeals",
+        "SnapDealsAddPiece": "SnapDealsAddPiece",
+        "SnapDealsPacking": "SnapDealsPacking",
+        "UpdateReplica": "UpdateReplica",
+        "ProveReplicaUpdate": "ProveReplicaUpdate"
     }
 }
