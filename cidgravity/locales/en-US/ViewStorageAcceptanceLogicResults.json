@@ -1,3 +1,6 @@
 {
-    "header": "Acceptance logic evaluated"
+    "header": "Acceptance logic evaluated",
+    "body": {
+        "acceptanceLogicUsed": "The acceptance logic used to evaluate this proposal was : {{acceptanceLogicName}}"
+    }
 }
