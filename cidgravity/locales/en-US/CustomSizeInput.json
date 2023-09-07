@@ -1,3 +1,6 @@
 {
-    "placeholder": "Value"
+    "placeholder": "Value",
+    "unit": {
+        "B": "B"
+    }
 }
