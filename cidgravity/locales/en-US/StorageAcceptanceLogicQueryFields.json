@@ -50,6 +50,20 @@
         "SnapDealsAddPiece": "SnapDealsAddPiece",
         "SnapDealsPacking": "SnapDealsPacking",
         "UpdateReplica": "UpdateReplica",
-        "ProveReplicaUpdate": "ProveReplicaUpdate"
+        "ProveReplicaUpdate": "ProveReplicaUpdate",
+        "UpdateActivating": "UpdateActivating",
+        "ReleaseSectorKey": "ReleaseSectorKey",
+        "FinalizeReplicaUpdate": "FinalizeReplicaUpdate",
+        "SnapDealsAddPieceFailed": "SnapDealsAddPieceFailed",
+        "SnapDealsDealsExpired": "SnapDealsDealsExpired",
+        "SnapDealsRecoverDealIDs": "SnapDealsRecoverDealIDs",
+        "ReplicaUpdateFailed": "ReplicaUpdateFailed",
+        "ReleaseSectorKeyFailed": "ReleaseSectorKeyFailed",
+        "FinalizeReplicaUpdateFailed": "FinalizeReplicaUpdateFailed",
+        "AbortUpgrade": "AbortUpgrade",
+        "ReceiveSector": "ReceiveSector"
+    },
+    "additionalFields": {
+        "BaseFee": "BaseFee (attoFil)"
     }
 }
