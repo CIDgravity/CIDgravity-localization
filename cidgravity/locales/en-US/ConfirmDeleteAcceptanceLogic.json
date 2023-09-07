@@ -3,5 +3,8 @@
         "close": "Close",
         "cancel": "Cancel",
         "confirm": "Confirm"
+    },
+    "unableToRemove": {
+        "header": "Unable to remove storage acceptance logic \"{{acceptanceLogicName}}\""
     }
 }
