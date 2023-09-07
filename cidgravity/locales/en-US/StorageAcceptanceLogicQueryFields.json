@@ -65,6 +65,7 @@
     },
     "additionalFields": {
         "BaseFee": "BaseFee (attoFil)",
-        "FilPriceInUsd": "Fil price (USD)"
+        "FilPriceInUsd": "Fil price (USD)",
+        "ReceivedAtTime": "Proposal received at (time)"
     }
 }
