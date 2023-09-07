@@ -37,7 +37,8 @@
     },
     "button": {
         "createNewPricingModel": "New pricing model",
-        "backToClientList": "Back to clients"
+        "backToClientList": "Back to clients",
+        "createNewStorageAcceptanceLogic": "New acceptance logic"
     },
     "validation": {
         "isGenericErrorWhileAddingClient": "An error has occurred adding the client.",
