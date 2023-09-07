@@ -57,7 +57,8 @@
             "tooltips": {
                 "valueMustBeNanoFil": "Value must be in nano Fil",
                 "valueMustBeAttoFil": "Value must be in attoFil",
-                "mustBeInUSDollars": "Price in USD"
+                "mustBeInUSDollars": "Price in USD",
+                "decimalNumberWillBeTruncated": "Must be an integer, decimal will be dropped"
             }
         }
     }
