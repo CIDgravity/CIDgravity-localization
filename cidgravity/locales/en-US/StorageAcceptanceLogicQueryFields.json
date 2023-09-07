@@ -12,6 +12,15 @@
         "SubmitPreCommitBatch": "SubmitPreCommitBatch",
         "PreCommitBatchWait": "PreCommitBatchWait",
         "WaitSeed": "WaitSeed",
-        "Committing": "Committing"
+        "Committing": "Committing",
+        "SubmitCommit": "SubmitCommit",
+        "CommitWait": "CommitWait",
+        "SubmitCommitAggregate": "SubmitCommitAggregate",
+        "CommitAggregateWait": "CommitAggregateWait",
+        "FinalizeSector": "FinalizeSector",
+        "Proving": "Proving",
+        "Available": "Available",
+        "CommitFinalize": "CommitFinalize",
+        "CommitFinalizeFailed": "CommitFinalizeFailed"
     }
 }
