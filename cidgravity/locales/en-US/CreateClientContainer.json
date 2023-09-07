@@ -61,6 +61,7 @@
         }
     },
     "storageAcceptanceLogic": {
-        "title": "Acceptance logic"
+        "title": "Acceptance logic",
+        "description": "Select from the dropdown or create a new one."
     }
 }
