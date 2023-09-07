@@ -1,5 +1,6 @@
 {
     "sectorStates": {
-        "WaitDeals": "WaitDeals"
+        "WaitDeals": "WaitDeals",
+        "Packing": "Packing"
     }
 }
