@@ -119,8 +119,7 @@
                 "title": "Others",
                 "tooltip": "Others",
                 "values": {
-                    "ReceivedOn": "Received on (time of the day)",
-                    "ChainEpochReceivedOn": "Received on (chain epoch) TO BE DELETED"
+                    "ReceivedOn": "Received on (time of the day)"
                 }
             }
         }
@@ -135,7 +134,10 @@
             "alreadyUsed": "Acceptance logic name already exist, it must be unique."
         },
         "onCreateAcceptanceLogic": "Unable to create the acceptance logic, please try later or contact the CIDgravity team.",
-        "onUpdateAcceptanceLogic": "Unable to update the acceptance logic, please try later or contact the CIDgravity team."
+        "onUpdateAcceptanceLogic": "Unable to update the acceptance logic, please try later or contact the CIDgravity team.",
+        "builder": {
+            "invalid": "Invalid acceptance logic, please verify all fields are set correctly"
+        }
     },
     "notification": {
         "success": {
