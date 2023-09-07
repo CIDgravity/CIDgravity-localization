@@ -59,5 +59,8 @@
             "isPeerIdInvalidFormat": "{{peerId}} is not a valid Peer ID.",
             "isAddressBlacklisted": "{{address}} is blacklisted, please whitelist it before associating it with a client."
         }
+    },
+    "storageAcceptanceLogic": {
+        "title": "Acceptance logic"
     }
 }
