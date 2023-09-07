@@ -11,6 +11,9 @@
         }
     },
     "removeConfirmation": {
-        "header": "Remove acceptance logic \"{{acceptanceLogicName}}\""
+        "header": "Remove acceptance logic \"{{acceptanceLogicName}}\"",
+        "body": {
+            "willRemoveThisAcceptanceLogic": "This acceptance logic will be removed, this action cannot be undone."
+        }
     }
 }
