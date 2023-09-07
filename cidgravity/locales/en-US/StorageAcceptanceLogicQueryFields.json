@@ -6,6 +6,12 @@
         "AddPiece": "AddPiece",
         "GetTicket": "GetTicket",
         "PreCommit1": "PreCommit1",
-        "PreCommit2": "PreCommit2"
+        "PreCommit2": "PreCommit2",
+        "PreCommitting": "PreCommitting",
+        "PreCommitWait": "PreCommitWait",
+        "SubmitPreCommitBatch": "SubmitPreCommitBatch",
+        "PreCommitBatchWait": "PreCommitBatchWait",
+        "WaitSeed": "WaitSeed",
+        "Committing": "Committing"
     }
 }
