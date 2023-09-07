@@ -30,6 +30,15 @@
         "RemoteCommitFailed": "RemoteCommitFailed",
         "CommitFailed": "CommitFailed",
         "PackingFailed": "PackingFailed",
-        "FinalizeFailed": "FinalizeFailed"
+        "FinalizeFailed": "FinalizeFailed",
+        "DealsExpired": "DealsExpired",
+        "RecoverDealIDs": "RecoverDealIDs",
+        "Faulty": "Faulty",
+        "FaultReported": "FaultReported",
+        "FaultedFinal": "FaultedFinal",
+        "Terminating": "Terminating",
+        "TerminateWait": "TerminateWait",
+        "TerminateFinality": "TerminateFinality",
+        "TerminateFailed": "TerminateFailed"
     }
 }
