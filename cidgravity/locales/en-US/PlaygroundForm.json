@@ -56,7 +56,8 @@
             "placeholder": "Value",
             "tooltips": {
                 "valueMustBeNanoFil": "Value must be in nano Fil",
-                "valueMustBeAttoFil": "Value must be in attoFil"
+                "valueMustBeAttoFil": "Value must be in attoFil",
+                "mustBeInUSDollars": "Price in USD"
             }
         }
     }
