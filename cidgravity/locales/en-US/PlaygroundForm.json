@@ -55,7 +55,8 @@
         "value": {
             "placeholder": "Value",
             "tooltips": {
-                "valueMustBeNanoFil": "Value must be in nano Fil"
+                "valueMustBeNanoFil": "Value must be in nano Fil",
+                "valueMustBeAttoFil": "Value must be in attoFil"
             }
         }
     }
