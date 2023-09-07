@@ -5,6 +5,9 @@
         "confirm": "Confirm"
     },
     "unableToRemove": {
-        "header": "Unable to remove storage acceptance logic \"{{acceptanceLogicName}}\""
+        "header": "Unable to remove storage acceptance logic \"{{acceptanceLogicName}}\"",
+        "body": {
+            "needToUpdateClientsAcceptanceLogic": "This acceptance logic is still assigned to active clients. Update the acceptance logic of all clients listed below, to enable logic deletion:"
+        }
     }
 }
