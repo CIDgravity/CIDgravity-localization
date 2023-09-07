@@ -5,6 +5,7 @@
         "AddPieceFailed": "AddPieceFailed",
         "AddPiece": "AddPiece",
         "GetTicket": "GetTicket",
-        "PreCommit1": "PreCommit1"
+        "PreCommit1": "PreCommit1",
+        "PreCommit2": "PreCommit2"
     }
 }
