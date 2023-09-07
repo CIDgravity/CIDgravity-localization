@@ -53,7 +53,10 @@
     },
     "sealingpipeline": {
         "value": {
-            "placeholder": "Value"
+            "placeholder": "Value",
+            "tooltips": {
+                "valueMustBeNanoFil": "Value must be in nano Fil"
+            }
         }
     }
 }
