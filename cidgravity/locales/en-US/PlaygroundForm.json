@@ -45,5 +45,8 @@
     "dealProposal": {
         "title": "Deal proposal",
         "subtitle": " "
+    },
+    "storageAcceptanceLogic": {
+        "title": "Storage acceptance logic"
     }
 }
