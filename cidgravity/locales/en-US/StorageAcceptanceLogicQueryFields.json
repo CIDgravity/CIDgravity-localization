@@ -4,6 +4,7 @@
         "Packing": "Packing",
         "AddPieceFailed": "AddPieceFailed",
         "AddPiece": "AddPiece",
-        "GetTicket": "GetTicket"
+        "GetTicket": "GetTicket",
+        "PreCommit1": "PreCommit1"
     }
 }
