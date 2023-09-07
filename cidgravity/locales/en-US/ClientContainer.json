@@ -69,7 +69,8 @@
                 "title": "Pricing Model"
             },
             "storageAcceptanceLogic": {
-                "title": "Storage acceptance logic"
+                "title": "Storage acceptance logic",
+                "default": "Default applied"
             }
         },
         "tooltip": {
