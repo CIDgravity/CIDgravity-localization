@@ -64,6 +64,7 @@
         "ReceiveSector": "ReceiveSector"
     },
     "additionalFields": {
-        "BaseFee": "BaseFee (attoFil)"
+        "BaseFee": "BaseFee (attoFil)",
+        "FilPriceInUsd": "Fil price (USD)"
     }
 }
