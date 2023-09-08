@@ -6,6 +6,7 @@
     },
     "button": {
         "close": "Close",
-        "viewAcceptanceLogic": "View acceptance logic"
+        "viewAcceptanceLogic": "View acceptance logic",
+        "simulateInPlayground": "Simulate in playground"
     }
 }
