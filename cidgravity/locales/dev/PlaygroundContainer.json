@@ -11,7 +11,7 @@
         "rejected": {
             "title": "Proposal rejected",
             "matchedPricing": "Rejected by {{pricingModel}} / Rule {{rule}}",
-            "storageAcceptanceLogicNotPassed": "Deal proposal values not matched the storage acceptance logic defined",
+            "storageAcceptanceLogicNotPassed": "Deal proposal values not matched the storage acceptance logic {{acceptanceLogicName}}",
             "storageLogicUsedExplanation": "Below, you can find the logic evaluated by our deal filter (variables replaced by values)"
         },
         "loading": {
