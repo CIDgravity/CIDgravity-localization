@@ -4,7 +4,7 @@
             "title": "Associated clients",
             "acceptanceLogic": {
                 "default": "Default acceptance logic, it applies to all unknown clients.",
-                "noClient": "No rules in this logic, it will be a passthrough, all deals will be accepted"
+                "noClient": "No clients are associated with this acceptance logic"
             }
         }
     },
