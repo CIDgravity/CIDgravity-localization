@@ -1,7 +1,10 @@
 {
     "body": {
         "client": {
-            "title": "Associated clients"
+            "title": "Associated clients",
+            "acceptanceLogic": {
+                "default": "Default acceptance logic, it applies to all unknown clients."
+            }
         }
     },
     "header": "\"{{storageAcceptanceLogicName}}\" acceptance logic"
