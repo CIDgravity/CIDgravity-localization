@@ -8,9 +8,6 @@
         }
     },
     "retool": {
-        "connectorVersion": {
-            "latest": "最新版本为"
-        },
         "minerInformations": {
             "availabilityRatio": {
                 "title": "可用性"
