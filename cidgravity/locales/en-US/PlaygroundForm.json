@@ -67,7 +67,8 @@
         },
         "fields": {
             "sectorStates": {
-                "title": "Sector states"
+                "title": "Sector states",
+                "tooltip": "Sector states"
             }
         }
     }
