@@ -72,7 +72,7 @@
                 "values": {
                     "WaitDeals": "WaitDeals",
                     "Packing": "Packing",
-                    "AddPiece": "AP"
+                    "AddPiece": "AddPiece"
                 }
             }
         }
