@@ -1,1 +1,8 @@
-{}
+{
+    "body": {
+        "client": {
+            "title": "Associated clients"
+        }
+    },
+    "header": "\"{{storageAcceptanceLogicName}}\" acceptance logic"
+}
