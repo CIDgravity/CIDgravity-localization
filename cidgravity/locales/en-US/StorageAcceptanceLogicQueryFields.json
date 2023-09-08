@@ -64,7 +64,6 @@
         "ReceiveSector": "ReceiveSector"
     },
     "additionalFields": {
-        "FilPriceInUsd": "Fil price (USD)",
         "ReceivedAtTime": "Proposal received on"
     }
 }
