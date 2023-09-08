@@ -11,5 +11,8 @@
     "header": "\"{{storageAcceptanceLogicName}}\" acceptance logic",
     "error": {
         "emptyLogic": "No rules in this logic, it will be a passthrough, all deals will be accepted."
+    },
+    "button": {
+        "close": "Close"
     }
 }
