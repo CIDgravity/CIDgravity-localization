@@ -60,6 +60,9 @@
                 "mustBeInUSDollars": "Price in USD",
                 "decimalNumberWillBeTruncated": "Must be an integer, decimal will be dropped"
             }
+        },
+        "select": {
+            "otherTitle": "Others"
         }
     }
 }
