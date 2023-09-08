@@ -64,6 +64,11 @@
         "select": {
             "otherTitle": "Others",
             "sectorStatesTitle": "Sector states"
+        },
+        "fields": {
+            "sectorStates": {
+                "title": "Sector states"
+            }
         }
     }
 }
