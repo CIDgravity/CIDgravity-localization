@@ -75,7 +75,20 @@
                     "AddPiece": "AddPiece",
                     "AddPieceFailed": "AddPieceFailed",
                     "GetTicket": "GetTicket",
-                    "PreCommit1": "PreCommit1"
+                    "PreCommit1": "PreCommit1",
+                    "PreCommitting": "PreCommitting",
+                    "PreCommitWait": "PreCommitWait",
+                    "SubmitPreCommitBatch": "SubmitPreCommitBatch",
+                    "PreCommitBatchWait": "PreCommitBatchWait",
+                    "PreCommit2": "PreCommit2",
+                    "WaitSeed": "WaitSeed",
+                    "Committing": "Committing",
+                    "CommitFinalize": "CommitFinalize",
+                    "CommitFinalizeFailed": "CommitFinalizeFailed",
+                    "SubmitCommit": "SubmitCommit",
+                    "CommitWait": "CommitWait",
+                    "SubmitCommitAggregate": "SubmitCommitAggregate",
+                    "CommitAggregateWait": "CommitAggregateWait"
                 }
             }
         }
