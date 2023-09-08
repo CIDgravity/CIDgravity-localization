@@ -8,7 +8,8 @@
     },
     "rule": {
         "title": "Manage logic rules",
-        "subtitle": "When a new deal proposal is received, the logic defined below is applied<br />If the logic doesn't match (returns FALSE), the deal is rejected. Logic can be tested in the playground."
+        "subtitle": "When a new deal proposal is received, the logic defined below is applied<br />If the logic doesn't match (returns FALSE), the deal is rejected. Logic can be tested in the playground.",
+        "emptyLogicWarning": "No rules, it will be a passthrough, all deals will be accepted. Press the \"+ Rule\" button and start adding acceptance conditions"
     },
     "button": {
         "update": "Update",
