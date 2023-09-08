@@ -135,7 +135,11 @@
                 }
             },
             "additionalFields": {
-                "title": "Other fields"
+                "title": "Other fields",
+                "tooltip": "Additional fields",
+                "values": {
+                    "ReceivedOn": "Received on (time)"
+                }
             }
         }
     }
