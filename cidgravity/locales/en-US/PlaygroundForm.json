@@ -97,7 +97,18 @@
                     "SealPreCommit1Failed": "SealPreCommit1Failed",
                     "SealPreCommit2Failed": "SealPreCommit2Failed",
                     "PreCommitFailed": "PreCommitFailed",
-                    "ComputeProofFailed": "ComputeProofFailed"
+                    "ComputeProofFailed": "ComputeProofFailed",
+                    "CommitFailed": "CommitFailed",
+                    "PackingFailed": "PackingFailed",
+                    "Terminating": "Terminating",
+                    "TerminateWait": "TerminateWait",
+                    "TerminateFinality": "TerminateFinality",
+                    "FinalizeFailed": "FinalizeFailed",
+                    "DealsExpired": "DealsExpired",
+                    "RecoverDealIDs": "RecoverDealIDs",
+                    "Faulty": "Faulty",
+                    "FaultReported": "FaultReported",
+                    "FaultedFinal": "FaultedFinal"
                 }
             }
         }
