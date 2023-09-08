@@ -120,7 +120,13 @@
                     "ProveReplicaUpdate": "ProveReplicaUpdate",
                     "SubmitReplicaUpdate": "SubmitReplicaUpdate",
                     "WaitMutable": "WaitMutable",
-                    "ReplicaUpdateWait": "ReplicaUpdateWait"
+                    "ReplicaUpdateWait": "ReplicaUpdateWait",
+                    "UpdateActivating": "UpdateActivating",
+                    "ReleaseSectorKey": "ReleaseSectorKey",
+                    "FinalizeReplicaUpdate": "FinalizeReplicaUpdate",
+                    "SnapDealsAddPieceFailed": "SnapDealsAddPieceFailed",
+                    "SnapDealsDealsExpired": "SnapDealsDealsExpired",
+                    "SnapDealsRecoverDealIDs": "SnapDealsRecoverDealIDs"
                 }
             }
         }
