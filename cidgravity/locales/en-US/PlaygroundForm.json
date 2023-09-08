@@ -68,7 +68,12 @@
         "fields": {
             "sectorStates": {
                 "title": "Sector states",
-                "tooltip": "Sector states"
+                "tooltip": "Sector states",
+                "values": {
+                    "WaitDeals": "WaitDeals",
+                    "Packing": "Packing",
+                    "AddPiece": "AP"
+                }
             }
         }
     }
