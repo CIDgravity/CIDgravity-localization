@@ -8,7 +8,8 @@
     },
     "rule": {
         "title": "Manage rules",
-        "subtitle": "Set advanced rules based on your sealing pipeline state or other available values"
+        "subtitle": "Set advanced rules based on your sealing pipeline state or other available values",
+        "emptyLogicWarning": "No rules in this logic, it will be a passthrough,<br />all deals will be accepted"
     },
     "button": {
         "update": "Update",

@@ -5,7 +5,8 @@
     "testResult": {
         "success": {
             "title": "Success!",
-            "matchedPricing": "Matched {{pricingModel}} / Rule {{rule}}"
+            "matchedPricing": "Matched {{pricingModel}} / Rule {{rule}}",
+            "matchedAcceptanceLogic": "Matched acceptance logic {{acceptanceLogicName}}"
         },
         "rejected": {
             "title": "Proposal rejected",

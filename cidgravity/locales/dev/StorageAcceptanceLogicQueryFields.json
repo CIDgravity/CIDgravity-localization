@@ -64,8 +64,6 @@
         "ReceiveSector": "ReceiveSector"
     },
     "additionalFields": {
-        "BaseFee": "BaseFee (attoFil)",
-        "FilPriceInUsd": "Fil price (USD)",
-        "ReceivedAtTime": "Proposal received at (time)"
+        "ReceivedAtTime": "Proposal received at (time of day)"
     }
 }
