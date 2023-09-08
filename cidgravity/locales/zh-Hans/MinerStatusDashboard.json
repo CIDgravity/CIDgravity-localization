@@ -8,11 +8,6 @@
         }
     },
     "retool": {
-        "minerInformations": {
-            "availabilityRatio": {
-                "title": "可用性"
-            }
-        },
         "walletBalances": {
             "title": "余额",
             "escrow": "托管款项",
