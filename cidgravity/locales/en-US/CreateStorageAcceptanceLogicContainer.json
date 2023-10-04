@@ -119,7 +119,7 @@
                 "title": "Others",
                 "tooltip": "Others",
                 "values": {
-                    "ReceivedOn": "Received on (time of the day)"
+                    "ReceivedOn": "Received on (time of the day) UTC"
                 }
             }
         }
