@@ -118,8 +118,18 @@
             "additionalFields": {
                 "title": "Other fields",
                 "tooltip": "Additional fields",
+                "dayOfWeek": {
+                    "monday": "Monday",
+                    "tuesday": "Tuesday",
+                    "wednesday": "Wednesday",
+                    "thursday": "Thursday",
+                    "friday": "Friday",
+                    "saturday": "Saturday",
+                    "sunday": "Sunday"
+                },
                 "values": {
-                    "ReceivedOn": "Received on (time)"
+                    "ReceivedOnTimeOfDayUTC": "Received on (time of the day UTC)",
+                    "ReceivedOnDayOfWeek": "Received on (day of the week)"
                 }
             }
         }
