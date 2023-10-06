@@ -68,25 +68,26 @@
         "fields": {
             "sectorStates": {
                 "values": {
-                    "Packing": "Packing",
                     "PreCommit1": "PreCommit1",
-                    "PreCommitBatchWait": "PreCommitBatchWait",
                     "CommitFinalize": "CommitFinalize",
-                    "SubmitCommitAggregate": "SubmitCommitAggregate",
                     "Proving": "Proving",
-                    "SealPreCommit2Failed": "SealPreCommit2Failed",
                     "PackingFailed": "PackingFailed",
-                    "FinalizeFailed": "FinalizeFailed",
                     "FaultReported": "FaultReported",
-                    "RemoveFailed": "RemoveFailed",
                     "SnapDealsPacking": "SnapDealsPacking",
-                    "WaitMutable": "WaitMutable",
                     "FinalizeReplicaUpdate": "FinalizeReplicaUpdate",
-                    "ReplicaUpdateFailed": "ReplicaUpdateFailed",
                     "ReceiveSector": "ReceiveSector"
                 }
             },
-            "sectorStatesTitle": "Sector states"
+            "sectorStatesTitle": "Sector states",
+            "sectorStatesTooltip": "Sector states",
+            "additionalFieldsTitle": "Other fields",
+            "additionalFieldsTooltip": "Other fields",
+            "WaitDeals": "WaitDeals",
+            "Packing": "Packing",
+            "AddPiece": "AddPiece",
+            "AddPieceFailed": "AddPieceFailed",
+            "GetTicket": "GetTicket",
+            "PreCommit1": "PreCommit1"
         }
     }
 }
