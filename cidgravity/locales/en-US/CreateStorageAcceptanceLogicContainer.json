@@ -126,6 +126,9 @@
                     "friday": "Friday",
                     "saturday": "Saturday",
                     "sunday": "Sunday"
+                },
+                "values": {
+                    "ReceivedOnTimeOfDayUTC": "Received on (time of the day UTC)"
                 }
             }
         }
