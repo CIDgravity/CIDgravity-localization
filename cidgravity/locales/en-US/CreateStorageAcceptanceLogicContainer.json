@@ -128,7 +128,8 @@
                     "sunday": "Sunday"
                 },
                 "values": {
-                    "ReceivedOnTimeOfDayUTC": "Received on (time of the day UTC)"
+                    "ReceivedOnTimeOfDayUTC": "Received on (time of the day UTC)",
+                    "ReceivedOnDayOfWeek": "Received on (day of the week)"
                 }
             }
         }
