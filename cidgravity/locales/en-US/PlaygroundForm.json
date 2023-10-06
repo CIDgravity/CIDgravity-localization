@@ -126,7 +126,10 @@
             "FinalizeReplicaUpdate": "FinalizeReplicaUpdate",
             "SnapDealsAddPieceFailed": "SnapDealsAddPieceFailed",
             "SnapDealsDealsExpired": "SnapDealsDealsExpired",
-            "SnapDealsRecoverDealIDs": "SnapDealsRecoverDealIDs"
+            "SnapDealsRecoverDealIDs": "SnapDealsRecoverDealIDs",
+            "ReplicaUpdateFailed": "ReplicaUpdateFailed",
+            "ReleaseSectorKeyFailed": "ReleaseSectorKeyFailed",
+            "FinalizeReplicaUpdateFailed": "FinalizeReplicaUpdateFailed"
         }
     }
 }
