@@ -121,7 +121,11 @@
                 "dayOfWeek": {
                     "monday": "Monday",
                     "tuesday": "Tuesday",
-                    "wednesday": "Wednesday"
+                    "wednesday": "Wednesday",
+                    "thursday": "Thursday",
+                    "friday": "Friday",
+                    "saturday": "Saturday",
+                    "sunday": "Sunday"
                 }
             }
         }
