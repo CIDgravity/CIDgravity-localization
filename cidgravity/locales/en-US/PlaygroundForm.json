@@ -68,13 +68,9 @@
         "fields": {
             "sectorStates": {
                 "values": {
-                    "PreCommit1": "PreCommit1",
                     "CommitFinalize": "CommitFinalize",
-                    "Proving": "Proving",
                     "PackingFailed": "PackingFailed",
-                    "FaultReported": "FaultReported",
                     "SnapDealsPacking": "SnapDealsPacking",
-                    "FinalizeReplicaUpdate": "FinalizeReplicaUpdate",
                     "ReceiveSector": "ReceiveSector"
                 }
             },
@@ -87,7 +83,15 @@
             "AddPiece": "AddPiece",
             "AddPieceFailed": "AddPieceFailed",
             "GetTicket": "GetTicket",
-            "PreCommit1": "PreCommit1"
+            "PreCommit1": "PreCommit1",
+            "PreCommitting": "PreCommitting",
+            "PreCommitWait": "PreCommitWait",
+            "SubmitPreCommitBatch": "SubmitPreCommitBatch",
+            "PreCommitBatchWait": "PreCommitBatchWait",
+            "PreCommit2": "PreCommit2",
+            "WaitSeed": "WaitSeed",
+            "Committing": "Committing",
+            "CommitFinalize": "CommitFinalize"
         }
     }
 }
