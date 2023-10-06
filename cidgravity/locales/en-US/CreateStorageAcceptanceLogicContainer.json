@@ -117,7 +117,12 @@
             },
             "additionalFields": {
                 "title": "Others",
-                "tooltip": "Others"
+                "tooltip": "Others",
+                "dayOfWeek": {
+                    "monday": "Monday",
+                    "tuesday": "Tuesday",
+                    "wednesday": "Wednesday"
+                }
             }
         }
     },
