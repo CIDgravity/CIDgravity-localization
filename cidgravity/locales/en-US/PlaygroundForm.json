@@ -129,7 +129,10 @@
             "SnapDealsRecoverDealIDs": "SnapDealsRecoverDealIDs",
             "ReplicaUpdateFailed": "ReplicaUpdateFailed",
             "ReleaseSectorKeyFailed": "ReleaseSectorKeyFailed",
-            "FinalizeReplicaUpdateFailed": "FinalizeReplicaUpdateFailed"
+            "FinalizeReplicaUpdateFailed": "FinalizeReplicaUpdateFailed",
+            "AbortUpgrade": "AbortUpgrade",
+            "ReceiveSector": "ReceiveSector",
+            "ReceivedOnDatetime": "Received on (datetime)"
         }
     }
 }
