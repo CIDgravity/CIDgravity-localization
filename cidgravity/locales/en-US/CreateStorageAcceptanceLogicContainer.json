@@ -117,10 +117,7 @@
             },
             "additionalFields": {
                 "title": "Others",
-                "tooltip": "Others",
-                "values": {
-                    "ReceivedOn": "Received on (time of the day) UTC"
-                }
+                "tooltip": "Others"
             }
         }
     },
