@@ -68,7 +68,6 @@
         "fields": {
             "sectorStates": {
                 "values": {
-                    "PackingFailed": "PackingFailed",
                     "ReceiveSector": "ReceiveSector"
                 }
             },
@@ -94,7 +93,18 @@
             "SubmitCommitAggregate": "SubmitCommitAggregate",
             "SubmitCommit": "SubmitCommit",
             "CommitWait": "CommitWait",
-            "CommitAggregateWait": "CommitAggregateWait"
+            "CommitAggregateWait": "CommitAggregateWait",
+            "RemoteCommitFailed": "RemoteCommitFailed",
+            "FinalizeSector": "FinalizeSector",
+            "Proving": "Proving",
+            "Available": "Available",
+            "FailedUnrecoverable": "FailedUnrecoverable",
+            "SealPreCommit1Failed": "SealPreCommit1Failed",
+            "SealPreCommit2Failed": "SealPreCommit2Failed",
+            "PreCommitFailed": "PreCommitFailed",
+            "ComputeProofFailed": "ComputeProofFailed",
+            "CommitFailed": "CommitFailed",
+            "PackingFailed": "PackingFailed"
         }
     }
 }
