@@ -67,44 +67,26 @@
         },
         "fields": {
             "sectorStates": {
-                "tooltip": "Sector states",
                 "values": {
                     "Packing": "Packing",
-                    "AddPieceFailed": "AddPieceFailed",
                     "PreCommit1": "PreCommit1",
-                    "PreCommitWait": "PreCommitWait",
                     "PreCommitBatchWait": "PreCommitBatchWait",
-                    "WaitSeed": "WaitSeed",
                     "CommitFinalize": "CommitFinalize",
-                    "SubmitCommit": "SubmitCommit",
                     "SubmitCommitAggregate": "SubmitCommitAggregate",
-                    "RemoteCommitFailed": "RemoteCommitFailed",
                     "Proving": "Proving",
-                    "FailedUnrecoverable": "FailedUnrecoverable",
                     "SealPreCommit2Failed": "SealPreCommit2Failed",
-                    "ComputeProofFailed": "ComputeProofFailed",
                     "PackingFailed": "PackingFailed",
-                    "TerminateWait": "TerminateWait",
                     "FinalizeFailed": "FinalizeFailed",
-                    "RecoverDealIDs": "RecoverDealIDs",
                     "FaultReported": "FaultReported",
-                    "TerminateFailed": "TerminateFailed",
                     "RemoveFailed": "RemoveFailed",
-                    "SnapDealsWaitDeals": "SnapDealsWaitDeals",
                     "SnapDealsPacking": "SnapDealsPacking",
-                    "ProveReplicaUpdate": "ProveReplicaUpdate",
                     "WaitMutable": "WaitMutable",
-                    "UpdateActivating": "UpdateActivating",
                     "FinalizeReplicaUpdate": "FinalizeReplicaUpdate",
-                    "SnapDealsDealsExpired": "SnapDealsDealsExpired",
                     "ReplicaUpdateFailed": "ReplicaUpdateFailed",
-                    "FinalizeReplicaUpdateFailed": "FinalizeReplicaUpdateFailed",
                     "ReceiveSector": "ReceiveSector"
                 }
             },
-            "additionalFields": {
-                "tooltip": "Additional fields"
-            }
+            "sectorStatesTitle": "Sector states"
         }
     }
 }
