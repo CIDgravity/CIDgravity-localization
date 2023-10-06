@@ -68,9 +68,7 @@
         "fields": {
             "sectorStates": {
                 "values": {
-                    "CommitFinalize": "CommitFinalize",
                     "PackingFailed": "PackingFailed",
-                    "SnapDealsPacking": "SnapDealsPacking",
                     "ReceiveSector": "ReceiveSector"
                 }
             },
@@ -91,7 +89,12 @@
             "PreCommit2": "PreCommit2",
             "WaitSeed": "WaitSeed",
             "Committing": "Committing",
-            "CommitFinalize": "CommitFinalize"
+            "CommitFinalize": "CommitFinalize",
+            "CommitFinalizeFailed": "CommitFinalizeFailed",
+            "SubmitCommitAggregate": "SubmitCommitAggregate",
+            "SubmitCommit": "SubmitCommit",
+            "CommitWait": "CommitWait",
+            "CommitAggregateWait": "CommitAggregateWait"
         }
     }
 }
