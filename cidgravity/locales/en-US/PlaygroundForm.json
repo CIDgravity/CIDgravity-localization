@@ -132,7 +132,7 @@
             "FinalizeReplicaUpdateFailed": "FinalizeReplicaUpdateFailed",
             "AbortUpgrade": "AbortUpgrade",
             "ReceiveSector": "ReceiveSector",
-            "ReceivedOnDatetime": "Received on (datetime)"
+            "ReceivedOnDatetime": "Received on"
         }
     }
 }
