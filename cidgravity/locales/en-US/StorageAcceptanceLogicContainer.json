@@ -26,7 +26,10 @@
         "setToDefault": {
             "tooltip": "Set this acceptance logic as default"
         },
-        "defaultBadge": "DEFAULT"
+        "defaultBadge": "DEFAULT",
+        "view": {
+            "tooltip": "View acceptance logic"
+        }
     },
     "notification": {
         "success": {
