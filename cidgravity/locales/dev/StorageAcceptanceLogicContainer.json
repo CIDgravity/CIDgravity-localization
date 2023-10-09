@@ -17,6 +17,9 @@
             "content_many": "{{count}} clients associated",
             "content_other": "{{count}} clients associated"
         },
+        "view": {
+            "tooltip": "View acceptance logic"
+        },
         "edit": {
             "tooltip": "Edit the acceptance logic"
         },
