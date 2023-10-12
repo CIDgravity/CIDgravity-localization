@@ -5,11 +5,7 @@
         "empty": "No records",
         "noMatch": "Your search did not match any storage proposals.",
         "from": {
-            "title": "From client",
-            "unkownAddress": "Unavailable",
-            "copy": {
-                "tooltip": "Copy address"
-            }
+            "unkownAddress": "Unavailable"
         },
         "datetime": {
             "title": "Received at ({{datetimeFormat}})"

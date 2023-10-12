@@ -5,11 +5,7 @@
         "empty": "无记录",
         "noMatch": "您的搜索未找到任何存储提案。",
         "from": {
-            "title": "来自客户端",
-            "unkownAddress": "不可用",
-            "copy": {
-                "tooltip": "复制地址"
-            }
+            "unkownAddress": "不可用"
         },
         "datetime": {
             "title": "接收于（{{datetimeFormat}}）"
