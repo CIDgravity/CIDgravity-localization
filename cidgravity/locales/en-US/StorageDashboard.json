@@ -134,7 +134,7 @@
             "numberOfProposals": "Number of proposals",
             "cumulativeRawSize": "RAW power (TiB)",
             "qualityAdjustedPower": "Cumulative QAP (TiB)",
-            "reason": "Accepted / rejected reason TO DELETE"
+            "fromAddress": "From address"
         },
         "axisUnits": {
             "numberOfProposals": "Number of proposals",
