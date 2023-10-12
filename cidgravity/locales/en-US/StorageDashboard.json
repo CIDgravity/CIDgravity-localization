@@ -136,7 +136,10 @@
             "qualityAdjustedPower": "Cumulative QAP (TiB)",
             "fromAddress": "From address",
             "clientName": {
-                "name": "Client name"
+                "name": "Client name",
+                "tooltip": {
+                    "createdAfterDealProcessed": "Client was created after deal processed"
+                }
             }
         },
         "axisUnits": {
