@@ -26,8 +26,7 @@
             "invalidProposal": "Invalid proposal",
             "rateLimit": "Rate limit - Number of proposals",
             "reject": "No matching pricing rules",
-            "startEpochBelowSealingBuffer": "Below min. start epoch",
-            "storageAcceptanceLogic": "Acceptance logic not passed"
+            "startEpochBelowSealingBuffer": "Below min. start epoch"
         },
         "totalAcceptedDealsWithReasons": {
             "title": "Accepted / rejected proposals"
@@ -135,7 +134,6 @@
             "numberOfProposals": "Number of proposals",
             "cumulativeRawSize": "RAW power (TiB)",
             "qualityAdjustedPower": "Cumulative QAP (TiB)",
-            "clientName": "Client",
             "reason": "Accepted / rejected reason TO DELETE"
         },
         "axisUnits": {

@@ -136,7 +136,6 @@
             "pricingModelName": "定价模式",
             "cumulativeRawSize": "原始算力（TiB）",
             "qualityAdjustedPower": "累积 QAP（TiB）",
-            "clientName": "客户端",
             "reason": "已接受/拒绝原因，待删除"
         },
         "noRowsFound": "无数据",
