@@ -134,7 +134,10 @@
             "numberOfProposals": "Number of proposals",
             "cumulativeRawSize": "RAW power (TiB)",
             "qualityAdjustedPower": "Cumulative QAP (TiB)",
-            "fromAddress": "From address"
+            "fromAddress": "From address",
+            "clientName": {
+                "name": "Client name"
+            }
         },
         "axisUnits": {
             "numberOfProposals": "Number of proposals",
