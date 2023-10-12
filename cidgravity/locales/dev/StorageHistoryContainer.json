@@ -4,15 +4,25 @@
     "table": {
         "empty": "Your history is currently empty.",
         "noMatch": "Your search did not match any storage proposals.",
-        "from": {
-            "title": "From client",
+        "fromAddress": {
+            "title": "From address",
             "unkownAddress": "N / A",
-            "copy": {
-                "tooltip": "Copy full address"
+            "tooltip": {
+                "copy": "Copy full address"
+            }
+        },
+        "clientName": {
+            "title": "Client name",
+            "unknown": "N/A",
+            "tooltip": {
+                "createAsClient": "Create as client",
+                "clientCreatedAfterDealProcessed": "Client created after deal processed",
+                "importedFromMultiple": "{{clientName}} (source: {{importedFrom}} on {{importedOn}})",
+                "importedFromSingle": "Proposed name from {{importedFrom}}"
             }
         },
         "datetime": {
-            "title": "Received at ({{datetimeFormat}})"
+            "title": "Received at"
         },
         "reason": {
             "title": "Reason"
