@@ -164,7 +164,8 @@
             },
             "createAsClientSuccess": {
                 "title": "Client creation",
-                "description": "Client successfully created."
+                "description": "Client successfully created.",
+                "noteEditClientTitle": "Note"
             }
         }
     },
