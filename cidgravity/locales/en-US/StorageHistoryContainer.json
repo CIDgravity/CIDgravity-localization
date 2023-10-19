@@ -50,6 +50,9 @@
         },
         "inspectAcceptanceLogic": {
             "tooltip": "Inspect acceptance logic"
+        },
+        "fromAddress": {
+            "title": "From address"
         }
     },
     "error": {
