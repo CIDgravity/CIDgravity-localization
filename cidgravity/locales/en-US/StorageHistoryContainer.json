@@ -62,7 +62,8 @@
             "title": "Client name",
             "unknown": "Unknown",
             "tooltip": {
-                "createAsClient": "Add this client"
+                "createAsClient": "Add this client",
+                "clientCreatedAfterDealProcessed": "Client created after deal processed"
             }
         }
     },
