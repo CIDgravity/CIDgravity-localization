@@ -1,35 +1,6 @@
 {
     "title": "Integrations management",
     "subtitle": "Control Filecoin brokers settings and deals acceptance directly from CIDgravity.",
-    "estuary": {
-        "title": "Estuary",
-        "subtitle": "Estuary allow users to store public data on IPFS and Filecoin from any browser or using API",
-        "details": {
-            "opener": "Integrating Estuary with CIDgravity allows you to:",
-            "registerMiner": "Automatically register your miner to Estuary and start accepting deals",
-            "setPublicName": "Set the miner public name on <1>estuary.tech</1>",
-            "informEstuary": "Inform Estuary to stop sending you deals when maintenance mode is activated or you blocked Estuary client on the client page"
-        },
-        "more": "More details ",
-        "less": "Less details ",
-        "sync": {
-            "ok": {
-                "label": "Sync status",
-                "latestDate": "Latest sync at {{datetime}}",
-                "noLatestDate": "N/A"
-            },
-            "nok": {
-                "label": "Sync status",
-                "latestDate": "Latest request received at {{datetime}}",
-                "noLatestDate": "N/A"
-            }
-        },
-        "button": {
-            "info": "Info",
-            "connect": "Connect",
-            "disconnect": "Disconnect"
-        }
-    },
     "error": {
         "generic": "Unable to load connected integrations for your account. Try later or reach out to CIDgravity team"
     }

@@ -91,7 +91,6 @@
             "onRemoveClient": "The client has been completely removed",
             "onUnblockClient": "This client has been unblocked, deals go through rules engine!",
             "onBlockClient": {
-                "estuary": "All deals from Estuary will be rejected and client is informed through the integration",
                 "other": "All deals from {{clientName}} will be rejected and client will be informed"
             }
         },
