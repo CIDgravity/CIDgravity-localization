@@ -142,7 +142,7 @@
                     "source": "source",
                     "clickOnCellToCreateClient": "Click to add this new client",
                     "on": "on",
-                    "proposedFrom": "Proposed name from"
+                    "proposedFrom": "name proposed by"
                 }
             }
         },
