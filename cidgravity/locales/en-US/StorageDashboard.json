@@ -171,7 +171,11 @@
             "createAsClientError": {
                 "title": "Client creation",
                 "description": "An error occurred while creating the client.",
-                "noteContactSupportTitle": "Note"
+                "noteContactSupportTitle": "Note",
+                "noteContactSupportDescription": "Please try again later or contact the CIDgravity team."
+            },
+            "button": {
+                "continue": "Continue"
             }
         }
     },
