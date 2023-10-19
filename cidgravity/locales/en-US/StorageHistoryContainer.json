@@ -52,7 +52,8 @@
             "tooltip": "Inspect acceptance logic"
         },
         "fromAddress": {
-            "title": "From address"
+            "title": "From address",
+            "unkownAddress": "Not found"
         }
     },
     "error": {
