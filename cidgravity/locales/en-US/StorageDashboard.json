@@ -163,7 +163,8 @@
                 "noteEditClientDescription": "This information can be edited later from the client page."
             },
             "createAsClientSuccess": {
-                "title": "Client successfully created."
+                "title": "Client successfully created.",
+                "description": "Client successfully created."
             }
         }
     },
