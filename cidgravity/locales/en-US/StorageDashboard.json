@@ -175,7 +175,7 @@
                 "noteContactSupportDescription": "Please try again later or contact the CIDgravity team."
             },
             "button": {
-                "continue": "Continue",
+                "continue": "Create",
                 "cancel": "Cancel"
             }
         }
