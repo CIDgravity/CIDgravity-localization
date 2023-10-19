@@ -60,7 +60,10 @@
         },
         "clientName": {
             "title": "Client name",
-            "unknown": "Unknown"
+            "unknown": "Unknown",
+            "tooltip": {
+                "createAsClient": "Add this client"
+            }
         }
     },
     "error": {
