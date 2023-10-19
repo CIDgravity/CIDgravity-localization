@@ -87,7 +87,6 @@
             "onRemoveClient": "该客户已被移除.",
             "onUnblockClient": "该客户已被解除阻止.",
             "onBlockClient": {
-                "estuary": "已通知Estuary，将不会发送任何新的交易.",
                 "other": "{{clientName}}的所有交易将被拒绝."
             }
         },

@@ -91,7 +91,6 @@
             "onRemoveClient": "The client has been removed.",
             "onUnblockClient": "The client has been unblocked.",
             "onBlockClient": {
-                "estuary": "Estuary has been notified and won't send any new deals.",
                 "other": "All deals from {{clientName}} will be rejected."
             }
         },
