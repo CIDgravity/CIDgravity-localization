@@ -64,7 +64,8 @@
             "tooltip": {
                 "createAsClient": "Add this client",
                 "clientCreatedAfterDealProcessed": "Client created after deal processed",
-                "importedFromMultiple": "This address is known as \"{{clientName}}\" on {{importedFrom}} ({{importedOn}})"
+                "importedFromMultiple": "This address is known as \"{{clientName}}\" on {{importedFrom}} ({{importedOn}})",
+                "importedFromSingle": "This name is proposed by {{importedFrom}}"
             }
         }
     },
