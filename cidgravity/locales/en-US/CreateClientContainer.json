@@ -35,7 +35,8 @@
         "isAddressNotOnChain": "{{address}} (not on chain)",
         "isClientNotExistingOrNotAllowed": "The client does not exist or this action is not available.",
         "ERR_DEFAULT_ACCEPTANCE_LOGIC_NOT_FOUND": "The default storage \"Acceptance logic\" cannot be found. Set an acceptance logic as default and try again or contact the CIDgravity team.",
-        "ERR_DEFAULT_PRICING_MODEL_NOT_FOUND": "The default storage \"Pricing model\" cannot be found. Set a pricing model as default and try again or contact the CIDgravity team."
+        "ERR_DEFAULT_PRICING_MODEL_NOT_FOUND": "The default storage \"Pricing model\" cannot be found. Set a pricing model as default and try again or contact the CIDgravity team.",
+        "ERR_CHECK_ADDRESS_FROM_HISTORY": "This address is invalid or does not exist on chain."
     },
     "button": {
         "createNewPricingModel": "New pricing model",
