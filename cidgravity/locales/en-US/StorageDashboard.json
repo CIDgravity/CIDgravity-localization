@@ -138,7 +138,8 @@
             "clientName": {
                 "name": "Client name",
                 "tooltip": {
-                    "createdAfterDealProcessed": "Client was created after deal processed"
+                    "createdAfterDealProcessed": "Client was created after deal processed",
+                    "source": "source"
                 }
             }
         },
