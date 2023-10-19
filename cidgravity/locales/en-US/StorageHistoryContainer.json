@@ -59,7 +59,8 @@
             }
         },
         "clientName": {
-            "title": "Client name"
+            "title": "Client name",
+            "unknown": "Unknown"
         }
     },
     "error": {
