@@ -157,7 +157,8 @@
         },
         "modals": {
             "createAsClient": {
-                "title": "Create a new client"
+                "title": "Create a new client",
+                "description": "This action will create a new client, with default pricing model and default storage acceptance logic.<br /><br />The name and address will be automatically set, based on the following information"
             }
         }
     },
