@@ -140,7 +140,8 @@
                 "tooltip": {
                     "createdAfterDealProcessed": "Client was created after deal processed",
                     "source": "source",
-                    "clickOnCellToCreateClient": "Click to add this new client"
+                    "clickOnCellToCreateClient": "Click to add this new client",
+                    "on": "on"
                 }
             }
         },
