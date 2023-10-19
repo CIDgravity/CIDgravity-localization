@@ -165,7 +165,8 @@
             "createAsClientSuccess": {
                 "title": "Client creation",
                 "description": "Client successfully created.",
-                "noteEditClientTitle": "Note"
+                "noteEditClientTitle": "Note",
+                "noteEditClientDescription": "This information can be edited later from the client page."
             }
         }
     },
