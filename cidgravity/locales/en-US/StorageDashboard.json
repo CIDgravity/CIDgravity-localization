@@ -154,6 +154,11 @@
         "noRowsFound": "No data",
         "totalAcceptedDealsSizeWithReasons": {
             "title": "Accepted / rejected proposals"
+        },
+        "modals": {
+            "createAsClient": {
+                "title": "Create a new client"
+            }
         }
     },
     "button": {
