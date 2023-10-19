@@ -2,32 +2,23 @@
     "title": "Integrations management",
     "subtitle": "Manage third-party deal provider integrations.",
     "estuary": {
-        "title": "Estuary",
         "subtitle": "Estuary allows users to store public data on IPFS and Filecoin through browser interface or by API.",
         "details": {
-            "opener": "Integrating Estuary with CIDgravity enables :",
             "registerMiner": "Automatically register this miner to Estuary and start accepting deals",
-            "setPublicName": "Set the miner public name on <1>estuary.tech</1>",
             "informEstuary": "Share miner acceptance criteria with Estuary in realtime"
         },
-        "more": "More details",
         "less": "Less details",
         "sync": {
             "ok": {
-                "label": "Sync status",
-                "latestDate": "Last sync at {{datetime}}",
-                "noLatestDate": "None"
+                "latestDate": "Last sync at {{datetime}}"
             },
             "nok": {
                 "label": "Sync status",
-                "latestDate": "Last request received at {{datetime}}",
                 "noLatestDate": "None"
             }
         },
         "button": {
-            "info": "Info",
-            "connect": "Connect",
-            "disconnect": "Disconnect"
+            "connect": "Connect"
         }
     },
     "error": {
