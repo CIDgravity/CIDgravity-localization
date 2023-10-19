@@ -62,7 +62,7 @@
             "title": "Client name",
             "unknown": "Unknown",
             "tooltip": {
-                "createAsClient": "Add this client",
+                "createAsClient": "Add this new client",
                 "clientCreatedAfterDealProcessed": "Client created after deal processed",
                 "importedFromMultiple": "This address is known as \"{{clientName}}\" on {{importedFrom}} ({{importedOn}})",
                 "importedFromSingle": "This name is proposed by {{importedFrom}}"
