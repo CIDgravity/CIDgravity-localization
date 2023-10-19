@@ -135,8 +135,7 @@
             "numberOfProposals": "提案数量",
             "pricingModelName": "定价模式",
             "cumulativeRawSize": "原始算力（TiB）",
-            "qualityAdjustedPower": "累积 QAP（TiB）",
-            "reason": "已接受/拒绝原因，待删除"
+            "qualityAdjustedPower": "累积 QAP（TiB）"
         },
         "noRowsFound": "无数据",
         "totalAcceptedDealsWithReasons": {
