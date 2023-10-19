@@ -4,9 +4,6 @@
     "table": {
         "empty": "No records",
         "noMatch": "Your search did not match any storage proposals.",
-        "from": {
-            "unkownAddress": "Unavailable"
-        },
         "datetime": {
             "title": "Received at ({{datetimeFormat}})"
         },

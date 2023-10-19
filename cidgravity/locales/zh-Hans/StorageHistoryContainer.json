@@ -4,9 +4,6 @@
     "table": {
         "empty": "无记录",
         "noMatch": "您的搜索未找到任何存储提案。",
-        "from": {
-            "unkownAddress": "不可用"
-        },
         "datetime": {
             "title": "接收于（{{datetimeFormat}}）"
         },
