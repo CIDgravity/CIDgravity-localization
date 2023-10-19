@@ -53,7 +53,13 @@
         },
         "fromAddress": {
             "title": "From address",
-            "unkownAddress": "Not found"
+            "unkownAddress": "Not found",
+            "tooltip": {
+                "copy": "Copy address"
+            }
+        },
+        "clientName": {
+            "title": "Client name"
         }
     },
     "error": {
