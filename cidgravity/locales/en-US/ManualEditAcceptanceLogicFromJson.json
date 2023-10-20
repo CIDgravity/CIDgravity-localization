@@ -1,6 +1,13 @@
 {
     "header": "JSON editor",
     "body": {
-        "description": "Import Acceptance logic from JSON"
+        "description": "Import Acceptance logic from JSON",
+        "editor": {
+            "placeholder": "Paste Acceptance logic here"
+        }
+    },
+    "button": {
+        "copyToClipboard": "Copy to clipboard",
+        "apply": "Import"
     }
 }
