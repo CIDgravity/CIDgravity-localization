@@ -1,3 +1,6 @@
 {
-    "header": "JSON editor"
+    "header": "JSON editor",
+    "body": {
+        "description": "Import Acceptance logic from JSON"
+    }
 }
