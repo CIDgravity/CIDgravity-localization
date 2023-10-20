@@ -159,7 +159,8 @@
         },
         "error": {
             "generic": "Unable to create or update the acceptance logic, please try later or contact the CIDgravity team.",
-            "onImportInvalidJsonLogic": "Invalid Acceptance logic"
+            "onImportInvalidJsonLogic": "Invalid Acceptance logic",
+            "onImportInvalidVariablesNames": "Invalid acceptance logic, at least one variable have a wrong name format."
         }
     },
     "error": {
