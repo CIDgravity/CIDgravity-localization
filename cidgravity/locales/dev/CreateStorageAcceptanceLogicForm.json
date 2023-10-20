@@ -14,7 +14,6 @@
     "button": {
         "update": "Update",
         "create": "Create",
-        "importLogic": "Import from json",
-        "exportLogic": "Export to json"
+        "manualEditJsonLogic": "JSON import"
     }
 }
