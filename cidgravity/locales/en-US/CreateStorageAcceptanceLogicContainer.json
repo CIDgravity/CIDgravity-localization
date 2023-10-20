@@ -158,7 +158,8 @@
             "onUpdateAcceptanceLogic": "Acceptance logic successfully updated."
         },
         "error": {
-            "generic": "Unable to create or update the acceptance logic, please try later or contact the CIDgravity team."
+            "generic": "Unable to create or update the acceptance logic, please try later or contact the CIDgravity team.",
+            "onImportInvalidJsonLogic": "Invalid Acceptance logic"
         }
     },
     "error": {
