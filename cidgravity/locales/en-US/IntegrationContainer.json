@@ -2,15 +2,7 @@
     "title": "Integrations management",
     "subtitle": "Manage third-party deal provider integrations.",
     "estuary": {
-        "details": {
-            "registerMiner": "Automatically register this miner to Estuary and start accepting deals"
-        },
         "less": "Less details",
-        "sync": {
-            "nok": {
-                "label": "Sync status"
-            }
-        },
         "button": {
             "connect": "Connect"
         }

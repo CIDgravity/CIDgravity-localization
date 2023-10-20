@@ -2,15 +2,7 @@
     "title": "集成管理",
     "subtitle": "管理第三方交易提供商的集成。",
     "estuary": {
-        "details": {
-            "registerMiner": "自动将此存储供应商注册到Estuary并开始接受交易"
-        },
         "less": "较少详细信息",
-        "sync": {
-            "nok": {
-                "label": "同步状态"
-            }
-        },
         "button": {
             "connect": "连接"
         }
