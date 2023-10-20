@@ -143,7 +143,8 @@
                     "clickOnCellToCreateClient": "Click to add this new client",
                     "on": "on",
                     "proposedFrom": "name proposed by"
-                }
+                },
+                "unknown": "Unknown"
             }
         },
         "axisUnits": {
