@@ -1,0 +1,17 @@
+{
+    "header": "Import a storage acceptance logic from JSON",
+    "body": {
+        "description": "You can load a new storage acceptance logic from a JSON format, by simply pasting it into the field below",
+        "alertFormat": {
+            "title": "Be careful",
+            "description": "If the format is invalid, an error message is displayed when loading. Take care to respect the JSON Logic format"
+        },
+        "editor": {
+            "placeholder": "Paste your JSON storage acceptance logic here"
+        }
+    },
+    "button": {
+        "load": "Load",
+        "close": "Close"
+    }
+}

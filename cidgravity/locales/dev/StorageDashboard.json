@@ -140,6 +140,7 @@
             "fromAddress": "From address",
             "clientName": {
                 "name": "Client",
+                "unknown": "Unknown client",
                 "tooltip": {
                     "createdAfterDealProcessed": "Client created after deal processed",
                     "source": "source",
@@ -156,19 +157,19 @@
                 "noteEditClientTitle": "Note",
                 "noteEditClientDescription": "You can edit those settings, directly on your Clients page by using edit client on this client"
             },
-	        "createAsClientSuccess": {
+            "createAsClientSuccess": {
                 "title": "Successfully created",
                 "description": "The client has been successfully created",
                 "noteEditClientTitle": "Note",
                 "noteEditClientDescription": "You can customize the rate limits or change the pricing model, directly on the Clients page"
-	        },
-	        "createAsClientError": {
+            },
+            "createAsClientError": {
                 "title": "Something wrong",
                 "description": "An error occured while creating the client",
                 "noteContactSupportTitle": "Note",
                 "noteContactSupportDescription": "Please try again in few seconds, if the problem persist, contact the CIDgravity team using Slack or Help center"
-	        },
-	        "button": {
+            },
+            "button": {
                 "continue": "Continue",
                 "cancel": "Cancel"
             }

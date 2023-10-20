@@ -161,6 +161,8 @@
             "onUpdateAcceptanceLogic": "Acceptance logic successfully updated"
         },
         "error": {
+            "onImportInvalidJsonLogic": "Invalid JSON logic format detected, check. Check the JSON you want to import and try again",
+            "onImportInvalidVariablesNames": "Can't import your storage acceptance logic. At least one variable have a wrong name format",
             "generic": "Unable to create/update the acceptance logic. Try later or reach out to CIDgravity team"
         }
     }

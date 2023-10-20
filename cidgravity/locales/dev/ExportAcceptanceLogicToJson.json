@@ -1,0 +1,16 @@
+{
+    "header": "Export a storage acceptance logic to JSON",
+    "body": {
+        "description": "If you are more comfortable with JSON format, you can export the current logic in this format",
+        "alertFormat": {
+            "title": "Be careful",
+            "description": "If you want to reimport it, you must respect the JSON Logic format"
+        }
+    },
+    "error": {
+        "emptyLogic": "This is an empty acceptance logic. It's a passtrought logic, all deals will be accepted"
+    },
+    "button": {
+        "close": "Close"
+    }
+}

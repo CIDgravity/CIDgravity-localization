@@ -38,10 +38,10 @@
     "error": {
         "isAddressNotOnChain": "{{address}} (not on chain)",
         "isClientNotExistingOrNotAllowed": "The client you ask doesn't exist or you are not allowed to perform this operation",
-        "ERR_DEFAULT_ACCEPTANCE_LOGIC_NOT_FOUND": "The default storage acceptance logic can't be found on this miner. Maybe your miner was not initialized correctly ?<br />Try to create an acceptance logic and set it as default, or contact the CIDgravity team",
-        "ERR_DEFAULT_PRICING_MODEL_NOT_FOUND": "The default pricing model can't be found on this miner. Maybe your miner was not initialized correctly ?<br />Try to create a pricing model and set it as default, or contact the CIDgravity team",
-        "ERR_CHECK_ADDRESS_FROM_HISTORY": "Unable to check the address from history. Try again in few seconds",
-        "ERR_ADDRESS_ALREADY_USED_FROM_HISTORY": "You are trying to create this client from history, but the address is already used.<br />Note that an address can only be attached to one client at a time"
+        "ERR_DEFAULT_ACCEPTANCE_LOGIC_NOT_FOUND": "The default storage \"Acceptance logic\" cannot be found. Set an acceptance logic as default and try again or contact the CIDgravity team.",
+        "ERR_DEFAULT_PRICING_MODEL_NOT_FOUND": "The default storage \"Pricing model\" cannot be found. Set a pricing model as default and try again or contact the CIDgravity team.",
+        "ERR_CHECK_ADDRESS_FROM_HISTORY": "This address {{address}} is invalid or does not exist on chain.",
+        "ERR_ADDRESS_ALREADY_USED_FROM_HISTORY": "This address is already attached to an existing client."
     },
     "button": {
         "createNewPricingModel": "New pricing model",

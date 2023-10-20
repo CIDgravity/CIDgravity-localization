@@ -13,6 +13,8 @@
     },
     "button": {
         "update": "Update",
-        "create": "Create"
+        "create": "Create",
+        "importLogic": "Import from json",
+        "exportLogic": "Export to json"
     }
 }
