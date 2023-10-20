@@ -2,19 +2,13 @@
     "title": "Integrations management",
     "subtitle": "Manage third-party deal provider integrations.",
     "estuary": {
-        "subtitle": "Estuary allows users to store public data on IPFS and Filecoin through browser interface or by API.",
         "details": {
-            "registerMiner": "Automatically register this miner to Estuary and start accepting deals",
-            "informEstuary": "Share miner acceptance criteria with Estuary in realtime"
+            "registerMiner": "Automatically register this miner to Estuary and start accepting deals"
         },
         "less": "Less details",
         "sync": {
-            "ok": {
-                "latestDate": "Last sync at {{datetime}}"
-            },
             "nok": {
-                "label": "Sync status",
-                "noLatestDate": "None"
+                "label": "Sync status"
             }
         },
         "button": {

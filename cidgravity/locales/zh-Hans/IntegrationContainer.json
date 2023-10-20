@@ -2,19 +2,13 @@
     "title": "集成管理",
     "subtitle": "管理第三方交易提供商的集成。",
     "estuary": {
-        "subtitle": "Estuary允许用户通过浏览器界面或API将公共数据存储在IPFS和Filecoin上。",
         "details": {
-            "registerMiner": "自动将此存储供应商注册到Estuary并开始接受交易",
-            "informEstuary": "实时与Estuary共享矿工的接受条件"
+            "registerMiner": "自动将此存储供应商注册到Estuary并开始接受交易"
         },
         "less": "较少详细信息",
         "sync": {
-            "ok": {
-                "latestDate": "上次同步时间：{{datetime}}"
-            },
             "nok": {
-                "label": "同步状态",
-                "noLatestDate": "无"
+                "label": "同步状态"
             }
         },
         "button": {
