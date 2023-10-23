@@ -54,7 +54,6 @@
                     "WaitDeals": "WaitDeals",
                     "Packing": "Packing",
                     "AddPiece": "AP",
-                    "AddPieceFailed": "AddPieceFailed",
                     "GetTicket": "GetTicket",
                     "PreCommit1": "PC1",
                     "PreCommit2": "PC2",
@@ -65,7 +64,6 @@
                     "WaitSeed": "WaitSeed",
                     "Committing": "Committing",
                     "CommitFinalize": "CommitFinalize",
-                    "CommitFinalizeFailed": "CommitFinalizeFailed",
                     "SubmitCommit": "SubmitCommit",
                     "CommitWait": "CommitWait",
                     "SubmitCommitAggregate": "SubmitCommitAggregate",
@@ -74,14 +72,6 @@
                     "Proving": "Proving",
                     "Available": "Available",
                     "FailedUnrecoverable": "FailedUnrecoverable",
-                    "SealPreCommit1Failed": "SealPreCommit1Failed",
-                    "SealPreCommit2Failed": "SealPreCommit2Failed",
-                    "PreCommitFailed": "PreCommitFailed",
-                    "ComputeProofFailed": "ComputeProofFailed",
-                    "RemoteCommitFailed": "RemoteCommitFailed",
-                    "CommitFailed": "CommitFailed",
-                    "PackingFailed": "PackingFailed",
-                    "FinalizeFailed": "FinalizeFailed",
                     "DealsExpired": "DealsExpired",
                     "RecoverDealIDs": "RecoverDealIDs",
                     "Faulty": "Faulty",
@@ -90,9 +80,7 @@
                     "Terminating": "Terminating",
                     "TerminateWait": "TerminateWait",
                     "TerminateFinality": "TerminateFinality",
-                    "TerminateFailed": "TerminateFailed",
                     "Removing": "Removing",
-                    "RemoveFailed": "RemoveFailed",
                     "Removed": "Removed",
                     "SnapDealsWaitDeals": "SnapDealsWaitDeals",
                     "SnapDealsAddPiece": "SnapDealsAddPiece",
@@ -105,14 +93,33 @@
                     "UpdateActivating": "UpdateActivating",
                     "ReleaseSectorKey": "ReleaseSectorKey",
                     "FinalizeReplicaUpdate": "FinalizeReplicaUpdate",
-                    "SnapDealsAddPieceFailed": "SnapDealsAddPieceFailed",
                     "SnapDealsDealsExpired": "SnapDealsDealsExpired",
                     "SnapDealsRecoverDealIDs": "SnapDealsRecoverDealIDs",
+                    "ReceiveSector": "ReceiveSector",
+                    "AbortUpgrade": "AbortUpgrade"
+                }
+            },
+            "sectorStatesErrors": {
+                "title": "Sealing pipeline errors",
+                "tooltip": "Sealing pipeline errors",
+                "values": {
+                    "Any": "Any",
+                    "AddPieceFailed": "AddPieceFailed",
+                    "CommitFinalizeFailed": "CommitFinalizeFailed",
+                    "SealPreCommit1Failed": "SealPreCommit1Failed",
+                    "SealPreCommit2Failed": "SealPreCommit2Failed",
+                    "PreCommitFailed": "PreCommitFailed",
+                    "ComputeProofFailed": "ComputeProofFailed",
+                    "RemoteCommitFailed": "RemoteCommitFailed",
+                    "CommitFailed": "CommitFailed",
+                    "PackingFailed": "PackingFailed",
+                    "FinalizeFailed": "FinalizeFailed",
+                    "TerminateFailed": "TerminateFailed",
+                    "RemoveFailed": "RemoveFailed",
+                    "SnapDealsAddPieceFailed": "SnapDealsAddPieceFailed",
                     "ReplicaUpdateFailed": "ReplicaUpdateFailed",
                     "ReleaseSectorKeyFailed": "ReleaseSectorKeyFailed",
-                    "FinalizeReplicaUpdateFailed": "FinalizeReplicaUpdateFailed",
-                    "AbortUpgrade": "AbortUpgrade",
-                    "ReceiveSector": "ReceiveSector"
+                    "FinalizeReplicaUpdateFailed": "FinalizeReplicaUpdateFailed"
                 }
             },
             "additionalFields": {
@@ -128,7 +135,6 @@
                     "sunday": "Sunday"
                 },
                 "values": {
-                    "SectorStatesErrors": "Any sector state error",
                     "ReceivedOnTimeOfDayUTC": "Received on (time of the day UTC)",
                     "ReceivedOnDayOfWeek": "Received on (day of the week)"
                 }
