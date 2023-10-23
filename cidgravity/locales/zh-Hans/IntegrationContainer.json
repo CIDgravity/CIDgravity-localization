@@ -2,7 +2,6 @@
     "title": "集成管理",
     "subtitle": "管理第三方交易提供商的集成。",
     "estuary": {
-        "less": "较少详细信息",
         "button": {
             "connect": "连接"
         }

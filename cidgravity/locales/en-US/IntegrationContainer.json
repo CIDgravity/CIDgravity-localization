@@ -2,7 +2,6 @@
     "title": "Integrations management",
     "subtitle": "Manage third-party deal provider integrations.",
     "estuary": {
-        "less": "Less details",
         "button": {
             "connect": "Connect"
         }
