@@ -123,7 +123,18 @@
                     "AddPieceFailed": "AddPieceFailed",
                     "CommitFinalizeFailed": "CommitFinalizeFailed",
                     "SealPreCommit1Failed": "SealPreCommit1Failed",
-                    "Any": "Any errors"
+                    "Any": "Any errors",
+                    "SealPreCommit2Failed": "SealPreCommit2Failed",
+                    "PreCommitFailed": "PreCommitFailed",
+                    "ComputeProofFailed": "ComputeProofFailed",
+                    "RemoteCommitFailed": "RemoteCommitFailed",
+                    "CommitFailed": "CommitFailed",
+                    "PackingFailed": "PackingFailed",
+                    "FinalizeFailed": "FinalizeFailed",
+                    "TerminateFailed": "TerminateFailed",
+                    "RemoveFailed": "RemoveFailed",
+                    "SnapDealsAddPieceFailed": "SnapDealsAddPieceFailed",
+                    "ReplicaUpdateFailed": "ReplicaUpdateFailed"
                 }
             }
         }
