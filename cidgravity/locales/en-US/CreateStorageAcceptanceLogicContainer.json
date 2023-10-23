@@ -118,7 +118,13 @@
             },
             "sectorStatesErrors": {
                 "title": "Sealing pipeline errors",
-                "tooltip": "Sealing pipeline errors"
+                "tooltip": "Sealing pipeline errors",
+                "values": {
+                    "AddPieceFailed": "AddPieceFailed",
+                    "CommitFinalizeFailed": "CommitFinalizeFailed",
+                    "SealPreCommit1Failed": "SealPreCommit1Failed",
+                    "Any": "Any errors"
+                }
             }
         }
     },
