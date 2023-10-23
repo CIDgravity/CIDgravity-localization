@@ -72,9 +72,7 @@
                     "Proving": "Proving",
                     "FailedUnrecoverable": "FailedUnrecoverable",
                     "Available": "Available",
-                    "PreCommitFailed": "PreCommitFailed",
                     "RemoteCommitFailed": "RemoteCommitFailed",
-                    "PackingFailed": "PackingFailed",
                     "DealsExpired": "DealsExpired",
                     "RecoverDealIDs": "RecoverDealIDs",
                     "Faulty": "Faulty",
@@ -98,7 +96,6 @@
                     "FinalizeReplicaUpdate": "FinalizeReplicaUpdate",
                     "SnapDealsDealsExpired": "SnapDealsDealsExpired",
                     "SnapDealsRecoverDealIDs": "SnapDealsRecoverDealIDs",
-                    "ReleaseSectorKeyFailed": "ReleaseSectorKeyFailed",
                     "AbortUpgrade": "AbortUpgrade",
                     "ReceiveSector": "ReceiveSector"
                 }
@@ -119,6 +116,9 @@
                     "ReceivedOnTimeOfDayUTC": "Received on (time of the day UTC)",
                     "ReceivedOnDayOfWeek": "Received on (day of the week)"
                 }
+            },
+            "sectorStatesErrors": {
+                "title": "Sealing pipeline errors"
             }
         }
     },
