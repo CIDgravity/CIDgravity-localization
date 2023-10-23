@@ -128,6 +128,7 @@
                     "sunday": "Sunday"
                 },
                 "values": {
+                    "SectorStatesErrors": "Any sector state error",
                     "ReceivedOnTimeOfDayUTC": "Received on (time of the day UTC)",
                     "ReceivedOnDayOfWeek": "Received on (day of the week)"
                 }
