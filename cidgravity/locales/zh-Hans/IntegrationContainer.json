@@ -1,11 +1,6 @@
 {
     "title": "集成管理",
     "subtitle": "管理第三方交易提供商的集成。",
-    "estuary": {
-        "button": {
-            "connect": "连接"
-        }
-    },
     "error": {
         "generic": "无法加载页面，请稍后再试或联系CIDgravity团队。"
     }

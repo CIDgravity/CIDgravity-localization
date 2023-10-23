@@ -1,11 +1,6 @@
 {
     "title": "Integrations management",
     "subtitle": "Manage third-party deal provider integrations.",
-    "estuary": {
-        "button": {
-            "connect": "Connect"
-        }
-    },
     "error": {
         "generic": "Unable to load page, please try later or contact the CIDgravity team."
     }
