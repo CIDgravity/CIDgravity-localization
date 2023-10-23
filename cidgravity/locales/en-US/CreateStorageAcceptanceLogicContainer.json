@@ -134,7 +134,9 @@
                     "TerminateFailed": "TerminateFailed",
                     "RemoveFailed": "RemoveFailed",
                     "SnapDealsAddPieceFailed": "SnapDealsAddPieceFailed",
-                    "ReplicaUpdateFailed": "ReplicaUpdateFailed"
+                    "ReplicaUpdateFailed": "ReplicaUpdateFailed",
+                    "ReleaseSectorKeyFailed": "ReleaseSectorKeyFailed",
+                    "FinalizeReplicaUpdateFailed": "FinalizeReplicaUpdateFailed"
                 }
             }
         }
