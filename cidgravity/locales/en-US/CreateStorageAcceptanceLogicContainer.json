@@ -72,7 +72,6 @@
                     "Proving": "Proving",
                     "FailedUnrecoverable": "FailedUnrecoverable",
                     "Available": "Available",
-                    "RemoteCommitFailed": "RemoteCommitFailed",
                     "DealsExpired": "DealsExpired",
                     "RecoverDealIDs": "RecoverDealIDs",
                     "Faulty": "Faulty",
@@ -118,7 +117,8 @@
                 }
             },
             "sectorStatesErrors": {
-                "title": "Sealing pipeline errors"
+                "title": "Sealing pipeline errors",
+                "tooltip": "Sealing pipeline errors"
             }
         }
     },
