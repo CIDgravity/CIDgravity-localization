@@ -67,7 +67,7 @@
         },
         "fields": {
             "sectorStatesTitle": "Sealing pipeline - sector states",
-            "sectorStatesTooltip": "Sector states",
+            "sectorStatesTooltip": "Sealing pipeline - sector states",
             "additionalFieldsTitle": "Other fields",
             "additionalFieldsTooltip": "Other fields",
             "WaitDeals": "WaitDeals",
