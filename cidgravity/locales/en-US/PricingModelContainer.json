@@ -17,7 +17,8 @@
             "content_two": "{{count}} clients associated",
             "content_few": "{{count}} clients associated",
             "content_many": "{{count}} clients associated",
-            "content_other": "{{count}} clients associated"
+            "content_other": "{{count}} clients associated",
+            "defaultContentAndNoClients": "Default pricing model"
         },
         "view": {
             "tooltip": "Inspect the associated rule and client details"
