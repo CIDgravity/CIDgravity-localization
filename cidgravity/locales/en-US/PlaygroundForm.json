@@ -132,7 +132,8 @@
             "FinalizeReplicaUpdateFailed": "FinalizeReplicaUpdateFailed",
             "AbortUpgrade": "AbortUpgrade",
             "ReceiveSector": "ReceiveSector",
-            "ReceivedOnDatetime": "Received on"
+            "ReceivedOnDatetime": "Received on",
+            "sectorStatesErrorsTitle": "Sealing pipeline errors"
         }
     }
 }
