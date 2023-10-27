@@ -117,7 +117,7 @@
                 }
             },
             "sectorStatesErrors": {
-                "title": "Sealing pipeline errors",
+                "title": "Sealing pipeline - errors",
                 "tooltip": "Sealing pipeline errors",
                 "values": {
                     "AddPieceFailed": "AddPieceFailed",
