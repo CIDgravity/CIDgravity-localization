@@ -11,6 +11,6 @@
         "acl": "Whitelist / Blacklist"
     },
     "dateRangePicker": {
-        "placeholder": "From ({{dateFormat}}) - To ({{dateFormat}})"
+        "placeholder": "From (YYYY/MM/DD) - To (YYYY/MM/DD)"
     }
 }
