@@ -12,7 +12,6 @@
         "client": {
             "title": "客户端",
             "noContent": "无",
-            "defaultContent": "默认价格模式",
             "content_zero": "无",
             "content_one": "{{count}} 个关联客户端",
             "content_two": "{{count}} 个关联客户端",
