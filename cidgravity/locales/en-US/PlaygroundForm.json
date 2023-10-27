@@ -63,7 +63,7 @@
         },
         "select": {
             "otherTitle": "Others",
-            "sectorStatesTitle": "Sector states"
+            "sectorStatesTitle": "Sealing pipeline - sector states"
         },
         "fields": {
             "sectorStatesTitle": "Sector states",
