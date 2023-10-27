@@ -12,7 +12,12 @@
         "client": {
             "title": "Clients",
             "noContent": "N/A",
-            "defaultContent": "Default pricing model",
+            "defaultContentAndNoClients": "Default pricing model",
+            "defaultContentAndClients_one": "{{count}} client associated + Default pricing model",
+            "defaultContentAndClients_two": "{{count}} clients associated + Default pricing model",
+            "defaultContentAndClients_few": "{{count}} clients associated + Default pricing model",
+            "defaultContentAndClients_many": "{{count}} clients associated + Default pricing model",
+            "defaultContentAndClients_other": "{{count}} clients associated + Default pricing model",
             "content_zero": "N/A",
             "content_one": "{{count}} client associated",
             "content_two": "{{count}} clients associated",

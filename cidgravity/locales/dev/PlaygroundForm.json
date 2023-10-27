@@ -62,8 +62,9 @@
             }
         },
         "fields": {
-            "sectorStatesTitle": "Sector states",
+            "sectorStatesTitle": "Sealing pipeline - sector states",
             "sectorStatesTooltip": "Sector states",
+            "sectorStatesErrorsTitle": "Sealing pipeline errors",
             "additionalFieldsTitle": "Other fields",
             "additionalFieldsTooltip": "Other fields",
             "WaitDeals": "WaitDeals",
