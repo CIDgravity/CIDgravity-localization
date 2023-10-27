@@ -9,7 +9,6 @@
         "client": {
             "title": "Clients",
             "noContent": "None",
-            "defaultContent": "Default acceptance logic",
             "content_zero": "None",
             "content_one": "{{count}} client associated",
             "content_two": "{{count}} clients associated",
