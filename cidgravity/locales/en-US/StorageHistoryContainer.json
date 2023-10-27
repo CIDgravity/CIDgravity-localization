@@ -5,7 +5,7 @@
         "empty": "No records",
         "noMatch": "Your search did not match any storage proposals.",
         "datetime": {
-            "title": "Received at (YYY/MM/DD)"
+            "title": "Received at (YYYY/MM/DD)"
         },
         "reason": {
             "title": "Result"
