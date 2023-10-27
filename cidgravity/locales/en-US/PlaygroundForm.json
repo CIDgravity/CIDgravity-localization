@@ -66,7 +66,7 @@
             "sectorStatesTitle": "Sealing pipeline - sector states"
         },
         "fields": {
-            "sectorStatesTitle": "Sector states",
+            "sectorStatesTitle": "Sealing pipeline - sector states",
             "sectorStatesTooltip": "Sector states",
             "additionalFieldsTitle": "Other fields",
             "additionalFieldsTooltip": "Other fields",
