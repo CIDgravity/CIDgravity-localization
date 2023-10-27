@@ -133,7 +133,7 @@
             "AbortUpgrade": "AbortUpgrade",
             "ReceiveSector": "ReceiveSector",
             "ReceivedOnDatetime": "Received on",
-            "sectorStatesErrorsTitle": "Sealing pipeline errors"
+            "sectorStatesErrorsTitle": "Sealing pipeline - errors"
         }
     }
 }
