@@ -34,7 +34,7 @@
                 "noClient": "No clients are associated with this pricing model.",
                 "alsoApplyToUnknownClients": "This is the default pricing model, it also apply to any unknown client"
             },
-            "titleClientsWithDefault": "Inherited existing clients as default pricing model"
+            "titleClientsWithDefault": "Inherited existing clients (default pricing model)"
         }
     },
     "error": {
