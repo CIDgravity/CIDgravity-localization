@@ -3,8 +3,9 @@
     "body": {
         "client": {
             "title": "Associated clients",
+            "titleClientsWithDefault": "Clients with default accceptance logic",
             "acceptanceLogic": {
-                "default": "All clients are impacted, this is the default acceptance logic",
+                "alsoApplyToUnknownClients": "This default acceptance logic is also applied to all unknown clients",
                 "noClient": "No clients are associated with this acceptance logic"
             }
         }

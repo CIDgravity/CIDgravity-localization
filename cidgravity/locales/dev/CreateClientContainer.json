@@ -9,7 +9,8 @@
     "pricingModel": {
         "select": {
             "label": "Select a pricing model",
-            "description": "Select it from the dropdown, if no model match your client, you can create a new one"
+            "description": "Select it from the dropdown, if no model match your client, you can create a new one",
+            "noSelectedDefaultWillApply": "No pricing model selected, default model will be applied"
         },
         "details": {
             "title": "{{pricingModelName}} details",
@@ -33,7 +34,8 @@
     },
     "storageAcceptanceLogic": {
         "title": "Acceptance logic",
-        "description": "Select from the dropdown or create a new one."
+        "description": "Select from the dropdown or create a new one.",
+        "noSelectedDefaultWillApply": "No storage acceptance logic selected, default logic will be applied"
     },
     "error": {
         "isAddressNotOnChain": "{{address}} (not on chain)",

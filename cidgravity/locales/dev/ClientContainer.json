@@ -62,11 +62,13 @@
                 "title": "Client Name"
             },
             "pricingModel": {
-                "title": "Pricing Model"
+                "title": "Pricing Model",
+                "defaultBadge": "default"
             },
             "storageAcceptanceLogic": {
                 "title": "Storage acceptance logic",
-                "default": "Default applied"
+                "default": "Default applied",
+                "defaultBadge": "default"
             },
             "currentStorageRateLimit": {
                 "title": "Current storage rate limits",
