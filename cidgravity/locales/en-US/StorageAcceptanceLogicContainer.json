@@ -19,7 +19,8 @@
             "defaultContentAndClients_two": "{{count}} clients associated + Default acceptance logic",
             "defaultContentAndClients_few": "{{count}} clients associated + Default acceptance logic",
             "defaultContentAndClients_many": "{{count}} clients associated + Default acceptance logic",
-            "defaultContentAndClients_other": "{{count}} clients associated + Default acceptance logic"
+            "defaultContentAndClients_other": "{{count}} clients associated + Default acceptance logic",
+            "defaultContentAndClients_zero": "Apply only to unknown clients"
         },
         "edit": {
             "tooltip": "Edit this acceptance logic"
