@@ -69,6 +69,7 @@
     },
     "storageAcceptanceLogic": {
         "title": "Acceptance logic",
-        "description": "Select from the dropdown or create a new one."
+        "description": "Select from the dropdown or create a new one.",
+        "noSelectedDefaultWillApply": "No acceptance logic selected, default logic will apply"
     }
 }
