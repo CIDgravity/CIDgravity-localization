@@ -71,7 +71,8 @@
             },
             "storageAcceptanceLogic": {
                 "title": "Storage acceptance logic",
-                "default": "Default applied"
+                "default": "Default applied",
+                "defaultBadge": "default"
             }
         },
         "tooltip": {
