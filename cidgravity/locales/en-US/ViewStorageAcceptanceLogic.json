@@ -5,7 +5,7 @@
             "acceptanceLogic": {
                 "noClient": "No clients are associated with this acceptance logic"
             },
-            "titleClientsWithDefault": "Inherited Clients from default pricing"
+            "titleClientsWithDefault": "Inherited existing clients as default acceptance logic"
         }
     },
     "header": "\"{{storageAcceptanceLogicName}}\" acceptance logic",
