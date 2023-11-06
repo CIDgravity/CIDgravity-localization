@@ -15,7 +15,6 @@
             "content_few": "{{count}} clients associated",
             "content_many": "{{count}} clients associated",
             "content_other": "{{count}} clients associated",
-            "defaultContentAndNoClients": "Default acceptance logic",
             "defaultContentAndClients_one": "{{count}} client associated + Default acceptance logic",
             "defaultContentAndClients_two": "{{count}} clients associated + Default acceptance logic",
             "defaultContentAndClients_few": "{{count}} clients associated + Default acceptance logic",
