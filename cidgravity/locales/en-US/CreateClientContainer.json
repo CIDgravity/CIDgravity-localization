@@ -9,7 +9,8 @@
     "pricingModel": {
         "select": {
             "label": "Select a pricing model",
-            "description": "Select from the dropdown or create a new one."
+            "description": "Select from the dropdown or create a new one.",
+            "noSelectedDefaultWillApply": "No pricing model selected, default pricing will apply"
         },
         "details": {
             "title": "{{pricingModelName}} details",
