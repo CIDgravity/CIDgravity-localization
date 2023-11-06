@@ -6,7 +6,7 @@
                 "noClient": "No clients are associated with this acceptance logic",
                 "alsoApplyToUnknownClients": "This is the default acceptance logic, it also apply to any unknown client"
             },
-            "titleClientsWithDefault": "Inherited existing clients as default acceptance logic"
+            "titleClientsWithDefault": "Inherited existing clients (default acceptance logic)"
         }
     },
     "header": "\"{{storageAcceptanceLogicName}}\" acceptance logic",
