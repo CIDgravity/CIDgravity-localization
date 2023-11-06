@@ -32,7 +32,8 @@
             "title": "Associated clients",
             "pricing": {
                 "noClient": "No clients are associated with this pricing model."
-            }
+            },
+            "titleClientsWithDefault": "Inherited existing clients as default pricing model"
         }
     },
     "error": {
