@@ -18,7 +18,6 @@
             "content_few": "{{count}} clients associated",
             "content_many": "{{count}} clients associated",
             "content_other": "{{count}} clients associated",
-            "defaultContentAndNoClients": "Default pricing model",
             "defaultContentAndClients_one": "{{count}} client associated + Default pricing model",
             "defaultContentAndClients_two": "{{count}} clients associated + Default pricing model",
             "defaultContentAndClients_few": "{{count}} clients associated + Default pricing model",
