@@ -3,7 +3,6 @@
         "client": {
             "title": "Associated clients",
             "acceptanceLogic": {
-                "default": "Default acceptance logic, it applies to all unknown clients.",
                 "noClient": "No clients are associated with this acceptance logic"
             }
         }
