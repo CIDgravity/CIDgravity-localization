@@ -22,7 +22,7 @@
             "defaultContentAndClients_two": "{{count}} clients associated + unknown clients",
             "defaultContentAndClients_few": "{{count}} clients associated + unknown clients",
             "defaultContentAndClients_many": "{{count}} clients associated + unknown clients",
-            "defaultContentAndClients_other": "{{count}} clients associated + Default pricing model",
+            "defaultContentAndClients_other": "{{count}} clients associated + unknown clients",
             "defaultContentAndClients_zero": "Apply only to unknown clients"
         },
         "view": {
