@@ -22,8 +22,7 @@
             "defaultContentAndClients_two": "{{count}} clients associated + Default pricing model",
             "defaultContentAndClients_few": "{{count}} clients associated + Default pricing model",
             "defaultContentAndClients_many": "{{count}} clients associated + Default pricing model",
-            "defaultContentAndClients_other": "{{count}} clients associated + Default pricing model",
-            "defaultContentAndClients": "Apply only to unknown clients"
+            "defaultContentAndClients_other": "{{count}} clients associated + Default pricing model"
         },
         "view": {
             "tooltip": "Inspect the associated rule and client details"
