@@ -19,7 +19,7 @@
             "defaultContentAndClients_two": "{{count}} clients + unknown clients",
             "defaultContentAndClients_few": "{{count}} clients + unknown clients",
             "defaultContentAndClients_many": "{{count}} clients + unknown clients",
-            "defaultContentAndClients_other": "{{count}} clients",
+            "defaultContentAndClients_other": "{{count}} clients + unknown clients",
             "defaultContentAndClients_zero": "Apply only to unknown clients"
         },
         "edit": {
