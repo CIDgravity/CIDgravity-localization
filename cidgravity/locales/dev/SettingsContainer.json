@@ -93,6 +93,7 @@
             "onUpdateFriendlyName": "Unable to save your friendly name. Try later or reach out to CIDgravity team",
             "onRegenerateConnectorToken": "Unable to regenerate the connector token. Try later or reach out to CIDgravity team",
             "onUpdateStartEpochSealingBuffer": "Something wrong while updating your start epoch sealing buffer setting. Try later or reach out to CIDgravity team",
+            "onStartEpochSealingBufferMandatoryOrZero": "Start epoch sealing buffer in mandatory. To disable this setting, you can set the value to 0",
             "onMinerStatusCheckServiceUnavailable": "We can't enable the service because service isn't available at the moment. Please try again later",
             "onMinerStatusCheckNotReachable": "We can't enable the service because your miner isn't reachable. Go to Help Center > Diagnosis for more details"
         }
