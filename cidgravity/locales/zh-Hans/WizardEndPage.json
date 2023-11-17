@@ -6,12 +6,10 @@
         "title": "已完成",
         "stepClaimAddress": "步骤1：认领存储供应商并配置默认定价",
         "stepDeployConnector": "步骤2：在存储供应商上部署CIDgravity连接器",
-        "connectorTokenExplanation": "CIDgravity连接器代币",
-        "stepConfigureIntegrations": "步骤3：配置集成（可选）"
+        "connectorTokenExplanation": "CIDgravity连接器代币"
     },
     "button": {
         "testConnectivity": "测试存储供应商的连接性",
-        "configureIntegrations": "配置集成（可选）",
         "deployConnector": "部署CIDgravity-X连接器"
     }
 }

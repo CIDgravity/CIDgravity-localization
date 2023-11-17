@@ -1,6 +1,5 @@
 {
     "button": {
-        "configureIntegrations": "Configure integrations (Optional)",
         "deployConnector": "Deploy CIDgravity-X connector",
         "testConnectivity": "Test miner connectivity"
     },
@@ -11,7 +10,6 @@
         "title": "Completed",
         "stepDeployConnector": "Step 2: Deploy CIDgravity connector on the miner",
         "connectorTokenExplanation": "CIDgravity connector token",
-        "stepConfigureIntegrations": "Step 3: Configure integrations (Optional)",
         "stepClaimAddress": "Step 1: Claim miner and configure default pricing"
     }
 }
