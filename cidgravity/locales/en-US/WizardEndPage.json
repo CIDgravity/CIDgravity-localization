@@ -1,7 +1,8 @@
 {
     "button": {
         "deployConnector": "Deploy CIDgravity-X connector",
-        "testConnectivity": "Test miner connectivity"
+        "testConnectivity": "Test miner connectivity",
+        "goToDashboard": "Go to dashboard"
     },
     "minerAlreadyClaimed": {
         "title": "Successfully claimed {{address}}"
