@@ -34,7 +34,7 @@
         "isFromAddressNotSupported": "The from address you provide doesn't match a valid Filecoin address",
         "isPriceMandatory": "The price must be filled (at least O FIL)",
         "isFromAddressMandatory": "From address is required to launch a test request",
-        "isDurationOutsideLimits": "Check the duration, limits are min = 180 days and max 548 days!",
+        "isDurationOutsideLimits": "Check the duration, limits are min = 180 days and max 1278 days!",
         "isProposalPieceSizeUnderLimit": "The deal size can't be under 256B!",
         "isTestSuccessfullySent": "Test succesfully send",
         "isTestFailed": "Test failed, please try again in few minutes"
