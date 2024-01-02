@@ -24,6 +24,33 @@
             "generic": "Unable to load your miner addresses. Try again in few minutes!"
         }
     },
+    "clientAddress": {
+        "title": "Client addresses",
+        "table": {
+            "empty": "You haven't claimed any address yet",
+            "friendlyName": {
+                "title": "Friendly name"
+            },
+            "addressId": {
+                "title": "Address ID"
+            },
+            "longAddress": {
+                "title": "Long address"
+            },
+            "actorType": {
+                "title": "Actor type"
+            },
+            "access": {
+                "tooltip": "View access rights"
+            },
+            "delete": {
+                "tooltip": "Delete this address"
+            }
+        },
+        "errors": {
+            "generic": "Unable to load your client addresses. Try again in few minutes!"
+        }
+    },
     "otherAddress": {
         "title": "Other addresses",
         "table": {
@@ -48,7 +75,7 @@
             }
         },
         "errors": {
-            "generic": "Unable to load your client / other addresses. Try again in few minutes!"
+            "generic": "Unable to load your other addresses. Try again in few minutes!"
         }
     },
     "button": {

@@ -3,7 +3,7 @@
     "subtitle": "Fill the address you wish to claim",
     "validation": {
         "isAddressFieldMandatory": "Please enter your address",
-        "isAddressNotAStorageMiner": "This address is not a storage miner",
+        "isAddressNotAStorageMinerOrAccount": "This address is neither a storage miner or an account",
         "isAddressAlreadyClaimed": "You have already claimed this address",
         "isAddressInvalid": "Invalid address"
     },

@@ -1,24 +1,32 @@
 {
     "menu": {
-        "dashboard": "Dashboard",
-        "client": "Clients",
-        "settings": "Settings",
-        "helpCenter": " Help center",
-        "storage": {
-            "title": "Storage",
-            "dashboard": "Analytics",
-            "pricing": "Pricing",
-            "integration": "Integrations",
-            "history": "History",
-            "playground": "Playground",
-            "blacklist": "Blacklist",
-            "acceptanceLogic": "Acceptance logic"
+        "client": {
+            "dashboard": "Dashboard",
+            "informations": "Informations",
+            "helpCenter": "Help center",
+            "settings": "Settings"
         },
-        "retrieval": {
-            "title": "Retrieval",
-            "dashboard": "Analytics",
-            "history": "History",
-            "acl": "ACL"
+        "provider": {
+            "dashboard": "Dashboard",
+            "helpCenter": "Help center",
+            "client": "Clients",
+            "settings": "Settings",
+            "storage": {
+                "title": "Storage",
+                "pricing": "Pricing",
+                "integration": "Integrations",
+                "history": "History",
+                "playground": "Playground",
+                "blacklist": "Blacklist",
+                "dashboard": "Analytics",
+                "acceptanceLogic": "Acceptance logic"
+            },
+            "retrieval": {
+                "title": "Retrieval",
+                "history": "History",
+                "acl": "Deny list",
+                "dashboard": "Analytics"
+            }
         }
     }
 }

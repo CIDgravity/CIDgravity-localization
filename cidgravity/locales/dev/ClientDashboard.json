@@ -1,0 +1,46 @@
+{
+    "filter": {
+        "timeRange": {
+            "placeholder": "Select a time range",
+            "24hours": "Last 24 hours",
+            "30days": "Last 30 days",
+            "3months": "Last 3 months"
+        }
+    },
+    "button": {
+        "refresh": "Refresh"
+    },
+    "retool": {
+        "pieceCidList": {
+            "title": "List of piece cids"
+        },
+        "quantityOfDataOnboarded": {
+            "title": "Quantity of data onboarded"
+        },
+        "numberOfCopy": {
+            "title": "Number of copies on network"
+        },
+        "sizeStoredPerProvider": {
+            "title": "Size / deals stored per provider"
+        },
+        "columnsName": {
+            "provider": "Miner",
+            "cumulativePieceSize": "Total stored (TiB)",
+            "pieceCid": "Piece CID",
+            "numberOfCopy": "Number of copy",
+            "miners": "Miners",
+            "numberOfDeals": "Total deals",
+            "lastCopyExpirationEpoch": "Last copy expiration",
+            "expireInDays": "Expire in (days)"
+        },
+        "axisUnits": {
+            "quantityOfDataTiB": "Data (TiB)",
+            "cumulativePieceSize": "Cumulative piece size onboarded",
+            "copy": "copy",
+            "copies": "copies"
+        },
+        "noRowsFound": "No data",
+        "noDataAvailable": "No data",
+        "unknownValue": "N/A"
+    }
+}

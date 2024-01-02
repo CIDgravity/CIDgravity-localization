@@ -1,0 +1,29 @@
+{
+    "title": "Manage client settings",
+    "other": {
+        "token": {
+            "title": "API Token",
+            "regenerate": "Disable and regenerate this token",
+            "subtitle": "Add this token to use CIDgravity client APIs"
+        },
+        "friendlyName": {
+            "title": "Friendly name",
+            "button": {
+                "save": "Save"
+            }
+        }
+    },
+    "notification": {
+        "success": {
+            "onUpdateFriendlyName": "Your address friendly name has been updated!",
+            "onRegenerateConnectorToken": "Token has been regenerated!"
+        },
+        "error": {
+            "onUpdateFriendlyName": "Unable to save your friendly name. Try later or reach out to CIDgravity team",
+            "onRegenerateConnectorToken": "Unable to regenerate the connector token. Try later or reach out to CIDgravity team"
+        }
+    },
+    "error": {
+        "generic": "Unable to retrieve your account details. Try later or reach out to CIDgravity team!"
+    }
+}
