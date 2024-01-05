@@ -1,12 +1,14 @@
 {
     "menu": {
-        "retrieval": {
-            "dashboard": "Analytics"
-        },
         "client": {
             "dashboard": "Dashboard",
             "informations": "Information",
-            "helpCenter": "Help center"
+            "helpCenter": "Help center",
+            "settings": "Settings"
+        },
+        "provider": {
+            "helpCenter": "Help center",
+            "dashboard": "Dashboard"
         }
     }
 }
