@@ -8,7 +8,14 @@
         },
         "provider": {
             "helpCenter": "Help center",
-            "dashboard": "Dashboard"
+            "dashboard": "Dashboard",
+            "client": "Clients",
+            "settings": "Settings",
+            "storage": {
+                "title": "Storage",
+                "pricing": "Pricing",
+                "integration": "Integrations"
+            }
         }
     }
 }
