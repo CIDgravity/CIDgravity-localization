@@ -1,15 +1,14 @@
 {
     "menu": {
-        "settings": "Settings",
         "storage": {
-            "history": "History",
-            "acceptanceLogic": "Acceptance logic"
+            "history": "History"
         },
         "retrieval": {
             "dashboard": "Analytics"
         },
         "client": {
-            "dashboard": "Dashboard"
+            "dashboard": "Dashboard",
+            "informations": "Information"
         }
     }
 }
