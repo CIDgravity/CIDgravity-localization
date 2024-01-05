@@ -1,14 +1,12 @@
 {
     "menu": {
-        "storage": {
-            "history": "History"
-        },
         "retrieval": {
             "dashboard": "Analytics"
         },
         "client": {
             "dashboard": "Dashboard",
-            "informations": "Information"
+            "informations": "Information",
+            "helpCenter": "Help center"
         }
     }
 }
