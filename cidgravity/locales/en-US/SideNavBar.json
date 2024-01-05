@@ -1,23 +1,15 @@
 {
     "menu": {
-        "helpCenter": "Help center",
         "dashboard": "Dashboard",
-        "client": "Clients",
         "settings": "Settings",
         "storage": {
-            "title": "Storage",
             "pricing": "Pricing",
-            "integration": "Integrations",
             "history": "History",
-            "playground": "Playground",
             "blacklist": "Blacklist",
-            "dashboard": "Analytics",
             "acceptanceLogic": "Acceptance logic"
         },
         "retrieval": {
-            "title": "Retrieval",
             "history": "History",
-            "acl": "Deny list",
             "dashboard": "Analytics"
         }
     }

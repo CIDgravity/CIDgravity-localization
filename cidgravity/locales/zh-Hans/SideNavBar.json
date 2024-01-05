@@ -1,22 +1,16 @@
 {
     "menu": {
         "dashboard": "面板",
-        "client": "客户",
         "settings": "设置",
-        "helpCenter": "帮助中心",
         "storage": {
             "title": "存储",
             "pricing": "定价",
-            "integration": "集成",
             "history": "历史",
-            "playground": "实验场",
-            "blacklist": "黑名单",
-            "dashboard": "分析"
+            "blacklist": "黑名单"
         },
         "retrieval": {
             "title": "检索",
             "history": "历史",
-            "acl": "拒绝列表",
             "dashboard": "侧分析"
         }
     }
