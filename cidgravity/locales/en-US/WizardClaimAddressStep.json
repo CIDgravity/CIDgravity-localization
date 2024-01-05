@@ -6,7 +6,6 @@
     "subtitle": "Enter the address you wish to claim.",
     "validation": {
         "isAddressFieldMandatory": "This field is mandatory.",
-        "isAddressNotAStorageMiner": "This address is not a storage miner.",
         "isAddressAlreadyClaimed": "Address already claimed.",
         "isAddressInvalid": "Invalid address."
     },
