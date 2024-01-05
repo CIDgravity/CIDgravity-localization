@@ -1,1 +1,7 @@
-{}
+{
+    "filter": {
+        "timeRange": {
+            "placeholder": "Select a time range"
+        }
+    }
+}
