@@ -1,16 +1,15 @@
 {
     "menu": {
-        "dashboard": "Dashboard",
         "settings": "Settings",
         "storage": {
-            "pricing": "Pricing",
             "history": "History",
-            "blacklist": "Blacklist",
             "acceptanceLogic": "Acceptance logic"
         },
         "retrieval": {
-            "history": "History",
             "dashboard": "Analytics"
+        },
+        "client": {
+            "dashboard": "Dashboard"
         }
     }
 }
