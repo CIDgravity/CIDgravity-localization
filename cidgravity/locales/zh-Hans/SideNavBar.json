@@ -1,17 +1,12 @@
 {
     "menu": {
-        "dashboard": "面板",
         "settings": "设置",
         "storage": {
-            "title": "存储",
             "pricing": "定价",
-            "history": "历史",
             "blacklist": "黑名单"
         },
         "retrieval": {
-            "title": "检索",
-            "history": "历史",
-            "dashboard": "侧分析"
+            "history": "历史"
         }
     }
 }
