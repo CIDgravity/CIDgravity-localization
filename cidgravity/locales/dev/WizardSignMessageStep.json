@@ -20,6 +20,6 @@
     },
     "validation": {
         "isSignedMessageMandatory": "Signed message is required",
-        "isSignatureInvalid": "Invalid signature"
+        "isSignatureInvalidOrChallengeExpired": "Invalid signature or challenge expired"
     }
 }
