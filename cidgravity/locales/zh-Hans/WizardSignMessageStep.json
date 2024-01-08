@@ -19,7 +19,6 @@
         "previous": "上一步"
     },
     "validation": {
-        "isSignedMessageMandatory": "需要签署的信息。",
-        "isSignatureInvalid": "无效的签名。"
+        "isSignedMessageMandatory": "需要签署的信息。"
     }
 }
