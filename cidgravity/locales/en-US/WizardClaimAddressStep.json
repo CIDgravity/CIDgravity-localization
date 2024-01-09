@@ -7,7 +7,8 @@
     "validation": {
         "isAddressFieldMandatory": "This field is mandatory.",
         "isAddressAlreadyClaimed": "Address already claimed.",
-        "isAddressInvalid": "Invalid address."
+        "isAddressInvalid": "Invalid address.",
+        "isAddressNotAStorageMinerOrAccount": "This address is not identified as either a storageminer or an account."
     },
     "claimAddressField": {
         "placeholder": "fxxxxxx"
