@@ -2,7 +2,7 @@
     "header": "Acceptance logic evaluated",
     "body": {
         "acceptanceLogicUsed": "The acceptance logic used to evaluate this proposal was : \"{{acceptanceLogicName}}\"",
-        "solvedVarsExplanation": "Acceptance logic evaluated at the time the proposal was received. Replay it in the playground for deeper analysis."
+        "solvedVarsExplanation": "The acceptance logic was assessed upon receiving the proposal. Replay it in the playground for a more in-depth analysis."
     },
     "button": {
         "close": "Close",
