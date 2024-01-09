@@ -3,7 +3,7 @@
     "subtitle": "Get started with CIDgravity in 4 easy steps:",
     "step": {
         "joinSlackCommunity": "Join our <1>Slack</1>",
-        "deployTheConnector": "Deploy the <1>CIDgravity-X connector</1> once you have claimed a miner",
+        "deployTheConnector": "Deploy the <1>CIDgravity-X connector</1> (for miner only)",
         "testConnectivity": "Test miner connectivity",
         "claimAddress": "Claim an address"
     },
