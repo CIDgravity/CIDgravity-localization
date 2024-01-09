@@ -11,9 +11,6 @@
         "title": "Completed",
         "stepDeployConnector": "Step 2: Deploy CIDgravity connector on the miner",
         "connectorTokenExplanation": "CIDgravity connector token",
-        "stepClaimAddress": "Step 1: Claim miner and configure default pricing",
-        "client": {
-            "stepClaimAddress": "Address successfully claimed."
-        }
+        "stepClaimAddress": "Step 1: Claim miner and configure default pricing"
     }
 }
