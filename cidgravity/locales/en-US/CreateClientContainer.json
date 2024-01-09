@@ -50,7 +50,7 @@
         "isPricingModelSelectionMandatory": "A pricing model is required.",
         "isAddressOrPeerIdFieldMandatory": "At least one Filecoin address or Peer ID is required.",
         "isClientNameAlreadyUsed": "This client name is already in use.",
-        "isStorageAcceptanceLogicSelectionMandatory": "You must select the acceptance logic to be associated with this client."
+        "isStorageAcceptanceLogicSelectionMandatory": "Select the acceptance logic to associate with this client."
     },
     "notification": {
         "error": {
