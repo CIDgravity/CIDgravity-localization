@@ -13,7 +13,8 @@
     "tenantSelector": {
         "noAddress": "No address",
         "noAddressSelected": "No address selected",
-        "clientsCategory": "Clients"
+        "clientsCategory": "Clients",
+        "providerCategory": "Miners"
     },
     "userDropdownMenu": {
         "account": "My account",
