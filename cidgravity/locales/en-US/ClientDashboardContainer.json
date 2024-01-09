@@ -1,3 +1,6 @@
 {
-    "title": "Welcome {{userFirstName}}"
+    "title": "Welcome {{userFirstName}}",
+    "button": {
+        "reloadDashboard": "Refresh"
+    }
 }
