@@ -3,7 +3,7 @@
         "next": "Next"
     },
     "title": "Claim a new address",
-    "subtitle": "CThis procedure will prompt you to sign a challenge, confirming your ownership rights over the specified address.\n\nIf you're a client, input the account address used for sending deals.\n\nIf you're a storage provider, input the miner ID you wish to handle using CIDgravity.\n\n",
+    "subtitle": "CThis procedure will prompt you to sign a challenge, confirming your ownership rights over the specified address.\\n\nIf you're a client, input the account address used for sending deals.\\n\nIf you're a storage provider, input the miner ID you wish to handle using CIDgravity.\\n\n\n",
     "validation": {
         "isAddressFieldMandatory": "This field is mandatory.",
         "isAddressAlreadyClaimed": "Address already claimed.",
