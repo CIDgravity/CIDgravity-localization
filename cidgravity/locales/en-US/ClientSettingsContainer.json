@@ -12,5 +12,10 @@
             },
             "title": "Nickname"
         }
+    },
+    "notification": {
+        "success": {
+            "onUpdateFriendlyName": "Nickname updated"
+        }
     }
 }
