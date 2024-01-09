@@ -24,5 +24,8 @@
     },
     "contactSlackField": {
         "label": "Slack handle *"
+    },
+    "datacapRequestLink": {
+        "label": "Datacap request link"
     }
 }
