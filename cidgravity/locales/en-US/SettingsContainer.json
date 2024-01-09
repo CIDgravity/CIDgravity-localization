@@ -92,7 +92,7 @@
             "onUpdateSettings": "An error occurred saving the miner settings, Please try again in a few minutes or contact the CIDgravity team.",
             "onMinerStatusCheckServiceUnavailable": "Automatic miner status check is unavailable, Please try again in a few minutes or contact the CIDgravity team.",
             "onMinerStatusCheckNotReachable": "Automatic miner disabled as the miner is not reachable. Go to Help Center > Diagnosis for more details",
-            "onStartEpochSealingBufferMandatoryOrZero": "Start epoch sealing buffer in mandatory. Set to 0 to disable it."
+            "onStartEpochSealingBufferMandatoryOrZero": "Start epoch sealing buffer is mandatory. Set to 0 to disable it."
         },
         "info": {
             "onMinerStatusCheckTestLoading": "Testing miner reachability, please wait 30 seconds."
