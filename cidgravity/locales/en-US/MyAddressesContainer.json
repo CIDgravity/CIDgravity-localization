@@ -87,6 +87,9 @@
             },
             "access": {
                 "tooltip": "Permissions"
+            },
+            "delete": {
+                "tooltip": "Delete"
             }
         }
     }
