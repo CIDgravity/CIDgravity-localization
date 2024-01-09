@@ -41,6 +41,7 @@
         "isEntityNameMandatory": "Entity name is mandatory",
         "isEntityNameValidString": "Invalid entity name",
         "isEntityTypeMandatory": "Entity type is mandatory",
-        "isEntityTypeValidString": "Entity type is invalid"
+        "isEntityTypeValidString": "Entity type is invalid",
+        "isEntityCountryValidString": "Country is invalid"
     }
 }
