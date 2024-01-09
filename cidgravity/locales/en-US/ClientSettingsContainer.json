@@ -4,7 +4,7 @@
         "token": {
             "title": "API Token",
             "regenerate": "Disable and regenerate this token",
-            "subtitle": "Use this token to access CIDgravity APIs for reporting, miner discovery, and more. Find additional details here."
+            "subtitle": "Use this token to access CIDgravity APIs for reporting, miner discovery, and more. Find additional details <1>here</1>."
         }
     }
 }
