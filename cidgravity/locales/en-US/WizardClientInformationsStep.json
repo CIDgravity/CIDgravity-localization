@@ -48,5 +48,6 @@
     },
     "title": "Client information",
     "subtitle": "",
-    "beCareful": "Important:"
+    "beCareful": "Important:",
+    "subtitleKYC": "Provide accurate details as they will be utilized for Know Your Customer (KYC) purposes."
 }
