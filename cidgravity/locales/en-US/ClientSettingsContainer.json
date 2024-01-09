@@ -1,3 +1,8 @@
 {
-    "title": "Settings"
+    "title": "Settings",
+    "other": {
+        "token": {
+            "title": "API Token"
+        }
+    }
 }
