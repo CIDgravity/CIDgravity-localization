@@ -1,3 +1,10 @@
 {
-    "header": "Renew the CIDgravity connector token"
+    "header": "Renew the CIDgravity connector token",
+    "button": {
+        "confirm": "Confirm",
+        "cancel": "Cancel"
+    },
+    "body": {
+        "yourTokenWillBeInvalidated": "You are about to regenerate the token, invalidating the previous token."
+    }
 }
