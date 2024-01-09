@@ -37,7 +37,7 @@
         "isClientNotExistingOrNotAllowed": "The client does not exist or this action is not available.",
         "ERR_DEFAULT_ACCEPTANCE_LOGIC_NOT_FOUND": "The default storage \"Acceptance logic\" is not found. Set an acceptance logic as the default and try again, or reach out to the CIDgravity team for assistance.",
         "ERR_DEFAULT_PRICING_MODEL_NOT_FOUND": "The default storage for the \"Pricing model\" cannot be found. Set a pricing model as the default and attempt again, or get in touch with the CIDgravity team for assistance.",
-        "ERR_CHECK_ADDRESS_FROM_HISTORY": "This address is invalid or does not exist on chain.",
+        "ERR_CHECK_ADDRESS_FROM_HISTORY": "The provided address is either invalid or does not exist on the chain.",
         "ERR_ADDRESS_ALREADY_USED_FROM_HISTORY": "This address is already attached to an existing client."
     },
     "button": {
