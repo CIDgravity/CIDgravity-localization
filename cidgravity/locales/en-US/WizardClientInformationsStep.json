@@ -47,5 +47,6 @@
         "isDatacapRequestLinkValidUrl": "Datacap request link must be a valid URL"
     },
     "title": "Client information",
-    "subtitle": ""
+    "subtitle": "",
+    "beCareful": "Important:"
 }
