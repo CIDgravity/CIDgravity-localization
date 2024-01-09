@@ -68,5 +68,8 @@
             "onDeleteAddress": "Unable to delete address. Please try again later or contact the CIDgravity team.",
             "onRemoveAccess": "Unable to remove permission. Please try again later or contact the CIDgravity team."
         }
+    },
+    "clientAddress": {
+        "title": "Client addresses"
     }
 }
