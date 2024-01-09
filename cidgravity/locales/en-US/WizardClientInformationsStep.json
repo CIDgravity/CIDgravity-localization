@@ -43,6 +43,7 @@
         "isContactEmailValid": "Contact E-mail address must be a valid e-mail",
         "isContactEmailMandatory": "Contact E-mail address is mandatory",
         "isContactSlackValidString": "contact Slack username is invalid",
-        "isContactSlackMandatory": "Contact Slack username is mandatory"
+        "isContactSlackMandatory": "Contact Slack username is mandatory",
+        "isDatacapRequestLinkValidUrl": "Datacap request link must be a valid URL"
     }
 }
