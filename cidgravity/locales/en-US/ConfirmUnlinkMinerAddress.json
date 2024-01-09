@@ -1,5 +1,5 @@
 {
-    "header": "Remove miner {{addressId}}",
+    "header": "Remove {{addressId}}",
     "body": {
         "willUnlinkFromYourAccount": "This action will unlink the miner with your CIDgravity account.",
         "beCareful": "It's a non-destructive action,",
