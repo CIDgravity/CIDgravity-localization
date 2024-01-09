@@ -78,6 +78,12 @@
             },
             "addressId": {
                 "title": "Address ID"
+            },
+            "longAddress": {
+                "title": "Long address"
+            },
+            "actorType": {
+                "title": "Actor type"
             }
         }
     }
