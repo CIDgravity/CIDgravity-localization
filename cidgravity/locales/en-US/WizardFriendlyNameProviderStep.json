@@ -1,4 +1,7 @@
 {
     "defaultFriendlyName": "{{userNickname}}'s super miner",
-    "subtitle": "This information will allow you to quickly identify the miner within the interface."
+    "subtitle": "This information will allow you to quickly identify the miner within the interface.",
+    "validation": {
+        "isFriendlyNameMandatory": "Nickname is required."
+    }
 }
