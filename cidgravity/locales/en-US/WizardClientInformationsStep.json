@@ -1,1 +1,5 @@
-{}
+{
+    "entityNameField": {
+        "label": "Entity name *"
+    }
+}
