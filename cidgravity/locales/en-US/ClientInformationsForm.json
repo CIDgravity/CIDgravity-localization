@@ -21,5 +21,8 @@
     "contactFullName": {
         "placeholder": "Jane Doe",
         "label": "Contact full name *"
+    },
+    "contactEmail": {
+        "label": "Contact E-mail address *"
     }
 }
