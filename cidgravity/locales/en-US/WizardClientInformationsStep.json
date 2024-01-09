@@ -20,7 +20,7 @@
         "label": "Contact full name *"
     },
     "contactEmailField": {
-        "label": "E-mail address *"
+        "label": "Contact E-mail address *"
     },
     "contactSlackField": {
         "label": "Slack handle *"
