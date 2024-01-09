@@ -28,5 +28,9 @@
     "datacapRequestLink": {
         "label": "Datacap request link",
         "placeholder": "https://github.com/filecoin-project/filecoin-plus-large-datasets/issues/XXXX"
+    },
+    "validation": {
+        "isEntityNameMandatory": "Entity name is mandatory",
+        "isEntityNameValidString": "Invalid entity name"
     }
 }
