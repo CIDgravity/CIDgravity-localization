@@ -45,5 +45,6 @@
         "isContactSlackValidString": "contact Slack username is invalid",
         "isContactSlackMandatory": "Contact Slack username is mandatory",
         "isDatacapRequestLinkValidUrl": "Datacap request link must be a valid URL"
-    }
+    },
+    "title": "Client information"
 }
