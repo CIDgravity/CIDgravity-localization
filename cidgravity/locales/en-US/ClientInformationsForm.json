@@ -29,5 +29,8 @@
     "contactSlack": {
         "label": "CONTACT SLACK HANDLE *",
         "placeholder": "JaneDoe"
+    },
+    "datacapRequestLink": {
+        "label": "Datacap request link"
     }
 }
