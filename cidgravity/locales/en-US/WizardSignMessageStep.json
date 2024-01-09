@@ -14,7 +14,7 @@
         "label": "2. Signature output*"
     },
     "title": "Sign message to claim this address",
-    "subtitle": "This allows CIDgravity to verify required permissions.",
+    "subtitle": "This verification process grants you permissions to manage the following address within CIDgravity.",
     "runThisCommandStep": {
         "label": "1. Run this command to sign the message",
         "codeHighlight": {
