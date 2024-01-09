@@ -47,7 +47,7 @@
         "isDatacapRequestLinkValidUrl": "Datacap request link must be a valid URL"
     },
     "title": "Client information",
-    "subtitle": "",
+    "subtitle": " ",
     "beCareful": "Important:",
     "subtitleKYC": "Provide accurate details as they will be utilized for Know Your Customer (KYC) purposes."
 }
