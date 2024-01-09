@@ -26,6 +26,7 @@
         "label": "Slack handle *"
     },
     "datacapRequestLink": {
-        "label": "Datacap request link"
+        "label": "Datacap request link",
+        "placeholder": "https://github.com/filecoin-project/filecoin-plus-large-datasets/issues/XXXX"
     }
 }
