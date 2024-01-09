@@ -1,5 +1,6 @@
 {
     "entityName": {
-        "label": "Entity name *"
+        "label": "Entity name *",
+        "placeholder": "ACME Inc."
     }
 }
