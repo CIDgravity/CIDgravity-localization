@@ -11,7 +11,7 @@
         }
     },
     "entityCountryField": {
-        "label": "Country *"
+        "label": "Entity Country *"
     },
     "entityWebsiteField": {
         "label": "Entity website *"
