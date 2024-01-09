@@ -2,7 +2,8 @@
     "title": "Settings",
     "other": {
         "token": {
-            "title": "API Token"
+            "title": "API Token",
+            "regenerate": "Disable and regenerate this token"
         }
     }
 }
