@@ -1,9 +1,7 @@
 {
     "menu": {
-        "settings": "设置",
         "storage": {
-            "pricing": "定价",
-            "blacklist": "黑名单"
+            "pricing": "定价"
         },
         "retrieval": {
             "history": "历史"
