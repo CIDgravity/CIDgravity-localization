@@ -12,7 +12,8 @@
     },
     "tenantSelector": {
         "noAddress": "No address",
-        "noAddressSelected": "No address selected"
+        "noAddressSelected": "No address selected",
+        "clientsCategory": "Clients"
     },
     "userDropdownMenu": {
         "account": "My account",
