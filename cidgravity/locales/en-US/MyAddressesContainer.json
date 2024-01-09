@@ -72,7 +72,10 @@
     "clientAddress": {
         "title": "Client addresses",
         "table": {
-            "empty": "No addresses"
+            "empty": "No addresses",
+            "friendlyName": {
+                "title": "Nickname"
+            }
         }
     }
 }
