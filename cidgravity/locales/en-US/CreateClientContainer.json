@@ -70,6 +70,6 @@
     "storageAcceptanceLogic": {
         "title": "Acceptance logic",
         "description": "Select from the dropdown or create a new one.",
-        "noSelectedDefaultWillApply": "No acceptance logic selected, default logic will apply"
+        "noSelectedDefaultWillApply": "No acceptance logic has been selected; the default logic will be applied."
     }
 }
