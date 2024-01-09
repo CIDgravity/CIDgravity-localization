@@ -1,5 +1,8 @@
 {
     "defaultFriendlyName": "{{userNickname}}'s awesome dataset",
     "title": "Set an address Nickname *",
-    "subtitle": "This information will allow you to quickly identify the miner within the interface."
+    "subtitle": "This information will allow you to quickly identify the address within the interface.",
+    "validation": {
+        "isFriendlyNameMandatory": "Nickname is required."
+    }
 }
