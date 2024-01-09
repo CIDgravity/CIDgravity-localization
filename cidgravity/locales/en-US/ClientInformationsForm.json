@@ -27,6 +27,7 @@
         "placeholder": "jane@doe.com"
     },
     "contactSlack": {
-        "label": "CONTACT SLACK HANDLE *"
+        "label": "CONTACT SLACK HANDLE *",
+        "placeholder": "JaneDoe"
     }
 }
