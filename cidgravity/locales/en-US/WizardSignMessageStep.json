@@ -8,7 +8,8 @@
         "isUnableToGenerateChallenge": "An error occurred whilst generating the challenge to sign. Please try again later or contact the CIDgravity team."
     },
     "validation": {
-        "isSignedMessageMandatory": "Signed message is required."
+        "isSignedMessageMandatory": "Signed message is required.",
+        "isSignatureInvalidOrChallengeExpired": "Invalid signature or challenge expired."
     },
     "putSignedMessageStep": {
         "label": "2. Signed challenge *"
