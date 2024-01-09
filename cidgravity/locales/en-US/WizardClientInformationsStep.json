@@ -14,7 +14,7 @@
         "label": "Country *"
     },
     "entityWebsiteField": {
-        "label": "Company website *"
+        "label": "Entity website *"
     },
     "contactFullNameField": {
         "label": "Contact full name *"
