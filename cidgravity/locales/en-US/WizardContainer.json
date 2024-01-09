@@ -1,5 +1,5 @@
 {
-    "title": "Claim: {{address}}",
+    "title": "Claim {{address}}",
     "step": {
         "start": "Start",
         "signMessage": "Sign message",
