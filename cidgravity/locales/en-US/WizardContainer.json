@@ -2,7 +2,7 @@
     "title": "Claim {{address}}",
     "step": {
         "start": "Start",
-        "signMessage": "Sign message",
+        "signMessage": "Ownership Verification",
         "friendlyName": "Nickname",
         "importClientsAndPricing": "Import clients and pricing",
         "complete": "Complete",
