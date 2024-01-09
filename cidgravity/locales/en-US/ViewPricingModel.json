@@ -32,7 +32,7 @@
             "title": "Associated clients",
             "pricing": {
                 "noClient": "No clients are associated with this pricing model.",
-                "alsoApplyToUnknownClients": "This is the default pricing model, it also apply to any unknown client"
+                "alsoApplyToUnknownClients": "This serves as the default pricing model, and it applies to any unknown client as well."
             },
             "titleClientsWithDefault": "Inherited existing clients (default pricing model)"
         }
