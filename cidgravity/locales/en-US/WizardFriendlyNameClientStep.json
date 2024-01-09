@@ -1,3 +1,4 @@
 {
-    "defaultFriendlyName": "{{userNickname}}'s awesome dataset"
+    "defaultFriendlyName": "{{userNickname}}'s awesome dataset",
+    "title": "Set an address Nickname *"
 }
