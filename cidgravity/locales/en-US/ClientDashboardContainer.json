@@ -2,5 +2,8 @@
     "title": "Welcome {{userFirstName}}",
     "button": {
         "reloadDashboard": "Refresh"
+    },
+    "error": {
+        "unableToLoadMinerSettings": "Unable to load the dashboard. Please try again later or contact the CIDgravity team."
     }
 }
