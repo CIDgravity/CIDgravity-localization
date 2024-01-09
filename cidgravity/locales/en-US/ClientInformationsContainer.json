@@ -2,5 +2,10 @@
     "title": "Client information",
     "subtitle": " ",
     "beCareful": "Important:",
-    "subtitleKYC": "Provide accurate details as they will be utilized for Know Your Customer (KYC) purposes."
+    "subtitleKYC": "Provide accurate details as they will be utilized for Know Your Customer (KYC) purposes.",
+    "notification": {
+        "success": {
+            "isClientInformationsUpdated": "The client information has been successfully updated."
+        }
+    }
 }
