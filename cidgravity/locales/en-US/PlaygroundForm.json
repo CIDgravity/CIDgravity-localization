@@ -49,7 +49,7 @@
     },
     "storageAcceptanceLogic": {
         "title": "Storage acceptance logic",
-        "subtitle": "Simulate the state of the sealing pipeline at the time the proposal is received."
+        "subtitle": "Simulate the state of the sealing pipeline when the proposal is received."
     },
     "sealingpipeline": {
         "value": {
