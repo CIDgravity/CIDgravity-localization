@@ -36,5 +36,9 @@
     },
     "button": {
         "update": "Update"
+    },
+    "validation": {
+        "isEntityNameMandatory": "Entity name is mandatory",
+        "isEntityNameValidString": "Invalid entity name"
     }
 }
