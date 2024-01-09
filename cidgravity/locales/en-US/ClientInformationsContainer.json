@@ -6,6 +6,9 @@
     "notification": {
         "success": {
             "isClientInformationsUpdated": "The client information has been successfully updated."
+        },
+        "error": {
+            "isClientInformationsFailed": "An error occurred whilst  updating client information. Please try again later or contact the CIDgravity team."
         }
     }
 }
