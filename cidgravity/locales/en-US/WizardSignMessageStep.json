@@ -11,7 +11,7 @@
         "isSignedMessageMandatory": "Signed message is required."
     },
     "putSignedMessageStep": {
-        "label": "2. Signature output*"
+        "label": "2. Signed challenge *"
     },
     "title": "Sign message to claim this address",
     "subtitle": "This verification process grants you permissions to manage the following address within CIDgravity.",
