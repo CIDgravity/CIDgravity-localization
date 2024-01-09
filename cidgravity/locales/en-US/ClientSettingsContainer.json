@@ -15,7 +15,7 @@
     },
     "notification": {
         "success": {
-            "onUpdateFriendlyName": "Nickname updated"
+            "onUpdateFriendlyName": "Nickname updated."
         }
     }
 }
