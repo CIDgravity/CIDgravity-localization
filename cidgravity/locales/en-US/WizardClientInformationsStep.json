@@ -23,7 +23,7 @@
         "label": "Contact E-mail address *"
     },
     "contactSlackField": {
-        "label": "Slack handle *"
+        "label": "Contact Slack handle *"
     },
     "datacapRequestLink": {
         "label": "Datacap request link",
