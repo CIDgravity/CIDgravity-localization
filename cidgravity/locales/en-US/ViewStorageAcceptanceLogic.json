@@ -4,7 +4,7 @@
             "title": "Associated clients",
             "acceptanceLogic": {
                 "noClient": "No clients are associated with this acceptance logic",
-                "alsoApplyToUnknownClients": "This is the default acceptance logic, it also apply to any unknown client"
+                "alsoApplyToUnknownClients": "This serves as the default acceptance logic, and it applies to any unknown client as well."
             },
             "titleClientsWithDefault": "Inherited existing clients (default acceptance logic)"
         }
