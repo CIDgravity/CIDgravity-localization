@@ -1,3 +1,4 @@
 {
-    "defaultFriendlyName": "{{userNickname}}'s super miner"
+    "defaultFriendlyName": "{{userNickname}}'s super miner",
+    "subtitle": "This information will allow you to quickly identify the miner within the interface."
 }
