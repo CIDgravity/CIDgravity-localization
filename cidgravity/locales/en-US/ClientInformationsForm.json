@@ -23,6 +23,10 @@
         "label": "Contact full name *"
     },
     "contactEmail": {
-        "label": "Contact E-mail address *"
+        "label": "Contact E-mail address *",
+        "placeholder": "jane@doe.com"
+    },
+    "contactSlack": {
+        "label": "CONTACT SLACK HANDLE *"
     }
 }
