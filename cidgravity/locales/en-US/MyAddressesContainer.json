@@ -70,6 +70,9 @@
         }
     },
     "clientAddress": {
-        "title": "Client addresses"
+        "title": "Client addresses",
+        "table": {
+            "empty": "No addresses"
+        }
     }
 }
