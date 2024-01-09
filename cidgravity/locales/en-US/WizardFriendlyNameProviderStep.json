@@ -3,5 +3,6 @@
     "subtitle": "This information will allow you to quickly identify the miner within the interface.",
     "validation": {
         "isFriendlyNameMandatory": "Nickname is required."
-    }
+    },
+    "title": "Set a miner Nickname *"
 }
