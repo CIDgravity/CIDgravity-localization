@@ -17,6 +17,9 @@
         "success": {
             "onUpdateFriendlyName": "Nickname updated.",
             "onRegenerateConnectorToken": "Token has been regenerated."
+        },
+        "error": {
+            "onUpdateFriendlyName": "An error occurred updating the miner nickname, Please try again in a few minutes or contact the CIDgravity team."
         }
     }
 }
