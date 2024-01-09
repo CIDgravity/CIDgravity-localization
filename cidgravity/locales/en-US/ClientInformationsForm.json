@@ -4,6 +4,14 @@
         "placeholder": "ACME Inc."
     },
     "entityType": {
-        "label": "Entity type *"
+        "label": "Entity type *",
+        "options": {
+            "organization": "Organization",
+            "company": "Company",
+            "individual": "Individual"
+        }
+    },
+    "entityCountry": {
+        "label": "Entity Country *"
     }
 }
