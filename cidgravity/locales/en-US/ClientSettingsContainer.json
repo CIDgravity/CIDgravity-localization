@@ -15,7 +15,8 @@
     },
     "notification": {
         "success": {
-            "onUpdateFriendlyName": "Nickname updated."
+            "onUpdateFriendlyName": "Nickname updated.",
+            "onRegenerateConnectorToken": "Token has been regenerated."
         }
     }
 }
