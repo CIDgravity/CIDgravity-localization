@@ -1,29 +1,29 @@
 {
-    "title": "Manage client settings",
+    "title": "Settings",
     "other": {
         "token": {
             "title": "API Token",
             "regenerate": "Disable and regenerate this token",
-            "subtitle": "Add this token to use CIDgravity client APIs"
+            "subtitle": "Use this token to access CIDgravity APIs for reporting, miner discovery, and more. Find additional details in the <1>documentation</1>."
         },
         "friendlyName": {
-            "title": "Friendly name",
             "button": {
                 "save": "Save"
-            }
+            },
+            "title": "Nickname"
         }
     },
     "notification": {
         "success": {
-            "onUpdateFriendlyName": "Your address friendly name has been updated!",
-            "onRegenerateConnectorToken": "Token has been regenerated!"
+            "onUpdateFriendlyName": "Nickname updated.",
+            "onRegenerateConnectorToken": "Token has been regenerated."
         },
         "error": {
-            "onUpdateFriendlyName": "Unable to save your friendly name. Try later or reach out to CIDgravity team",
-            "onRegenerateConnectorToken": "Unable to regenerate the connector token. Try later or reach out to CIDgravity team"
+            "onUpdateFriendlyName": "An error occurred updating the miner nickname, Please try again in a few minutes or contact the CIDgravity team.",
+            "onRegenerateConnectorToken": "An error occurred generating a new token, Please try again in a few minutes or contact the CIDgravity team."
         }
     },
     "error": {
-        "generic": "Unable to retrieve your account details. Try later or reach out to CIDgravity team!"
+        "generic": "An error occurred retrieving account details, Please try again in a few minutes or contact the CIDgravity team."
     }
 }

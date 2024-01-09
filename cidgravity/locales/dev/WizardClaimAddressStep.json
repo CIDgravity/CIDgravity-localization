@@ -1,16 +1,17 @@
 {
-    "title": "Claim new address on CIDgravity",
-    "subtitle": "Fill the address you wish to claim",
+    "button": {
+        "next": "Next"
+    },
+    "title": "Claim a new address",
+    "subtitle": "This procedure will prompt you to sign a challenge, confirming your ownership rights over the specified address",
+    "subtitleProvider": "If you're a storage provider, input the miner ID you wish to handle using CIDgravity",
+    "subtitleClient": "If you're a client, input the account address used for sending deals",
     "validation": {
-        "isAddressFieldMandatory": "Please enter your address",
-        "isAddressNotAStorageMinerOrAccount": "This address is neither a storage miner or an account",
-        "isAddressAlreadyClaimed": "You have already claimed this address",
-        "isAddressInvalid": "Invalid address"
+        "isAddressFieldMandatory": "This field is mandatory.",
+        "isAddressAlreadyClaimed": "Address already claimed.",
+        "isAddressInvalid": "Invalid address."
     },
     "claimAddressField": {
         "placeholder": "fxxxxxx"
-    },
-    "button": {
-        "next": "Next"
     }
 }

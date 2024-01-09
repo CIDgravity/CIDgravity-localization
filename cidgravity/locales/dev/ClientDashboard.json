@@ -17,6 +17,12 @@
         "quantityOfDataOnboarded": {
             "title": "Quantity of data onboarded"
         },
+        "listOfOnChainDeals": {
+            "title": "List of all deals on chain with stats"
+        },
+            "listOfDealsAwaitingPublished": {
+            "title": "List of deals awaiting published"
+        },
         "numberOfCopy": {
             "title": "Number of copies on network"
         },
@@ -24,6 +30,15 @@
             "title": "Size / deals stored per provider"
         },
         "columnsName": {
+            "dealId": "Deal ID",
+            "proposalFetchedOn": "Proposal fetched on",
+            "stateFetchedOn": "State fetched on",
+            "sectorStartOn": "Sector start on",
+            "cidgProposal": "CIDgravity",
+            "downloadDuration": "Download duration", 
+            "analysedByCIDG": "Has been analysed by CIDG ?",
+            "sealingDuration": "Sealing duration",
+            "status": "Status",
             "provider": "Miner",
             "cumulativePieceSize": "Total stored (TiB)",
             "pieceCid": "Piece CID",

@@ -1,11 +1,11 @@
 {
-    "title": "Claim address {{address}}",
+    "title": "Claim {{address}}",
     "step": {
         "start": "Start",
-        "signMessage": "Sign message",
-        "friendlyName": "Friendly name",
-        "settings": "Settings",
+        "signMessage": "Ownership Verification",
+        "friendlyName": "Nickname",
         "importClientsAndPricing": "Import clients and pricing",
-        "complete": "Complete"
+        "complete": "Complete",
+        "settings": "Global settings"
     }
 }
