@@ -5,7 +5,7 @@
         "joinSlackCommunity": "Join our <1>Slack</1>",
         "deployTheConnector": "Deploy the <1>CIDgravity-X connector</1> once you have claimed a miner",
         "testConnectivity": "Test miner connectivity",
-        "claimAddress": "2. Claim an address"
+        "claimAddress": "Claim an address"
     },
     "button": {
         "next": "Next"
