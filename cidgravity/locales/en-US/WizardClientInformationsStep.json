@@ -1,5 +1,16 @@
 {
     "entityNameField": {
         "label": "Entity name *"
+    },
+    "entityTypeField": {
+        "label": "Entity type *",
+        "options": {
+            "organization": "Organization",
+            "company": "Company",
+            "individual": "Individual"
+        }
+    },
+    "entityCountryField": {
+        "label": "Country *"
     }
 }
