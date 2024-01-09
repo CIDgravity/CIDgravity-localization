@@ -5,6 +5,12 @@
             "title": "API Token",
             "regenerate": "Disable and regenerate this token",
             "subtitle": "Use this token to access CIDgravity APIs for reporting, miner discovery, and more. Find additional details in the <1>documentation</1>."
+        },
+        "friendlyName": {
+            "button": {
+                "save": "Save"
+            },
+            "title": "Nickname"
         }
     }
 }
