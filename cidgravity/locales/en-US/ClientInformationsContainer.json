@@ -10,5 +10,8 @@
         "error": {
             "isClientInformationsFailed": "An error occurred whilst  updating client information. Please try again later or contact the CIDgravity team."
         }
+    },
+    "error": {
+        "generic": "Unable to retrieve your account details. Try later or reach out to CIDgravity team!"
     }
 }
