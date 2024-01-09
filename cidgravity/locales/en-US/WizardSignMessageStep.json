@@ -13,7 +13,7 @@
     "putSignedMessageStep": {
         "label": "2. Signed challenge *"
     },
-    "title": "Sign message to claim this address",
+    "title": "Ownership verification",
     "subtitle": "This verification process grants you permissions to manage the following address within CIDgravity.",
     "runThisCommandStep": {
         "label": "1. Run this command to sign the message",
