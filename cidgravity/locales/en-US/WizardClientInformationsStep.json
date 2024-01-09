@@ -12,5 +12,11 @@
     },
     "entityCountryField": {
         "label": "Country *"
+    },
+    "entityWebsiteField": {
+        "label": "Company website *"
+    },
+    "contactFullNameField": {
+        "label": "Contact full name *"
     }
 }
