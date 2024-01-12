@@ -46,7 +46,7 @@
             "title": "Data onboarded"
         },
         "numberOfCopy": {
-            "title": "Number of copies on network"
+            "title": "PieceCIDs - Number of active copies"
         },
         "sizeStoredPerProvider": {
             "title": "Size / deals stored per provider"
