@@ -24,7 +24,9 @@
             "status": "Status",
             "numberOfCopy": "Number of copies",
             "miners": "Miners",
-            "numberOfDeals": "Number of deals"
+            "numberOfDeals": "Number of deals",
+            "lastCopyExpirationEpoch": "Last copy expiration",
+            "expireInDays": "Expire in (days)"
         }
     }
 }
