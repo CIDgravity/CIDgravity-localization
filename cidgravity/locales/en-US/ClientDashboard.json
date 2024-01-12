@@ -21,7 +21,8 @@
             "provider": "Miner",
             "cumulativePieceSize": "Total stored (TiB)",
             "pieceCid": "Piece CID",
-            "status": "Status"
+            "status": "Status",
+            "numberOfCopy": "Number of copies"
         }
     }
 }
