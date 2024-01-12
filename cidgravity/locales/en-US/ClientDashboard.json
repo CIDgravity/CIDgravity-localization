@@ -36,6 +36,9 @@
         },
         "noRowsFound": "No data",
         "noDataAvailable": "No data",
-        "unknownValue": "N/A"
+        "unknownValue": "N/A",
+        "quantityOfDataOnboarded": {
+            "title": "Quantity of data onboarded"
+        }
     }
 }
