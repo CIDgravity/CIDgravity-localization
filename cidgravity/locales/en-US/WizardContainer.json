@@ -6,6 +6,7 @@
         "friendlyName": "Nickname",
         "importClientsAndPricing": "Import clients and pricing",
         "complete": "Complete",
-        "settings": "Global settings"
+        "settings": "Global settings",
+        "clientInformation": "Client information"
     }
 }
