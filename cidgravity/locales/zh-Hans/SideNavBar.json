@@ -1,8 +1,5 @@
 {
     "menu": {
-        "storage": {
-            "pricing": "定价"
-        },
         "retrieval": {
             "history": "历史"
         }
