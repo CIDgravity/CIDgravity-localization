@@ -11,5 +11,6 @@
     },
     "claimAddressField": {
         "placeholder": "fxxxxxx"
-    }
+    },
+    "subtitleProvider": "If you're a storage provider, input the miner ID you wish to handle using CIDgravity."
 }
