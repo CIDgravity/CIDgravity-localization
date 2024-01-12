@@ -17,7 +17,11 @@
         "columnsName": {
             "proposalFetchedOn": "Proposal fetched on",
             "dealId": "Deal ID",
-            "stateFetchedOn": "State fetched on"
+            "stateFetchedOn": "State fetched on",
+            "provider": "Miner",
+            "cumulativePieceSize": "Total stored (TiB)",
+            "pieceCid": "Piece CID",
+            "status": "Status"
         }
     }
 }
