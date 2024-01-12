@@ -49,7 +49,7 @@
             "title": "PieceCIDs - Number of active copies"
         },
         "sizeStoredPerProvider": {
-            "title": "Size / deals stored per provider"
+            "title": "Active volume per SP"
         },
         "listOfOnChainDeals": {
             "title": "List of all deals on chain with stats"
