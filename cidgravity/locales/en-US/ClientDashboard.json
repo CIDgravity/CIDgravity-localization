@@ -19,7 +19,7 @@
             "dealId": "Deal ID",
             "stateFetchedOn": "State fetched on",
             "provider": "Miner",
-            "cumulativePieceSize": "Total stored (TiB)",
+            "cumulativePieceSize": "Volume (TiB)",
             "pieceCid": "Piece CID",
             "status": "Status",
             "numberOfCopy": "Number of copies",
