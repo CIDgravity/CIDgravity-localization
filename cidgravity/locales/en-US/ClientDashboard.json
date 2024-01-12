@@ -13,6 +13,10 @@
     "retool": {
         "pieceCidList": {
             "title": "List of piece cids"
+        },
+        "columnsName": {
+            "proposalFetchedOn": "Proposal fetched on",
+            "dealId": "Deal ID"
         }
     }
 }
