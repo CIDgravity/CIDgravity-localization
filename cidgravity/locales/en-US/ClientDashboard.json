@@ -26,7 +26,12 @@
             "miners": "Miners",
             "numberOfDeals": "Number of deals",
             "lastCopyExpirationEpoch": "Last copy expiration",
-            "expireInDays": "Expire in (days)"
+            "expireInDays": "Expire in (days)",
+            "sectorStartOn": "Sector start on",
+            "cidgProposal": "CIDgravity",
+            "downloadDuration": "Download duration",
+            "analysedByCIDG": "Has been analysed by CIDG ?",
+            "sealingDuration": "Sealing duration"
         },
         "axisUnits": {
             "quantityOfDataTiB": "Data (TiB)",
@@ -39,6 +44,18 @@
         "unknownValue": "N/A",
         "quantityOfDataOnboarded": {
             "title": "Quantity of data onboarded"
+        },
+        "numberOfCopy": {
+            "title": "Number of copies on network"
+        },
+        "sizeStoredPerProvider": {
+            "title": "Size / deals stored per provider"
+        },
+        "listOfOnChainDeals": {
+            "title": "List of all deals on chain with stats"
+        },
+        "listOfDealsAwaitingPublished": {
+            "title": "List of deals awaiting published"
         }
     }
 }
