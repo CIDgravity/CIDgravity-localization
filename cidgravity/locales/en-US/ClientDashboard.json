@@ -23,7 +23,8 @@
             "pieceCid": "Piece CID",
             "status": "Status",
             "numberOfCopy": "Number of copies",
-            "miners": "Miners"
+            "miners": "Miners",
+            "numberOfDeals": "Number of deals"
         }
     }
 }
