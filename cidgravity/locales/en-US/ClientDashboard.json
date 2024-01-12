@@ -22,7 +22,8 @@
             "cumulativePieceSize": "Total stored (TiB)",
             "pieceCid": "Piece CID",
             "status": "Status",
-            "numberOfCopy": "Number of copies"
+            "numberOfCopy": "Number of copies",
+            "miners": "Miners"
         }
     }
 }
