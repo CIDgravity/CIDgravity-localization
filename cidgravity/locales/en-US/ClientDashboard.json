@@ -27,6 +27,15 @@
             "numberOfDeals": "Number of deals",
             "lastCopyExpirationEpoch": "Last copy expiration",
             "expireInDays": "Expire in (days)"
-        }
+        },
+        "axisUnits": {
+            "quantityOfDataTiB": "Data (TiB)",
+            "cumulativePieceSize": "Cumulative piece size onboarded",
+            "copy": "copy",
+            "copies": "copies"
+        },
+        "noRowsFound": "No data",
+        "noDataAvailable": "No data",
+        "unknownValue": "N/A"
     }
 }
