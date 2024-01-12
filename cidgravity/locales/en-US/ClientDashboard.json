@@ -43,7 +43,7 @@
         "noDataAvailable": "No data",
         "unknownValue": "N/A",
         "quantityOfDataOnboarded": {
-            "title": "Quantity of data onboarded"
+            "title": "Data onboarded"
         },
         "numberOfCopy": {
             "title": "Number of copies on network"
