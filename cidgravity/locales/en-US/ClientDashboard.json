@@ -111,7 +111,7 @@
             "tib": "TiB",
             "deals": "deals",
             "volume": "Volume (TiB)",
-            "numberOfDeal": "Number of deal"
+            "numberOfDeal": "Number of deals"
         },
         "offChainStatus": {
             "accepted": "Accepted",
