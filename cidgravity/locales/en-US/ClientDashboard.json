@@ -34,6 +34,12 @@
         },
         "listOfDealsAwaitingPublished": {
             "title": "List of deals awaiting published"
+        },
+        "currentStatus": {
+            "title": "Current status (instant)",
+            "awaitingPublished": {
+                "title": "Awaiting publish"
+            }
         }
     }
 }
