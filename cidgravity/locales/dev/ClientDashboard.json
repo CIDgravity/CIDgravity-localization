@@ -36,8 +36,7 @@
             },
             "remainingDatacapNotLocked": {
                 "title": "Remaining Datacap not locked",
-                "tooltip": "available onchain datacap - current deals awaiting being published",
-                "link": "github issue"
+                "tooltip": "available onchain datacap - current deals awaiting being published"
             }
         },
         "overLastTimerange": {
@@ -90,6 +89,9 @@
         "providerStats": {
             "title": "Provider stats"
         },
+        "offChainProviderStats": {
+            "title": "CIDgravity provider stats"
+        },
         "axisUnits": {
             "volume": "Volume (TiB)"
         },
@@ -99,12 +101,18 @@
             "slashed": "Slashed",
             "expired": "Expired"
         },
+        "offChainStatus": {
+            "accepted": "Accepted",
+            "neverPublished": "Never published"
+        },
         "providersRatios": {
             "title": "Provider ratios"
         },
         "displayUnit": {
             "tib": "TiB",
-            "deals": "deals"
+            "deals": "deals",
+            "volume": "Volume (TiB)",
+            "numberOfDeal": "Number of deal"
         },
         "columns": {
             "provider": "Provider",
