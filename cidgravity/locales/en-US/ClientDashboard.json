@@ -27,7 +27,11 @@
             "title": "Data onboarded"
         },
         "numberOfCopy": {
-            "title": "PieceCIDs - Number of active copies"
+            "title": "PieceCIDs - Number of active copies",
+            "legend": {
+                "copies": "copies",
+                "copy": "copy"
+            }
         },
         "listOfOnChainDeals": {
             "title": "List of all deals on chain with stats"
