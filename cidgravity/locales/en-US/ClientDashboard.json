@@ -84,6 +84,16 @@
                 "title": "Onboarded volume with replicas",
                 "tooltip": "the cumulative data volume successfully onboarded encompassing all replicas over the timerange"
             }
+        },
+        "volumePerProvider": {
+            "title": "Volume per provider",
+            "downloadAsCsv": "CSV"
+        },
+        "providerStats": {
+            "title": "Provider stats"
+        },
+        "offChainProviderStats": {
+            "title": "CIDgravity provider stats"
         }
     }
 }
