@@ -4,7 +4,8 @@
             "placeholder": "Select a time range",
             "24hours": "Last 24 hours",
             "30days": "Last 30 days",
-            "3months": "Last 3 months"
+            "3months": "Last 3 months",
+            "specificDate": "Specific date"
         }
     },
     "button": {
@@ -12,13 +13,8 @@
     },
     "retool": {
         "columnsName": {
-            "stateFetchedOn": "State fetched on",
             "status": "Status",
-            "lastCopyExpirationEpoch": "Last copy expiration",
             "downloadDuration": "Download duration"
-        },
-        "axisUnits": {
-            "cumulativePieceSize": "Cumulative piece size onboarded"
         },
         "noRowsFound": "No data",
         "noDataAvailable": "No data",
