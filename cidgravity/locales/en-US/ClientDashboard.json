@@ -9,15 +9,15 @@
         },
         "datePicker": {
             "placeholder": "Select date"
+        },
+        "unit": {
+            "placeholder": "Select charts unit"
         }
     },
     "button": {
         "refresh": "Refresh"
     },
     "retool": {
-        "columnsName": {
-            "downloadDuration": "Download duration"
-        },
         "noRowsFound": "No data",
         "noDataAvailable": "No data",
         "unknownValue": "N/A",
