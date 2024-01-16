@@ -74,7 +74,7 @@
             },
             "noMoreCopies": {
                 "title": "Data lost",
-                "tooltip": "PieceCI) where the last copy has been lost (either removed or expired) within the chosen time range"
+                "tooltip": "PieceCID where the latest copy has been lost, either through removal or expiration, within the specified time range."
             },
             "onboardedVolumeUnique": {
                 "title": "Onboarded volume unique PieceCID",
