@@ -116,6 +116,16 @@
         "offChainStatus": {
             "accepted": "Accepted",
             "neverPublished": "Never published"
+        },
+        "columns": {
+            "provingSuccessRatio": "Proving success ratio",
+            "sealingSuccessRatio": "Sealing success ratio",
+            "provider": "Provider"
+        },
+        "timeRange": {
+            "24hours": "last 24 hours",
+            "30days": "last 30 days",
+            "3months": "last 3 months"
         }
     }
 }
