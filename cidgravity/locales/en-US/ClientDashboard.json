@@ -43,7 +43,7 @@
             "title": "Current status (instant)",
             "awaitingPublished": {
                 "title": "Awaiting publish",
-                "tooltip": "deals accepted by CIDgravity but not published yet. Only apply to deals manage by CIDgravity."
+                "tooltip": "Deals that have been accepted by service providers (SPs) but are not yet published. Only taking into account SPs using CIDgravity."
             },
             "sealing": {
                 "title": "Under sealing",
