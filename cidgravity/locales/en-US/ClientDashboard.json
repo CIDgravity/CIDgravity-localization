@@ -61,7 +61,15 @@
                 "tooltip": "deals which failed during the sealing stage"
             },
             "slashed": {
-                "title": "Slashed"
+                "title": "Slashed",
+                "tooltip": "data lost or removed by SP"
+            },
+            "expired": {
+                "title": "Expired",
+                "tooltip": "data related to deals that have reached their expiration date during the selected timerange"
+            },
+            "noMoreCopies": {
+                "title": "No more copies"
             }
         }
     }
