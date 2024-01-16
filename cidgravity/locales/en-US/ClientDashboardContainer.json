@@ -6,5 +6,5 @@
     "error": {
         "unableToLoadMinerSettings": "Unable to load the dashboard. Please try again later or contact the CIDgravity team."
     },
-    "subtitle": "This dashboard provides analytics for all transactions executed by the Filecoin address, whether leveraging <strong>CIDgravity for data onboarding or not</strong>. However, some dashboards offer additional insights when CIDgravity is utilized by either the Service Provider (SP) or the client.\n<br/>\n<br/>\nRefresh rate: Every epoch\n<br/>\nData freshness: 10 epochs\n"
+    "subtitle": "This dashboard provides analytics for all transactions executed by the Filecoin address, <strong>whether leveraging CIDgravity for data onboarding or not</strong>. <br/>\nHowever, some dashboards offer additional insights when CIDgravity is utilized by either the Service Provider (SP) or the client.\n<br/>\n<br/>\nRefresh rate: Every epoch\n<br/>\nData freshness: 10 epochs\n"
 }
