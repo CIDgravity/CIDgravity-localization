@@ -38,7 +38,8 @@
         "currentStatus": {
             "title": "Current status (instant)",
             "awaitingPublished": {
-                "title": "Awaiting publish"
+                "title": "Awaiting publish",
+                "tooltip": "deals accepted by CIDgravity but not published yet. Only apply to deals manage by CIDgravity."
             }
         }
     }
