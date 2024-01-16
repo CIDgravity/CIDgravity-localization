@@ -6,6 +6,9 @@
             "30days": "Last 30 days",
             "3months": "Last 3 months",
             "specificDate": "Specific date"
+        },
+        "datePicker": {
+            "placeholder": "Select date"
         }
     },
     "button": {
@@ -13,7 +16,6 @@
     },
     "retool": {
         "columnsName": {
-            "status": "Status",
             "downloadDuration": "Download duration"
         },
         "noRowsFound": "No data",
