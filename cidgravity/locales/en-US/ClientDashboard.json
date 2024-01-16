@@ -86,7 +86,7 @@
             }
         },
         "volumePerProvider": {
-            "title": "Volume per provider",
+            "title": "Distribution per provider",
             "downloadAsCsv": "CSV"
         },
         "providerStats": {
