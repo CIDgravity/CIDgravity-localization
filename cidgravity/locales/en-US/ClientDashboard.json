@@ -70,7 +70,7 @@
             },
             "expired": {
                 "title": "Expired",
-                "tooltip": "data related to deals that have reached their expiration date during the selected timerange"
+                "tooltip": "Data related to deals that have expired within the chosen time range."
             },
             "noMoreCopies": {
                 "title": "Data lost",
