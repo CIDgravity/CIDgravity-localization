@@ -11,7 +11,9 @@
             "placeholder": "Select date"
         },
         "unit": {
-            "placeholder": "Select charts unit"
+            "placeholder": "Select charts unit",
+            "dealsCount": "Number of deals",
+            "volume": "Volume (TiB)"
         }
     },
     "button": {
