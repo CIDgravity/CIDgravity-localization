@@ -82,7 +82,7 @@
             },
             "onboardedVolumeReplicas": {
                 "title": "Onboarded volume with replicas",
-                "tooltip": "the cumulative data volume successfully onboarded encompassing all replicas over the timerange"
+                "tooltip": "The aggregated data volume successfully onboarded, considering all replicas, throughout the specified time range."
             }
         },
         "volumePerProvider": {
