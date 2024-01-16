@@ -12,19 +12,13 @@
     },
     "retool": {
         "columnsName": {
-            "proposalFetchedOn": "Proposal fetched on",
             "stateFetchedOn": "State fetched on",
-            "cumulativePieceSize": "Volume (TiB)",
             "status": "Status",
-            "miners": "Miners",
             "lastCopyExpirationEpoch": "Last copy expiration",
-            "sectorStartOn": "Sector start on",
-            "downloadDuration": "Download duration",
-            "sealingDuration": "Sealing duration"
+            "downloadDuration": "Download duration"
         },
         "axisUnits": {
-            "cumulativePieceSize": "Cumulative piece size onboarded",
-            "copies": "copies"
+            "cumulativePieceSize": "Cumulative piece size onboarded"
         },
         "noRowsFound": "No data",
         "noDataAvailable": "No data",
