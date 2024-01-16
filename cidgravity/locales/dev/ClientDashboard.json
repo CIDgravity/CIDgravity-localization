@@ -69,12 +69,6 @@
         "quantityOfDataOnboarded": {
             "title": "Data onboarded"
         },
-        "listOfOnChainDeals": {
-            "title": "List of all deals on chain with stats"
-        },
-            "listOfDealsAwaitingPublished": {
-            "title": "List of deals awaiting published"
-        },
         "numberOfCopy": {
             "title": "Number of copies",
             "legend": {
