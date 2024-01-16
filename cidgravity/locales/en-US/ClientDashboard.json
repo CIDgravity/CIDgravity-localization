@@ -94,6 +94,28 @@
         },
         "offChainProviderStats": {
             "title": "CIDgravity provider stats"
+        },
+        "axisUnits": {
+            "volume": "Volume (TiB)"
+        },
+        "onChainStatus": {
+            "active": "Sucessfully onboarded",
+            "publishedExpired": "Published expired",
+            "slashed": "Slashed",
+            "expired": "Expired"
+        },
+        "providersRatios": {
+            "title": "Provider ratios"
+        },
+        "displayUnit": {
+            "tib": "TiB",
+            "deals": "deals",
+            "volume": "Volume (TiB)",
+            "numberOfDeal": "Number of deal"
+        },
+        "offChainStatus": {
+            "accepted": "Accepted",
+            "neverPublished": "Never published"
         }
     }
 }
