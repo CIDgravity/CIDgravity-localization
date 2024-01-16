@@ -4,18 +4,71 @@
             "placeholder": "Select a time range",
             "24hours": "Last 24 hours",
             "30days": "Last 30 days",
-            "3months": "Last 3 months"
+            "3months": "Last 3 months",
+            "specificDate": "Select specific date"
+        },
+        "datePicker": {
+            "placeholder": "Select custom date"
+        },
+        "unit": {
+            "placeholder": "Select a unit for the charts",
+            "dealsCount": "Number of deals",
+            "volume": "Volume (TiB)"
         }
     },
     "button": {
         "refresh": "Refresh"
     },
     "retool": {
-        "pieceCidList": {
-            "title": "List of piece cids"
+        "currentStatus": {
+            "title": "Current status (instant)",
+            "awaitingPublished": {
+                "title": "Awaiting publish",
+                "tooltip": "deals accepted by CIDgravity but not published yet. Only apply to deals manage by CIDgravity."
+            },
+            "sealing": {
+                "title": "Under sealing",
+                "tooltip": "deals published on chain but not active yet. (this applies to any deals processed, whether utilizing CIDgravity or not.)"
+            },
+            "active": {
+                "title": "Completed",
+                "tooltip": "data successfully processed and store by SPs. (this applies to any deals processed, whether utilizing CIDgravity or not.)"
+            },
+            "remainingDatacapNotLocked": {
+                "title": "Remaining Datacap not locked",
+                "tooltip": "available onchain datacap - current deals awaiting being published",
+                "link": "github issue"
+            }
+        },
+        "overLastTimerange": {
+            "title": "Over the ",
+            "publishedExpired": {
+                "title": "Published expired",
+                "tooltip": "deals which failed during the sealing stage"
+            },
+            "slashed": {
+                "title": "Slashed",
+                "tooltip": "data lost or removed by SP"
+            },
+            "expired": {
+                "title": "Expired",
+                "tooltip": "data related to deals that have reached their expiration date during the selected timerange"
+            },
+            "noMoreCopies": {
+                "title": "No more copies",
+                "tooltip": "data (PieceCID) where the final copy has been lost (either removed or expired) within the chosen time range"
+            },
+            "onboardedVolumeUnique": {
+                "title": "Onboarded volume unique PieceCID",
+                "tooltip": "unique data successfully upload over the timerange"
+            },
+            "onboardedVolumeReplicas": {
+                "title": "Onboarded volume with replicas",
+                "tooltip": "the cumulative data volume successfully onboarded encompassing all replicas over the timerange"
+            }
         },
         "quantityOfDataOnboarded": {
-            "title": "Quantity of data onboarded"
+            "title": "Data onboarded"
         },
         "listOfOnChainDeals": {
             "title": "List of all deals on chain with stats"
@@ -24,35 +77,44 @@
             "title": "List of deals awaiting published"
         },
         "numberOfCopy": {
-            "title": "Number of copies on network"
+            "title": "Number of copies",
+            "legend": {
+                "copies": "copies",
+                "copy": "copy"
+            }
         },
-        "sizeStoredPerProvider": {
-            "title": "Size / deals stored per provider"
+        "volumePerProvider": {
+            "title": "Volume per provider",
+            "downloadAsCsv": "CSV"
         },
-        "columnsName": {
-            "dealId": "Deal ID",
-            "proposalFetchedOn": "Proposal fetched on",
-            "stateFetchedOn": "State fetched on",
-            "sectorStartOn": "Sector start on",
-            "cidgProposal": "CIDgravity",
-            "downloadDuration": "Download duration", 
-            "analysedByCIDG": "Has been analysed by CIDG ?",
-            "sealingDuration": "Sealing duration",
-            "status": "Status",
-            "provider": "Miner",
-            "cumulativePieceSize": "Total stored (TiB)",
-            "pieceCid": "Piece CID",
-            "numberOfCopy": "Number of copy",
-            "miners": "Miners",
-            "numberOfDeals": "Total deals",
-            "lastCopyExpirationEpoch": "Last copy expiration",
-            "expireInDays": "Expire in (days)"
+        "providerStats": {
+            "title": "Provider stats"
         },
         "axisUnits": {
-            "quantityOfDataTiB": "Data (TiB)",
-            "cumulativePieceSize": "Cumulative piece size onboarded",
-            "copy": "copy",
-            "copies": "copies"
+            "volume": "Volume (TiB)"
+        },
+        "onChainStatus": {
+            "active": "Sucessfully onboarded",
+            "publishedExpired": "Published expired",
+            "slashed": "Slashed",
+            "expired": "Expired"
+        },
+        "providersRatios": {
+            "title": "Provider ratios"
+        },
+        "displayUnit": {
+            "tib": "TiB",
+            "deals": "deals"
+        },
+        "columns": {
+            "provider": "Provider",
+            "provingSuccessRatio": "Proving success ratio",
+            "sealingSuccessRatio": "Sealing success ratio"
+        },
+        "timeRange": {
+            "24hours": "last 24 hours",
+            "30days": "last 30 days",
+            "3months": "last 3 months"
         },
         "noRowsFound": "No data",
         "noDataAvailable": "No data",
