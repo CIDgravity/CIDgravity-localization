@@ -11,32 +11,19 @@
         "refresh": "Refresh"
     },
     "retool": {
-        "pieceCidList": {
-            "title": "List of piece cids"
-        },
         "columnsName": {
             "proposalFetchedOn": "Proposal fetched on",
-            "dealId": "Deal ID",
             "stateFetchedOn": "State fetched on",
-            "provider": "Miner",
             "cumulativePieceSize": "Volume (TiB)",
-            "pieceCid": "Piece CID",
             "status": "Status",
-            "numberOfCopy": "Number of copies",
             "miners": "Miners",
-            "numberOfDeals": "Number of deals",
             "lastCopyExpirationEpoch": "Last copy expiration",
-            "expireInDays": "Expire in (days)",
             "sectorStartOn": "Sector start on",
-            "cidgProposal": "CIDgravity",
             "downloadDuration": "Download duration",
-            "analysedByCIDG": "Has been analysed by CIDG ?",
             "sealingDuration": "Sealing duration"
         },
         "axisUnits": {
-            "quantityOfDataTiB": "Data (TiB)",
             "cumulativePieceSize": "Cumulative piece size onboarded",
-            "copy": "copy",
             "copies": "copies"
         },
         "noRowsFound": "No data",
@@ -47,9 +34,6 @@
         },
         "numberOfCopy": {
             "title": "PieceCIDs - Number of active copies"
-        },
-        "sizeStoredPerProvider": {
-            "title": "Active volume per SP"
         },
         "listOfOnChainDeals": {
             "title": "List of all deals on chain with stats"
