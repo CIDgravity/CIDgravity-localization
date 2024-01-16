@@ -90,7 +90,7 @@
             "downloadAsCsv": "CSV"
         },
         "providerStats": {
-            "title": "Provider stats"
+            "title": "Providers On-chain statistics"
         },
         "offChainProviderStats": {
             "title": "CIDgravity provider stats"
