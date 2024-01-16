@@ -62,7 +62,7 @@
             "title": "Over the ",
             "publishedExpired": {
                 "title": "Published expired",
-                "tooltip": "deals which failed during the sealing stage"
+                "tooltip": "Deals that failed during the sealing stage."
             },
             "slashed": {
                 "title": "Slashed",
