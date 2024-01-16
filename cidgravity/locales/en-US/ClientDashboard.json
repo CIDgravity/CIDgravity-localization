@@ -78,7 +78,7 @@
             },
             "onboardedVolumeUnique": {
                 "title": "Onboarded volume unique PieceCID",
-                "tooltip": "unique data successfully upload over the timerange"
+                "tooltip": "Unique data successfully onboarded during the specified time range."
             },
             "onboardedVolumeReplicas": {
                 "title": "Onboarded volume with replicas",
