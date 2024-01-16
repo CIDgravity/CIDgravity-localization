@@ -33,9 +33,6 @@
                 "copy": "copy"
             }
         },
-        "listOfOnChainDeals": {
-            "title": "List of all deals on chain with stats"
-        },
         "listOfDealsAwaitingPublished": {
             "title": "List of deals awaiting published"
         },
