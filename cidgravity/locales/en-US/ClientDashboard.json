@@ -69,7 +69,16 @@
                 "tooltip": "data related to deals that have reached their expiration date during the selected timerange"
             },
             "noMoreCopies": {
-                "title": "No more copies"
+                "title": "No more copies",
+                "tooltip": "data (PieceCID) where the final copy has been lost (either removed or expired) within the chosen time range"
+            },
+            "onboardedVolumeUnique": {
+                "title": "Onboarded volume unique PieceCID",
+                "tooltip": "unique data successfully upload over the timerange"
+            },
+            "onboardedVolumeReplicas": {
+                "title": "Onboarded volume with replicas",
+                "tooltip": "the cumulative data volume successfully onboarded encompassing all replicas over the timerange"
             }
         }
     }
