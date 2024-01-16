@@ -42,7 +42,26 @@
                 "tooltip": "deals accepted by CIDgravity but not published yet. Only apply to deals manage by CIDgravity."
             },
             "sealing": {
-                "title": "Under sealing"
+                "title": "Under sealing",
+                "tooltip": "deals published on chain but not active yet. (this applies to any deals processed, whether utilizing CIDgravity or not.)"
+            },
+            "active": {
+                "title": "Completed",
+                "tooltip": "data successfully processed and store by SPs. (this applies to any deals processed, whether utilizing CIDgravity or not.)"
+            },
+            "remainingDatacapNotLocked": {
+                "title": "Remaining Datacap not locked",
+                "tooltip": "available onchain datacap - current deals awaiting being published"
+            }
+        },
+        "overLastTimerange": {
+            "title": "Over the ",
+            "publishedExpired": {
+                "title": "Published expired",
+                "tooltip": "deals which failed during the sealing stage"
+            },
+            "slashed": {
+                "title": "Slashed"
             }
         }
     }
