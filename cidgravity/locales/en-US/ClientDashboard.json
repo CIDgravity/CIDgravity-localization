@@ -51,7 +51,7 @@
             },
             "active": {
                 "title": "Completed",
-                "tooltip": "data successfully processed and store by SPs. (this applies to any deals processed, whether utilizing CIDgravity or not.)"
+                "tooltip": "Data successfully processed and stored by service providers (SPs). This applies to any deals processed, whether utilizing CIDgravity or not."
             },
             "remainingDatacapNotLocked": {
                 "title": "Remaining Datacap not locked",
