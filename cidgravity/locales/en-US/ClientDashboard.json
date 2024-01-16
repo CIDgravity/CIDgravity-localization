@@ -66,7 +66,7 @@
             },
             "slashed": {
                 "title": "Slashed",
-                "tooltip": "data lost or removed by SP"
+                "tooltip": "Data that has been lost or removed by the Service Provider (SP)."
             },
             "expired": {
                 "title": "Expired",
