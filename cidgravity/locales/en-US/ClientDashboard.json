@@ -27,7 +27,7 @@
             "title": "Data onboarded"
         },
         "numberOfCopy": {
-            "title": "PieceCIDs - Number of active copies",
+            "title": "PieceCIDs distribution by number of active replicas",
             "legend": {
                 "copies": "copies",
                 "copy": "copy"
