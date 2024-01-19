@@ -108,7 +108,6 @@
             "numberOfDeal": "Number of deals"
         },
         "offChainStatus": {
-            "accepted": "Accepted",
             "neverPublished": "Never published"
         },
         "columns": {
