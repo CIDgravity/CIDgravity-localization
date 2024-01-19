@@ -64,6 +64,14 @@
             "onboardedVolumeReplicas": {
                 "title": "Onboarded volume with replicas",
                 "tooltip": "the cumulative data volume successfully onboarded encompassing all replicas over the timerange"
+            },
+            "averageSealingTime": {
+                "title": "Average sealing duration",
+                "tooltip": "average time between sp published the deal and the deal is active"
+            },
+            "averageOnboardingTime": {
+                "title": "Average onboarding duration",
+                "tooltip": "average time between the deal is sent to SP and deal is active (including download time)"
             }
         },
         "quantityOfDataOnboarded": {
@@ -96,7 +104,7 @@
             "expired": "Expired"
         },
         "offChainStatus": {
-            "accepted": "Accepted",
+            "onChain": "Published on time",
             "neverPublished": "Never published"
         },
         "providersRatios": {
@@ -106,12 +114,20 @@
             "tib": "TiB",
             "deals": "deals",
             "volume": "Volume (TiB)",
-            "numberOfDeal": "Number of deal"
+            "numberOfDeal": "Number of deal",
+            "day": "day",
+            "days": "days",
+            "hour": "hour",
+            "hours": "hours",
+            "minutes": "minutes",
+            "minute": "minute"
         },
         "columns": {
             "provider": "Provider",
             "provingSuccessRatio": "Proving success ratio",
-            "sealingSuccessRatio": "Sealing success ratio"
+            "sealingSuccessRatio": "Sealing success ratio",
+            "averageOnboardingTime": "Average onboarding time",
+            "averageSealingTime": "Average sealing time"
         },
         "timeRange": {
             "24hours": "last 24 hours",
