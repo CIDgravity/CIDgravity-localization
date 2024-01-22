@@ -79,7 +79,8 @@
                 "tooltip": "The aggregated data volume successfully onboarded, considering all replicas, throughout the specified time range."
             },
             "averageSealingTime": {
-                "title": "Average sealing duration"
+                "title": "Average sealing duration",
+                "tooltip": "The average processing time for storage providers from the publication of the deal on the chain to its effective onboarding."
             }
         },
         "volumePerProvider": {
