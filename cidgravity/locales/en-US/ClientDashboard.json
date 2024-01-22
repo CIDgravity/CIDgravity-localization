@@ -81,6 +81,9 @@
             "averageSealingTime": {
                 "title": "Average sealing duration",
                 "tooltip": "The average processing time for storage providers from the publication of the deal on the chain to its effective onboarding."
+            },
+            "averageOnboardingTime": {
+                "title": "Average onboarding duration"
             }
         },
         "volumePerProvider": {
