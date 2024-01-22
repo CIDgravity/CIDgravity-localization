@@ -114,7 +114,12 @@
             "deals": "deals",
             "volume": "Volume (TiB)",
             "numberOfDeal": "Number of deals",
-            "day": "day"
+            "day": "day",
+            "days": "days",
+            "hour": "hour",
+            "hours": "hours",
+            "minutes": "minutes",
+            "minute": "minute"
         },
         "offChainStatus": {
             "neverPublished": "Never published",
@@ -123,7 +128,8 @@
         "columns": {
             "provingSuccessRatio": "Proving success ratio",
             "sealingSuccessRatio": "Sealing success ratio",
-            "provider": "Provider"
+            "provider": "Provider",
+            "averageOnboardingTime": "Average onboarding time"
         },
         "timeRange": {
             "24hours": "last 24 hours",
