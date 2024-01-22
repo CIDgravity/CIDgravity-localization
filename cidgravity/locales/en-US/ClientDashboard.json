@@ -129,7 +129,8 @@
             "provingSuccessRatio": "Proving success ratio",
             "sealingSuccessRatio": "Sealing success ratio",
             "provider": "Provider",
-            "averageOnboardingTime": "Average onboarding time"
+            "averageOnboardingTime": "Average onboarding time",
+            "averageSealingTime": "Average sealing time"
         },
         "timeRange": {
             "24hours": "last 24 hours",
