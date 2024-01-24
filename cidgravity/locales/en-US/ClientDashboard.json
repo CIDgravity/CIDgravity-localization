@@ -133,7 +133,7 @@
         },
         "columns": {
             "provingSuccessRatio": "Proving success ratio",
-            "sealingSuccessRatio": "Sealing success ratio",
+            "sealingSuccessRatio": "Sealing",
             "provider": "Provider",
             "averageOnboardingTime": "Average onboarding time",
             "averageSealingTime": "Average sealing",
