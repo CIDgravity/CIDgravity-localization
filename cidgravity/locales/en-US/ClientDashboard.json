@@ -138,8 +138,8 @@
             "averageOnboardingTime": "Average onboarding time",
             "averageSealingTime": "Average sealing time",
             "stagingSuccessRatio": "Staging",
-            "retrievalBotHttp": "HTTP Retrieve",
-            "retrievalBotBitswap": "Retrievalbot Bitswap",
+            "retrievalBotHttp": "HTTP retrieve",
+            "retrievalBotBitswap": "Bitswap retrieve",
             "retrievalBotGraphsync": "Retrievalbot Graphsync"
         },
         "timeRange": {
