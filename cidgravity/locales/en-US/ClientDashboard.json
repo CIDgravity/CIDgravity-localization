@@ -181,6 +181,22 @@
             },
             "top10ProvidersAcceptedDeals": {
                 "title": "Top 10 providers (accepted deals)"
+            },
+            "title": "Historical deal proposal metrics",
+            "acceptedDealsByType": {
+                "title": "Accepted deals by transfer type"
+            },
+            "rejectedDealsByType": {
+                "title": "Rejected deals by transfer type"
+            },
+            "acceptedDealsFilPlus": {
+                "title": "Accepted deals Verified (Fil+) / unverified"
+            },
+            "acceptedDealsAverageSize": {
+                "title": "Accepted deals by size"
+            },
+            "rejectedDealsAverageSize": {
+                "title": "Rejected deals by size"
             }
         }
     }
