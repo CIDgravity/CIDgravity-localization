@@ -167,7 +167,18 @@
             "filPlusStatus": {
                 "title": "Verified (Fil+) / unverified"
             },
-            "title": "Rejected deals metrics"
+            "title": "Rejected deals metrics",
+            "dealDuration": {
+                "title": "By duration"
+            }
+        },
+        "history": {
+            "acceptedDealsRejectedReasons": {
+                "title": "Accepted / rejected proposals"
+            },
+            "top10ProvidersRejectedDeals": {
+                "title": "Top 10 providers (rejected deals)"
+            }
         }
     }
 }
