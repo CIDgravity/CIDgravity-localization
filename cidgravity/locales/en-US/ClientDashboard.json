@@ -141,6 +141,33 @@
             "24hours": "last 24 hours",
             "30days": "last 30 days",
             "3months": "last 3 months"
+        },
+        "acceptedDeals": {
+            "title": "Accepted deals metrics",
+            "transferType": {
+                "title": "By transfer type"
+            },
+            "dealSize": {
+                "title": "By size"
+            },
+            "filPlusStatus": {
+                "title": "Verified (Fil+) / unverified"
+            },
+            "dealDuration": {
+                "title": "By duration"
+            }
+        },
+        "rejectedDeals": {
+            "transferType": {
+                "title": "By transfer type"
+            },
+            "dealSize": {
+                "title": "By size"
+            },
+            "filPlusStatus": {
+                "title": "Verified (Fil+) / unverified"
+            },
+            "title": "Rejected deals metrics"
         }
     }
 }
