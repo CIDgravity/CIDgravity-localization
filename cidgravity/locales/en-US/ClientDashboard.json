@@ -235,7 +235,14 @@
             "storageAcceptanceLogic": "Acceptance logic not passed"
         },
         "filPlusStatus": {
-            "true": "Verified"
+            "true": "Verified",
+            "false": "Unverified"
+        },
+        "dealDuration": {
+            "<= 12": "≤ 12 months",
+            "> 12": "> 12 months",
+            "> 24": "> 24 months",
+            "> 36": "> 36 months"
         }
     }
 }
