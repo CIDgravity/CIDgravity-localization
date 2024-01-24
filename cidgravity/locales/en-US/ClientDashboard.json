@@ -178,6 +178,9 @@
             },
             "top10ProvidersRejectedDeals": {
                 "title": "Top 10 providers (rejected deals)"
+            },
+            "top10ProvidersAcceptedDeals": {
+                "title": "Top 10 providers (accepted deals)"
             }
         }
     }
