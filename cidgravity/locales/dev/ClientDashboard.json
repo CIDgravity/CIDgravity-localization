@@ -37,6 +37,11 @@
             "remainingDatacapNotLocked": {
                 "title": "Remaining Datacap not locked",
                 "tooltip": "available onchain datacap - current deals awaiting being published"
+            },
+            "balance": {
+                "title": "Address balance",
+                "tooltip": "",
+                "unit": "FIL"
             }
         },
         "overLastTimerange": {
@@ -77,6 +82,36 @@
         "quantityOfDataOnboarded": {
             "title": "Data onboarded"
         },
+        "acceptedDeals": {
+            "title": "Accepted deals metrics",
+            "transferType": {
+                "title": "By transfer type"
+            },
+            "dealSize": {
+                "title": "By size"
+            },
+            "filPlusStatus": {
+                "title": "Verified (Fil+) / unverified"
+            },
+            "dealDuration": {
+                "title": "By duration"
+            }
+        },
+        "rejectedDeals": {
+            "title": "Rejected deals metrics",
+            "transferType": {
+                "title": "By transfer type"
+            },
+            "dealSize": {
+                "title": "By size"
+            },
+            "filPlusStatus": {
+                "title": "Verified (Fil+) / unverified"
+            },
+            "dealDuration": {
+                "title": "By duration"
+            }
+        },
         "numberOfCopy": {
             "title": "Number of copies",
             "legend": {
@@ -88,6 +123,36 @@
             "title": "Volume per provider",
             "downloadAsCsv": "CSV"
         },
+        "history": {
+            "acceptedDealsRejectedReasons": {
+                "title": "Accepted / rejected proposals"
+            },
+            "top10ProvidersRejectedDeals": {
+                "title": "Top 10 providers (rejected deals)"
+            },
+            "top10ProvidersAcceptedDeals": {
+            "title": "Top 10 providers (accepted deals)"
+            },
+            "title": "Historical deal proposal metrics",
+            "acceptedDealsByType": {
+                "title": "Accepted deals by transfer type"
+            },
+            "rejectedDealsByType": {
+                "title": "Rejected deals by transfer type"
+            },
+            "acceptedDealsFilPlus": {
+                "title": "Accepted deals Verified (Fil+) / unverified"
+            },
+            "rejectedDealsAverageSize": {
+                "title": "Rejected deals by size"
+            },
+            "acceptedDealsAverageSize": {
+                "title": "Accepted deals by size"
+            },
+            "rejectedDealsFilPlus": {
+                "title": "Rejected deals Verified (Fil+) / unverified"
+            }
+        },
         "providerStats": {
             "title": "Provider stats"
         },
@@ -95,7 +160,8 @@
             "title": "CIDgravity provider stats"
         },
         "axisUnits": {
-            "volume": "Volume (TiB)"
+            "volume": "Volume (TiB)",
+            "numberOfDeal": "Number of deals"
         },
         "onChainStatus": {
             "active": "Sucessfully onboarded",
@@ -108,7 +174,7 @@
             "neverPublished": "Never published"
         },
         "providersRatios": {
-            "title": "Provider ratios"
+            "title": "Provider success ratios"
         },
         "displayUnit": {
             "tib": "TiB",
@@ -124,15 +190,56 @@
         },
         "columns": {
             "provider": "Provider",
-            "provingSuccessRatio": "Proving success ratio",
-            "sealingSuccessRatio": "Sealing success ratio",
-            "averageOnboardingTime": "Average onboarding time",
-            "averageSealingTime": "Average sealing time"
+            "stagingSuccessRatio": "Staging",
+            "provingSuccessRatio": "Proving",
+            "sealingSuccessRatio": "Sealing",
+            "averageOnboardingTime": "Overall onboarding",
+            "averageSealingTime": "Average sealing",
+            "retrievalBotHttp": "Retrievalbot HTTP",
+            "retrievalBotBitswap": "Retrievalbot Bitswap",
+            "retrievalBotGraphsync": "Retrievalbot Graphsync"
         },
         "timeRange": {
             "24hours": "last 24 hours",
             "30days": "last 30 days",
             "3months": "last 3 months"
+        },
+        "transferTypes": {
+            "unkown": "Unkown",
+            "libp2p": "Libp2p-HTTP",
+            "http": "HTTP",
+            "graphsync": "Graphsync",
+            "manual": "Manual"
+        },
+        "dealSize": {
+            "1073741824": "1 GiB",
+            "2147483648": "2 GiB",
+            "4294967296": "4 GiB",
+            "8589934592": "8 GiB",
+            "17179869184": "16 GiB",
+            "34359738368": "32 GiB",
+            "68719476736": "64 GiB",
+            "-1": "< 1 GiB"
+        },
+        "reasons": {
+            "accept": "Accepted",
+            "maintenance": "Maintenance mode",
+            "sizeRateLimit": "Rate limit - Cumulative size",
+            "invalidProposal": "Invalid proposal",
+            "rateLimit": "Rate limit - Number of proposals",
+            "reject": "No matching pricing rules",
+            "startEpochBelowSealingBuffer": "Below min. start epoch",
+            "storageAcceptanceLogic": "Acceptance logic not passed"
+        },
+        "filPlusStatus": {
+            "true": "Verified",
+            "false": "Unverified"
+        },
+        "dealDuration": {
+            "<= 12": "≤ 12 months",
+            "> 12": "> 12 months",
+            "> 24": "> 24 months",
+            "> 36": "> 36 months"
         },
         "noRowsFound": "No data",
         "noDataAvailable": "No data",
