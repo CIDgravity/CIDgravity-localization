@@ -136,7 +136,7 @@
             "sealingSuccessRatio": "Sealing success ratio",
             "provider": "Provider",
             "averageOnboardingTime": "Average onboarding time",
-            "averageSealingTime": "Average sealing time",
+            "averageSealingTime": "Average sealing",
             "stagingSuccessRatio": "Staging",
             "retrievalBotHttp": "HTTP retrieve",
             "retrievalBotBitswap": "Bitswap retrieve",
