@@ -132,7 +132,7 @@
             "onChain": "Published on time"
         },
         "columns": {
-            "provingSuccessRatio": "Proving success ratio",
+            "provingSuccessRatio": "Proving",
             "sealingSuccessRatio": "Sealing",
             "provider": "Provider",
             "averageOnboardingTime": "Average onboarding time",
