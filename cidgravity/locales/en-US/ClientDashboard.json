@@ -135,7 +135,7 @@
             "provingSuccessRatio": "Proving",
             "sealingSuccessRatio": "Sealing",
             "provider": "Provider",
-            "averageOnboardingTime": "Average onboarding",
+            "averageOnboardingTime": "Overall",
             "averageSealingTime": "Average sealing",
             "stagingSuccessRatio": "Staging",
             "retrievalBotHttp": "HTTP retrieve",
