@@ -140,7 +140,7 @@
             "stagingSuccessRatio": "Staging",
             "retrievalBotHttp": "HTTP retrieve",
             "retrievalBotBitswap": "Bitswap retrieve",
-            "retrievalBotGraphsync": "Retrievalbot Graphsync"
+            "retrievalBotGraphsync": "Graphsync retrieve"
         },
         "timeRange": {
             "24hours": "last 24 hours",
@@ -206,6 +206,10 @@
             "rejectedDealsFilPlus": {
                 "title": "Rejected deals Verified (Fil+) / unverified"
             }
+        },
+        "transferTypes": {
+            "unkown": "Unkown",
+            "libp2p": "Libp2p-HTTP"
         }
     }
 }
