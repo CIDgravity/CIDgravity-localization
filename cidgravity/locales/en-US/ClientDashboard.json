@@ -52,7 +52,8 @@
                 "tooltip": "The On-chain Datacap minus the Datacap currently allocated to pending deals awaiting publish."
             },
             "balance": {
-                "title": "Balance"
+                "title": "Balance",
+                "tooltip": "Current address balance"
             }
         },
         "overLastTimerange": {
