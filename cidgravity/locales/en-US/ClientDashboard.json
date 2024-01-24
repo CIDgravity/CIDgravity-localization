@@ -209,7 +209,17 @@
         },
         "transferTypes": {
             "unkown": "Unkown",
-            "libp2p": "Libp2p-HTTP"
+            "libp2p": "Libp2p-HTTP",
+            "http": "HTTP",
+            "graphsync": "Graphsync",
+            "manual": "Manual"
+        },
+        "dealSize": {
+            "1073741824": "1 GiB",
+            "4294967296": "4 GiB",
+            "2147483648": "2 GiB",
+            "8589934592": "8 GiB",
+            "17179869184": "16 GiB"
         }
     }
 }
