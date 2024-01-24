@@ -53,7 +53,8 @@
             },
             "balance": {
                 "title": "Balance",
-                "tooltip": "Current address balance"
+                "tooltip": "Current address balance",
+                "unit": "FIL"
             }
         },
         "overLastTimerange": {
