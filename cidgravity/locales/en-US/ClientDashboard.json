@@ -103,7 +103,8 @@
             "title": "Additional statistics for providers utilizing CIDgravity."
         },
         "axisUnits": {
-            "volume": "Volume (TiB)"
+            "volume": "Volume (TiB)",
+            "numberOfDeal": "Number of deals"
         },
         "onChainStatus": {
             "active": "Sucessfully onboarded",
@@ -135,7 +136,11 @@
             "sealingSuccessRatio": "Sealing success ratio",
             "provider": "Provider",
             "averageOnboardingTime": "Average onboarding time",
-            "averageSealingTime": "Average sealing time"
+            "averageSealingTime": "Average sealing time",
+            "stagingSuccessRatio": "Staging",
+            "retrievalBotHttp": "Retrievalbot HTTP",
+            "retrievalBotBitswap": "Retrievalbot Bitswap",
+            "retrievalBotGraphsync": "Retrievalbot Graphsync"
         },
         "timeRange": {
             "24hours": "last 24 hours",
@@ -197,6 +202,9 @@
             },
             "rejectedDealsAverageSize": {
                 "title": "Rejected deals by size"
+            },
+            "rejectedDealsFilPlus": {
+                "title": "Rejected deals Verified (Fil+) / unverified"
             }
         }
     }
