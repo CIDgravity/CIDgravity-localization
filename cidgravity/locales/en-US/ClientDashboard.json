@@ -113,7 +113,7 @@
             "expired": "Expired"
         },
         "providersRatios": {
-            "title": "Provider success ratios"
+            "title": "Performance with the different providers"
         },
         "displayUnit": {
             "tib": "TiB",
