@@ -128,8 +128,7 @@
         },
         "dealDuration": {
             "<= 12": "≤ 12 月",
-            "> 12": "> 12月",
-            "> 15": "> 15月"
+            "> 12": "> 12月"
         },
         "columnsName": {
             "numberOfProposals": "提案数量",
