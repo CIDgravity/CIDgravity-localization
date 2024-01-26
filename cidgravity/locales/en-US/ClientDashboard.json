@@ -243,6 +243,13 @@
             "> 12": "> 12 months",
             "> 24": "> 24 months",
             "> 36": "> 36 months"
+        },
+        "columnsTooltips": {
+            "sealingRatio": "Success ratio between the deal is published on chain and fully sealed.",
+            "provingRatio": "Percentage of active deals decreased due to data slashing or early termination.",
+            "averageSealingTime": "Average time between the deal is published on chain and and fully sealed.",
+            "averageOnboardingTime": "Average of the total time between the deal is sent to the provider and and fully sealed.",
+            "stagingRatio": "Success ratio between the deal is sent to the provider and published on chain. it typically covers file transfer and packing."
         }
     }
 }
