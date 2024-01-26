@@ -127,7 +127,9 @@
         },
         "dealDuration": {
             "<= 12": "≤ 12 months",
-            "> 12": "> 12 months"
+            "> 12": "> 12 months",
+            "> 24": "> 24 months",
+            "> 36": "> 36 months"
         },
         "columnsName": {
             "pricingModelName": "Pricing model",
@@ -179,7 +181,8 @@
                 "continue": "Create",
                 "cancel": "Cancel"
             }
-        }
+        },
+        "noDataAvailable": "No data"
     },
     "button": {
         "refresh": "Refresh"
