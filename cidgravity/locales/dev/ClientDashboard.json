@@ -4,11 +4,7 @@
             "placeholder": "Select a time range",
             "24hours": "Last 24 hours",
             "30days": "Last 30 days",
-            "3months": "Last 3 months",
-            "specificDate": "Select specific date"
-        },
-        "datePicker": {
-            "placeholder": "Select custom date"
+            "3months": "Last 3 months"
         },
         "unit": {
             "placeholder": "Select a unit for the charts",
@@ -171,6 +167,7 @@
         },
         "offChainStatus": {
             "onChain": "Published on time",
+            "awaitingPublished": "Awaiting published",
             "neverPublished": "Never published"
         },
         "providersRatios": {
