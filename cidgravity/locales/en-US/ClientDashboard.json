@@ -6,9 +6,6 @@
             "30days": "Last 30 days",
             "3months": "Last 3 months"
         },
-        "datePicker": {
-            "placeholder": "Select date"
-        },
         "unit": {
             "placeholder": "Select charts unit",
             "dealsCount": "Number of deals",
@@ -128,7 +125,8 @@
         },
         "offChainStatus": {
             "neverPublished": "Never published",
-            "onChain": "Published on time"
+            "onChain": "Published on time",
+            "awaitingPublished": "Awaiting published"
         },
         "columns": {
             "provingSuccessRatio": "Proving",
