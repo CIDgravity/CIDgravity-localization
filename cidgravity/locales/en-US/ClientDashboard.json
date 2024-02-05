@@ -4,8 +4,7 @@
             "placeholder": "Select a time range",
             "24hours": "Last 24 hours",
             "30days": "Last 30 days",
-            "3months": "Last 3 months",
-            "specificDate": "Specific date"
+            "3months": "Last 3 months"
         },
         "datePicker": {
             "placeholder": "Select date"
