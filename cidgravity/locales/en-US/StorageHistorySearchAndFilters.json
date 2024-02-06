@@ -9,7 +9,8 @@
         "invalidProposal": "Invalid proposal",
         "maintenance": "Under Maintenance",
         "rateLimit": "Rate limit exceeded",
-        "blacklist": "Blacklisted"
+        "blacklist": "Blacklisted",
+        "storageAcceptanceLogic": "Acceptance logic not passed"
     },
     "dateRangePicker": {
         "placeholder": "From (YYYY/MM/DD) - To (YYYY/MM/DD)"
