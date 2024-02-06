@@ -12,11 +12,7 @@
             "info": "When deactivated, all storage deals from unknown clients are rejected"
         },
         "startEpochSealingBuffer": {
-            "title": "Start epoch sealing buffer",
-            "tooltip": "Minimum start epoch buffer to give time for sealing of sector with deal, any deals below that time, will be rejected. Value expressed in HOURS.",
-            "button": {
-                "save": "Save"
-            }
+            "tooltip": "Minimum start epoch buffer to give time for sealing of sector with deal, any deals below that time, will be rejected. Value expressed in HOURS."
         }
     },
     "other": {
@@ -79,7 +75,6 @@
             "onUpdateCustomMessage": "The custom message has been saved.",
             "onUpdateFriendlyName": "The miner nickname has been updated.",
             "onRegenerateConnectorToken": "Token has been regenerated.",
-            "onUpdateStartEpochSealingBuffer": "The start epoch sealing buffer has been updated.",
             "onUpdateSettings": "Settings have been saved!",
             "onMinerStatusCheckChanged": "Automatic status check enabled"
         },
@@ -88,11 +83,9 @@
             "onUpdateCustomMessage": "An error occurred updating custom message, Please try again in a few minutes or contact the CIDgravity team.",
             "onUpdateFriendlyName": "An error occurred updating the miner nickname, Please try again in a few minutes or contact the CIDgravity team.",
             "onRegenerateConnectorToken": "An error occurred generating a new token, Please try again in a few minutes or contact the CIDgravity team.",
-            "onUpdateStartEpochSealingBuffer": "An error occurred updating your start epoch sealing buffer setting, Please try again in a few minutes or contact the CIDgravity team.",
             "onUpdateSettings": "An error occurred saving the miner settings, Please try again in a few minutes or contact the CIDgravity team.",
             "onMinerStatusCheckServiceUnavailable": "Automatic miner status check is unavailable, Please try again in a few minutes or contact the CIDgravity team.",
-            "onMinerStatusCheckNotReachable": "Automatic miner disabled as the miner is not reachable. Go to Help Center > Diagnosis for more details",
-            "onStartEpochSealingBufferMandatoryOrZero": "Start epoch sealing buffer is mandatory. Set to 0 to disable it."
+            "onMinerStatusCheckNotReachable": "Automatic miner disabled as the miner is not reachable. Go to Help Center > Diagnosis for more details"
         },
         "info": {
             "onMinerStatusCheckTestLoading": "Testing miner reachability, please wait 30 seconds."
