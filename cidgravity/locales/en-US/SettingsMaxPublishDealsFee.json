@@ -1,3 +1,11 @@
 {
-    "title": "MaxPublishDealsFee Boost/Venus"
+    "title": "MaxPublishDealsFee Boost/Venus",
+    "button": {
+        "save": "Save"
+    },
+    "validation": {
+        "isInvalidValue": "Invalid value",
+        "isNotPositiveValue": "Must be a positive integer"
+    },
+    "tooltip": "Set this value to the exact same value of what is configured in Boost/Venus config (.boost/config.toml [LotusFees]/MaxPublishDealsFee).<br/>This value is used to anticipate Boost/Venus rejection."
 }
