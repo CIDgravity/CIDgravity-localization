@@ -96,7 +96,7 @@
             "title": "Providers On-chain statistics"
         },
         "offChainProviderStats": {
-            "title": "Additional statistics for providers utilizing CIDgravity"
+            "title": "Publishing statistics"
         },
         "axisUnits": {
             "volume": "Volume (TiB)",
