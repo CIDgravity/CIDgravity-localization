@@ -96,7 +96,7 @@
             "title": "Providers On-chain statistics"
         },
         "offChainProviderStats": {
-            "title": "Publishing statistics"
+            "title": "Providers  Publishing statistics"
         },
         "axisUnits": {
             "volume": "Volume (TiB)",
