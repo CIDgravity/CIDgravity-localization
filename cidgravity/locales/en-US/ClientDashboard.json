@@ -223,9 +223,9 @@
         },
         "reasons": {
             "accept": "Accepted",
-            "sizeRateLimit": "Rate limit - Cumulative size",
             "reject": "No matching pricing rules",
-            "storageAcceptanceLogic": "Acceptance logic not passed"
+            "busy": "Busy",
+            "serviceUnavailable": "Service unavailable"
         },
         "filPlusStatus": {
             "true": "Verified",
