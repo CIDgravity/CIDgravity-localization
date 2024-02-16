@@ -11,11 +11,7 @@
             "label": "接受来自未知客户端的存储交易"
         },
         "startEpochSealingBuffer": {
-            "title": "起始时期密封缓冲区",
-            "tooltip": "为了给扇区密封和交易留出时间，设置最小的起始时期缓冲区，低于该时间的交易将被拒绝。值以小时为单位。",
-            "button": {
-                "save": "保存"
-            }
+            "tooltip": "为了给扇区密封和交易留出时间，设置最小的起始时期缓冲区，低于该时间的交易将被拒绝。值以小时为单位。"
         }
     },
     "title": "设置",
@@ -79,7 +75,6 @@
             "onUpdateCustomMessage": "自定义信息已保存。",
             "onUpdateFriendlyName": "存储供应商昵称已更新。",
             "onRegenerateConnectorToken": "代币已重新生成。",
-            "onUpdateStartEpochSealingBuffer": "起始时期密封缓冲区已更新。",
             "onUpdateSettings": "设置已保存！",
             "onMinerStatusCheckChanged": "已启用自动状态检查"
         },
@@ -88,7 +83,6 @@
             "onUpdateCustomMessage": "更新自定义信息时发生错误，请稍后再试或联系 CIDgravity 团队。",
             "onUpdateFriendlyName": "更新存储供应商昵称时发生错误，请稍后再试或联系 CIDgravity 团队。",
             "onRegenerateConnectorToken": "生成新代币时发生错误，请稍后再试或联系 CIDgravity 团队。",
-            "onUpdateStartEpochSealingBuffer": "更新起始时期密封缓冲区设置时发生错误，请稍后再试或联系 CIDgravity 团队。",
             "onUpdateSettings": "保存存储供应商设置时发生错误，请稍后再试，或联系CIDgravity团队。",
             "onMinerStatusCheckServiceUnavailable": "存储供应商状态自动检查不可用，请稍后再试，或联系CIDgravity团队。",
             "onMinerStatusCheckNotReachable": "由于存储供应商不可达，自动存储供应商已禁用，请前往帮助中心>诊断以获取更多详细信息"
