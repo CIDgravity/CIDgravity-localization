@@ -225,7 +225,12 @@
             "accept": "Accepted",
             "reject": "No matching pricing rules",
             "busy": "Busy",
-            "serviceUnavailable": "Service unavailable"
+            "serviceUnavailable": "Service unavailable",
+            "clientNotAuthorized": "Client not authorized",
+            "dealTypeNotAccepted": "Deal type not accepted",
+            "invalidClientAddress": "Invalid client address",
+            "pieceCidDuplicated": "Piece CID duplicated",
+            "priceTooLow": "Price too low"
         },
         "filPlusStatus": {
             "true": "Verified",
