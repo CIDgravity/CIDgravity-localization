@@ -222,13 +222,9 @@
             "-1": "< 1 GiB"
         },
         "reasons": {
-            "invalidProposal": "Invalid proposal",
             "accept": "Accepted",
-            "maintenance": "Maintenance mode",
             "sizeRateLimit": "Rate limit - Cumulative size",
-            "rateLimit": "Rate limit - Number of proposals",
             "reject": "No matching pricing rules",
-            "startEpochBelowSealingBuffer": "Below min. start epoch",
             "storageAcceptanceLogic": "Acceptance logic not passed"
         },
         "filPlusStatus": {
