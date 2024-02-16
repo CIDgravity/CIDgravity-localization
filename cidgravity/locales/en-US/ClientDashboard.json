@@ -230,7 +230,8 @@
             "dealTypeNotAccepted": "Deal type not accepted",
             "invalidClientAddress": "Invalid client address",
             "pieceCidDuplicated": "Piece CID duplicated",
-            "priceTooLow": "Price too low"
+            "priceTooLow": "Price too low",
+            "startEpochTooEarly": "Start epoch too early"
         },
         "filPlusStatus": {
             "true": "Verified",
