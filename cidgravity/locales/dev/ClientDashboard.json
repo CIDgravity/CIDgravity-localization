@@ -220,13 +220,15 @@
         },
         "reasons": {
             "accept": "Accepted",
-            "maintenance": "Maintenance mode",
-            "sizeRateLimit": "Rate limit - Cumulative size",
-            "invalidProposal": "Invalid proposal",
-            "rateLimit": "Rate limit - Number of proposals",
-            "reject": "No matching pricing rules",
-            "startEpochBelowSealingBuffer": "Below min. start epoch",
-            "storageAcceptanceLogic": "Acceptance logic not passed"
+            "busy": "Busy",
+            "serviceUnavailable": "Service unavailable",
+            "clientNotAuthorized": "Client not authorized",
+            "dealTypeNotAccepted": "Deal type not accepted",
+            "reject": "Rejected",
+            "invalidClientAddress": "Invalid client address",
+            "pieceCidDuplicated": "Piece CID duplicated",
+            "priceTooLow": "Price too low",
+            "startEpochTooEarly": "Start epoch too early"
         },
         "filPlusStatus": {
             "true": "Verified",
