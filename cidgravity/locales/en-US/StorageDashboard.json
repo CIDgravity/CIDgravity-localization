@@ -30,7 +30,9 @@
             "storageAcceptanceLogic": "Acceptance logic not passed",
             "noFundsLeft": "No funds left",
             "noSpaceLeft": "No space left",
-            "clientBlocked": "Client blocked"
+            "clientBlocked": "Client blocked",
+            "error": "Error",
+            "blacklist": "Client blacklisted"
         },
         "totalAcceptedDealsWithReasons": {
             "title": "Accepted / rejected proposals"
