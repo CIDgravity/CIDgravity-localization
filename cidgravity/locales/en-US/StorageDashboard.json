@@ -29,7 +29,8 @@
             "startEpochBelowSealingBuffer": "Below min. start epoch",
             "storageAcceptanceLogic": "Acceptance logic not passed",
             "noFundsLeft": "No funds left",
-            "noSpaceLeft": "No space left"
+            "noSpaceLeft": "No space left",
+            "clientBlocked": "Client blocked"
         },
         "totalAcceptedDealsWithReasons": {
             "title": "Accepted / rejected proposals"
