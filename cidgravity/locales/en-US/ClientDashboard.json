@@ -252,7 +252,10 @@
         },
         "forecast": {
             "title": "Forecast",
-            "lastExpiration": "last expiration"
+            "lastExpiration": "last expiration",
+            "networkConsumption": {
+                "title": "Dataset distribution forecast"
+            }
         }
     }
 }
