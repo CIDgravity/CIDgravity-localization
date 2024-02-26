@@ -100,7 +100,8 @@
         },
         "axisUnits": {
             "volume": "Volume (TiB)",
-            "numberOfDeal": "Number of deals"
+            "numberOfDeal": "Number of deals",
+            "numberOfCid": "Number of PieceCID"
         },
         "onChainStatus": {
             "active": "Sucessfully onboarded",
@@ -255,6 +256,9 @@
             "lastExpiration": "last expiration",
             "networkConsumption": {
                 "title": "Dataset distribution forecast"
+            },
+            "networkExpiration": {
+                "title": "Dataset expiration forecast"
             }
         }
     }
