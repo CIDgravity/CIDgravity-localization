@@ -119,6 +119,16 @@
             "title": "Volume per provider",
             "downloadAsCsv": "CSV"
         },
+        "forecast": {
+            "title": "Forecast",
+            "lastExpiration": "last expiration",
+            "networkConsumption": {
+                "title": "Forecast network consumption"
+            },
+            "networkExpiration": {
+                "title": "Forecast network expiration"
+            }
+        },
         "history": {
             "acceptedDealsRejectedReasons": {
                 "title": "Accepted / rejected proposals"
@@ -157,7 +167,8 @@
         },
         "axisUnits": {
             "volume": "Volume (TiB)",
-            "numberOfDeal": "Number of deals"
+            "numberOfDeal": "Number of deals",
+            "numberOfCid": "Number of PieceCID"
         },
         "onChainStatus": {
             "active": "Sucessfully onboarded",
