@@ -249,6 +249,10 @@
             "averageSealingTime": "Average time between the deal is published on chain and is fully sealed.",
             "averageOnboardingTime": "Average of the total time between the deal is sent to the provider and is fully sealed.",
             "stagingRatio": "Success ratio between the deal is sent to the provider and published on chain. it typically covers file transfer and packing (CIDgravity deals only)."
+        },
+        "forecast": {
+            "title": "Forecast",
+            "lastExpiration": "last expiration"
         }
     }
 }
