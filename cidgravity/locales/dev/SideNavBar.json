@@ -3,6 +3,8 @@
         "client": {
             "dashboard": "Dashboard",
             "informations": "Informations",
+            "policyGroup": "Policy",
+            "blacklist": "Blacklist",
             "helpCenter": "Help center",
             "settings": "Settings"
         },

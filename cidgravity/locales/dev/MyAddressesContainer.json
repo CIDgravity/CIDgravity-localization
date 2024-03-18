@@ -13,6 +13,11 @@
             "actorType": {
                 "title": "Actor type"
             },
+            "aclOffers": {
+                "title": "Account type",
+                "offer-sp-free": "Free",
+                "offer-sp-premium": "Premium"
+            },
             "access": {
                 "tooltip": "View access rights"
             },
@@ -40,6 +45,11 @@
             "actorType": {
                 "title": "Actor type"
             },
+            "aclOffers": {
+                "title": "Account type",
+                "offer-client-free": "Free",
+                "offer-client-premium": "Premium"
+            },
             "access": {
                 "tooltip": "View access rights"
             },
@@ -49,33 +59,6 @@
         },
         "errors": {
             "generic": "Unable to load your client addresses. Try again in few minutes!"
-        }
-    },
-    "otherAddress": {
-        "title": "Other addresses",
-        "table": {
-            "empty": "You haven't claimed any address yet",
-            "friendlyName": {
-                "title": "Friendly name"
-            },
-            "addressId": {
-                "title": "Address ID"
-            },
-            "longAddress": {
-                "title": "Long address"
-            },
-            "actorType": {
-                "title": "Actor type"
-            },
-            "access": {
-                "tooltip": "View access rights"
-            },
-            "delete": {
-                "tooltip": "Delete this address"
-            }
-        },
-        "errors": {
-            "generic": "Unable to load your other addresses. Try again in few minutes!"
         }
     },
     "button": {
@@ -88,7 +71,7 @@
     },
     "notification": {
         "success": {
-            "onDeleteAddress": "Miner deleted successfully!",
+            "onDeleteAddress": "Address deleted successfully!",
             "onRemoveAccess": "Access successfully removed!"
         },
         "error": {

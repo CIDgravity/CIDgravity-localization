@@ -14,7 +14,11 @@
         "noAddress": "No address",
         "noAddressSelected": "No address selected",
         "providerCategory": "Providers",
-        "clientsCategory": "Clients"
+        "clientsCategory": "Clients",
+        "aclOffers": {
+            "premium": "Premium account",
+            "free": "Free account"
+        }
     },
     "userDropdownMenu": {
         "account": "My account",

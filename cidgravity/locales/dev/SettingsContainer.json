@@ -21,6 +21,7 @@
             "mostRecentActivityError": "Something wrong : {{errorCode}} (last seen {{lastCheck}})",
             "noMostRecentActivity": "No recent activity",
             "activityErrorCodes": {
+                "ERR_SENT": "Test proposal sent",
                 "ERR_NO_PEER_ID_SET_ON_CHAIN": "Peer ID not published on chain",
                 "ERR_NO_MULTI_ADDRESS_SET_ON_CHAIN": "Multiaddr not published on chain",
                 "ERR_INVALID_MULTI_ADDRESS_IN_MINER_INFO": "Wrong multiaddr format",
