@@ -25,30 +25,17 @@
         }
     },
     "otherAddress": {
-        "title": "Other addresses",
         "table": {
             "empty": "No addresses",
-            "addressId": {
-                "title": "Address ID"
-            },
             "friendlyName": {
                 "title": "Nickname"
-            },
-            "actorType": {
-                "title": "Actor type"
             },
             "longAddress": {
                 "title": "Long format address"
             },
-            "access": {
-                "tooltip": "Permissions"
-            },
             "delete": {
                 "tooltip": "Delete"
             }
-        },
-        "errors": {
-            "generic": "Unable to load addresses. Please try again later or contact the CIDgravity team."
         }
     },
     "button": {

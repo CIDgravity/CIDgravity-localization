@@ -25,20 +25,13 @@
         }
     },
     "otherAddress": {
-        "title": "其他地址",
         "table": {
             "empty": "无地址",
             "friendlyName": {
                 "title": "昵称"
             },
-            "addressId": {
-                "title": "地址ID"
-            },
             "longAddress": {
                 "title": "长格式地址"
-            },
-            "actorType": {
-                "title": "Actor类型"
             },
             "access": {
                 "tooltip": "权限"
@@ -46,9 +39,6 @@
             "delete": {
                 "tooltip": "删除"
             }
-        },
-        "errors": {
-            "generic": "无法加载其他地址。请稍后再试或联系CIDgravity团队。"
         }
     },
     "button": {
