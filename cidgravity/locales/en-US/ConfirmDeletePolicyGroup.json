@@ -4,5 +4,10 @@
         "body": {
             "willRemoveThisPolicyGroup": "Clicking delete will completely remove this policy group. This action cannot be undone."
         }
+    },
+    "button": {
+        "cancel": "Cancel",
+        "close": "Close",
+        "confirm": "Delete"
     }
 }
