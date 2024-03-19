@@ -1,6 +1,6 @@
 {
     "removeConfirmation": {
-        "header": "Remove policy group {{policyGroupName}}",
+        "header": "Remove policy group \"{{policyGroupName}}\"",
         "body": {
             "willRemoveThisPolicyGroup": "Clicking delete will completely remove this policy group. This action cannot be undone."
         }
