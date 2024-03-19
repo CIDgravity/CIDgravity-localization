@@ -19,6 +19,7 @@
     },
     "validation": {
         "onInitPolicySettings": "An error occurred whilst initializing policy settings, please try again later or contact the CIDgravity team.",
-        "onCreatePolicyGroup": "An error occurred whilst trying to create the policy group, please try again later or contact the CIDgravity team."
+        "onCreatePolicyGroup": "An error occurred whilst trying to create the policy group, please try again later or contact the CIDgravity team.",
+        "onUpdatePolicyGroup": "An error occurred whilst trying to update the policy group, please try again later or contact the CIDgravity team."
     }
 }
