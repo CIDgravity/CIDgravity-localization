@@ -28,6 +28,7 @@
     "validation": {
         "invalidProviderShortAddress": "Address ID must be a short address (f0…)",
         "providerAddressInvalidOnChain": "Address ID is not a valid StorageMiner on-chain.",
-        "internalErrorWhileCheckingProviderAddress": "An error occurred whilst whilst checking address ID. Please try again later or contact the CIDgravity team."
+        "internalErrorWhileCheckingProviderAddress": "An error occurred whilst whilst checking address ID. Please try again later or contact the CIDgravity team.",
+        "addressAlreadyInBlacklist": "This address ID is already blacklisted."
     }
 }
