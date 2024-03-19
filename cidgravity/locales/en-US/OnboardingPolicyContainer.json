@@ -64,6 +64,7 @@
     },
     "button": {
         "saveSettings": "Save",
-        "importExportFromJson": "JSON Import"
+        "importExportFromJson": "JSON Import",
+        "new": "New group"
     }
 }
