@@ -23,7 +23,7 @@
         },
         "providers": {
             "title": "Providers",
-            "all": "All"
+            "all": "Any providers available"
         }
     }
 }
