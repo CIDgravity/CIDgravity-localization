@@ -23,6 +23,7 @@
         "onUpdatePolicyGroup": "An error occurred whilst trying to update the policy group, please try again later or contact the CIDgravity team.",
         "isNameAlreadyUsed": "Policy group name already used.",
         "atLeastOneProviderIsRequired": "At least one provider is required to create a group.",
-        "atLeastOneProviderIsNotFilled": "All fields are mandatory."
+        "atLeastOneProviderIsNotFilled": "All fields are mandatory.",
+        "isMoreThanNumberOfProviders": "The number of copies cannot exceed the number of providers."
     }
 }
