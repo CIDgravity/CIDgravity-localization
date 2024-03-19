@@ -13,7 +13,8 @@
     },
     "validation": {
         "address": {
-            "typeError": "Provider address ID must be a valid string"
+            "typeError": "Provider address ID must be a valid string",
+            "required": "Provider address is mandatory"
         }
     }
 }
