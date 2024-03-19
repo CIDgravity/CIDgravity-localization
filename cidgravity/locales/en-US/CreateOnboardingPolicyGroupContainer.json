@@ -8,6 +8,7 @@
     "premium": {
         "title": "Premium feature",
         "subtitle": "This feature is only available with the premium subscription.",
-        "button": "Upgrade"
+        "button": "Upgrade",
+        "backButton": "Go back to policy"
     }
 }
