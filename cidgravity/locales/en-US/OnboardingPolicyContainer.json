@@ -6,5 +6,11 @@
         "title": "Premium feature",
         "subtitle": "This feature is only available with the premium subscription.",
         "button": "Upgrade"
+    },
+    "settings": {
+        "title": "Policy settings",
+        "priority": {
+            "label": "Priority"
+        }
     }
 }
