@@ -14,7 +14,8 @@
             "options": {
                 "numberOfCopies": "Number of copies respected",
                 "policyRespected": "Policy respected"
-            }
+            },
+            "tooltip": "Policy Adherence: Enforces the specified number of copies per group. Total Copy Count Adherence: Ensures the total number of copies is respected, though not necessarily distributed evenly among groups."
         }
     },
     "table": {
