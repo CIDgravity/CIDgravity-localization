@@ -13,5 +13,8 @@
     },
     "error": {
         "isPolicyGroupNotExistingOrNotAllowed": "Access forbidden."
+    },
+    "button": {
+        "backToGroupList": "Go back to group list."
     }
 }
