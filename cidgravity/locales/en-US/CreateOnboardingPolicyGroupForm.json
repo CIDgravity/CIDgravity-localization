@@ -8,5 +8,8 @@
         "numberOfCopies": {
             "label": "Number of copies *"
         }
+    },
+    "providers": {
+        "title": "Provider list"
     }
 }
