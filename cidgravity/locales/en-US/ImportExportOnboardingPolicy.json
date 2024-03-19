@@ -5,5 +5,9 @@
         "editor": {
             "placeholder": "Paste onboarding policy here"
         }
+    },
+    "button": {
+        "copyToClipboard": "Copy to clipboard",
+        "apply": "Import"
     }
 }
