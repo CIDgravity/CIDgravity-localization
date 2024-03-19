@@ -29,7 +29,8 @@
     },
     "notification": {
         "error": {
-            "isAddressCantBeAddedOneMoreTime": "{{provider}} already in a group."
+            "isAddressCantBeAddedOneMoreTime": "{{provider}} already in a group.",
+            "isAddressInvalidOrNotOnChain": "{{provider}} is not a valid address ID (f0…)"
         }
     }
 }
