@@ -4,6 +4,7 @@
     "subtitle": "Onboarding policy management allows you to define how copies will be distributed across different storage providers.",
     "premium": {
         "title": "Premium feature",
-        "subtitle": "This feature is only available with the premium subscription."
+        "subtitle": "This feature is only available with the premium subscription.",
+        "button": "Upgrade"
     }
 }
