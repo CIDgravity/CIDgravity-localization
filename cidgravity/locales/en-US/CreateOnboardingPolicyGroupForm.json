@@ -11,6 +11,7 @@
     },
     "providers": {
         "title": "Provider list",
-        "subtitle": "You can add one or multiple providers."
+        "subtitle": "You can add one or multiple providers.",
+        "notAvailableForMixGroupPolicy": "Any available providers from CIDgravity are assigned to this group.<br />"
     }
 }
