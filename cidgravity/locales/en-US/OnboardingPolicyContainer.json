@@ -1,7 +1,7 @@
 {
     "mixGroupName": "Global Storage Provider Mix",
     "title": "Onboarding policy management",
-    "subtitle": "Onboarding policy management allows you to define how copies will be distributed across different storage providers.",
+    "subtitle": "The onboarding policy enables the definition of how copies will be spread across various storage providers.",
     "premium": {
         "title": "Premium feature",
         "subtitle": "This feature is only available with the premium subscription.",
