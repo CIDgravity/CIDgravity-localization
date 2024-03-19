@@ -43,5 +43,8 @@
     },
     "empty": {
         "title": "No blacklisted addresses"
+    },
+    "error": {
+        "generic": "An error occurred whilst retrieving blacklisted addresses. Please try again later or contact the CIDgravity team."
     }
 }
