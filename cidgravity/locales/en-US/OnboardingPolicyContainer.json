@@ -37,7 +37,8 @@
     },
     "notification": {
         "success": {
-            "onUpdatePolicySettings": "Policy settings successfully saved."
+            "onUpdatePolicySettings": "Policy settings successfully saved.",
+            "onDeletePolicyGroup": "Policy group successfully deleted."
         }
     }
 }
