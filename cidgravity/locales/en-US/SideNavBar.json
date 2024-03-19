@@ -4,7 +4,9 @@
             "dashboard": "Dashboard",
             "informations": "Information",
             "helpCenter": "Help center",
-            "settings": "Settings"
+            "settings": "Settings",
+            "policyGroup": "Policy",
+            "blacklist": "Blacklist"
         },
         "provider": {
             "helpCenter": "Help center",
