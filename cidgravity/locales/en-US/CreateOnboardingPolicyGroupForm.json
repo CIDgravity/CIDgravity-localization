@@ -40,7 +40,7 @@
         },
         "numberOfCopies": {
             "typeError": "Must be a valid integer.",
-            "required": "Number of copies is mandatory."
+            "required": "Mandatory field."
         }
     }
 }
