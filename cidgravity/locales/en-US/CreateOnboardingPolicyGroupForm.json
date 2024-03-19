@@ -12,6 +12,7 @@
     "providers": {
         "title": "Provider list",
         "subtitle": "Add one or multiple providers. Copies will be allocated across all members of the list.",
-        "notAvailableForMixGroupPolicy": "Any available providers from CIDgravity are assigned to this group.<br />"
+        "notAvailableForMixGroupPolicy": "Any available providers from CIDgravity are assigned to this group.<br />",
+        "howToAddFirstProvider": "Click \"+\" to add providers."
     }
 }
