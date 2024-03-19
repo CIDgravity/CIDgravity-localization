@@ -29,13 +29,6 @@
             "generic": "Unable to load miner addresses. Please try again later or contact the CIDgravity team."
         }
     },
-    "otherAddress": {
-        "table": {
-            "delete": {
-                "tooltip": "Delete"
-            }
-        }
-    },
     "button": {
         "claimNewAddress": {
             "label": "Claim a new address",
@@ -75,6 +68,11 @@
             },
             "delete": {
                 "tooltip": "Delete"
+            },
+            "aclOffers": {
+                "title": "Subscription",
+                "offer-client-free": "Free",
+                "offer-client-premium": "Premium"
             }
         },
         "errors": {
