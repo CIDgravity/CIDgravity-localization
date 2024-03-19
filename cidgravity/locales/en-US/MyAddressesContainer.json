@@ -20,7 +20,7 @@
                 "tooltip": "Delete"
             },
             "aclOffers": {
-                "title": "Account type",
+                "title": "Subscription",
                 "offer-sp-free": "Free",
                 "offer-sp-premium": "Premium"
             }
@@ -31,9 +31,6 @@
     },
     "otherAddress": {
         "table": {
-            "friendlyName": {
-                "title": "Nickname"
-            },
             "delete": {
                 "tooltip": "Delete"
             }
