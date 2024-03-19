@@ -1,3 +1,6 @@
 {
-    "mixGroupName": "Global Storage Provider Mix"
+    "mixGroupName": "Global Storage Provider Mix",
+    "title": {
+        "initOrMixGroupEdit": "Configure Global Storage Provider Mix"
+    }
 }
