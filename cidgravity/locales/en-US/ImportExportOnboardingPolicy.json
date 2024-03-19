@@ -1,6 +1,9 @@
 {
     "header": "JSON Editor",
     "body": {
-        "description": "Import/Export onboarding policy using JSON."
+        "description": "Import/Export onboarding policy using JSON.",
+        "editor": {
+            "placeholder": "Paste onboarding policy here"
+        }
     }
 }
