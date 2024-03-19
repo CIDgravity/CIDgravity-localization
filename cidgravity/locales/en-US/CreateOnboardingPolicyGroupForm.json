@@ -4,6 +4,9 @@
         "subtitle": " ",
         "name": {
             "label": "Group name *"
+        },
+        "numberOfCopies": {
+            "label": "Number of copies *"
         }
     }
 }
