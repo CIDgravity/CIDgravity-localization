@@ -34,7 +34,8 @@
     "validation": {
         "name": {
             "typeError": "Must be a valid string",
-            "required": "Policy group name is mandatory"
+            "required": "Policy group name is mandatory",
+            "matches": "Can only contain letters, numbers and underscore."
         }
     }
 }
