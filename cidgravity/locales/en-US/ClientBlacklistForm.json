@@ -19,5 +19,10 @@
         "comment": {
             "typeError": "Comment must be a valid string."
         }
+    },
+    "notification": {
+        "success": {
+            "onInsertAddressToBlacklist": "Address successfully added."
+        }
     }
 }
