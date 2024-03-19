@@ -40,6 +40,9 @@
             "onUpdatePolicySettings": "Policy settings successfully saved.",
             "onDeletePolicyGroup": "Policy group successfully deleted.",
             "onImportPolicy": "Onboarding policy successfully imported."
+        },
+        "error": {
+            "onUpdatePolicySettings": "An error occurred whilst saving the policy settings. Please try again later or contact the CIDgravity team."
         }
     }
 }
