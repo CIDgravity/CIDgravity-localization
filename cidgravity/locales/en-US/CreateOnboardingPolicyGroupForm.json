@@ -40,7 +40,8 @@
         },
         "numberOfCopies": {
             "typeError": "Must be a valid integer.",
-            "required": "Mandatory field."
+            "required": "Mandatory field.",
+            "isUnderMinimunValue": "Minimun value is 0 copies."
         }
     }
 }
