@@ -28,6 +28,7 @@
     "button": {
         "addNewProvider": "+",
         "configure": "Configure",
-        "update": "Update"
+        "update": "Update",
+        "create": "Create"
     }
 }
