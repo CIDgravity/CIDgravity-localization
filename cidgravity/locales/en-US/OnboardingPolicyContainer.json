@@ -20,6 +20,10 @@
     "table": {
         "name": {
             "title": "Group name"
+        },
+        "providers": {
+            "title": "Providers",
+            "all": "All"
         }
     }
 }
