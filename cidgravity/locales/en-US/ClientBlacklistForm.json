@@ -14,7 +14,7 @@
     "validation": {
         "address": {
             "typeError": "Provider address ID must be a valid string",
-            "required": "Provider address is mandatory"
+            "required": "Address ID is mandatory"
         }
     }
 }
