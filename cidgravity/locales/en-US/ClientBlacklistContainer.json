@@ -40,5 +40,8 @@
             "onRemoveFromBlacklist": "An error occurred whilst removing the address from the blacklist. Please try again later or contact the CIDgravity team.",
             "onInsertAddressToBlacklist": "An error occurred whilst adding the address. Please try again later or contact the CIDgravity team."
         }
+    },
+    "empty": {
+        "title": "No blacklisted addresses."
     }
 }
