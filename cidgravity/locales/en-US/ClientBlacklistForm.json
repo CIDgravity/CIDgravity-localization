@@ -15,6 +15,9 @@
         "address": {
             "typeError": "Provider address ID must be a valid string",
             "required": "Address ID is mandatory"
+        },
+        "comment": {
+            "typeError": "Comment must be a valid string"
         }
     }
 }
