@@ -65,6 +65,7 @@
     "button": {
         "saveSettings": "Save",
         "importExportFromJson": "JSON Import",
-        "new": "New group"
+        "new": "New group",
+        "initOnboardingPolicy": "Initialize onboarding policy"
     }
 }
