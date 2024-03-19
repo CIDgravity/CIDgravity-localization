@@ -2,6 +2,7 @@
     "title": "Blacklist management",
     "subtitle": "Blacklist the providers who should no longer receive new deals.",
     "premium": {
-        "title": "Premium feature"
+        "title": "Premium feature",
+        "subtitle": "This feature is only available with the premium subscription."
     }
 }
