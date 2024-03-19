@@ -16,5 +16,8 @@
     },
     "button": {
         "backToGroupList": "Go back to group list."
+    },
+    "validation": {
+        "onInitPolicySettings": "An error occurred whilst initializing policy settings, please try again later or contact the CIDgravity team."
     }
 }
