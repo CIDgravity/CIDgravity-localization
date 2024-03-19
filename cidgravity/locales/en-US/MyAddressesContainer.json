@@ -18,6 +18,11 @@
             },
             "delete": {
                 "tooltip": "Delete"
+            },
+            "aclOffers": {
+                "title": "Account type",
+                "offer-sp-free": "Free",
+                "offer-sp-premium": "Premium"
             }
         },
         "error": {
@@ -26,12 +31,8 @@
     },
     "otherAddress": {
         "table": {
-            "empty": "No addresses",
             "friendlyName": {
                 "title": "Nickname"
-            },
-            "longAddress": {
-                "title": "Long format address"
             },
             "delete": {
                 "tooltip": "Delete"
