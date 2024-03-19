@@ -26,5 +26,10 @@
         "atLeastOneProviderIsNotFilled": "All fields are mandatory.",
         "isMoreThanNumberOfProviders": "The number of copies cannot exceed the number of providers.",
         "groupNameCannotContainMixWord": "Reserved word is not allowed in group name: Mix"
+    },
+    "notification": {
+        "error": {
+            "isAddressCantBeAddedOneMoreTime": "{{provider}} already in a group."
+        }
     }
 }
