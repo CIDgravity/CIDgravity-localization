@@ -26,6 +26,7 @@
         }
     },
     "validation": {
-        "invalidProviderShortAddress": "Address ID must be a short address (f0…)"
+        "invalidProviderShortAddress": "Address ID must be a short address (f0…)",
+        "providerAddressInvalidOnChain": "Address ID is not a valid StorageMiner on-chain."
     }
 }
