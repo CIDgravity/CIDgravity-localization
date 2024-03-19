@@ -30,7 +30,8 @@
     "notification": {
         "error": {
             "isAddressCantBeAddedOneMoreTime": "{{provider}} already in a group.",
-            "isAddressInvalidOrNotOnChain": "{{provider}} is not a valid address ID (f0…)"
+            "isAddressInvalidOrNotOnChain": "{{provider}} is not a valid address ID (f0…)",
+            "isAddressGenericError": "{{provider}} cannot be added, please try again later or contact the CIDgravity team."
         }
     }
 }
