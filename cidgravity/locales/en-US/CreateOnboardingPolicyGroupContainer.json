@@ -22,6 +22,7 @@
         "onCreatePolicyGroup": "An error occurred whilst trying to create the policy group, please try again later or contact the CIDgravity team.",
         "onUpdatePolicyGroup": "An error occurred whilst trying to update the policy group, please try again later or contact the CIDgravity team.",
         "isNameAlreadyUsed": "Policy group name already used.",
-        "atLeastOneProviderIsRequired": "At least one provider is required to create a group."
+        "atLeastOneProviderIsRequired": "At least one provider is required to create a group.",
+        "atLeastOneProviderIsNotFilled": "All fields are mandatory."
     }
 }
