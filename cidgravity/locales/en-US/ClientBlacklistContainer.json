@@ -10,5 +10,13 @@
         "searchInput": {
             "placeholder": "Search by miner ID / in comment"
         }
+    },
+    "table": {
+        "comment": {
+            "title": "Comment"
+        },
+        "address": {
+            "title": "Provider Address ID"
+        }
     }
 }
