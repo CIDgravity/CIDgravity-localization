@@ -51,7 +51,8 @@
             "GROUP_NAME_MUST_BE_UNIQUE": "Group name must be unique.",
             "PROVIDER_IN_MULTIPLE_GROUPS": "Provider can only be in one group.",
             "NUMBER_OF_COPIES_GREATER_THAN_PROVIDERS": "Copies can not exceed providers.",
-            "GROUP_NAME_ALREADY_USED": "Cannot use the same group name for multiple groups."
+            "GROUP_NAME_ALREADY_USED": "Cannot use the same group name for multiple groups.",
+            "PROVIDER_ALREADY_USED": "Provider should only be in one group."
         }
     }
 }
