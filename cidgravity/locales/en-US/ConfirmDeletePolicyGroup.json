@@ -1,1 +1,5 @@
-{}
+{
+    "removeConfirmation": {
+        "header": "Remove policy group {{policyGroupName}}"
+    }
+}
