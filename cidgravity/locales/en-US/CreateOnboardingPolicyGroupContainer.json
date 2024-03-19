@@ -4,5 +4,8 @@
         "initOrMixGroupEdit": "Configure Global Storage Provider Mix",
         "new": "Create a new policy group",
         "edit": "Edit the policy group"
+    },
+    "premium": {
+        "title": "Premium feature"
     }
 }
