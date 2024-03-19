@@ -10,7 +10,10 @@
     "settings": {
         "title": "Policy settings",
         "priority": {
-            "label": "Priority"
+            "label": "Priority",
+            "options": {
+                "numberOfCopies": "Number of copies"
+            }
         }
     }
 }
