@@ -1,3 +1,14 @@
 {
-    "title": "Add address to blacklist"
+    "title": "Add address to blacklist",
+    "field": {
+        "addressId": {
+            "label": "Provider address ID"
+        },
+        "comment": {
+            "label": "Comment"
+        }
+    },
+    "button": {
+        "create": "Create"
+    }
 }
