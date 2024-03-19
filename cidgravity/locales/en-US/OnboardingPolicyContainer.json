@@ -24,6 +24,9 @@
         "providers": {
             "title": "Providers",
             "all": "Any providers available"
+        },
+        "numberOfCopies": {
+            "title": "Number of copies"
         }
     }
 }
