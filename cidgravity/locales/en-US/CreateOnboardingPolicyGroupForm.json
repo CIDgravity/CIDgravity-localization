@@ -10,6 +10,7 @@
         }
     },
     "providers": {
-        "title": "Provider list"
+        "title": "Provider list",
+        "subtitle": "You can add one or multiple providers."
     }
 }
