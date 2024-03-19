@@ -46,7 +46,8 @@
             "onDeletePolicyGroup": "An error occurred whilst deleting the policy group. Please try again later or contact the CIDgravity team.",
             "onImportPolicy": "An error occurred whilst importing the onboarding policy. Please try again later or contact the CIDgravity team.",
             "PROVIDER_BLACKLISTED": "A provider is currently blacklisted. Please remove it from the blacklist before adding it to a policy group.",
-            "NUMBER_OF_GROUP_LIMIT_EXCEEDED": "Cannot have more than 10 policy group."
+            "NUMBER_OF_GROUP_LIMIT_EXCEEDED": "Cannot have more than 10 policy group.",
+            "GROUP_MUST_CONTAINS_AT_LEAST_ONE_PROVIDER": "Group must have at least one provider."
         }
     }
 }
