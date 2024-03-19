@@ -42,6 +42,6 @@
         }
     },
     "empty": {
-        "title": "No blacklisted addresses."
+        "title": "No blacklisted addresses"
     }
 }
