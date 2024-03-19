@@ -1,7 +1,7 @@
 {
     "header": "JSON editor",
     "body": {
-        "description": "Import Acceptance logic from JSON",
+        "description": "Import/Export acceptance logic using JSON.",
         "editor": {
             "placeholder": "Paste Acceptance logic here"
         }
