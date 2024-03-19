@@ -20,6 +20,9 @@
         },
         "addedOn": {
             "title": "Added on"
+        },
+        "delete": {
+            "tooltip": "Remove from blacklist"
         }
     }
 }
