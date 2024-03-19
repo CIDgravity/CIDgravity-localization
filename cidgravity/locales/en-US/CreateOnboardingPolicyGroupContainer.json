@@ -10,5 +10,8 @@
         "subtitle": "This feature is only available with the premium subscription.",
         "button": "Upgrade",
         "backButton": "Go back to policy"
+    },
+    "error": {
+        "isPolicyGroupNotExistingOrNotAllowed": "Access forbidden."
     }
 }
