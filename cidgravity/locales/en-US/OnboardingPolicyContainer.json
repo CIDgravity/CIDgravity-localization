@@ -1,4 +1,5 @@
 {
     "mixGroupName": "Global Storage Provider Mix",
-    "title": "Onboarding policy management"
+    "title": "Onboarding policy management",
+    "subtitle": "Onboarding policy management allows you to define how copies will be distributed across different storage providers."
 }
