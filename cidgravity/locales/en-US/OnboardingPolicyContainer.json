@@ -16,5 +16,10 @@
                 "policyRespected": "Policy respected"
             }
         }
+    },
+    "table": {
+        "name": {
+            "title": "Group name"
+        }
     }
 }
