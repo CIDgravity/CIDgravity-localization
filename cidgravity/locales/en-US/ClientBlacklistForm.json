@@ -10,5 +10,10 @@
     },
     "button": {
         "create": "Create"
+    },
+    "validation": {
+        "address": {
+            "typeError": "Provider address ID must be a valid string"
+        }
     }
 }
