@@ -43,5 +43,11 @@
             "required": "Mandatory field.",
             "isUnderMinimunValue": "Minimun value is 0 copies."
         }
+    },
+    "notification": {
+        "success": {
+            "onSaveMixPolicyGroup": "Settings has been successfully saved.",
+            "onCreatePolicyGroup": "Policy group successfully created."
+        }
     }
 }
