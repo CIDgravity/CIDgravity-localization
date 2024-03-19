@@ -14,7 +14,11 @@
         "noAddress": "No address",
         "noAddressSelected": "No address selected",
         "clientsCategory": "Clients",
-        "providerCategory": "Miners"
+        "providerCategory": "Miners",
+        "aclOffers": {
+            "premium": "Premium",
+            "free": "Free"
+        }
     },
     "userDropdownMenu": {
         "account": "My account",
