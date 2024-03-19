@@ -2,6 +2,7 @@
     "mixGroupName": "Global Storage Provider Mix",
     "title": {
         "initOrMixGroupEdit": "Configure Global Storage Provider Mix",
-        "new": "Create a new policy group"
+        "new": "Create a new policy group",
+        "edit": "Edit the policy group"
     }
 }
