@@ -24,5 +24,8 @@
         "delete": {
             "tooltip": "Remove from blacklist"
         }
+    },
+    "validation": {
+        "invalidProviderShortAddress": "Address ID must be a short address (f0…)"
     }
 }
