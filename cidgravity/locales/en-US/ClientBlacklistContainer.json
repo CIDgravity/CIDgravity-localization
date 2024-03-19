@@ -31,5 +31,10 @@
         "internalErrorWhileCheckingProviderAddress": "An error occurred whilst whilst checking address ID. Please try again later or contact the CIDgravity team.",
         "addressAlreadyInBlacklist": "This address ID is already blacklisted.",
         "addressUsedInPolicyGroup": "This address ID is used in a policy group. Please remove it first."
+    },
+    "notification": {
+        "success": {
+            "onRemoveFromBlacklist": "Address successfully removed from blacklist."
+        }
     }
 }
