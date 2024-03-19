@@ -1,6 +1,9 @@
 {
     "general": {
         "title": "General information",
-        "subtitle": " "
+        "subtitle": " ",
+        "name": {
+            "label": "Group name *"
+        }
     }
 }
