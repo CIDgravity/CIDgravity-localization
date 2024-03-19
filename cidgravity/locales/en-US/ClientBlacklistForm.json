@@ -23,6 +23,9 @@
     "notification": {
         "success": {
             "onInsertAddressToBlacklist": "Address successfully added."
+        },
+        "error": {
+            "generic": "An error occurred whilst adding the address. Please try again later or contact the CIDgravity team."
         }
     }
 }
