@@ -18,6 +18,10 @@
             "address": {
                 "placeholder": "f010479",
                 "label": "Provider address ID"
+            },
+            "comment": {
+                "label": "Comment",
+                "placeholder": "Twin Quasar"
             }
         }
     }
