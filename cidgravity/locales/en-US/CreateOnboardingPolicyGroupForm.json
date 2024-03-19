@@ -30,5 +30,11 @@
         "configure": "Configure",
         "update": "Update",
         "create": "Create"
+    },
+    "validation": {
+        "name": {
+            "typeError": "Must be a valid string",
+            "required": "Policy group name is mandatory"
+        }
     }
 }
