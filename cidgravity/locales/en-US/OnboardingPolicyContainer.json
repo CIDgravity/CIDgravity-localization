@@ -67,7 +67,7 @@
         "saveSettings": "Save",
         "importExportFromJson": "JSON Import",
         "new": "New group",
-        "initOnboardingPolicy": "Initialize onboarding policy"
+        "initOnboardingPolicy": "Initialize"
     },
     "initOnboardingPolicy": {
         "title": "A policy must be initialized before beginning onboarding with CIDgravity."
