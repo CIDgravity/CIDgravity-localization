@@ -35,6 +35,9 @@
     "notification": {
         "success": {
             "onRemoveFromBlacklist": "Address successfully removed from blacklist."
+        },
+        "error": {
+            "onRemoveFromBlacklist": "An error occurred whilst removing the address from the blacklist. Please try again later or contact the CIDgravity team."
         }
     }
 }
