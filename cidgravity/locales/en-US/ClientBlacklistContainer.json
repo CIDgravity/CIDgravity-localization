@@ -5,5 +5,10 @@
         "title": "Premium feature",
         "subtitle": "This feature is only available with the premium subscription.",
         "button": "Upgrade"
+    },
+    "searchForm": {
+        "searchInput": {
+            "placeholder": "Search by miner ID / in comment"
+        }
     }
 }
