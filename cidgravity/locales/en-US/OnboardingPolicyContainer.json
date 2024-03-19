@@ -58,5 +58,8 @@
             "NOT_FOUND_ON_CHAIN": "Provider address does not exist on chain.",
             "GROUP_NAME_CONTAINS_RESERVED_WORD_MIX": "Reserved word is not allowed in group name: Mix"
         }
+    },
+    "error": {
+        "generic": "An error occurred whilst loading the policy groups. Please try again later or contact the CIDgravity team."
     }
 }
