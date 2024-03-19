@@ -49,6 +49,9 @@
             "onSaveMixPolicyGroup": "Settings has been successfully saved.",
             "onCreatePolicyGroup": "Policy group successfully created.",
             "onUpdatePolicyGroup": "Policy group successfully updated."
+        },
+        "error": {
+            "generic": "An error occurred whilst saving the policy group. Please try again later or contact the CIDgravity team."
         }
     }
 }
