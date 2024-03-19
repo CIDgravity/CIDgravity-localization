@@ -54,7 +54,9 @@
             "GROUP_NAME_ALREADY_USED": "Cannot use the same group name for multiple groups.",
             "PROVIDER_ALREADY_USED": "Provider should only be in one group.",
             "INVALID_PROVIDER_ADDRESS": "Invalid provider address.",
-            "NOT_SHORT_ADDRESS": "Address must be in short format."
+            "NOT_SHORT_ADDRESS": "Address must be in short format.",
+            "NOT_FOUND_ON_CHAIN": "Provider address does not exist on chain.",
+            "GROUP_NAME_CONTAINS_RESERVED_WORD_MIX": "Reserved word is not allowed in group name: Mix"
         }
     }
 }
