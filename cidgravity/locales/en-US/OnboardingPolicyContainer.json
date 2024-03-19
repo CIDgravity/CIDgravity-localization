@@ -34,5 +34,10 @@
         "delete": {
             "tooltip": "Delete"
         }
+    },
+    "notification": {
+        "success": {
+            "onUpdatePolicySettings": "Policy settings successfully saved."
+        }
     }
 }
