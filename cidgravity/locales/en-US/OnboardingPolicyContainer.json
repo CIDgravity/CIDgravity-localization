@@ -61,5 +61,9 @@
     },
     "error": {
         "generic": "An error occurred whilst loading the policy groups. Please try again later or contact the CIDgravity team."
+    },
+    "button": {
+        "saveSettings": "Save",
+        "importExportFromJson": "JSON Import"
     }
 }
