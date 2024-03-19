@@ -42,7 +42,8 @@
             "onImportPolicy": "Onboarding policy successfully imported."
         },
         "error": {
-            "onUpdatePolicySettings": "An error occurred whilst saving the policy settings. Please try again later or contact the CIDgravity team."
+            "onUpdatePolicySettings": "An error occurred whilst saving the policy settings. Please try again later or contact the CIDgravity team.",
+            "onDeletePolicyGroup": "An error occurred whilst deleting the policy group. Please try again later or contact the CIDgravity team."
         }
     }
 }
