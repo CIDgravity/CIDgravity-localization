@@ -38,7 +38,8 @@
     "notification": {
         "success": {
             "onUpdatePolicySettings": "Policy settings successfully saved.",
-            "onDeletePolicyGroup": "Policy group successfully deleted."
+            "onDeletePolicyGroup": "Policy group successfully deleted.",
+            "onImportPolicy": "Onboarding policy successfully imported."
         }
     }
 }
