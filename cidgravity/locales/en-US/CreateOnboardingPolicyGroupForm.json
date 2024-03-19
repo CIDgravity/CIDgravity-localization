@@ -26,6 +26,8 @@
         }
     },
     "button": {
-        "addNewProvider": "+"
+        "addNewProvider": "+",
+        "configure": "Configure",
+        "update": "Update"
     }
 }
