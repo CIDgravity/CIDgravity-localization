@@ -12,7 +12,7 @@
         "priority": {
             "label": "Priority",
             "options": {
-                "numberOfCopies": "Number of copies",
+                "numberOfCopies": "Number of copies respected",
                 "policyRespected": "Policy respected"
             }
         }
