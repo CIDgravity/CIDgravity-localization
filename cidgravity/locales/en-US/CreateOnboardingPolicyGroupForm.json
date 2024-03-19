@@ -35,7 +35,8 @@
         "name": {
             "typeError": "Must be a valid string",
             "required": "Policy group name is mandatory",
-            "matches": "Can only contain letters, numbers and underscore."
+            "matches": "Can only contain letters, numbers and underscore.",
+            "lengthTooShort": "Must be at least 3 characters long."
         }
     }
 }
