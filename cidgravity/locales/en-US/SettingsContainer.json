@@ -39,7 +39,8 @@
                 "ERR_GET_ASK_SIZES_NOT_PROPERLY_SET": "Get ask misconfigured",
                 "ERR_SEND_PROPOSAL": "Status cannot be verified",
                 "ERR_CIDGRAVITY_INVALID_CONNECTOR_TYPE": "Unsupported CIDgravity connector version",
-                "ERR_CIDGRAVITY_INVALID_CONNECTOR_VERSION": "Unsupported CIDgravity connector version"
+                "ERR_CIDGRAVITY_INVALID_CONNECTOR_VERSION": "Unsupported CIDgravity connector version",
+                "ERR_SENT": "CIDgravity connector not responding"
             },
             "mostRecentActivityError": "Something goes wrong : {{errorCode}} (last seen {{lastCheck}})"
         },
