@@ -26,18 +26,11 @@
     },
     "otherAddress": {
         "table": {
-            "empty": "无地址",
             "friendlyName": {
                 "title": "昵称"
             },
-            "longAddress": {
-                "title": "长格式地址"
-            },
             "access": {
                 "tooltip": "权限"
-            },
-            "delete": {
-                "tooltip": "删除"
             }
         }
     },
