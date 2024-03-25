@@ -62,7 +62,8 @@
             "INVALID_PROVIDER_ADDRESS": "Invalid provider address.",
             "NOT_SHORT_ADDRESS": "Address must be in short format.",
             "NOT_FOUND_ON_CHAIN": "Provider address does not exist on chain.",
-            "GROUP_NAME_CONTAINS_RESERVED_WORD_MIX": "Reserved word is not allowed in group name: Mix"
+            "GROUP_NAME_CONTAINS_RESERVED_WORD_MIX": "Reserved word is not allowed in group name: Mix",
+            "EMPTY_REQUEST_BODY": "Policy is empty"
         }
     },
     "error": {
