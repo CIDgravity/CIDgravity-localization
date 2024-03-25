@@ -27,7 +27,13 @@
             "all": "Any providers available"
         },
         "numberOfCopies": {
-            "title": "Number of copies"
+            "title": "Number of copies",
+            "copy_zero": "copies",
+            "copy_one": "copy",
+            "copy_two": "copies",
+            "copy_few": "copies",
+            "copy_many": "copies",
+            "copy_other": "copies"
         },
         "edit": {
             "tooltip": "Edit"
