@@ -42,6 +42,10 @@
         },
         "overLastTimerange": {
             "title": "Over the ",
+            "rightFirstTimeRatio": {
+                "title": "Right first time ratio",
+                "tooltip": "explanation"
+            },
             "publishedExpired": {
                 "title": "Published expired",
                 "tooltip": "deals which failed during the sealing stage"
@@ -185,6 +189,7 @@
             "title": "Provider success ratios"
         },
         "displayUnit": {
+            "cid": "PieceCID",
             "tib": "TiB",
             "deals": "deals",
             "volume": "Volume (TiB)",
