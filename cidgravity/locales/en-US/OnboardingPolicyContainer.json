@@ -63,7 +63,8 @@
             "NOT_SHORT_ADDRESS": "Address must be in short format.",
             "NOT_FOUND_ON_CHAIN": "Provider address does not exist on chain.",
             "GROUP_NAME_CONTAINS_RESERVED_WORD_MIX": "Reserved word is not allowed in group name: Mix",
-            "EMPTY_REQUEST_BODY": "Policy is empty"
+            "EMPTY_REQUEST_BODY": "Policy is empty",
+            "PROVIDER_DUPLICATED_IN_OTHER_GROUP": "Provider should only be in one group."
         }
     },
     "error": {
