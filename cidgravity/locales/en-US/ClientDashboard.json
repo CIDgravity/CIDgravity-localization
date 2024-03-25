@@ -86,6 +86,9 @@
             "averageOnboardingTime": {
                 "title": "Average onboarding duration",
                 "tooltip": "The average duration from when the deal is sent to the storage provider to its effective onboarding, encompassing all stages: Acceptance, Downloading, Packing, and Sealing. This precise KPI can only consider deals that utilize CIDgravity."
+            },
+            "rightFirstTimeRatio": {
+                "title": "Right First Time"
             }
         },
         "volumePerProvider": {
