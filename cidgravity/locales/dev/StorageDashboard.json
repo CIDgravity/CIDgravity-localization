@@ -40,6 +40,14 @@
         "totalAcceptedDealsWithReasons": {
             "title": "Accepted / rejected proposals"
         },
+        "displayUnit": {
+            "deals": "deals",
+            "tib": "TiB"
+        },
+        "volumePerClient": {
+            "title": "Distribution per client",
+            "downloadAsCsv": "CSV"
+        },
         "top10ClientsAccepted": {
             "title": "Top 10 clients (accepted deals)"
         },
