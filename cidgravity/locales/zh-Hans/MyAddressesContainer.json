@@ -26,9 +26,6 @@
     },
     "otherAddress": {
         "table": {
-            "friendlyName": {
-                "title": "昵称"
-            },
             "access": {
                 "tooltip": "权限"
             }
