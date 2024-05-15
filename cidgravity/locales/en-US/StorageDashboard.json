@@ -187,7 +187,10 @@
                 "cancel": "Cancel"
             }
         },
-        "noDataAvailable": "No data"
+        "noDataAvailable": "No data",
+        "displayUnit": {
+            "deals": "deals"
+        }
     },
     "button": {
         "refresh": "Refresh"
