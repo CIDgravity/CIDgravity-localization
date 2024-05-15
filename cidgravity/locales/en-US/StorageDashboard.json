@@ -191,6 +191,10 @@
         "displayUnit": {
             "deals": "deals",
             "tib": "TiB"
+        },
+        "volumePerClient": {
+            "title": "Distribution per client",
+            "downloadAsCsv": "CSV"
         }
     },
     "button": {
