@@ -189,7 +189,8 @@
         },
         "noDataAvailable": "No data",
         "displayUnit": {
-            "deals": "deals"
+            "deals": "deals",
+            "tib": "TiB"
         }
     },
     "button": {
