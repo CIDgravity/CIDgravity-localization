@@ -24,13 +24,6 @@
             "generic": "无法加载存储供应商地址。请稍后再试或联系CIDgravity团队。"
         }
     },
-    "otherAddress": {
-        "table": {
-            "access": {
-                "tooltip": "权限"
-            }
-        }
-    },
     "button": {
         "claimNewAddress": {
             "label": "认领新地址",
