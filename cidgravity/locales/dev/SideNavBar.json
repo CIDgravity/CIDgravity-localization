@@ -2,7 +2,7 @@
     "menu": {
         "client": {
             "dashboard": "Dashboard",
-            "informations": "Informations",
+            "informations": "Information",
             "policyGroup": "Policy",
             "blacklist": "Blacklist",
             "helpCenter": "Help center",
@@ -11,6 +11,7 @@
         "provider": {
             "dashboard": "Dashboard",
             "helpCenter": "Help center",
+            "informations": "Information",
             "client": "Clients",
             "settings": "Settings",
             "storage": {

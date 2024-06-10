@@ -170,7 +170,20 @@
         "error": {
             "onImportInvalidJsonLogic": "Invalid JSON logic format detected, check. Check the JSON you want to import and try again",
             "onImportInvalidVariablesNames": "Can't import your storage acceptance logic. At least one variable have a wrong name format",
-            "generic": "Unable to create/update the acceptance logic. Try later or reach out to CIDgravity team"
+            "generic": "Unable to create/update the acceptance logic. Try later or reach out to CIDgravity team",
+            "builder": {
+                "EMPTY_GROUP": "A group must contains at least one rule",
+                "rhs": {
+                    "REQUIRED_FUNCTION_ARG": "The values are required for advanced operations of rule {{rulePosition}}",
+                    "INCOMPLETE_RHS": "The right side of rule {{rulePosition}} is incomplete",
+                    "customError": "The right side of rule {{rulePosition}} is invalid: {{errorMessage}}"
+                },
+                "lhs": {
+                    "REQUIRED_FUNCTION_ARG": "The values are required for advanced operations of rule {{rulePosition}}",
+                    "INCOMPLETE_LHS": "The left side of rule {{rulePosition}} is incomplete",
+                    "customError": "The left side of rule {{rulePosition}} is invalid: {{errorMessage}}"
+                }
+            }
         }
     }
 }

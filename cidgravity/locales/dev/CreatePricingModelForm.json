@@ -77,6 +77,8 @@
         },
         "price": {
             "label": "Price *",
+            "info": "Must be specified in attoFil / GiB / epoch",
+            "priceConversionUnit": "Fil / TiB / 30D",
             "placeholder": "FIL/GiB/Epoch"
         }
     },

@@ -44,6 +44,7 @@
         "libp2pValue": "Libp2p"
     },
     "price": {
+        "tooltip": "Price is specified in attoFil / GiB / epoch",
         "label": "Price *",
         "placeholder": "FIL / GiB / Epoch"
     },
