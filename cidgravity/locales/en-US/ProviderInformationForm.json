@@ -31,6 +31,7 @@
         "placeholder": "JohnDoe"
     },
     "button": {
-        "loading": "Loading…"
+        "loading": "Loading…",
+        "update": "Update information"
     }
 }
