@@ -16,5 +16,8 @@
     },
     "entityCountryField": {
         "label": "Country *"
+    },
+    "entityWebsiteField": {
+        "label": "Company website *"
     }
 }
