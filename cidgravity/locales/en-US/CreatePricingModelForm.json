@@ -78,7 +78,7 @@
         "price": {
             "label": "Price *",
             "placeholder": "FIL/GiB/Epoch",
-            "info": "attoFil / GiB / epoch"
+            "info": "attoFil / GiB / epoch - The blue box provides an estimation in Fil/TiB/Month"
         }
     },
     "button": {
