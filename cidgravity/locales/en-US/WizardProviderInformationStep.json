@@ -38,6 +38,8 @@
         "isEntityCountryValidString": "Entity country is invalid",
         "isEntityWebsiteValidUrl": "Entity website is invalid",
         "isEntityWebsiteMandatory": "Entity website is mandatory",
-        "isContactFullNameValidString": "Contact full name is invalid"
+        "isContactFullNameValidString": "Contact full name is invalid",
+        "isContactFullNameMandatory": "Contact full name is mandatory",
+        "isContactEmailValid": "E-mail address is invalid"
     }
 }
