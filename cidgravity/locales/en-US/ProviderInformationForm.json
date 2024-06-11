@@ -35,7 +35,7 @@
         "update": "Update information"
     },
     "validation": {
-        "isEntityNameValidString": "Entity name has invalid value",
+        "isEntityNameValidString": "Entity name is invalid",
         "isEntityNameMandatory": "Entity name is mandatory",
         "isEntityTypeValidString": "Entity type has invalid value",
         "isEntityTypeMandatory": "Entity type is mandatory",
