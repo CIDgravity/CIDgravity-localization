@@ -35,7 +35,7 @@
         "isEntityTypeValidString": "Entity type is invalid",
         "isEntityTypeMandatory": "Entity type is mandatory",
         "isEntityCountryMandatory": "Entity country is mandatory",
-        "isEntityCountryValidString": "Entity country has invalid value",
+        "isEntityCountryValidString": "Entity country is invalid",
         "isEntityWebsiteValidUrl": "Entity website must be a valid URL",
         "isEntityWebsiteMandatory": "Entity website is mandatory",
         "isContactFullNameValidString": "Contact full name is invalid"
