@@ -6,7 +6,9 @@
     "entityType": {
         "label": "Entity type *",
         "options": {
-            "organization": "Organization"
+            "organization": "Organization",
+            "company": "Company",
+            "individual": "Individual"
         }
     }
 }
