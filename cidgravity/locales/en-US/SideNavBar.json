@@ -2,7 +2,7 @@
     "menu": {
         "client": {
             "dashboard": "Dashboard",
-            "informations": "Information",
+            "informations": "Client Information",
             "helpCenter": "Help center",
             "settings": "Settings",
             "policyGroup": "Onboarding Policy",
