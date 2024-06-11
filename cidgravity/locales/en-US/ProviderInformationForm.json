@@ -29,5 +29,8 @@
     "contactSlack": {
         "label": "Slack handle *",
         "placeholder": "JohnDoe"
+    },
+    "button": {
+        "loading": "Loading…"
     }
 }
