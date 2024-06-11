@@ -14,7 +14,7 @@
             }
         },
         "price": {
-            "label": "Price/GiB/Epoch"
+            "label": "Price/TiB/Month"
         },
         "size": {
             "label": "Min/max deal size"
