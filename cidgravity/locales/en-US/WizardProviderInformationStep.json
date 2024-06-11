@@ -5,5 +5,8 @@
     "subtitleKYC": "Please fill out this form accurately, as it may be subject to Know Your Customer (KYC) requirements.",
     "entityNameField": {
         "label": "Entity name *"
+    },
+    "entityTypeField": {
+        "label": "Entity type *"
     }
 }
