@@ -2,5 +2,8 @@
     "entityName": {
         "label": "Entity name *",
         "placeholder": "ACME Inc."
+    },
+    "entityType": {
+        "label": "Entity type *"
     }
 }
