@@ -169,7 +169,11 @@
             "onImportInvalidJsonLogic": "Invalid Acceptance logic",
             "onImportInvalidVariablesNames": "Invalid acceptance logic, at least one variable have a wrong name format.",
             "builder": {
-                "EMPTY_GROUP": "A group must contain at least one rule"
+                "EMPTY_GROUP": "A group must contain at least one rule",
+                "rhs": {
+                    "REQUIRED_FUNCTION_ARG": "The values are required for advanced operations of Rule {{rulePosition}}",
+                    "INCOMPLETE_RHS": "The right side of rule {{rulePosition}} is incomplete"
+                }
             }
         }
     },
