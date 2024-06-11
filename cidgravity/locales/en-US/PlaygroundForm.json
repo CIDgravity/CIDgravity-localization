@@ -37,7 +37,7 @@
     },
     "price": {
         "label": "Price*",
-        "placeholder": "FIL / GiB / Epoch",
+        "placeholder": "FIL/GiB/Epoch",
         "tooltip": "in attoFil/GiB/epoch"
     },
     "validation": {
