@@ -24,6 +24,9 @@
     },
     "contactEmail": {
         "label": "E-mail *",
-        "placeholder": "john@doe.com"
+        "placeholder": "john.doe@acme.com"
+    },
+    "contactSlack": {
+        "label": "Slack handle *"
     }
 }
