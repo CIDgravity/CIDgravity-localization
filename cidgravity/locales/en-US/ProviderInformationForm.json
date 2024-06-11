@@ -27,6 +27,7 @@
         "placeholder": "john.doe@acme.com"
     },
     "contactSlack": {
-        "label": "Slack handle *"
+        "label": "Slack handle *",
+        "placeholder": "JohnDoe"
     }
 }
