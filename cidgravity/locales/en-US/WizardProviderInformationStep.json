@@ -42,6 +42,7 @@
         "isContactFullNameMandatory": "Contact full name is mandatory",
         "isContactEmailValid": "E-mail address is invalid",
         "isContactEmailMandatory": "E-mail address is mandatory",
-        "isContactSlackValidString": "Slack username is invalid"
+        "isContactSlackValidString": "Slack username is invalid",
+        "isContactSlackMandatory": "Slack username is mandatory"
     }
 }
