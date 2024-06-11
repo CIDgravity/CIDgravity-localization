@@ -10,7 +10,8 @@
         "label": "Entity type *",
         "options": {
             "organization": "Organization",
-            "company": "Company"
+            "company": "Company",
+            "individual": "Individual"
         }
     }
 }
