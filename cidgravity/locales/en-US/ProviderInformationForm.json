@@ -13,5 +13,8 @@
     },
     "entityCountry": {
         "label": "Country *"
+    },
+    "entityWebsite": {
+        "label": "Company website *"
     }
 }
