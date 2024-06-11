@@ -40,6 +40,8 @@
         "isEntityWebsiteMandatory": "Entity website is mandatory",
         "isContactFullNameValidString": "Contact full name is invalid",
         "isContactFullNameMandatory": "Contact full name is mandatory",
-        "isContactEmailValid": "E-mail address is invalid"
+        "isContactEmailValid": "E-mail address is invalid",
+        "isContactEmailMandatory": "E-mail address is mandatory",
+        "isContactSlackValidString": "Slack username is invalid"
     }
 }
