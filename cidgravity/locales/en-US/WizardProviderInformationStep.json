@@ -13,5 +13,8 @@
             "company": "Company",
             "individual": "Individual"
         }
+    },
+    "entityCountryField": {
+        "label": "Country *"
     }
 }
