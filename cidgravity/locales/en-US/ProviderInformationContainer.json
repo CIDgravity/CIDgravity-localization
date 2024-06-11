@@ -5,7 +5,7 @@
     "subtitleKYC": "Please fill out this form accurately, as it may be subject to Know Your Customer (KYC) requirements.",
     "notification": {
         "success": {
-            "isProviderInformationUpdated": "Company details have been updated successfully."
+            "isProviderInformationUpdated": "Storage provider details have been updated successfully."
         }
     }
 }
