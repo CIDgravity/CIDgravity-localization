@@ -23,6 +23,7 @@
         "placeholder": "John Doe"
     },
     "contactEmail": {
-        "label": "E-mail *"
+        "label": "E-mail *",
+        "placeholder": "john@doe.com"
     }
 }
