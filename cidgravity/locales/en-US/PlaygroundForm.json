@@ -37,7 +37,8 @@
     },
     "price": {
         "label": "Price*",
-        "placeholder": "FIL / GiB / Epoch"
+        "placeholder": "FIL / GiB / Epoch",
+        "tooltip": "in attoFil/GiB/epoch"
     },
     "validation": {
         "isPriceInvalidValue": "Please use Dot-decimal format.",
