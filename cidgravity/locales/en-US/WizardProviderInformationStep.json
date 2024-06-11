@@ -22,5 +22,11 @@
     },
     "contactFullNameField": {
         "label": "Contact Full name *"
+    },
+    "contactEmailField": {
+        "label": "E-mail address *"
+    },
+    "contactSlackField": {
+        "label": "Slack handle *"
     }
 }
