@@ -19,5 +19,8 @@
     },
     "entityWebsiteField": {
         "label": "Company website *"
+    },
+    "contactFullNameField": {
+        "label": "Contact Full name *"
     }
 }
