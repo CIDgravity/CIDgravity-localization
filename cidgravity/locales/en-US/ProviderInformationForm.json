@@ -42,6 +42,8 @@
         "isEntityCountryValidString": "Entity country is invalid",
         "isEntityCountryMandatory": "Entity country is mandatory",
         "isEntityWebsiteValidUrl": "Entity website is invalid",
-        "isEntityWebsiteMandatory": "Entity website is mandatory"
+        "isEntityWebsiteMandatory": "Entity website is mandatory",
+        "isContactFullNameMandatory": "Contact full name is mandatory",
+        "isContactFullNameValidString": "Contact full name is invalid"
     }
 }
