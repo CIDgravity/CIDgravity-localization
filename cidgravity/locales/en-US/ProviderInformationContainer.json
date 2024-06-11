@@ -10,5 +10,8 @@
         "error": {
             "isProviderInformationFailed": "Something wrong while updating Storage provider details. Try again in few minutes"
         }
+    },
+    "error": {
+        "generic": "Unable to retrieve the Storage provider details. Please try again in a few minutes or contact the CIDgravity team."
     }
 }
