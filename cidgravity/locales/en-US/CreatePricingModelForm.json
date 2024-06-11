@@ -77,7 +77,8 @@
         },
         "price": {
             "label": "Price *",
-            "placeholder": "FIL/GiB/Epoch"
+            "placeholder": "FIL/GiB/Epoch",
+            "info": "attoFil / GiB / epoch"
         }
     },
     "button": {
