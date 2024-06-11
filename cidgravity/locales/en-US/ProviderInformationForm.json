@@ -20,6 +20,9 @@
     },
     "contactFullName": {
         "label": "Contact fullname *",
-        "placeholder": "Jane Doe"
+        "placeholder": "John Doe"
+    },
+    "contactEmail": {
+        "label": "E-mail *"
     }
 }
