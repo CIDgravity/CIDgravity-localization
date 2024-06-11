@@ -15,6 +15,7 @@
         "label": "Country *"
     },
     "entityWebsite": {
-        "label": "Company website *"
+        "label": "Company website *",
+        "placeholder": "https://acme.com"
     }
 }
