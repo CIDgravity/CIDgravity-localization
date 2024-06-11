@@ -8,7 +8,7 @@
             "isProviderInformationUpdated": "Storage provider details have been updated successfully."
         },
         "error": {
-            "isProviderInformationFailed": "Something wrong while updating Storage provider details. Try again in few minutes!"
+            "isProviderInformationFailed": "Something wrong while updating Storage provider details. Try again in few minutes"
         }
     }
 }
