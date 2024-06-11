@@ -1,1 +1,5 @@
-{}
+{
+    "entityName": {
+        "label": "Entity name *"
+    }
+}
