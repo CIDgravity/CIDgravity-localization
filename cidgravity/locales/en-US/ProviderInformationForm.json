@@ -37,7 +37,7 @@
     "validation": {
         "isEntityNameValidString": "Entity name is invalid",
         "isEntityNameMandatory": "Entity name is mandatory",
-        "isEntityTypeValidString": "Entity type has invalid value",
+        "isEntityTypeValidString": "Entity type is invalid",
         "isEntityTypeMandatory": "Entity type is mandatory",
         "isEntityCountryValidString": "Entity country has invalid value",
         "isEntityCountryMandatory": "Entity country is mandatory",
