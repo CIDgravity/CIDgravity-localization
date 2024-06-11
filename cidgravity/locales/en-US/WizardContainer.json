@@ -7,6 +7,7 @@
         "importClientsAndPricing": "Import clients and pricing",
         "complete": "Complete",
         "settings": "Global settings",
-        "clientInformation": "Client information"
+        "clientInformation": "Client information",
+        "providerInformation": "Company details"
     }
 }
