@@ -17,5 +17,9 @@
     "entityWebsite": {
         "label": "Company website *",
         "placeholder": "https://acme.com"
+    },
+    "contactFullName": {
+        "label": "Contact fullname *",
+        "placeholder": "Jane Doe"
     }
 }
