@@ -33,5 +33,8 @@
     "button": {
         "loading": "Loading…",
         "update": "Update information"
+    },
+    "validation": {
+        "isEntityNameValidString": "Entity name has invalid value"
     }
 }
