@@ -19,7 +19,7 @@
         "placeholder": "https://acme.com"
     },
     "contactFullName": {
-        "label": "Contact fullname *",
+        "label": "Contact Full Name *",
         "placeholder": "John Doe"
     },
     "contactEmail": {
