@@ -1,5 +1,6 @@
 {
     "title": "Company details",
     "subtitle": "Company details are public information shared with clients. The more accurate these details are, the more trust you build with clients, leading to increased storage deals.",
-    "beCareful": "Be careful:"
+    "beCareful": "Be careful:",
+    "subtitleKYC": "Please fill out this form accurately, as it may be subject to Know Your Customer (KYC) requirements."
 }
