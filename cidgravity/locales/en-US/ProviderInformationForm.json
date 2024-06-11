@@ -36,6 +36,10 @@
     },
     "validation": {
         "isEntityNameValidString": "Entity name has invalid value",
-        "isEntityNameMandatory": "Entity name is mandatory"
+        "isEntityNameMandatory": "Entity name is mandatory",
+        "isEntityTypeValidString": "Entity type has invalid value",
+        "isEntityTypeMandatory": "Entity type is mandatory",
+        "isEntityCountryValidString": "Entity country has invalid value",
+        "isEntityCountryMandatory": "Entity country is mandatory"
     }
 }
