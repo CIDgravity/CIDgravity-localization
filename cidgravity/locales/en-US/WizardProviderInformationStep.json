@@ -7,6 +7,10 @@
         "label": "Entity name *"
     },
     "entityTypeField": {
-        "label": "Entity type *"
+        "label": "Entity type *",
+        "options": {
+            "organization": "Organization",
+            "company": "Company"
+        }
     }
 }
