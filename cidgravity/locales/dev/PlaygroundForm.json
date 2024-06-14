@@ -45,6 +45,7 @@
     },
     "price": {
         "tooltip": "Price is specified in attoFil / GiB / epoch",
+        "priceConversionUnit" : "Fil / TiB / 30D",
         "label": "Price *",
         "placeholder": "FIL / GiB / Epoch"
     },
