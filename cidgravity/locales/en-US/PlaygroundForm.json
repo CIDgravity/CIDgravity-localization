@@ -38,7 +38,8 @@
     "price": {
         "label": "Price*",
         "placeholder": "FIL/GiB/Epoch",
-        "tooltip": "in attoFil/GiB/epoch"
+        "tooltip": "in attoFil/GiB/epoch",
+        "priceConversionUnit": "Fil/TiB/Month"
     },
     "validation": {
         "isPriceInvalidValue": "Please use Dot-decimal format.",
