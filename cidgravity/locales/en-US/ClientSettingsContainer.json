@@ -27,7 +27,8 @@
         "error": {
             "onUpdateFriendlyName": "An error occurred updating the miner nickname, Please try again in a few minutes or contact the CIDgravity team.",
             "onRegenerateConnectorToken": "An error occurred generating a new token, Please try again in a few minutes or contact the CIDgravity team.",
-            "onAddAlternateAddress": "An error occurred while adding {{alternateAddress}}."
+            "onAddAlternateAddress": "An error occurred while adding {{alternateAddress}}.",
+            "onRemoveAlternateAddress": "An error occurred while removing {{alternateAddress}}."
         }
     },
     "error": {
