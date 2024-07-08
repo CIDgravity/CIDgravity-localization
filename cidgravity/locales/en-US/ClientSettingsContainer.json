@@ -13,13 +13,15 @@
             "title": "Nickname"
         },
         "alternateAddresses": {
-            "title": "Alternate addresses"
+            "title": "Alternate addresses",
+            "placeholder": "Select alternate addresses onboarding the same dataset"
         }
     },
     "notification": {
         "success": {
             "onUpdateFriendlyName": "Nickname updated.",
-            "onRegenerateConnectorToken": "Token has been regenerated."
+            "onRegenerateConnectorToken": "Token has been regenerated.",
+            "onAddAlternateAddress": "{{alternateAddress}} successfully added as alternate address"
         },
         "error": {
             "onUpdateFriendlyName": "An error occurred updating the miner nickname, Please try again in a few minutes or contact the CIDgravity team.",
