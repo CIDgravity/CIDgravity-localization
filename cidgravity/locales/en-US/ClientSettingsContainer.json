@@ -11,6 +11,9 @@
                 "save": "Save"
             },
             "title": "Nickname"
+        },
+        "alternateAddresses": {
+            "title": "Alternate addresses"
         }
     },
     "notification": {
