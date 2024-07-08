@@ -21,7 +21,8 @@
         "success": {
             "onUpdateFriendlyName": "Nickname updated.",
             "onRegenerateConnectorToken": "Token has been regenerated.",
-            "onAddAlternateAddress": "{{alternateAddress}} successfully added as alternate address"
+            "onAddAlternateAddress": "{{alternateAddress}} successfully added as alternate address",
+            "onRemoveAlternateAddress": "{{alternateAddress}} successfully removed"
         },
         "error": {
             "onUpdateFriendlyName": "An error occurred updating the miner nickname, Please try again in a few minutes or contact the CIDgravity team.",
