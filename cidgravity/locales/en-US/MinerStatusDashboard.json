@@ -149,12 +149,10 @@
         },
         "retrievalAvailability": {
             "title": "Retrieval availability",
-            "graphsyncRatio": {
-                "title": "Graphsync"
-            },
             "httpRatio": {
                 "title": "HTTP"
-            }
+            },
+            "filspark": "filspark.com"
         }
     },
     "filter": {
