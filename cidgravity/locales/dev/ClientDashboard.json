@@ -3,6 +3,7 @@
         "timeRange": {
             "placeholder": "Select a time range",
             "24hours": "Last 24 hours",
+            "7days": "Last 7 days",
             "30days": "Last 30 days",
             "3months": "Last 3 months"
         },
@@ -134,6 +135,9 @@
             }
         },
         "history": {
+            "dataReceivedWithCurrentStatus": {
+                "title": "Data received by current status"
+            },
             "acceptedDealsRejectedReasons": {
                 "title": "Accepted / rejected proposals"
             },
@@ -174,16 +178,17 @@
             "numberOfDeal": "Number of deals",
             "numberOfCid": "Number of PieceCID"
         },
-        "onChainStatus": {
+        "onAndOffChainStatus": {
             "active": "Sucessfully onboarded",
             "publishedExpired": "Published expired",
             "slashed": "Slashed",
-            "expired": "Expired"
-        },
-        "offChainStatus": {
+            "published": "Published",
+            "expired": "Expired",
+            "neverPublished": "Never published",
             "onChain": "Published on time",
             "awaitingPublished": "Awaiting published",
-            "neverPublished": "Never published"
+            "accepted": "Accepted",
+            "rejected": "Rejected"
         },
         "providersRatios": {
             "title": "Provider success ratios"
@@ -215,7 +220,8 @@
         "timeRange": {
             "24hours": "last 24 hours",
             "30days": "last 30 days",
-            "3months": "last 3 months"
+            "3months": "last 3 months",
+            "7days": "last 7 days"
         },
         "transferTypes": {
             "unkown": "Unkown",

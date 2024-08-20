@@ -23,15 +23,9 @@
         },
         "retrievalAvailability": {
             "title": "Retrieval availability",
-            "retrievalBot": "Retrieval bot",
-            "graphsyncRatio": {
-                "title": "Graphsync ratio"
-            },
+            "filspark": "filspark.com",
             "httpRatio": {
                 "title": "HTTP ratio"
-            },
-            "bitswapRatio": {
-                "title": "Bitswap ratio"
             }
         },
         "walletBalances": {
