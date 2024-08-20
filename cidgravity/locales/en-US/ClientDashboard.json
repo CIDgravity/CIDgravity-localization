@@ -258,6 +258,11 @@
             "networkExpiration": {
                 "title": "Dataset expiration forecast"
             }
+        },
+        "onAndOffChainStatus": {
+            "active": "Sucessfully onboarded",
+            "publishedExpired": "Published expired",
+            "slashed": "Slashed"
         }
     }
 }
