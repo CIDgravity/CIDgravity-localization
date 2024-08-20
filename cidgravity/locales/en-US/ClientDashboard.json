@@ -262,7 +262,10 @@
         "onAndOffChainStatus": {
             "active": "Sucessfully onboarded",
             "publishedExpired": "Published expired",
-            "slashed": "Slashed"
+            "slashed": "Slashed",
+            "published": "Published",
+            "expired": "Expired",
+            "neverPublished": "Never published"
         }
     }
 }
