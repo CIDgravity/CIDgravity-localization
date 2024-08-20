@@ -149,15 +149,11 @@
         },
         "retrievalAvailability": {
             "title": "Retrieval availability",
-            "retrievalBot": "Retrieval bot",
             "graphsyncRatio": {
                 "title": "Graphsync"
             },
             "httpRatio": {
                 "title": "HTTP"
-            },
-            "bitswapRatio": {
-                "title": "Bitswap"
             }
         }
     },
