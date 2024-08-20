@@ -108,9 +108,6 @@
             "numberOfDeal": "Number of deals",
             "numberOfCid": "Number of PieceCID"
         },
-        "onChainStatus": {
-            "expired": "Expired"
-        },
         "providersRatios": {
             "title": "Performance with the different providers"
         },
@@ -201,6 +198,9 @@
             },
             "rejectedDealsFilPlus": {
                 "title": "Rejected deals Verified (Fil+) / unverified"
+            },
+            "dataReceivedWithCurrentStatus": {
+                "title": "Data received by current status"
             }
         },
         "transferTypes": {
