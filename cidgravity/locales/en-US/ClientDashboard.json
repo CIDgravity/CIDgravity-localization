@@ -269,8 +269,7 @@
             "neverPublished": "Never published",
             "onChain": "Published on time",
             "awaitingPublished": "Awaiting published",
-            "accepted": "Accepted",
-            "rejected": "Rejected"
+            "accepted": "Accepted"
         }
     }
 }
