@@ -138,7 +138,8 @@
         "timeRange": {
             "24hours": "last 24 hours",
             "30days": "last 30 days",
-            "3months": "last 3 months"
+            "3months": "last 3 months",
+            "7days": "last 7 days"
         },
         "acceptedDeals": {
             "title": "Accepted deals metrics",
@@ -265,7 +266,11 @@
             "slashed": "Slashed",
             "published": "Published",
             "expired": "Expired",
-            "neverPublished": "Never published"
+            "neverPublished": "Never published",
+            "onChain": "Published on time",
+            "awaitingPublished": "Awaiting published",
+            "accepted": "Accepted",
+            "rejected": "Rejected"
         }
     }
 }
