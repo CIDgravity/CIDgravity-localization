@@ -188,7 +188,7 @@
             "onChain": "Published on time",
             "awaitingPublished": "Awaiting published",
             "accepted": "Accepted",
-            "rejected": "Rejected"
+            "reject": "Rejected"
         },
         "providersRatios": {
             "title": "Provider success ratios"
