@@ -4,7 +4,8 @@
             "placeholder": "Select a time range",
             "24hours": "Last 24 hours",
             "30days": "Last 30 days",
-            "3months": "Last 3 months"
+            "3months": "Last 3 months",
+            "7days": "Last 7 days"
         },
         "unit": {
             "placeholder": "Select charts unit",
@@ -108,7 +109,6 @@
             "numberOfCid": "Number of PieceCID"
         },
         "onChainStatus": {
-            "publishedExpired": "Published expired",
             "expired": "Expired"
         },
         "providersRatios": {
@@ -126,9 +126,6 @@
             "minutes": "minutes",
             "minute": "minute",
             "cid": "PieceCID"
-        },
-        "offChainStatus": {
-            "onChain": "Published on time"
         },
         "columns": {
             "provingSuccessRatio": "Proving",
