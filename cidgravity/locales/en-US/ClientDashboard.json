@@ -108,9 +108,7 @@
             "numberOfCid": "Number of PieceCID"
         },
         "onChainStatus": {
-            "active": "Sucessfully onboarded",
             "publishedExpired": "Published expired",
-            "slashed": "Slashed",
             "expired": "Expired"
         },
         "providersRatios": {
@@ -130,9 +128,7 @@
             "cid": "PieceCID"
         },
         "offChainStatus": {
-            "neverPublished": "Never published",
-            "onChain": "Published on time",
-            "awaitingPublished": "Awaiting published"
+            "onChain": "Published on time"
         },
         "columns": {
             "provingSuccessRatio": "Proving",
