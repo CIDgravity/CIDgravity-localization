@@ -201,7 +201,7 @@
                 "title": "Rejected deals Verified (Fil+) / unverified"
             },
             "dataReceivedWithCurrentStatus": {
-                "title": "Data received by current status"
+                "title": "Last deals status"
             }
         },
         "transferTypes": {
