@@ -24,7 +24,15 @@
                     "tooltip": "The deal is currently active on-chain."
                 },
                 "slashed": {
-                    "name": "Slashed"
+                    "name": "Slashed",
+                    "tooltip": "The deal has been slashed."
+                },
+                "expired": {
+                    "tooltip": "The deal has expired.",
+                    "name": "Expired"
+                },
+                "unknown": {
+                    "name": "Unknown"
                 }
             }
         }
