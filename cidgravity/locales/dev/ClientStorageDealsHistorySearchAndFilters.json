@@ -1,0 +1,32 @@
+{
+    "inputSearch": {
+        "placeholder": "Search by provider or proposal uid then PRESS ENTER"
+    },
+    "dateRangePicker": {
+        "placeholder": "From ({{dateFormat}}) - To ({{dateFormat}})"
+    },
+    "externalDecision": {
+        "placeholder": "Decision",
+        "all": "All decisions",
+        "reject": "Rejected",
+        "accept": "Accepted",
+        "busy": "Busy",
+        "serviceUnavailable": "Service unavailable",
+        "clientNotAuthorized": "Not authorized",
+        "clientNotEnoughtDatacap": "Not enought datacap",
+        "dealTypeNotAccepted": "Deal type not accepted",
+        "invalidClientAddress": "Invalid address",
+        "pieceCidDuplicated": "Piece CID duplicated",
+        "startEpochTooEarly": "Start epoch too early"
+
+    },
+    "onChainStatus": {
+        "placeholder": "On chain status",
+        "all": "All status",
+        "active": "Active",
+        "published": "Published",
+        "slashed": "Slashed",
+        "expired": "Expired",
+        "publishedExpired": "Published expired"
+    }
+}

@@ -6,7 +6,8 @@
             "policyGroup": "Policy",
             "blacklist": "Blacklist",
             "helpCenter": "Help center",
-            "settings": "Settings"
+            "settings": "Settings",
+            "storageDealsHistory": "Storage history"
         },
         "provider": {
             "dashboard": "Dashboard",
