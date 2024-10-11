@@ -12,6 +12,7 @@
         "invalidProposal": "Invalid proposal",
         "maintenance": "Under maintenance",
         "rateLimit": "Rate limit exceeded",
-        "blacklist": "Blacklisted"
+        "blacklist": "Blacklisted",
+        "storageAcceptanceLogic": "Acceptance logic not passed."
     }
 }
