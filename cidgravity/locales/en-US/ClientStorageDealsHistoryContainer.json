@@ -88,7 +88,12 @@
                 "tooltip": "Not authorized"
             },
             "clientNotEnoughtDatacap": {
-                "name": "Not enought datacap"
+                "name": "Not enought datacap",
+                "tooltip": "Not enought datacap"
+            },
+            "dealTypeNotAccepted": {
+                "name": "Deal type not accepted",
+                "tooltip": "Deal type not accepted"
             }
         }
     }
