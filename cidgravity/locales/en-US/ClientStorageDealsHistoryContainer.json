@@ -68,7 +68,8 @@
         },
         "externalDecision": {
             "reject": {
-                "name": "Rejected"
+                "name": "Rejected",
+                "tooltip": "Rejected"
             }
         }
     }
