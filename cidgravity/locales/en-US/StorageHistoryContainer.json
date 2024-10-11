@@ -54,7 +54,8 @@
                 "name": "Acceptance logic"
             },
             "clientBlocked": {
-                "name": "Client blocked"
+                "name": "Client blocked",
+                "tooltip": "Rejected because the client is blocked"
             }
         },
         "internalMessage": {
