@@ -12,7 +12,11 @@
                     "tooltip": "The deal has been accepted but never published on chain."
                 },
                 "published": {
-                    "name": "Published"
+                    "name": "Published",
+                    "tooltip": "The deal has been published on-chain. Awaiting confirmation of sealing."
+                },
+                "published-expired": {
+                    "name": "Published expired"
                 }
             }
         }
