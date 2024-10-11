@@ -1,5 +1,8 @@
 {
     "inputSearch": {
         "placeholder": "Search by client address or proposal UID then press ENTER"
+    },
+    "dateRangePicker": {
+        "placeholder": "From (YYYY/MM/DD) - To (YYYY/MM/DD)"
     }
 }
