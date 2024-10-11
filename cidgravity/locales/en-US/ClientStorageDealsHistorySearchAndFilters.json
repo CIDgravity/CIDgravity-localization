@@ -25,6 +25,7 @@
         "active": "Active",
         "published": "Published",
         "slashed": "Slashed",
-        "expired": "Expired"
+        "expired": "Expired",
+        "publishedExpired": "Published expired"
     }
 }
