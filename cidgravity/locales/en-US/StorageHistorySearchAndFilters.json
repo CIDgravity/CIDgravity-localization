@@ -14,6 +14,7 @@
         "rateLimit": "Rate limit exceeded",
         "blacklist": "Blacklisted",
         "storageAcceptanceLogic": "Acceptance logic not passed.",
-        "noFundsLeft": "No funds left"
+        "noFundsLeft": "No funds left",
+        "noSpaceLeft": "No space left"
     }
 }
