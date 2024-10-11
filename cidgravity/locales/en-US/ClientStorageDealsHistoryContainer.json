@@ -82,6 +82,13 @@
             "serviceUnavailable": {
                 "name": "Service unavailable",
                 "tooltip": "Service unavailable"
+            },
+            "clientNotAuthorized": {
+                "name": "Not authorized",
+                "tooltip": "Not authorized"
+            },
+            "clientNotEnoughtDatacap": {
+                "name": "Not enought datacap"
             }
         }
     }
