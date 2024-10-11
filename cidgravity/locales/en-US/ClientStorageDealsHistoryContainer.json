@@ -54,6 +54,9 @@
         },
         "datetime": {
             "title": "Received at (YYYY/MM/DD)"
+        },
+        "sealingDuration": {
+            "title": "Sealing duration"
         }
     }
 }
