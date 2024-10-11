@@ -82,6 +82,9 @@
                 "published-expired": {
                     "name": "Published expired",
                     "tooltip": "The deal publication has expired."
+                },
+                "active": {
+                    "name": "Active"
                 }
             }
         }
