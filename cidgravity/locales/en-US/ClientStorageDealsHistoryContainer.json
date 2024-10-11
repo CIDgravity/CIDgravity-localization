@@ -36,7 +36,16 @@
                     "tooltip": "Unable to retrieve the deal status."
                 },
                 "accepted": {
-                    "name": "Accepted"
+                    "name": "Accepted",
+                    "tooltip": "The deal has been accepted by CIDgravity. Awaiting publication."
+                },
+                "reject": {
+                    "name": "Rejected",
+                    "tooltip": "The deal has been rejected."
+                },
+                "on-chain": {
+                    "tooltip": "On chain",
+                    "name": "On chain"
                 }
             }
         }
