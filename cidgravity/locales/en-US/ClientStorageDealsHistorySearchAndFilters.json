@@ -11,6 +11,7 @@
         "reject": "Rejected",
         "accept": "Accepted",
         "busy": "Busy",
-        "serviceUnavailable": "Service unavailable"
+        "serviceUnavailable": "Service unavailable",
+        "clientNotAuthorized": "Not authorized"
     }
 }
