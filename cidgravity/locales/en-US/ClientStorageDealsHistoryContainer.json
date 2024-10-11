@@ -60,7 +60,11 @@
             "tooltip": "The average time for storage providers to process a deal, from its blockchain publication to full onboarding."
         },
         "overallDuration": {
-            "title": "Overall duration"
+            "title": "Overall duration",
+            "tooltip": "The average duration from when a deal is sent to the storage provider until full onboarding, covering all stages: Acceptance, Downloading, Packing, and Sealing. This KPI specifically applies to deals using CIDgravity."
+        },
+        "inspect": {
+            "tooltip": "Inspect deal proposal"
         }
     }
 }
