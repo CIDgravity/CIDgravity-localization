@@ -51,6 +51,9 @@
         },
         "provider": {
             "title": "Provider"
+        },
+        "datetime": {
+            "title": "Received at (YYYY/MM/DD)"
         }
     }
 }
