@@ -34,7 +34,8 @@
                 "name": "Rejected"
             },
             "rateLimit": {
-                "tooltip": "Rejected due to rate limit"
+                "tooltip": "Rejected due to rate limit",
+                "name": "Rate limit - Number of proposals"
             },
             "sizeRateLimit": {
                 "tooltip": "Rejected due to deal size limit"
