@@ -65,6 +65,11 @@
         },
         "inspect": {
             "tooltip": "Inspect deal proposal"
+        },
+        "externalDecision": {
+            "reject": {
+                "name": "Rejected"
+            }
         }
     }
 }
