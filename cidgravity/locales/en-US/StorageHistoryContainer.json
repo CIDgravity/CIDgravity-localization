@@ -72,7 +72,8 @@
             "title": "Status",
             "status": {
                 "published": {
-                    "name": "Published"
+                    "name": "Published",
+                    "tooltip": "The deal has been published on-chain. Awaiting confirmation of sealing."
                 }
             }
         }
