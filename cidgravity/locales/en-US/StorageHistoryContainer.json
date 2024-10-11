@@ -67,6 +67,14 @@
                 "importedFromMultiple": "This address is known as \"{{clientName}}\" on {{importedFrom}} ({{importedOn}})",
                 "importedFromSingle": "Name found on {{importedFrom}}"
             }
+        },
+        "dealStatus": {
+            "title": "Status",
+            "status": {
+                "published": {
+                    "name": "Published"
+                }
+            }
         }
     },
     "error": {
