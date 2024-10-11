@@ -96,7 +96,8 @@
                     "tooltip": "The deal has expired."
                 },
                 "unknown": {
-                    "name": "Unknown"
+                    "name": "Unknown",
+                    "tooltip": "Unable to retrieve the deal status."
                 }
             }
         }
