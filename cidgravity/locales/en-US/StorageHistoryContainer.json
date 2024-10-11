@@ -100,7 +100,8 @@
                     "tooltip": "Unable to retrieve the deal status."
                 },
                 "accepted": {
-                    "name": "Accepted"
+                    "name": "Accepted",
+                    "tooltip": "The deal has been accepted by CIDgravity. Awaiting publication."
                 }
             }
         }
