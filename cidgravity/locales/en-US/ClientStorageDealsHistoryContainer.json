@@ -94,6 +94,18 @@
             "dealTypeNotAccepted": {
                 "name": "Deal type not accepted",
                 "tooltip": "Deal type not accepted"
+            },
+            "invalidClientAddress": {
+                "name": "Invalid address",
+                "tooltip": "Invalid address"
+            },
+            "pieceCidDuplicated": {
+                "name": "Piece CID duplicated",
+                "tooltip": "Piece CID duplicated"
+            },
+            "startEpochTooEarly": {
+                "tooltip": "Start epoch too early",
+                "name": "Start epoch too early"
             }
         }
     }
