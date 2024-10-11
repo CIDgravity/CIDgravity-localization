@@ -102,6 +102,14 @@
                 "accepted": {
                     "name": "Accepted",
                     "tooltip": "The deal has been accepted by CIDgravity. Awaiting publication."
+                },
+                "on-chain": {
+                    "name": "On chain",
+                    "tooltip": "On chain"
+                },
+                "reject": {
+                    "name": "Rejected",
+                    "tooltip": "The deal has been rejected."
                 }
             }
         }
