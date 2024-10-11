@@ -84,7 +84,8 @@
                     "tooltip": "The deal publication has expired."
                 },
                 "active": {
-                    "name": "Active"
+                    "name": "Active",
+                    "tooltip": "The deal is currently active on-chain."
                 }
             }
         }
