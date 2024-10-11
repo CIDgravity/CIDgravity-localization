@@ -16,6 +16,7 @@
         "clientNotEnoughtDatacap": "Not enough datacap",
         "dealTypeNotAccepted": "Deal type not accepted",
         "invalidClientAddress": "Invalid address",
-        "pieceCidDuplicated": "Piece CID duplicated"
+        "pieceCidDuplicated": "Piece CID duplicated",
+        "startEpochTooEarly": "Start epoch too early"
     }
 }
