@@ -30,7 +30,8 @@
                 "name": "Blacklisted"
             },
             "reject": {
-                "tooltip": "Rejected"
+                "tooltip": "Rejected",
+                "name": "Rejected"
             },
             "rateLimit": {
                 "tooltip": "Rejected due to rate limit"
@@ -45,7 +46,8 @@
                 "tooltip": "Rejected due to start date to early (below defined start epoch sealing buffer)"
             },
             "storageAcceptanceLogic": {
-                "tooltip": "Reject due to acceptance logic"
+                "tooltip": "Reject due to acceptance logic",
+                "name": "Acceptance logic"
             }
         },
         "internalMessage": {
