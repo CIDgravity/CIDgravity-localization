@@ -16,7 +16,8 @@
         "storageAcceptanceLogic": "Acceptance logic not passed.",
         "noFundsLeft": "No funds left",
         "noSpaceLeft": "No space left",
-        "clientBlocked": "Client blocked"
+        "clientBlocked": "Client blocked",
+        "sizeRateLimit": "Rate limit - Storage volume already sent"
     },
     "onChainStatus": {
         "placeholder": "On chain status",
