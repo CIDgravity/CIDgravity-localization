@@ -38,13 +38,16 @@
                 "name": "Rate limit - Number of proposals"
             },
             "sizeRateLimit": {
-                "tooltip": "Rejected due to deal size limit"
+                "tooltip": "Rejected due to deal size limit",
+                "name": "Rate limit - Storage volume already sent"
             },
             "invalidProposalOrError": {
-                "tooltip": "Invalid proposal"
+                "tooltip": "Invalid proposal",
+                "name": "Invalid proposal"
             },
             "startEpochBelowSealingBuffer": {
-                "tooltip": "Rejected due to start date to early (below defined start epoch sealing buffer)"
+                "tooltip": "Rejected due to start date to early (below defined start epoch sealing buffer)",
+                "name": "Start epoch sealing buffer"
             },
             "storageAcceptanceLogic": {
                 "tooltip": "Reject due to acceptance logic",
