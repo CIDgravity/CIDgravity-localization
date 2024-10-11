@@ -7,7 +7,7 @@
             "settings": "Settings",
             "policyGroup": "Onboarding Policy",
             "blacklist": "Blacklist",
-            "storageDealsHistory": "Storage history"
+            "storageDealsHistory": "History"
         },
         "provider": {
             "helpCenter": "Help center",
