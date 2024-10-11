@@ -74,6 +74,9 @@
                 "published": {
                     "name": "Published",
                     "tooltip": "The deal has been published on-chain. Awaiting confirmation of sealing."
+                },
+                "never-published": {
+                    "name": "Never published"
                 }
             }
         }
