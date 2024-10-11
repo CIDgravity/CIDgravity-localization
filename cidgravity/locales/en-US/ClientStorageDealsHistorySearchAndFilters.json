@@ -13,6 +13,7 @@
         "busy": "Busy",
         "serviceUnavailable": "Service unavailable",
         "clientNotAuthorized": "Not authorized",
-        "clientNotEnoughtDatacap": "Not enough datacap"
+        "clientNotEnoughtDatacap": "Not enough datacap",
+        "dealTypeNotAccepted": "Deal type not accepted"
     }
 }
