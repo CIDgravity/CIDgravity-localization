@@ -21,6 +21,6 @@
     },
     "onChainStatus": {
         "placeholder": "On chain status",
-        "all": "All status"
+        "all": "All"
     }
 }
