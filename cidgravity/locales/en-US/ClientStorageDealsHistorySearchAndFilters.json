@@ -14,6 +14,7 @@
         "serviceUnavailable": "Service unavailable",
         "clientNotAuthorized": "Not authorized",
         "clientNotEnoughtDatacap": "Not enough datacap",
-        "dealTypeNotAccepted": "Deal type not accepted"
+        "dealTypeNotAccepted": "Deal type not accepted",
+        "invalidClientAddress": "Invalid address"
     }
 }
