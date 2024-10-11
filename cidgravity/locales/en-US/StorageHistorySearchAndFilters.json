@@ -22,6 +22,7 @@
         "placeholder": "On chain status",
         "all": "All",
         "active": "Active",
-        "published": "Published"
+        "published": "Published",
+        "slashed": "Slashed"
     }
 }
