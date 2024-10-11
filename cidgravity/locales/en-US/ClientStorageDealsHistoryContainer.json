@@ -1,4 +1,7 @@
 {
     "title": "History",
-    "subtitle": "Logs of all storage deal proposals sent."
+    "subtitle": "Logs of all storage deal proposals sent.",
+    "table": {
+        "empty": "No records"
+    }
 }
