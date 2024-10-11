@@ -9,6 +9,7 @@
         "placeholder": "Decision",
         "all": "All decisions",
         "accept": "Accepted",
-        "invalidProposal": "Invalid proposal"
+        "invalidProposal": "Invalid proposal",
+        "maintenance": "Under maintenance"
     }
 }
