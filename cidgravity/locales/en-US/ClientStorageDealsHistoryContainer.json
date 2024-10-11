@@ -3,6 +3,14 @@
     "subtitle": "Logs of all storage deal proposals sent.",
     "table": {
         "empty": "No records",
-        "noMatch": "Your search did not match any storage proposals."
+        "noMatch": "Your search did not match any storage proposals.",
+        "dealStatus": {
+            "title": "Status",
+            "status": {
+                "never-published": {
+                    "name": "Never published"
+                }
+            }
+        }
     }
 }
