@@ -17,5 +17,8 @@
         "noFundsLeft": "No funds left",
         "noSpaceLeft": "No space left",
         "clientBlocked": "Client blocked"
+    },
+    "onChainStatus": {
+        "placeholder": "On chain status"
     }
 }
