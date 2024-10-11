@@ -16,7 +16,15 @@
                     "tooltip": "The deal has been published on-chain. Awaiting confirmation of sealing."
                 },
                 "published-expired": {
-                    "name": "Published expired"
+                    "name": "Published expired",
+                    "tooltip": "The deal publication has expired."
+                },
+                "active": {
+                    "name": "Active",
+                    "tooltip": "The deal is currently active on-chain."
+                },
+                "slashed": {
+                    "name": "Slashed"
                 }
             }
         }
