@@ -90,6 +90,10 @@
                 "slashed": {
                     "name": "Slashed",
                     "tooltip": "The deal has been slashed."
+                },
+                "expired": {
+                    "name": "Expired",
+                    "tooltip": "The deal has expired."
                 }
             }
         }
