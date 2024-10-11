@@ -58,6 +58,9 @@
         "sealingDuration": {
             "title": "Sealing duration",
             "tooltip": "The average time for storage providers to process a deal, from its blockchain publication to full onboarding."
+        },
+        "overallDuration": {
+            "title": "Overall duration"
         }
     }
 }
