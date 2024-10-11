@@ -12,6 +12,7 @@
         "accept": "Accepted",
         "busy": "Busy",
         "serviceUnavailable": "Service unavailable",
-        "clientNotAuthorized": "Not authorized"
+        "clientNotAuthorized": "Not authorized",
+        "clientNotEnoughtDatacap": "Not enough datacap"
     }
 }
