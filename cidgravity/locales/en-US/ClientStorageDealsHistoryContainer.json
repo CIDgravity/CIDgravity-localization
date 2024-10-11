@@ -1,6 +1,6 @@
 {
     "title": "History",
-    "subtitle": "Logs of all storage deal proposals sent.",
+    "subtitle": "Logs of the storage deal proposals received (last 3 months).",
     "table": {
         "empty": "No records",
         "noMatch": "Your search did not match any storage proposals.",
