@@ -19,6 +19,7 @@
         "clientBlocked": "Client blocked"
     },
     "onChainStatus": {
-        "placeholder": "On chain status"
+        "placeholder": "On chain status",
+        "all": "All"
     }
 }
