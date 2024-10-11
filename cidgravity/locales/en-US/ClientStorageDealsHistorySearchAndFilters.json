@@ -20,6 +20,7 @@
         "startEpochTooEarly": "Start epoch too early"
     },
     "onChainStatus": {
-        "placeholder": "On chain status"
+        "placeholder": "On chain status",
+        "all": "All status"
     }
 }
