@@ -70,6 +70,18 @@
             "reject": {
                 "name": "Rejected",
                 "tooltip": "Rejected"
+            },
+            "accept": {
+                "name": "Accepted",
+                "tooltip": "Accepted"
+            },
+            "busy": {
+                "name": "Busy",
+                "tooltip": "Busy"
+            },
+            "serviceUnavailable": {
+                "name": "Service unavailable",
+                "tooltip": "Service unavailable"
             }
         }
     }
