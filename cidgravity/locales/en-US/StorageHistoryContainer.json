@@ -94,6 +94,9 @@
                 "expired": {
                     "name": "Expired",
                     "tooltip": "The deal has expired."
+                },
+                "unknown": {
+                    "name": "Unknown"
                 }
             }
         }
