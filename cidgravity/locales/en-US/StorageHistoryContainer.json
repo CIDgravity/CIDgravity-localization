@@ -18,13 +18,16 @@
         },
         "internalDecision": {
             "accept": {
-                "tooltip": "Accepted"
+                "tooltip": "Accepted",
+                "name": "Accepted"
             },
             "maintenance": {
-                "tooltip": "Under maintenance"
+                "tooltip": "Under maintenance",
+                "name": "Under Maintenance"
             },
             "blacklist": {
-                "tooltip": "Address blacklisted"
+                "tooltip": "Address blacklisted",
+                "name": "Blacklisted"
             },
             "reject": {
                 "tooltip": "Rejected"
