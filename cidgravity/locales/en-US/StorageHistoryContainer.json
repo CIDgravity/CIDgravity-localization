@@ -98,6 +98,9 @@
                 "unknown": {
                     "name": "Unknown",
                     "tooltip": "Unable to retrieve the deal status."
+                },
+                "accepted": {
+                    "name": "Accepted"
                 }
             }
         }
