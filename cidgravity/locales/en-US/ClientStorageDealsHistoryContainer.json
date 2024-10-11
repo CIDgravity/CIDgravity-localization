@@ -56,7 +56,8 @@
             "title": "Received at (YYYY/MM/DD)"
         },
         "sealingDuration": {
-            "title": "Sealing duration"
+            "title": "Sealing duration",
+            "tooltip": "The average time for storage providers to process a deal, from its blockchain publication to full onboarding."
         }
     }
 }
