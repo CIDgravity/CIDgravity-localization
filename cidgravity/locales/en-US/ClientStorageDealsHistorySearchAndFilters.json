@@ -18,5 +18,8 @@
         "invalidClientAddress": "Invalid address",
         "pieceCidDuplicated": "Piece CID duplicated",
         "startEpochTooEarly": "Start epoch too early"
+    },
+    "onChainStatus": {
+        "placeholder": "On chain status"
     }
 }
