@@ -21,6 +21,7 @@
     },
     "onChainStatus": {
         "placeholder": "On chain status",
-        "all": "All"
+        "all": "All",
+        "active": "Active"
     }
 }
