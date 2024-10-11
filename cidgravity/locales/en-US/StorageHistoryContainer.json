@@ -86,6 +86,9 @@
                 "active": {
                     "name": "Active",
                     "tooltip": "The deal is currently active on-chain."
+                },
+                "slashed": {
+                    "name": "Slashed"
                 }
             }
         }
