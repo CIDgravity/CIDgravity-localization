@@ -11,6 +11,7 @@
         "accept": "Accepted",
         "invalidProposal": "Invalid proposal",
         "maintenance": "Under maintenance",
-        "rateLimit": "Rate limit exceeded"
+        "rateLimit": "Rate limit exceeded",
+        "blacklist": "Blacklisted"
     }
 }
