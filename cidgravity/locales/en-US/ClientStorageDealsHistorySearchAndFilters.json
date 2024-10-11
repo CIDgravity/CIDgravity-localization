@@ -9,6 +9,8 @@
         "placeholder": "Decision",
         "all": "All decisions",
         "reject": "Rejected",
-        "accept": "Accepted"
+        "accept": "Accepted",
+        "busy": "Busy",
+        "serviceUnavailable": "Service unavailable"
     }
 }
