@@ -8,7 +8,8 @@
             "title": "Status",
             "status": {
                 "never-published": {
-                    "name": "Never published"
+                    "name": "Never published",
+                    "tooltip": "The deal has been accepted but never published on chain."
                 }
             }
         }
