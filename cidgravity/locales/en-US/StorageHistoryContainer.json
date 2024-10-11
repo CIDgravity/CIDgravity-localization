@@ -52,6 +52,9 @@
             "storageAcceptanceLogic": {
                 "tooltip": "Reject due to acceptance logic",
                 "name": "Acceptance logic"
+            },
+            "clientBlocked": {
+                "name": "Client blocked"
             }
         },
         "internalMessage": {
