@@ -22,6 +22,8 @@
     "onChainStatus": {
         "placeholder": "On chain status",
         "all": "All",
-        "active": "Active"
+        "active": "Active",
+        "published": "Published",
+        "slashed": "Slashed"
     }
 }
