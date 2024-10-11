@@ -10,6 +10,7 @@
         "all": "All decisions",
         "accept": "Accepted",
         "invalidProposal": "Invalid proposal",
-        "maintenance": "Under maintenance"
+        "maintenance": "Under maintenance",
+        "rateLimit": "Rate limit exceeded"
     }
 }
