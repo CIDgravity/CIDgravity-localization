@@ -8,43 +8,33 @@
             "title": "Status",
             "status": {
                 "never-published": {
-                    "name": "Never published",
                     "tooltip": "The deal has been accepted but never published on chain."
                 },
                 "published": {
-                    "name": "Published",
                     "tooltip": "The deal has been published on-chain. Awaiting confirmation of sealing."
                 },
                 "published-expired": {
-                    "name": "Published expired",
                     "tooltip": "The deal publication has expired."
                 },
                 "active": {
-                    "name": "Active",
                     "tooltip": "The deal is currently active on-chain."
                 },
                 "slashed": {
-                    "name": "Slashed",
                     "tooltip": "The deal has been slashed."
                 },
                 "expired": {
-                    "tooltip": "The deal has expired.",
                     "name": "Expired"
                 },
                 "unknown": {
-                    "name": "Unknown",
                     "tooltip": "Unable to retrieve the deal status."
                 },
                 "accepted": {
-                    "name": "Accepted",
                     "tooltip": "The deal has been accepted by CIDgravity. Awaiting publication."
                 },
                 "reject": {
-                    "name": "Rejected",
                     "tooltip": "The deal has been rejected."
                 },
                 "on-chain": {
-                    "tooltip": "On chain",
                     "name": "On chain"
                 }
             }
@@ -68,43 +58,33 @@
         },
         "externalDecision": {
             "reject": {
-                "name": "Rejected",
                 "tooltip": "Rejected"
             },
             "accept": {
-                "name": "Accepted",
                 "tooltip": "Accepted"
             },
             "busy": {
-                "name": "Busy",
                 "tooltip": "Busy"
             },
             "serviceUnavailable": {
-                "name": "Service unavailable",
                 "tooltip": "Service unavailable"
             },
             "clientNotAuthorized": {
-                "name": "Not authorized",
                 "tooltip": "Not authorized"
             },
             "clientNotEnoughtDatacap": {
-                "name": "Not enough datacap",
                 "tooltip": "Not enough datacap"
             },
             "dealTypeNotAccepted": {
-                "name": "Deal type not accepted",
                 "tooltip": "Deal type not accepted"
             },
             "invalidClientAddress": {
-                "name": "Invalid address",
                 "tooltip": "Invalid address"
             },
             "pieceCidDuplicated": {
-                "name": "Piece CID duplicated",
                 "tooltip": "Piece CID duplicated"
             },
             "startEpochTooEarly": {
-                "tooltip": "Start epoch too early",
                 "name": "Start epoch too early"
             }
         }
