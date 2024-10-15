@@ -5,27 +5,7 @@
     "dateRangePicker": {
         "placeholder": "From ({{dateFormat}}) - To ({{dateFormat}})"
     },
-    "decision": {
-        "placeholder": "Decision",
-        "all": "All decisions",
-        "accept": "Accepted",
-        "invalidProposal": "Invalid proposal",
-        "maintenance": "Maintenance",
-        "rateLimit": "Rate limit exceeded",
-        "blacklist": "Blacklisted",
-        "storageAcceptanceLogic": "Acceptance logic not passed",
-        "noFundsLeft": "No funds left",
-        "noSpaceLeft": "No space left",
-        "clientBlocked": "Client blocked",
-        "sizeRateLimit": "Size rate limit exceeded"
-    },
-    "onChainStatus": {
-        "placeholder": "On chain status",
-        "all": "All status",
-        "active": "Active",
-        "published": "Published",
-        "slashed": "Slashed",
-        "expired": "Expired",
-        "publishedExpired": "Published expired"
+    "status": {
+        "placeholder": "All status"
     }
 }

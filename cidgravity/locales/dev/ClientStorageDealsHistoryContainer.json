@@ -5,49 +5,7 @@
         "empty": "Your history is currently empty.",
         "noMatch": "Your search did not match any storage proposals.",
         "dealStatus": {
-            "title": "Status",
-            "status": {
-                "never-published": {
-                    "name": "Never published",
-                    "tooltip": "The deal has been accepted but never published on chain"
-                },
-                "published": {
-                    "name": "Published",
-                    "tooltip": "The deal has been published on-chain. Awaiting confirmation of sealing"
-                },
-                "published-expired": {
-                    "name": "Published expired",
-                    "tooltip": "The deal publication has expired."
-                },
-                "active": {
-                    "name": "Active",
-                    "tooltip": "The deal is currently active on-chain."
-                },
-                "slashed": {
-                    "name": "Slashed",
-                    "tooltip": "The deal has been slashed."
-                },
-                "expired": {
-                    "name": "Expired",
-                    "tooltip": "The deal has expired."
-                },
-                "unknown": {
-                    "name": "Unknown",
-                    "tooltip": "Unable to retrieve the deal status."
-                },
-                "accepted": {
-                    "name": "Accepted",
-                    "tooltip": "The deal has been accepted by CIDgravity. Awaiting publication"
-                },
-                "reject": {
-                    "name": "Rejected",
-                    "tooltip": "The deal has been rejected."
-                },
-                "on-chain": {
-                    "name": "On chain",
-                    "tooltip": "On chain"
-                }
-            }
+            "title": "Status"
         },
         "provider": {
             "title": "Provider"
@@ -65,48 +23,6 @@
         },
         "inspect": {
             "tooltip": "Inspect deal proposal"
-        },
-        "externalDecision": {
-            "reject": {
-                "name": "Rejected",
-                "tooltip": "Rejected"
-            },
-            "accept": {
-                "name": "Accepted",
-                "tooltip": "Accepted"
-            },
-            "busy": {
-                "name": "Busy",
-                "tooltip": "Busy"
-            },
-            "serviceUnavailable": {
-                "name": "Service unavailable",
-                "tooltip": "Service unavailable"
-            },
-            "clientNotAuthorized": {
-                "name": "Not authorized",
-                "tooltip": "Not authorized"
-            },
-            "clientNotEnoughtDatacap": {
-                "name": "Not enought datacap",
-                "tooltip": "Not enought datacap"
-            },
-            "dealTypeNotAccepted": {
-                "name": "Deal type not accepted",
-                "tooltip": "Deal type not accepted"
-            },
-            "invalidClientAddress": {
-                "name": "Invalid address",
-                "tooltip": "Invalid address"
-            },
-            "pieceCidDuplicated": {
-                "name": "Piece CID duplicated",
-                "tooltip": "Piece CID duplicated"
-            },
-            "startEpochTooEarly": {
-                "name": "Start epoch too early",
-                "tooltip": "Start epoch too early"
-            }
         }
     },
     "error": {

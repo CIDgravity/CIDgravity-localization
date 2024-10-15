@@ -5,49 +5,7 @@
         "empty": "Your history is currently empty.",
         "noMatch": "Your search did not match any storage proposals.",
         "dealStatus": {
-            "title": "Status",
-            "status": {
-                "published": {
-                    "name": "Published",
-                    "tooltip": "The deal has been published on-chain. Awaiting confirmation of sealing"
-                },
-                "never-published": {
-                    "name": "Never published",
-                    "tooltip": "The deal has been accepted but never published on chain"
-                },
-                "published-expired": {
-                    "name": "Published expired",
-                    "tooltip": "The deal publication has expired."
-                },
-                "active": {
-                    "name": "Active",
-                    "tooltip": "The deal is currently active on-chain."
-                },
-                "slashed": {
-                    "name": "Slashed",
-                    "tooltip": "The deal has been slashed."
-                },
-                "expired": {
-                    "name": "Expired",
-                    "tooltip": "The deal has expired."
-                },
-                "unknown": {
-                    "name": "Unknown",
-                    "tooltip": "Unable to retrieve the deal status."
-                },
-                "accepted": {
-                    "name": "Accepted",
-                    "tooltip": "The deal has been accepted by CIDgravity. Awaiting publication"
-                },
-                "reject": {
-                    "name": "Rejected",
-                    "tooltip": "The deal has been rejected."
-                },
-                "on-chain": {
-                    "name": "On chain",
-                    "tooltip": "On chain"
-                }
-            }
+            "title": "Status"
         },
         "fromAddress": {
             "title": "From address",
@@ -80,48 +38,6 @@
         },
         "simulate": {
             "tooltip": "Simulate in playground"
-        },
-        "internalDecision": {
-            "accept": {
-                "name": "Accepted",
-                "tooltip": "Accepted"
-            },
-            "maintenance": {
-                "name": "Maintenance",
-                "tooltip": "In maintenance"
-            },
-            "blacklist": {
-                "name": "Blacklisted",
-                "tooltip": "Address blacklisted"
-            },
-            "storageAcceptanceLogic": {
-                "name": "Acceptance logic",
-                "tooltip": "Storage acceptance logic not passed"
-            },
-            "reject": {
-                "name": "Rejected",
-                "tooltip": "Rejected"
-            },
-            "rateLimit": {
-                "name": "Rate limit",
-                "tooltip": "Reject due to rate limit"
-            },
-            "sizeRateLimit": {
-                "name": "Size rate limit",
-                "tooltip": "Reject due to deal size limit"
-            },
-            "invalidProposalOrError": {
-                "name": "Invalid proposal",
-                "tooltip": "Reject due to proposal invalidity"
-            },
-            "startEpochBelowSealingBuffer": {
-                "name": "Start epoch sealing buffer",
-                "tooltip": "Reject due to start date below defined sealing buffer"
-            },
-            "clientBlocked": {
-                "name": "Client blocked",
-                "tooltip": "Rejected due to the client being blocked"
-            }
         },
         "internalMessage": {
             "empty": "N/A"
