@@ -6,26 +6,16 @@
         "placeholder": "From (YYYY/MM/DD) - To (YYYY/MM/DD)"
     },
     "externalDecision": {
-        "placeholder": "Decision",
         "all": "All decisions",
-        "reject": "Rejected",
         "accept": "Accepted",
-        "busy": "Busy",
         "serviceUnavailable": "Service unavailable",
-        "clientNotAuthorized": "Not authorized",
         "clientNotEnoughtDatacap": "Not enough datacap",
-        "dealTypeNotAccepted": "Deal type not accepted",
         "invalidClientAddress": "Invalid address",
-        "pieceCidDuplicated": "Piece CID duplicated",
         "startEpochTooEarly": "Start epoch too early"
     },
     "onChainStatus": {
-        "placeholder": "On chain status",
         "all": "All",
-        "active": "Active",
         "published": "Published",
-        "slashed": "Slashed",
-        "expired": "Expired",
-        "publishedExpired": "Published expired"
+        "expired": "Expired"
     }
 }
