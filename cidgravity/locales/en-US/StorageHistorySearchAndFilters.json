@@ -6,26 +6,16 @@
         "placeholder": "From (YYYY/MM/DD) - To (YYYY/MM/DD)"
     },
     "decision": {
-        "placeholder": "Decision",
         "all": "All decisions",
-        "accept": "Accepted",
         "invalidProposal": "Invalid proposal",
-        "maintenance": "Under maintenance",
         "rateLimit": "Rate limit exceeded",
-        "blacklist": "Blacklisted",
         "storageAcceptanceLogic": "Acceptance logic not passed.",
-        "noFundsLeft": "No funds left",
         "noSpaceLeft": "No space left",
-        "clientBlocked": "Client blocked",
         "sizeRateLimit": "Rate limit - Storage volume already sent"
     },
     "onChainStatus": {
-        "placeholder": "On chain status",
         "all": "All",
-        "active": "Active",
         "published": "Published",
-        "slashed": "Slashed",
-        "expired": "Expired",
-        "publishedExpired": "Published expired"
+        "expired": "Expired"
     }
 }
