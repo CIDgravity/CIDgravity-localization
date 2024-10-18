@@ -2,7 +2,7 @@
     "dealStatusAndFilters": {
         "allErrors": {
             "sectionTitle": "Errors",
-            "dropdownName": "On Track - Any"
+            "dropdownName": "Errors - Any"
         },
         "allSuccess": {
             "sectionTitle": "On track",
