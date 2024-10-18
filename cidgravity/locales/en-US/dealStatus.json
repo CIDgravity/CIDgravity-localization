@@ -94,16 +94,20 @@
             "name": "Published expired"
         },
         "slashed": {
-            "dropdownName": "Onchain - Slashed"
+            "dropdownName": "Onchain - Slashed",
+            "name": "Slashed"
         },
         "busy": {
-            "dropdownName": "Deal rejected - Busy"
+            "dropdownName": "Deal rejected - Busy",
+            "name": "Busy"
         },
         "serviceUnavailable": {
-            "dropdownName": "Deal rejected - Service unavailable"
+            "dropdownName": "Deal rejected - Service unavailable",
+            "name": "Service unavailable"
         },
         "clientNotAuthorized": {
-            "dropdownName": "Deal rejected - Not authorized"
+            "dropdownName": "Deal rejected - Not authorized",
+            "name": "Not authorized"
         },
         "clientNotEnoughtDatacap": {
             "dropdownName": "Deal rejected - Not enought datacap"
