@@ -70,7 +70,8 @@
         },
         "error": {
             "dropdownName": "Deal rejected - Error",
-            "name": "Error"
+            "name": "Error",
+            "tooltip": "Error"
         },
         "invalidProposal": {
             "dropdownName": "Deal rejected - Invalid proposal",
