@@ -40,7 +40,7 @@
         },
         "maintenance": {
             "name": "Maintenance",
-            "dropdownName": "Deal rejected - Maintenance",
+            "dropdownName": "Maintenance",
             "tooltip": "The storage provider is undergoing maintenance and not accepting deals."
         },
         "noSpaceLeft": {
