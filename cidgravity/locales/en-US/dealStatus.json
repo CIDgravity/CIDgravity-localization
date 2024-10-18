@@ -94,7 +94,7 @@
             "tooltip": "Reject due to start date below defined sealing buffer"
         },
         "neverPublished": {
-            "dropdownName": "Sealing - Never Published",
+            "dropdownName": "Sealing - Never published",
             "name": "Never published",
             "tooltip": "Deal accepted but never published on time."
         },
