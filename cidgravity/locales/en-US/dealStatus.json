@@ -50,7 +50,8 @@
         },
         "noFundsLeft": {
             "name": "No funds left",
-            "dropdownName": "Deals rejected - No funds left"
+            "dropdownName": "Deals rejected - No funds left",
+            "tooltip": "Insufficient funds for collateral."
         }
     }
 }
