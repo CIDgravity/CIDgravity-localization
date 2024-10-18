@@ -111,7 +111,8 @@
         },
         "clientNotEnoughtDatacap": {
             "dropdownName": "Deal rejected - Datacap",
-            "name": "Datacap"
+            "name": "Datacap",
+            "tooltip": "Not enough remaining datacap to send this deal"
         },
         "dealTypeNotAccepted": {
             "dropdownName": "Deal rejected - Deal type not accepted",
