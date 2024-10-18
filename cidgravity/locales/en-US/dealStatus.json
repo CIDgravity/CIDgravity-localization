@@ -82,7 +82,7 @@
             "name": "Blacklist"
         },
         "startEpochBelowSealingBuffer": {
-            "dropdownName": "Deal rejected - Start epoch sealing buffer",
+            "dropdownName": "Deal rejected - Start epoch",
             "name": "Start epoch"
         },
         "neverPublished": {
