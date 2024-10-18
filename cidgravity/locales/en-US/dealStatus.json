@@ -65,7 +65,8 @@
         },
         "storageAcceptanceLogic": {
             "dropdownName": "Deal rejected - Storage acceptance logic",
-            "name": "Acceptance logic"
+            "name": "Acceptance logic",
+            "tooltip": "Deal rejected: storage acceptance logic not passed."
         },
         "error": {
             "dropdownName": "Deal rejected - Error",
