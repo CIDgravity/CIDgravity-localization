@@ -82,10 +82,12 @@
             "name": "Blacklisted"
         },
         "startEpochBelowSealingBuffer": {
-            "dropdownName": "Deal rejected - Start epoch sealing buffer"
+            "dropdownName": "Deal rejected - Start epoch sealing buffer",
+            "name": "Start epoch"
         },
         "neverPublished": {
-            "dropdownName": "Sealing - Never Published"
+            "dropdownName": "Sealing - Never Published",
+            "name": "Never published"
         },
         "publishedExpired": {
             "dropdownName": "Sealing - Published Expired (Not sealed on-time)",
