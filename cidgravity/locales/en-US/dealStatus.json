@@ -35,7 +35,7 @@
         },
         "reject": {
             "name": "Rejected",
-            "dropdownName": "Deal Rejected - any",
+            "dropdownName": "Deal Rejected - Any reasons",
             "tooltip": "The deal has been rejected."
         },
         "maintenance": {
