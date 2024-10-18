@@ -110,7 +110,8 @@
             "name": "Not authorized"
         },
         "clientNotEnoughtDatacap": {
-            "dropdownName": "Deal rejected - Not enought datacap"
+            "dropdownName": "Deal rejected - Not enought datacap",
+            "name": "Not enough datacap"
         },
         "dealTypeNotAccepted": {
             "dropdownName": "Deal rejected - Deal type not accepted"
