@@ -56,6 +56,15 @@
         "sizeRateLimit": {
             "name": "Rate limit - Cumulative size",
             "dropdownName": "Deal rejected - Size rate limit"
+        },
+        "rateLimit": {
+            "dropdownName": "Proposal Rejected - Rate limit"
+        },
+        "storageAcceptanceLogic": {
+            "dropdownName": "Deal rejected - Storage acceptance logic not passed"
+        },
+        "error": {
+            "dropdownName": "Deal rejected - Error"
         }
     }
 }
