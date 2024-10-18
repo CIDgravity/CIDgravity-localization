@@ -100,11 +100,13 @@
         },
         "publishedExpired": {
             "dropdownName": "Sealing - Published expired (Not sealed on-time)",
-            "name": "Published expired"
+            "name": "Published expired",
+            "tooltip": "Deal not sealed before the client's start epoch."
         },
         "slashed": {
             "dropdownName": "Onchain - Slashed",
-            "name": "Slashed"
+            "name": "Slashed",
+            "tooltip": "The deal has been slashed."
         },
         "busy": {
             "dropdownName": "Deal rejected - Busy",
