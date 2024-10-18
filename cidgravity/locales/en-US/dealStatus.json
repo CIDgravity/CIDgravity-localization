@@ -10,6 +10,11 @@
         },
         "accept": {
             "name": "Accepted",
+            "dropdownName": "Deal Accepted",
+            "tooltip": "Accepted by the storage provider. Pending on-chain publication."
+        },
+        "accepted": {
+            "name": "Accepted",
             "dropdownName": "Deal Accepted"
         }
     }
