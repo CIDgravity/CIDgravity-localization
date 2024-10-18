@@ -1,7 +1,11 @@
 {
     "dealStatusAndFilters": {
         "allErrors": {
-            "sectionTitle": "Errors"
+            "sectionTitle": "Errors",
+            "dropdownName": "All errors"
+        },
+        "allSuccess": {
+            "sectionTitle": "Success"
         }
     }
 }
