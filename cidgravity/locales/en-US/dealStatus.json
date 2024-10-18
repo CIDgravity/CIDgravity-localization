@@ -56,11 +56,12 @@
         "sizeRateLimit": {
             "name": "Size Rate limit",
             "dropdownName": "Deal rejected - Size rate limit",
-            "tooltip": "Deal rejected: the maximum number of deals in CIDgravity has already been reached."
+            "tooltip": "Deal rejected: the total size of deals set in CIDgravity has already been reached."
         },
         "rateLimit": {
             "dropdownName": "Deal rejected - Rate limit",
-            "name": "Rate limit"
+            "name": "Rate limit",
+            "tooltip": "Deal rejected: the maximum number of deals in CIDgravity has already been reached."
         },
         "storageAcceptanceLogic": {
             "dropdownName": "Deal rejected - Storage acceptance logic",
