@@ -47,6 +47,10 @@
             "name": "No space left",
             "dropdownName": "Deal rejected - No space left",
             "tooltip": "No storage space available for new deals."
+        },
+        "noFundsLeft": {
+            "name": "No funds left",
+            "dropdownName": "Deals rejected - No funds left"
         }
     }
 }
