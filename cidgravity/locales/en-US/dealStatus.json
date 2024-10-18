@@ -90,7 +90,7 @@
             "name": "Never published"
         },
         "publishedExpired": {
-            "dropdownName": "Sealing - Published Expired (Not sealed on-time)",
+            "dropdownName": "Sealing - Published expired (Not sealed on-time)",
             "name": "Published expired"
         },
         "slashed": {
