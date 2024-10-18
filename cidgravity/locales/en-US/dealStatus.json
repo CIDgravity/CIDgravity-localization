@@ -95,7 +95,8 @@
         },
         "neverPublished": {
             "dropdownName": "Sealing - Never Published",
-            "name": "Never published"
+            "name": "Never published",
+            "tooltip": "Deal accepted but never published on time."
         },
         "publishedExpired": {
             "dropdownName": "Sealing - Published expired (Not sealed on-time)",
