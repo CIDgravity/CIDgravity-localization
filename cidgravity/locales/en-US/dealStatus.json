@@ -80,6 +80,12 @@
         },
         "neverPublished": {
             "dropdownName": "Sealing - Never Published"
+        },
+        "publishedExpired": {
+            "dropdownName": "Sealing - Published-expired"
+        },
+        "slashed": {
+            "dropdownName": "Onchain - Slashed"
         }
     }
 }
