@@ -115,8 +115,9 @@
             "tooltip": "Not enough remaining datacap to send this deal"
         },
         "dealTypeNotAccepted": {
-            "dropdownName": "Deal rejected - Deal type not accepted",
-            "name": "Type not accepted"
+            "dropdownName": "Deal rejected - Type not accepted",
+            "name": "Type not accepted",
+            "tooltip": "Deal type not accepted"
         },
         "priceTooLow": {
             "dropdownName": "Deal rejected - Price too low",
