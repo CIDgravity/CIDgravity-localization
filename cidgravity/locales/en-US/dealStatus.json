@@ -82,8 +82,8 @@
             "dropdownName": "Sealing - Never Published"
         },
         "publishedExpired": {
-            "dropdownName": "Sealing - Published Expired",
-            "name": "Published expired (Not sealed on-time)"
+            "dropdownName": "Sealing - Published Expired (Not sealed on-time)",
+            "name": "Published expired"
         },
         "slashed": {
             "dropdownName": "Onchain - Slashed"
