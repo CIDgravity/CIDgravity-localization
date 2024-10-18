@@ -5,7 +5,8 @@
             "dropdownName": "All errors"
         },
         "allSuccess": {
-            "sectionTitle": "Success"
+            "sectionTitle": "Success",
+            "dropdownName": "All on track"
         }
     }
 }
