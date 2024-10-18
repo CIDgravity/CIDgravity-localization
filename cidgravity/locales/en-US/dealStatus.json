@@ -62,19 +62,24 @@
             "name": "Rate limit"
         },
         "storageAcceptanceLogic": {
-            "dropdownName": "Deal rejected - Storage acceptance logic not passed"
+            "dropdownName": "Deal rejected - Storage acceptance logic not passed",
+            "name": "Acceptance logic"
         },
         "error": {
-            "dropdownName": "Deal rejected - Error"
+            "dropdownName": "Deal rejected - Error",
+            "name": "Error"
         },
         "invalidProposal": {
-            "dropdownName": "Deal rejected - Invalid proposal"
+            "dropdownName": "Deal rejected - Invalid proposal",
+            "name": "Invalid proposal"
         },
         "clientBlocked": {
-            "dropdownName": "Deal rejected - Client blocked"
+            "dropdownName": "Deal rejected - Client blocked",
+            "name": "Client blocked"
         },
         "blacklist": {
-            "dropdownName": "Deal rejected - Blacklist"
+            "dropdownName": "Deal rejected - Blacklist",
+            "name": "Blacklisted"
         },
         "startEpochBelowSealingBuffer": {
             "dropdownName": "Deal rejected - Start epoch too early"
