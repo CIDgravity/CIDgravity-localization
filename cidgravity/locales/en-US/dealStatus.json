@@ -114,7 +114,8 @@
             "name": "Not enough datacap"
         },
         "dealTypeNotAccepted": {
-            "dropdownName": "Deal rejected - Deal type not accepted"
+            "dropdownName": "Deal rejected - Deal type not accepted",
+            "name": "Type not accepted"
         },
         "priceTooLow": {
             "dropdownName": "Deal rejected - Price too low"
