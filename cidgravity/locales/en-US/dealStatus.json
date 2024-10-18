@@ -83,7 +83,8 @@
         },
         "startEpochBelowSealingBuffer": {
             "dropdownName": "Deal rejected - Start epoch",
-            "name": "Start epoch"
+            "name": "Start epoch",
+            "tooltip": "Reject due to start date below defined sealing buffer"
         },
         "neverPublished": {
             "dropdownName": "Sealing - Never Published",
