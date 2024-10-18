@@ -6,14 +6,12 @@
         "placeholder": "From (YYYY/MM/DD) - To (YYYY/MM/DD)"
     },
     "decision": {
-        "invalidProposal": "Invalid proposal",
-        "storageAcceptanceLogic": "Acceptance logic not passed.",
-        "sizeRateLimit": "Rate limit - Storage volume already sent"
+        "storageAcceptanceLogic": "Acceptance logic not passed."
     },
     "onChainStatus": {
         "published": "Published"
     },
     "status": {
-        "placeholder": "All status"
+        "placeholder": "Any status"
     }
 }
