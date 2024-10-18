@@ -118,7 +118,8 @@
             "name": "Type not accepted"
         },
         "priceTooLow": {
-            "dropdownName": "Deal rejected - Price too low"
+            "dropdownName": "Deal rejected - Price too low",
+            "name": "Price too low"
         },
         "startEpochTooEarly": {
             "dropdownName": "Deal rejected - Start epoch too early"
