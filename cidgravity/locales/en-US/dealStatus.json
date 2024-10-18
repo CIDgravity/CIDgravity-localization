@@ -58,7 +58,7 @@
             "dropdownName": "Deal rejected - Size rate limit"
         },
         "rateLimit": {
-            "dropdownName": "Proposal Rejected - Rate limit"
+            "dropdownName": "Deal rejected - Rate limit"
         },
         "storageAcceptanceLogic": {
             "dropdownName": "Deal rejected - Storage acceptance logic not passed"
