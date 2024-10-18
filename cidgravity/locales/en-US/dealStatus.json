@@ -125,7 +125,7 @@
             "tooltip": "Price is below Storage Provider price"
         },
         "startEpochTooEarly": {
-            "dropdownName": "Deal rejected - Start epoch too early",
+            "dropdownName": "Deal rejected - Start epoch",
             "name": "Start epoch is too early"
         }
     }
