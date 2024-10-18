@@ -45,7 +45,8 @@
         },
         "noSpaceLeft": {
             "name": "No space left",
-            "dropdownName": "Deal rejected - No space left"
+            "dropdownName": "Deal rejected - No space left",
+            "tooltip": "No storage space available for new deals."
         }
     }
 }
