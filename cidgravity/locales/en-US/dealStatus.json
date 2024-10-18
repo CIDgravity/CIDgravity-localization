@@ -32,6 +32,9 @@
             "name": "Expired",
             "dropdownName": "Deal Expired",
             "tooltip": "The deal has expired."
+        },
+        "reject": {
+            "name": "Rejected"
         }
     }
 }
