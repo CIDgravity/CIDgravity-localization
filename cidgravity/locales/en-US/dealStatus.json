@@ -74,6 +74,9 @@
         },
         "blacklist": {
             "dropdownName": "Deal rejected - Blacklist"
+        },
+        "startEpochBelowSealingBuffer": {
+            "dropdownName": "Deal rejected - Start epoch too early"
         }
     }
 }
