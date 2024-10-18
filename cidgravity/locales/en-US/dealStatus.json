@@ -62,7 +62,7 @@
             "name": "Rate limit"
         },
         "storageAcceptanceLogic": {
-            "dropdownName": "Deal rejected - Storage acceptance logic not passed",
+            "dropdownName": "Deal rejected - Storage acceptance logic",
             "name": "Acceptance logic"
         },
         "error": {
