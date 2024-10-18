@@ -7,6 +7,10 @@
         "allSuccess": {
             "sectionTitle": "Success",
             "dropdownName": "All on track"
+        },
+        "accept": {
+            "name": "Accepted",
+            "dropdownName": "Deal Accepted"
         }
     }
 }
