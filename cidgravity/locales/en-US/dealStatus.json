@@ -20,12 +20,12 @@
         },
         "published": {
             "name": "Published",
-            "dropdownName": "Deal Published",
+            "dropdownName": "Published",
             "tooltip": "The deal has been published on-chain. Sealing is in progress."
         },
         "active": {
             "name": "Active",
-            "dropdownName": "Deal Active",
+            "dropdownName": "Active",
             "tooltip": "The deal is currently active on-chain."
         },
         "expired": {
