@@ -42,6 +42,9 @@
             "name": "Maintenance",
             "dropdownName": "Deal rejected - Maintenance",
             "tooltip": "The storage provider is undergoing maintenance and not accepting deals."
+        },
+        "noSpaceLeft": {
+            "name": "Deal rejected - No space left"
         }
     }
 }
