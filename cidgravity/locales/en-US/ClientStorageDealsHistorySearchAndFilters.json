@@ -6,14 +6,12 @@
         "placeholder": "From (YYYY/MM/DD) - To (YYYY/MM/DD)"
     },
     "externalDecision": {
-        "accept": "Accepted",
-        "clientNotEnoughtDatacap": "Not enough datacap",
-        "startEpochTooEarly": "Start epoch too early"
+        "clientNotEnoughtDatacap": "Not enough datacap"
     },
     "onChainStatus": {
         "published": "Published"
     },
     "status": {
-        "placeholder": "All status"
+        "placeholder": "Any status"
     }
 }
