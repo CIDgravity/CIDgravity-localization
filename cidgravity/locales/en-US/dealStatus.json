@@ -65,6 +65,15 @@
         },
         "error": {
             "dropdownName": "Deal rejected - Error"
+        },
+        "invalidProposal": {
+            "dropdownName": "Deal rejected - Invalid proposal"
+        },
+        "clientBlocked": {
+            "dropdownName": "Deal rejected - Client blocked"
+        },
+        "blacklist": {
+            "dropdownName": "Deal rejected - Blacklist"
         }
     }
 }
