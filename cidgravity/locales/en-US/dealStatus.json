@@ -85,7 +85,8 @@
         },
         "blacklist": {
             "dropdownName": "Deal rejected - Blacklist",
-            "name": "Blacklist"
+            "name": "Blacklist",
+            "tooltip": "Address blacklisted"
         },
         "startEpochBelowSealingBuffer": {
             "dropdownName": "Deal rejected - Start epoch",
