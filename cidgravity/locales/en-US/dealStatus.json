@@ -110,15 +110,18 @@
         },
         "busy": {
             "dropdownName": "Deal rejected - Busy",
-            "name": "Busy"
+            "name": "Busy",
+            "tooltip": "Busy"
         },
         "serviceUnavailable": {
             "dropdownName": "Deal rejected - Service unavailable",
-            "name": "Service unavailable"
+            "name": "Service unavailable",
+            "tooltip": "Service unavailable"
         },
         "clientNotAuthorized": {
             "dropdownName": "Deal rejected - Not authorized",
-            "name": "Not authorized"
+            "name": "Not authorized",
+            "tooltip": "Not authorized"
         },
         "clientNotEnoughtDatacap": {
             "dropdownName": "Deal rejected - Datacap",
