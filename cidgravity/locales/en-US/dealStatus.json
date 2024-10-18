@@ -122,7 +122,8 @@
             "name": "Price too low"
         },
         "startEpochTooEarly": {
-            "dropdownName": "Deal rejected - Start epoch too early"
+            "dropdownName": "Deal rejected - Start epoch too early",
+            "name": "Start epoch too early"
         }
     }
 }
