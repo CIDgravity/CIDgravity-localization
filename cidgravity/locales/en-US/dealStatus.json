@@ -45,12 +45,12 @@
         },
         "noSpaceLeft": {
             "name": "No space left",
-            "dropdownName": "Deal rejected - No space left",
+            "dropdownName": "No space left",
             "tooltip": "No storage space available for new deals."
         },
         "noFundsLeft": {
             "name": "No funds left",
-            "dropdownName": "Deals rejected - No funds left",
+            "dropdownName": "No funds left",
             "tooltip": "Insufficient funds for collateral."
         },
         "sizeRateLimit": {
