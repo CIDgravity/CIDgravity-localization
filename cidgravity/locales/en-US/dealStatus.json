@@ -54,7 +54,8 @@
             "tooltip": "Insufficient funds for collateral."
         },
         "sizeRateLimit": {
-            "name": "Rate limit - Cumulative size"
+            "name": "Rate limit - Cumulative size",
+            "dropdownName": "Deal rejected - Size rate limit"
         }
     }
 }
