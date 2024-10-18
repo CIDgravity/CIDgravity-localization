@@ -19,7 +19,8 @@
             "tooltip": "Accepted by the storage provider. Pending on-chain publication."
         },
         "published": {
-            "name": "Published"
+            "name": "Published",
+            "dropdownName": "Deal Published"
         }
     }
 }
