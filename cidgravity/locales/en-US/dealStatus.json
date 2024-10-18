@@ -126,7 +126,7 @@
         },
         "startEpochTooEarly": {
             "dropdownName": "Deal rejected - Start epoch too early",
-            "name": "Start epoch too early"
+            "name": "Start epoch is too early"
         }
     }
 }
