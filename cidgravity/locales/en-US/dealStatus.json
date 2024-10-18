@@ -121,7 +121,8 @@
         },
         "priceTooLow": {
             "dropdownName": "Deal rejected - Price too low",
-            "name": "Price too low"
+            "name": "Price too low",
+            "tooltip": "Price is below Storage Provider price"
         },
         "startEpochTooEarly": {
             "dropdownName": "Deal rejected - Start epoch too early",
