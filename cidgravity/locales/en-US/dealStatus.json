@@ -34,7 +34,8 @@
             "tooltip": "The deal has expired."
         },
         "reject": {
-            "name": "Rejected"
+            "name": "Rejected",
+            "dropdownName": "Deal Rejected - all reasons"
         }
     }
 }
