@@ -98,6 +98,15 @@
         },
         "clientNotEnoughtDatacap": {
             "dropdownName": "Deal rejected - Not enought datacap"
+        },
+        "dealTypeNotAccepted": {
+            "dropdownName": "Deal rejected - Deal type not accepted"
+        },
+        "priceTooLow": {
+            "dropdownName": "Deal rejected - Price too low"
+        },
+        "startEpochTooEarly": {
+            "dropdownName": "Deal rejected - Start epoch too early"
         }
     }
 }
