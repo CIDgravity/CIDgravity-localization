@@ -54,11 +54,12 @@
             "tooltip": "Insufficient funds for collateral."
         },
         "sizeRateLimit": {
-            "name": "Rate limit",
+            "name": "Size Rate limit",
             "dropdownName": "Deal rejected - Size rate limit"
         },
         "rateLimit": {
-            "dropdownName": "Deal rejected - Rate limit"
+            "dropdownName": "Deal rejected - Rate limit",
+            "name": "Rate limit"
         },
         "storageAcceptanceLogic": {
             "dropdownName": "Deal rejected - Storage acceptance logic not passed"
