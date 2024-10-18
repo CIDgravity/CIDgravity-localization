@@ -75,11 +75,13 @@
         },
         "invalidProposal": {
             "dropdownName": "Deal rejected - Invalid proposal",
-            "name": "Invalid proposal"
+            "name": "Invalid proposal",
+            "tooltip": "Deal rejected: proposal format does not match requirements."
         },
         "clientBlocked": {
             "dropdownName": "Deal rejected - Client blocked",
-            "name": "Client blocked"
+            "name": "Client blocked",
+            "tooltip": "Rejected due to the client being blocked"
         },
         "blacklist": {
             "dropdownName": "Deal rejected - Blacklist",
