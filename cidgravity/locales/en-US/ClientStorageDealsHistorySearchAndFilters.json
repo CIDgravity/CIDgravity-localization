@@ -6,16 +6,14 @@
         "placeholder": "From (YYYY/MM/DD) - To (YYYY/MM/DD)"
     },
     "externalDecision": {
-        "all": "All decisions",
         "accept": "Accepted",
-        "serviceUnavailable": "Service unavailable",
         "clientNotEnoughtDatacap": "Not enough datacap",
-        "invalidClientAddress": "Invalid address",
         "startEpochTooEarly": "Start epoch too early"
     },
     "onChainStatus": {
-        "all": "All",
-        "published": "Published",
-        "expired": "Expired"
+        "published": "Published"
+    },
+    "status": {
+        "placeholder": "All status"
     }
 }
