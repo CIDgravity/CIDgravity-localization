@@ -39,7 +39,8 @@
             "tooltip": "The deal has been rejected."
         },
         "maintenance": {
-            "name": "Maintenance"
+            "name": "Maintenance",
+            "dropdownName": "Deal rejected - Maintenance"
         }
     }
 }
