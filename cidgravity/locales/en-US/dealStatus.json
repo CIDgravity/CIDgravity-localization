@@ -25,7 +25,12 @@
         },
         "active": {
             "name": "Active",
-            "dropdownName": "Deal Active"
+            "dropdownName": "Deal Active",
+            "tooltip": "The deal is currently active on-chain."
+        },
+        "expired": {
+            "name": "Expired",
+            "dropdownName": "Deal Expired"
         }
     }
 }
