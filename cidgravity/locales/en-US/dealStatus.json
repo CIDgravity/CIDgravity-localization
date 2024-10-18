@@ -1,1 +1,7 @@
-{}
+{
+    "dealStatusAndFilters": {
+        "allErrors": {
+            "sectionTitle": "Errors"
+        }
+    }
+}
