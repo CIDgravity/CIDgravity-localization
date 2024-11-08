@@ -7,32 +7,17 @@
         "dealStatus": {
             "title": "Status",
             "status": {
-                "never-published": {
-                    "tooltip": "The deal has been accepted but never published on chain."
-                },
                 "published": {
                     "tooltip": "The deal has been published on-chain. Awaiting confirmation of sealing."
-                },
-                "published-expired": {
-                    "tooltip": "The deal publication has expired."
                 },
                 "active": {
                     "tooltip": "The deal is currently active on-chain."
                 },
-                "slashed": {
-                    "tooltip": "The deal has been slashed."
-                },
                 "expired": {
                     "name": "Expired"
                 },
-                "unknown": {
-                    "tooltip": "Unable to retrieve the deal status."
-                },
                 "accepted": {
                     "tooltip": "The deal has been accepted by CIDgravity. Awaiting publication."
-                },
-                "reject": {
-                    "tooltip": "The deal has been rejected."
                 },
                 "on-chain": {
                     "name": "On chain"
@@ -57,32 +42,17 @@
             "tooltip": "Inspect deal proposal"
         },
         "externalDecision": {
-            "reject": {
-                "tooltip": "Rejected"
-            },
             "accept": {
                 "tooltip": "Accepted"
-            },
-            "busy": {
-                "tooltip": "Busy"
             },
             "serviceUnavailable": {
                 "tooltip": "Service unavailable"
             },
-            "clientNotAuthorized": {
-                "tooltip": "Not authorized"
-            },
             "clientNotEnoughtDatacap": {
                 "tooltip": "Not enough datacap"
             },
-            "dealTypeNotAccepted": {
-                "tooltip": "Deal type not accepted"
-            },
             "invalidClientAddress": {
                 "tooltip": "Invalid address"
-            },
-            "pieceCidDuplicated": {
-                "tooltip": "Piece CID duplicated"
             },
             "startEpochTooEarly": {
                 "name": "Start epoch too early"
