@@ -7,20 +7,11 @@
         "dealStatus": {
             "title": "Status",
             "status": {
-                "published": {
-                    "tooltip": "The deal has been published on-chain. Awaiting confirmation of sealing."
-                },
                 "active": {
                     "tooltip": "The deal is currently active on-chain."
                 },
-                "expired": {
-                    "name": "Expired"
-                },
                 "accepted": {
                     "tooltip": "The deal has been accepted by CIDgravity. Awaiting publication."
-                },
-                "on-chain": {
-                    "name": "On chain"
                 }
             }
         },
@@ -42,20 +33,11 @@
             "tooltip": "Inspect deal proposal"
         },
         "externalDecision": {
-            "accept": {
-                "tooltip": "Accepted"
-            },
             "serviceUnavailable": {
                 "tooltip": "Service unavailable"
             },
-            "clientNotEnoughtDatacap": {
-                "tooltip": "Not enough datacap"
-            },
             "invalidClientAddress": {
                 "tooltip": "Invalid address"
-            },
-            "startEpochTooEarly": {
-                "name": "Start epoch too early"
             }
         }
     },
