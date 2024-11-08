@@ -17,32 +17,17 @@
             "tooltip": "Simulate in playground"
         },
         "internalDecision": {
-            "accept": {
-                "name": "Accepted"
-            },
             "maintenance": {
                 "name": "Under Maintenance"
-            },
-            "blacklist": {
-                "name": "Blacklisted"
             },
             "reject": {
                 "name": "Rejected"
             },
-            "rateLimit": {
-                "name": "Rate limit - Number of proposals"
-            },
             "sizeRateLimit": {
                 "name": "Rate limit - Storage volume already sent"
             },
-            "invalidProposalOrError": {
-                "name": "Invalid proposal"
-            },
             "startEpochBelowSealingBuffer": {
                 "name": "Start epoch sealing buffer"
-            },
-            "storageAcceptanceLogic": {
-                "name": "Acceptance logic"
             },
             "clientBlocked": {
                 "tooltip": "Rejected because the client is blocked"
@@ -74,32 +59,17 @@
         "dealStatus": {
             "title": "Status",
             "status": {
-                "published": {
-                    "tooltip": "The deal has been published on-chain. Awaiting confirmation of sealing."
-                },
                 "never-published": {
                     "tooltip": "The deal has been accepted but never published on chain."
-                },
-                "published-expired": {
-                    "tooltip": "The deal publication has expired."
                 },
                 "active": {
                     "tooltip": "The deal is currently active on-chain."
                 },
-                "slashed": {
-                    "tooltip": "The deal has been slashed."
-                },
                 "expired": {
                     "tooltip": "The deal has expired."
                 },
-                "unknown": {
-                    "tooltip": "Unable to retrieve the deal status."
-                },
                 "accepted": {
                     "tooltip": "The deal has been accepted by CIDgravity. Awaiting publication."
-                },
-                "on-chain": {
-                    "tooltip": "On chain"
                 },
                 "reject": {
                     "tooltip": "The deal has been rejected."

@@ -17,14 +17,8 @@
             "tooltip": "在playground中模拟"
         },
         "internalDecision": {
-            "maintenance": {
-                "tooltip": "维护中"
-            },
             "reject": {
                 "tooltip": "已拒绝"
-            },
-            "sizeRateLimit": {
-                "tooltip": "由于交易大小限制而拒绝"
             },
             "startEpochBelowSealingBuffer": {
                 "tooltip": "由于开始日期过早（低于定义的开始时期密封缓冲区）而被拒绝"
