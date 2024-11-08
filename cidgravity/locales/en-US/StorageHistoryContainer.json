@@ -17,20 +17,11 @@
             "tooltip": "Simulate in playground"
         },
         "internalDecision": {
-            "maintenance": {
-                "name": "Under Maintenance"
-            },
             "reject": {
                 "name": "Rejected"
             },
-            "sizeRateLimit": {
-                "name": "Rate limit - Storage volume already sent"
-            },
             "startEpochBelowSealingBuffer": {
                 "name": "Start epoch sealing buffer"
-            },
-            "clientBlocked": {
-                "tooltip": "Rejected because the client is blocked"
             }
         },
         "internalMessage": {
@@ -59,20 +50,11 @@
         "dealStatus": {
             "title": "Status",
             "status": {
-                "never-published": {
-                    "tooltip": "The deal has been accepted but never published on chain."
-                },
                 "active": {
                     "tooltip": "The deal is currently active on-chain."
                 },
-                "expired": {
-                    "tooltip": "The deal has expired."
-                },
                 "accepted": {
                     "tooltip": "The deal has been accepted by CIDgravity. Awaiting publication."
-                },
-                "reject": {
-                    "tooltip": "The deal has been rejected."
                 }
             }
         }
