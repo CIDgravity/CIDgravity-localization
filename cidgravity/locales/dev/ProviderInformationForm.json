@@ -30,6 +30,10 @@
         "label": "Slack handle *",
         "placeholder": "JaneDoe"
     },
+    "providerBio": {
+        "title": "Brief Bio",
+        "subtitle": "This presentation will be shown to clients, including their Know Your Supplier (KYS) information and the specific pricing applied to them."
+    },
     "button": {
         "loading": "Loading ...",
         "update": "Update information"

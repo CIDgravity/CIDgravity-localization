@@ -208,6 +208,7 @@
         },
         "columns": {
             "provider": "Provider",
+            "providerName": "Provider name",
             "stagingSuccessRatio": "Staging",
             "provingSuccessRatio": "Proving",
             "sealingSuccessRatio": "Sealing",
