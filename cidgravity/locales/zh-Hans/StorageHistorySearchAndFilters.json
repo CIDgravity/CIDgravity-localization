@@ -6,8 +6,6 @@
         "placeholder": "从（{{dateFormat}}）至（{{dateFormat}}）"
     },
     "status": {
-        "accept": "已接受",
-        "all": "所有决策",
-        "rateLimit": "维护中"
+        "all": "所有决策"
     }
 }

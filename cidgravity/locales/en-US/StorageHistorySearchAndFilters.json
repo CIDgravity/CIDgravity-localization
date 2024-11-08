@@ -5,9 +5,6 @@
     "dateRangePicker": {
         "placeholder": "From (YYYY/MM/DD) - To (YYYY/MM/DD)"
     },
-    "decision": {
-        "storageAcceptanceLogic": "Acceptance logic not passed."
-    },
     "onChainStatus": {
         "published": "Published"
     },
