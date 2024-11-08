@@ -4,8 +4,5 @@
     },
     "dateRangePicker": {
         "placeholder": "从（{{dateFormat}}）至（{{dateFormat}}）"
-    },
-    "status": {
-        "all": "所有决策"
     }
 }
