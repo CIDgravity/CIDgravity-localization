@@ -28,6 +28,9 @@
             "notAvailable": "Status unavailable",
             "storage": {
                 "title": "Availability to store data (last 7 days)"
+            },
+            "retrieval": {
+                "title": "Availability to retrieve data (last 7 days)"
             }
         }
     }
