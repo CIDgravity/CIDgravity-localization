@@ -10,7 +10,7 @@
         },
         "isVerified": {
             "title": "Identity verified",
-            "tooltip": "KYC Completed by CIDgravity"
+            "tooltip": "KYS completed by CIDgravity"
         },
         "isNotVerified": {
             "title": "Identity not verified",
