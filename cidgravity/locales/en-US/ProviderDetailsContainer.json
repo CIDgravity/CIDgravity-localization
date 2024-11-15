@@ -68,5 +68,8 @@
             }
         },
         "noRulesApplied": "Pricing not defined"
+    },
+    "button": {
+        "viewOnFilscan": "View on Filscan.io"
     }
 }
