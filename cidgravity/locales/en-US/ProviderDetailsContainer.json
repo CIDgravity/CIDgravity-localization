@@ -9,7 +9,8 @@
             }
         },
         "isVerified": {
-            "title": "Identity verified"
+            "title": "Identity verified",
+            "tooltip": "KYC Completed by CIDgravity"
         }
     }
 }
