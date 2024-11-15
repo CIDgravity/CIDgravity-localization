@@ -35,6 +35,7 @@
         }
     },
     "pricing": {
-        "title": "Pricing"
+        "title": "Pricing",
+        "subtitle": "These are the storage prices for deals with this provider. This can be public or custom pricing if agreed with the provider.<br />Pricing rules are applied sequentially, with the first match taking priority."
     }
 }
