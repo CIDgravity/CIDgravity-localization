@@ -71,5 +71,8 @@
     },
     "button": {
         "viewOnFilscan": "View on Filscan.io"
+    },
+    "error": {
+        "notClaimed": "The provider details are not available"
     }
 }
