@@ -49,5 +49,8 @@
         "isContactEmailMandatory": "E-mail address is mandatory",
         "isContactSlackMandatory": "Slack username is mandatory",
         "isContactSlackValidString": "Slack username is invalid"
+    },
+    "providerBio": {
+        "title": "About the provider"
     }
 }
