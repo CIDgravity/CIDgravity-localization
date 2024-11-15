@@ -16,6 +16,6 @@
             "title": "Identity not verified",
             "tooltip": "The identity verification process has not been completed or failed."
         },
-        "notAvailable": "Verification Status Unavailable"
+        "notAvailable": "Verification status unavailable"
     }
 }
