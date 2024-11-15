@@ -17,5 +17,12 @@
             "tooltip": "The identity verification process has not been completed or failed."
         },
         "notAvailable": "Verification status unavailable"
+    },
+    "status": {
+        "isProviderReadyToAcceptedDeals": {
+            "yes": "Yes",
+            "no": "No",
+            "title": "Provider accepts your deals?"
+        }
     }
 }
