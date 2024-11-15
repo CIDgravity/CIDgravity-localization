@@ -43,7 +43,16 @@
                 "values": {
                     "graphsync": "Graphsync",
                     "any": "HTTP, Manual, Graphsync, Libp2p-HTTP",
-                    "libp2p": "Libp2p-HTTP"
+                    "libp2p": "Libp2p-HTTP",
+                    "manual": "Manual",
+                    "http": "HTTP"
+                }
+            },
+            "verified": {
+                "title": "Verified",
+                "values": {
+                    "true": "Yes",
+                    "false": "No"
                 }
             }
         },
