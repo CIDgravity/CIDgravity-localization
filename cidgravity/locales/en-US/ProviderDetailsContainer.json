@@ -11,6 +11,9 @@
         "isVerified": {
             "title": "Identity verified",
             "tooltip": "KYC Completed by CIDgravity"
+        },
+        "isNotVerified": {
+            "title": "Identity not verified"
         }
     }
 }
