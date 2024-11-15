@@ -3,7 +3,9 @@
     "information": {
         "entityType": {
             "values": {
-                "organization": "organization"
+                "organization": "organization",
+                "company": "company",
+                "individual": "individual"
             }
         }
     }
