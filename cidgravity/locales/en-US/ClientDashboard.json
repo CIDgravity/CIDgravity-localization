@@ -133,7 +133,8 @@
             "stagingSuccessRatio": "Staging",
             "retrievalBotHttp": "HTTP retrieve",
             "retrievalBotBitswap": "Bitswap retrieve",
-            "retrievalBotGraphsync": "Graphsync retrieve"
+            "retrievalBotGraphsync": "Graphsync retrieve",
+            "providerName": "Provider name"
         },
         "timeRange": {
             "24hours": "last 24 hours",
