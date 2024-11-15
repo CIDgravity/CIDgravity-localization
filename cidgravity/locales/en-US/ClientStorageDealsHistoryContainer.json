@@ -7,9 +7,6 @@
         "dealStatus": {
             "title": "Status",
             "status": {
-                "active": {
-                    "tooltip": "The deal is currently active on-chain."
-                },
                 "accepted": {
                     "tooltip": "The deal has been accepted by CIDgravity. Awaiting publication."
                 }
@@ -33,12 +30,12 @@
             "tooltip": "Inspect deal proposal"
         },
         "externalDecision": {
-            "serviceUnavailable": {
-                "tooltip": "Service unavailable"
-            },
             "invalidClientAddress": {
                 "tooltip": "Invalid address"
             }
+        },
+        "providerName": {
+            "title": "Storage provider name"
         }
     },
     "error": {
