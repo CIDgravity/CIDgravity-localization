@@ -1,3 +1,10 @@
 {
-    "title": "{{ providerAddress }} details"
+    "title": "{{ providerAddress }} details",
+    "information": {
+        "entityType": {
+            "values": {
+                "organization": "organization"
+            }
+        }
+    }
 }
