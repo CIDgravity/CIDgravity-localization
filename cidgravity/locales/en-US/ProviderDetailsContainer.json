@@ -57,6 +57,14 @@
             },
             "dealSize": {
                 "title": "Deal size"
+            },
+            "dealPrice": {
+                "title": "Price",
+                "unit": "FIL / GiB / epoch",
+                "equivalenceUnit": "FIL / TiB / month"
+            },
+            "dealDuration": {
+                "title": "Deal duration"
             }
         },
         "noRulesApplied": "Pricing not defined"
