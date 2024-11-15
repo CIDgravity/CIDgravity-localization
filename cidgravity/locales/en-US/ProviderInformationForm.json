@@ -51,6 +51,7 @@
         "isContactSlackValidString": "Slack username is invalid"
     },
     "providerBio": {
-        "title": "About the provider"
+        "title": "About the provider",
+        "subtitle": "This presentation will be visible to clients and will include the details page, as well as the specific pricing applied to the services."
     }
 }
