@@ -13,7 +13,8 @@
             "tooltip": "KYC Completed by CIDgravity"
         },
         "isNotVerified": {
-            "title": "Identity not verified"
+            "title": "Identity not verified",
+            "tooltip": "The identity verification process has not been completed or failed."
         }
     }
 }
