@@ -25,7 +25,10 @@
             "title": "Provider accepts your deals?"
         },
         "availability": {
-            "notAvailable": "Status unavailable"
+            "notAvailable": "Status unavailable",
+            "storage": {
+                "title": "Availability to store data (last 7 days)"
+            }
         }
     }
 }
