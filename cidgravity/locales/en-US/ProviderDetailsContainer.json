@@ -42,7 +42,8 @@
                 "title": "Transfer type",
                 "values": {
                     "graphsync": "Graphsync",
-                    "any": "HTTP, Manual, Graphsync, LibP2P-HTTP"
+                    "any": "HTTP, Manual, Graphsync, Libp2p-HTTP",
+                    "libp2p": "Libp2p-HTTP"
                 }
             }
         },
