@@ -39,7 +39,11 @@
         "subtitle": "These are the storage prices for deals with this provider. This can be public or custom pricing if agreed with the provider.<br />Pricing rules are applied sequentially, with the first match taking priority.",
         "columns": {
             "transferType": {
-                "title": "Transfer type"
+                "title": "Transfer type",
+                "values": {
+                    "graphsync": "Graphsync",
+                    "any": "HTTP, Manual, Graphsync, LibP2P-HTTP"
+                }
             }
         },
         "noRulesApplied": "Pricing not defined"
