@@ -5,12 +5,7 @@
         "empty": "No records",
         "noMatch": "Your search did not match any storage proposals.",
         "dealStatus": {
-            "title": "Status",
-            "status": {
-                "accepted": {
-                    "tooltip": "The deal has been accepted by CIDgravity. Awaiting publication."
-                }
-            }
+            "title": "Status"
         },
         "provider": {
             "title": "Provider"
@@ -29,13 +24,9 @@
         "inspect": {
             "tooltip": "Inspect deal proposal"
         },
-        "externalDecision": {
-            "invalidClientAddress": {
-                "tooltip": "Invalid address"
-            }
-        },
         "providerName": {
-            "title": "Storage provider name"
+            "title": "Storage provider name",
+            "unknown": "N/A"
         }
     },
     "error": {
