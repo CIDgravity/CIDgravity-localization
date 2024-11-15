@@ -54,6 +54,9 @@
                     "true": "Yes",
                     "false": "No"
                 }
+            },
+            "dealSize": {
+                "title": "Deal size"
             }
         },
         "noRulesApplied": "Pricing not defined"
