@@ -73,6 +73,7 @@
         "viewOnFilscan": "View on Filscan.io"
     },
     "error": {
-        "notClaimed": "The provider details are not available"
+        "notClaimed": "The provider details are not available",
+        "generic": "Unable to load provider details. Please try again later or contact the CIDgravity team."
     }
 }
