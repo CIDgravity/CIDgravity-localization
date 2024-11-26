@@ -2,7 +2,7 @@
     "body": {
         "warningDataWillBeLost": "All unsaved information will be lost. Do you really want to continue?"
     },
-    "header": "You are about to leave this page",
+    "header": "You are about to leave this page.",
     "button": {
         "continue": "Continue",
         "cancel": "Cancel"
