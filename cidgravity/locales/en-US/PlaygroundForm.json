@@ -113,7 +113,9 @@
                 "SDR": "SDR failed",
                 "Trees": "Trees failed",
                 "PrecommitMsg": "PrecommitMsg failed",
-                "WaitSeed": "WaitSeed failed"
+                "WaitSeed": "WaitSeed failed",
+                "PoRep": "PoRep failed",
+                "CommitMsg": "CommitMsg failed"
             }
         }
     }
