@@ -104,7 +104,10 @@
                 "WaitSeed": "WaitSeed pending",
                 "PoRepP": "PoRep pending",
                 "CommitMsg": "CommitMsg pending",
-                "Encode": "Encode pending"
+                "Encode": "Encode pending",
+                "Prove": "Prove pending",
+                "Submit": "Submit pending",
+                "MoveStorage": "MoveStorage pending"
             }
         }
     }
