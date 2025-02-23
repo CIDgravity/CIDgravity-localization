@@ -185,7 +185,10 @@
             },
             "curioPipelineStatesFailed": {
                 "title": "CURIO sealing pipeline - Sector FAILED states",
-                "tooltip": "CURIO sealing pipeline - Sector FAILED states"
+                "tooltip": "CURIO sealing pipeline - Sector FAILED states",
+                "values": {
+                    "Any": "Any failed"
+                }
             }
         }
     },
