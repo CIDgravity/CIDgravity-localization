@@ -189,7 +189,10 @@
                 "values": {
                     "Any": "Any failed sectors",
                     "SDR": "SDR failed",
-                    "Trees": "Trees failed"
+                    "Trees": "Trees failed",
+                    "PrecommitMsg": "PrecommitMsg failed",
+                    "WaitSeed": "WaitSeed failed",
+                    "PoRep": "PoRep failed"
                 }
             }
         }
