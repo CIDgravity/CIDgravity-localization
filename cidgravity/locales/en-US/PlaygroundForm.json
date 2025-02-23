@@ -74,7 +74,7 @@
             "curioDealStatingStatesTitle": "CURIO sealing pipeline - Deal states",
             "curioDealStatingStatesTooltip": "CURIO sealing pipeline - Deal states",
             "curioPipelineStatesRunningTitle": "CURIO sealing pipeline - Sector RUNNING states",
-            "curioPipelineStatesRunningTooltip": "Curio sealing pipeline - Running states CACA",
+            "curioPipelineStatesRunningTooltip": "CURIO sealing pipeline - Sector RUNNING states",
             "curioPipelineStatesPendingTitle": "Curio sealing pipeline - Sector PENDING states",
             "curioPipelineStatesPendingTooltip": "Curio sealing pipeline - PENDING states",
             "curioPipelineStatesFailedTitle": "Curio sealing pipeline - Sector FAILED states",
