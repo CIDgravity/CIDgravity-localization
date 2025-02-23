@@ -108,6 +108,9 @@
                 "Prove": "Prove pending",
                 "Submit": "Submit pending",
                 "MoveStorage": "MoveStorage pending"
+            },
+            "curioFailed": {
+                "SDR": "SDR failed"
             }
         }
     }
