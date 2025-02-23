@@ -187,7 +187,9 @@
                 "title": "CURIO sealing pipeline - Sector FAILED states",
                 "tooltip": "CURIO sealing pipeline - Sector FAILED states",
                 "values": {
-                    "Any": "Any failed sectors"
+                    "Any": "Any failed sectors",
+                    "SDR": "SDR failed",
+                    "Trees": "Trees failed"
                 }
             }
         }
