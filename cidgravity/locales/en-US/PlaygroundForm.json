@@ -94,7 +94,8 @@
                 "CommitMsg": "CommitMsg running",
                 "Encode": "Encode running",
                 "Prove": "Prove running",
-                "Submit": "Submit running"
+                "Submit": "Submit running",
+                "MoveStorage": "MoveStorage running"
             }
         }
     }
