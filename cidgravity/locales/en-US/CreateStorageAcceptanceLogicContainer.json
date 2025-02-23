@@ -141,7 +141,11 @@
             },
             "curioDealStatingStates": {
                 "title": "CURIO sealing pipeline - Deal states",
-                "tooltip": "CURIO sealing pipeline - Deal states"
+                "tooltip": "CURIO sealing pipeline - Deal states",
+                "values": {
+                    "AcceptedWaitingDownload": "AcceptedWaitingDownload",
+                    "Downloading": "Downloading"
+                }
             }
         }
     },
