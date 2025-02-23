@@ -138,6 +138,9 @@
                     "ReleaseSectorKeyFailed": "ReleaseSectorKeyFailed",
                     "FinalizeReplicaUpdateFailed": "FinalizeReplicaUpdateFailed"
                 }
+            },
+            "curioDealStatingStates": {
+                "title": "CURIO sealing pipeline - Deal states"
             }
         }
     },
