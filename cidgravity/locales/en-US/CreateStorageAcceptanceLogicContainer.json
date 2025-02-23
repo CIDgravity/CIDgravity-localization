@@ -182,6 +182,9 @@
                     "Submit": "Submit pending",
                     "MoveStorage": "MoveStorage pending"
                 }
+            },
+            "curioPipelineStatesFailed": {
+                "title": "CURIO sealing pipeline - Sector FAILED states"
             }
         }
     },
