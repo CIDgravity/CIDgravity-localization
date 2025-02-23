@@ -1,7 +1,7 @@
 {
     "title": "Acceptance logic management",
     "subtitle": "Create rules of storage deal acceptance based on the current state of the sealing pipeline, basefee, Fil price and more…",
-    "requirements": "Only apply to online deals with proposal format > 2.1.0 (Boost 1.6.3+)",
+    "requirements": "The acceptance logic module applies only to online deals and requires consideration of the mining software in use, as the elements differ between Curio and Boost. When migrating from Boost to Curio, you must adapt your acceptance logic, especially if you are using \"Sector States\" specific to Boost.",
     "table": {
         "name": {
             "title": "Acceptance Logic Name"
