@@ -155,7 +155,8 @@
                 "values": {
                     "Any": "Any running sectors",
                     "SDR": "SDR running",
-                    "Trees": "Trees running"
+                    "Trees": "Trees running",
+                    "PrecommitMsg": "PrecommitMsg running"
                 }
             }
         }
