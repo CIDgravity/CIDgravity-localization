@@ -73,7 +73,7 @@
             "ReceivedOnDatetime": "Received on",
             "curioDealStatingStatesTitle": "CURIO sealing pipeline - Deal states",
             "curioDealStatingStatesTooltip": "CURIO sealing pipeline - Deal states",
-            "curioPipelineStatesRunningTitle": "Curio sealing pipeline - Running states CACA",
+            "curioPipelineStatesRunningTitle": "CURIO sealing pipeline - Sector RUNNING states",
             "curioPipelineStatesRunningTooltip": "Curio sealing pipeline - Running states CACA",
             "curioPipelineStatesPendingTitle": "Curio sealing pipeline - Sector PENDING states",
             "curioPipelineStatesPendingTooltip": "Curio sealing pipeline - PENDING states",
