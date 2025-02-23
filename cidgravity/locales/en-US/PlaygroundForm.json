@@ -92,7 +92,8 @@
                 "WaitSeed": "WaitSeed running",
                 "PoRep": "PoRep running",
                 "CommitMsg": "CommitMsg running",
-                "Encode": "Encode running"
+                "Encode": "Encode running",
+                "Prove": "Prove running"
             }
         }
     }
