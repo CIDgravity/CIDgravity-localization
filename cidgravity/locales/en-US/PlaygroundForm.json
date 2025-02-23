@@ -110,7 +110,8 @@
                 "MoveStorage": "MoveStorage pending"
             },
             "curioFailed": {
-                "SDR": "SDR failed"
+                "SDR": "SDR failed",
+                "Trees": "Trees failed"
             }
         }
     }
