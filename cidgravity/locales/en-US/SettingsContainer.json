@@ -17,7 +17,7 @@
             "title": "CIDgravity connector",
             "downloadLink": "Download the connector",
             "info": "The \"CIDgravity connector\" connects a miner to the CIDgravity <br/> platform. This lightweight connector is executed locally by the lotus/boost <br/>each time a proposal is received.",
-            "mostRecentActivity": "CIDgravity·connector version: {{version}} (last seen - {{datetime}})",
+            "mostRecentActivity": "Miner agent ({{agent}}) version: {{version}} (last seen {{datetime}})",
             "noMostRecentActivity": "No recent activity",
             "token": {
                 "title": "CIDgravity connector key",
