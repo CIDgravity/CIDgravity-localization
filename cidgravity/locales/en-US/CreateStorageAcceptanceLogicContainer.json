@@ -143,7 +143,7 @@
                 "title": "CURIO sealing pipeline - Deal states",
                 "tooltip": "CURIO sealing pipeline - Deal states",
                 "values": {
-                    "AcceptedWaitingDownload": "Accepted (waiting download)",
+                    "AcceptedWaitingDownload": "Waiting download (accepted)",
                     "Downloading": "Downloading",
                     "Publishing": "Publishing",
                     "Sealing": "Sealing"
