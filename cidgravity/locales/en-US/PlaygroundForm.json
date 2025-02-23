@@ -115,7 +115,11 @@
                 "PrecommitMsg": "PrecommitMsg failed",
                 "WaitSeed": "WaitSeed failed",
                 "PoRep": "PoRep failed",
-                "CommitMsg": "CommitMsg failed"
+                "CommitMsg": "CommitMsg failed",
+                "Encode": "Encode failed",
+                "Prove": "Prove failed",
+                "Submit": "Submit failed",
+                "MoveStorage": "MoveStorage failed"
             }
         }
     }
