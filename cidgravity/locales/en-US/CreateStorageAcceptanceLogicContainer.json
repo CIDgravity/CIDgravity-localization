@@ -170,7 +170,7 @@
                 "title": "CURIO sealing pipeline - Sector PENDING states",
                 "tooltip": "CURIO sealing pipeline - Sector PENDING states",
                 "values": {
-                    "Any": "Any pending sectors",
+                    "Any": "ANY pending sectors",
                     "SDR": "SDR pending",
                     "Trees": "Trees pending",
                     "PrecommitMsg": "PrecommitMsg pending",
@@ -187,7 +187,7 @@
                 "title": "CURIO sealing pipeline - Sector FAILED states",
                 "tooltip": "CURIO sealing pipeline - Sector FAILED states",
                 "values": {
-                    "Any": "Any failed sectors",
+                    "Any": "ANY failed sectors",
                     "SDR": "SDR failed",
                     "Trees": "Trees failed",
                     "PrecommitMsg": "PrecommitMsg failed",
