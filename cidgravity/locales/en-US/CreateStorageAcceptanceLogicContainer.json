@@ -158,7 +158,8 @@
                     "Trees": "Trees running",
                     "PrecommitMsg": "PrecommitMsg running",
                     "WaitSeed": "WaitSeed running",
-                    "PoRep": "PoRep running"
+                    "PoRep": "PoRep running",
+                    "CommitMsg": "CommitMsg running"
                 }
             }
         }
