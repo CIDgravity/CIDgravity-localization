@@ -148,6 +148,10 @@
                     "Publishing": "Publishing",
                     "Sealing": "Sealing"
                 }
+            },
+            "curioPipelineStatesRunning": {
+                "title": "CURIO sealing pipeline - Sector Running states",
+                "tooltip": "CURIO sealing pipeline - Sector Running states"
             }
         }
     },
