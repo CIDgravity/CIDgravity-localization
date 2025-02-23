@@ -84,6 +84,11 @@
                 "Downloading": "Downloading",
                 "Publishing": "Publishing",
                 "Sealing": "Sealing"
+            },
+            "curioRunning": {
+                "SDR": "SDR running",
+                "Trees": "Trees running",
+                "PrecommitMsg": "PrecommitMsg running"
             }
         }
     }
