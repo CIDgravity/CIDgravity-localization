@@ -167,7 +167,8 @@
                 }
             },
             "curioPipelineStatesPending": {
-                "title": "CURIO sealing pipeline - Sector PENDING states"
+                "title": "CURIO sealing pipeline - Sector PENDING states",
+                "tooltip": "CURIO sealing pipeline - Sector PENDING states"
             }
         }
     },
