@@ -80,7 +80,7 @@
             "curioPipelineStatesFailedTitle": "Curio sealing pipeline - Sector FAILED states",
             "curioPipelineStatesFailedTooltip": "CURIO sealing pipeline - Sector FAILED states",
             "curioStagingStates": {
-                "AcceptedWaitingDownload": "AcceptedWaitingDownload CACA"
+                "AcceptedWaitingDownload": "Waiting Download (accepted)"
             }
         }
     }
