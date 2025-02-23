@@ -159,7 +159,8 @@
                     "PrecommitMsg": "PrecommitMsg running",
                     "WaitSeed": "WaitSeed running",
                     "PoRep": "PoRep running",
-                    "CommitMsg": "CommitMsg running"
+                    "CommitMsg": "CommitMsg running",
+                    "Encode": "Encode running"
                 }
             }
         }
