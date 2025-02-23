@@ -74,7 +74,8 @@
             "curioDealStatingStatesTitle": "Curio sealing pipeline - Staging states CACA",
             "curioDealStatingStatesTooltip": "Curio sealing pipeline - Staging states CACA",
             "curioPipelineStatesRunningTitle": "Curio sealing pipeline - Running states CACA",
-            "curioPipelineStatesRunningTooltip": "Curio sealing pipeline - Running states CACA"
+            "curioPipelineStatesRunningTooltip": "Curio sealing pipeline - Running states CACA",
+            "curioPipelineStatesPendingTitle": "Curio sealing pipeline - Sector PENDING states"
         }
     }
 }
