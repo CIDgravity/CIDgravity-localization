@@ -16,14 +16,6 @@
         "simulate": {
             "tooltip": "Simulate in playground"
         },
-        "internalDecision": {
-            "reject": {
-                "name": "Rejected"
-            },
-            "startEpochBelowSealingBuffer": {
-                "name": "Start epoch sealing buffer"
-            }
-        },
         "internalMessage": {
             "empty": "None"
         },
@@ -48,15 +40,7 @@
             }
         },
         "dealStatus": {
-            "title": "Status",
-            "status": {
-                "active": {
-                    "tooltip": "The deal is currently active on-chain."
-                },
-                "accepted": {
-                    "tooltip": "The deal has been accepted by CIDgravity. Awaiting publication."
-                }
-            }
+            "title": "Status"
         }
     },
     "error": {
