@@ -47,6 +47,68 @@
             }
         },
         "fields": {
+            "curioDealStatingStates": {
+                "title": "Curio sealing pipeline - Staging states",
+                "tooltip": "Curio sealing pipeline - Staging states",
+                "values": {
+                    "AcceptedWaitingDownload": "AcceptedWaitingDownload",
+                    "Downloading": "Downloading",
+                    "Publishing": "Publishing",
+                    "Sealing": "Sealing"
+                }
+            },
+            "curioPipelineStatesRunning": {
+                "title": "Curio sealing pipeline - running sector states",
+                "tooltip": "Curio sealing pipeline - running sector states",
+                "values": {
+                    "Any": "Any running",
+                    "SDR": "SDR running",
+                    "Trees": "Trees running",
+                    "PrecommitMsg": "PrecommitMsg running",
+                    "WaitSeed": "WaitSeed running",
+                    "PoRep": "PoRep running",
+                    "CommitMsg": "CommitMsg running",
+                    "Encode": "Encode running",
+                    "Prove": "Prove running",
+                    "Submit": "Submit running",
+                    "MoveStorage": "MoveStorage running"
+                }
+            },
+            "curioPipelineStatesPending": {
+                "title": "Curio sealing pipeline - pending sector states",
+                "tooltip": "Curio sealing pipeline - pending sector states",
+                "values": {
+                    "Any": "Any pending",
+                    "SDR": "SDR pending",
+                    "Trees": "Trees pending",
+                    "PrecommitMsg": "PrecommitMsg pending",
+                    "WaitSeed": "WaitSeed pending",
+                    "PoRep": "PoRep pending",
+                    "CommitMsg": "CommitMsg pending",
+                    "Encode": "Encode pending",
+                    "Prove": "Prove pending",
+                    "Submit": "Submit pending",
+                    "MoveStorage": "MoveStorage pending"
+                }
+            },
+            "curioPipelineStatesFailed": {
+                "title": "Curio sealing pipeline - failed sector states",
+                "tooltip": "Curio sealing pipeline - failed sector states",
+                "values": {
+                    "Any": "Any failed",
+                    "SDR": "SDR failed",
+                    "Trees": "Trees failed",
+                    "PrecommitMsg": "PrecommitMsg failed",
+                    "WaitSeed": "WaitSeed failed",
+                    "PoRep": "PoRep failed",
+                    "CommitMsg": "CommitMsg failed",
+                    "Encode": "Encode failed",
+                    "Prove": "Prove failed",
+                    "Submit": "Submit failed",
+                    "MoveStorage": "MoveStorage failed"
+                }
+                
+            },
             "sectorStates": {
                 "title": "Sealing pipeline - sector states",
                 "tooltip": "Sealing pipeline - sector states",
