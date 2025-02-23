@@ -184,7 +184,8 @@
                 }
             },
             "curioPipelineStatesFailed": {
-                "title": "CURIO sealing pipeline - Sector FAILED states"
+                "title": "CURIO sealing pipeline - Sector FAILED states",
+                "tooltip": "CURIO sealing pipeline - Sector FAILED states"
             }
         }
     },
