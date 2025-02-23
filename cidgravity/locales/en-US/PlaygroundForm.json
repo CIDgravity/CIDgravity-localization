@@ -72,7 +72,9 @@
             "additionalFieldsTooltip": "Other fields",
             "ReceivedOnDatetime": "Received on",
             "curioDealStatingStatesTitle": "Curio sealing pipeline - Staging states CACA",
-            "curioDealStatingStatesTooltip": "Curio sealing pipeline - Staging states CACA"
+            "curioDealStatingStatesTooltip": "Curio sealing pipeline - Staging states CACA",
+            "curioPipelineStatesRunningTitle": "Curio sealing pipeline - Running states CACA",
+            "curioPipelineStatesRunningTooltip": "Curio sealing pipeline - Running states CACA"
         }
     }
 }
