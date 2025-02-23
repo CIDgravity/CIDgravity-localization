@@ -48,7 +48,7 @@
         },
         "fields": {
             "sectorStates": {
-                "title": "BOOST - Sealing pipeline - Sector RUNNING+PENDING states",
+                "title": "BOOST - sealing pipeline - Sector RUNNING+PENDING states",
                 "tooltip": "BOOST - Sealing pipeline - Sector RUNNING+PENDING states",
                 "values": {
                     "Packing": "Packing",
