@@ -93,7 +93,8 @@
                 "PoRep": "PoRep running",
                 "CommitMsg": "CommitMsg running",
                 "Encode": "Encode running",
-                "Prove": "Prove running"
+                "Prove": "Prove running",
+                "Submit": "Submit running"
             }
         }
     }
