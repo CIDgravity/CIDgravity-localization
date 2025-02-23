@@ -153,7 +153,8 @@
                 "title": "CURIO sealing pipeline - Sector Running states",
                 "tooltip": "CURIO sealing pipeline - Sector Running states",
                 "values": {
-                    "Any": "Any running sectors"
+                    "Any": "Any running sectors",
+                    "SDR": "SDR running"
                 }
             }
         }
