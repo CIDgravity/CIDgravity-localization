@@ -49,7 +49,7 @@
         "fields": {
             "sectorStates": {
                 "title": "BOOST - sealing pipeline - Sector RUNNING+PENDING states",
-                "tooltip": "BOOST - Sealing pipeline - Sector RUNNING+PENDING states",
+                "tooltip": "BOOST - sealing pipeline - Sector RUNNING+PENDING states",
                 "values": {
                     "Packing": "Packing",
                     "WaitDeals": "WaitDeals",
@@ -117,7 +117,7 @@
                 }
             },
             "sectorStatesErrors": {
-                "title": "BOOST - Sealing pipeline - Sector FAILED states",
+                "title": "BOOST - sealing pipeline - Sector FAILED states",
                 "tooltip": "BOOST - Sealing pipeline - Sector FAILED states",
                 "values": {
                     "AddPieceFailed": "AddPieceFailed",
