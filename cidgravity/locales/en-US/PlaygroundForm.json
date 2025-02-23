@@ -96,6 +96,9 @@
                 "Prove": "Prove running",
                 "Submit": "Submit running",
                 "MoveStorage": "MoveStorage running"
+            },
+            "curioPending": {
+                "SDR": "SDR pending"
             }
         }
     }
