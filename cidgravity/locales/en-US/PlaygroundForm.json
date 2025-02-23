@@ -81,7 +81,8 @@
             "curioPipelineStatesFailedTooltip": "CURIO sealing pipeline - Sector FAILED states",
             "curioStagingStates": {
                 "AcceptedWaitingDownload": "Waiting Download (accepted)",
-                "Downloading": "Downloading"
+                "Downloading": "Downloading",
+                "Publishing": "Publishing"
             }
         }
     }
