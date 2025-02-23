@@ -174,7 +174,11 @@
                     "SDR": "SDR pending",
                     "Trees": "Trees pending",
                     "PrecommitMsg": "PrecommitMsg pending",
-                    "WaitSeed": "WaitSeed pending"
+                    "WaitSeed": "WaitSeed pending",
+                    "PoRep": "PoRep pending",
+                    "CommitMsg": "CommitMsg pending",
+                    "Encode": "Encode pending",
+                    "Prove": "Prove pending"
                 }
             }
         }
