@@ -98,7 +98,8 @@
                 "MoveStorage": "MoveStorage running"
             },
             "curioPending": {
-                "SDR": "SDR pending"
+                "SDR": "SDR pending",
+                "Trees": "Trees pending"
             }
         }
     }
