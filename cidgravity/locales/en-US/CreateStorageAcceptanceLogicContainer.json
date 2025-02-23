@@ -117,7 +117,7 @@
                 }
             },
             "sectorStatesErrors": {
-                "title": "Sealing pipeline - errors",
+                "title": "BOOST - Sealing pipeline - Sector FAILED states",
                 "tooltip": "Sealing pipeline - errors",
                 "values": {
                     "AddPieceFailed": "AddPieceFailed",
