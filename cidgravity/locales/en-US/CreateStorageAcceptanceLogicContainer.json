@@ -156,7 +156,8 @@
                     "Any": "Any running sectors",
                     "SDR": "SDR running",
                     "Trees": "Trees running",
-                    "PrecommitMsg": "PrecommitMsg running"
+                    "PrecommitMsg": "PrecommitMsg running",
+                    "WaitSeed": "WaitSeed running"
                 }
             }
         }
