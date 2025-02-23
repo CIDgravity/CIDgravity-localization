@@ -118,7 +118,7 @@
             },
             "sectorStatesErrors": {
                 "title": "BOOST - Sealing pipeline - Sector FAILED states",
-                "tooltip": "Sealing pipeline - errors",
+                "tooltip": "BOOST - Sealing pipeline - Sector FAILED states",
                 "values": {
                     "AddPieceFailed": "AddPieceFailed",
                     "CommitFinalizeFailed": "CommitFinalizeFailed",
