@@ -157,7 +157,8 @@
                     "SDR": "SDR running",
                     "Trees": "Trees running",
                     "PrecommitMsg": "PrecommitMsg running",
-                    "WaitSeed": "WaitSeed running"
+                    "WaitSeed": "WaitSeed running",
+                    "PoRep": "PoRep running"
                 }
             }
         }
