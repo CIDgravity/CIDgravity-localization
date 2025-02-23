@@ -178,7 +178,8 @@
                     "PoRep": "PoRep pending",
                     "CommitMsg": "CommitMsg pending",
                     "Encode": "Encode pending",
-                    "Prove": "Prove pending"
+                    "Prove": "Prove pending",
+                    "Submit": "Submit pending"
                 }
             }
         }
