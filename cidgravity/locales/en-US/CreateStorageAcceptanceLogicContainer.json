@@ -165,6 +165,9 @@
                     "Submit": "Submit running",
                     "MoveStorage": "MoveStorage running"
                 }
+            },
+            "curioPipelineStatesPending": {
+                "title": "CURIO sealing pipeline - Sector PENDING states"
             }
         }
     },
