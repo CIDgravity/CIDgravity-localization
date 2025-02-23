@@ -170,7 +170,11 @@
                 "title": "CURIO sealing pipeline - Sector PENDING states",
                 "tooltip": "CURIO sealing pipeline - Sector PENDING states",
                 "values": {
-                    "Any": "Any pending sectors"
+                    "Any": "Any pending sectors",
+                    "SDR": "SDR pending",
+                    "Trees": "Trees pending",
+                    "PrecommitMsg": "PrecommitMsg pending",
+                    "WaitSeed": "WaitSeed pending"
                 }
             }
         }
