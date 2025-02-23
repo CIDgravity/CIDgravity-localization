@@ -70,7 +70,8 @@
         "fields": {
             "additionalFieldsTitle": "Other fields",
             "additionalFieldsTooltip": "Other fields",
-            "ReceivedOnDatetime": "Received on"
+            "ReceivedOnDatetime": "Received on",
+            "curioDealStatingStatesTitle": "Curio sealing pipeline - Staging states CACA"
         }
     }
 }
