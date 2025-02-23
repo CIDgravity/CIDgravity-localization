@@ -111,7 +111,9 @@
             },
             "curioFailed": {
                 "SDR": "SDR failed",
-                "Trees": "Trees failed"
+                "Trees": "Trees failed",
+                "PrecommitMsg": "PrecommitMsg failed",
+                "WaitSeed": "WaitSeed failed"
             }
         }
     }
