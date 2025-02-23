@@ -82,7 +82,8 @@
             "curioStagingStates": {
                 "AcceptedWaitingDownload": "Waiting Download (accepted)",
                 "Downloading": "Downloading",
-                "Publishing": "Publishing"
+                "Publishing": "Publishing",
+                "Sealing": "Sealing"
             }
         }
     }
