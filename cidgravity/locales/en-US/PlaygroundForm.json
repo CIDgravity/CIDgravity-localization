@@ -100,7 +100,8 @@
             "curioPending": {
                 "SDR": "SDR pending",
                 "Trees": "Trees pending",
-                "PrecommitMsg": "PrecommitMsg pending"
+                "PrecommitMsg": "PrecommitMsg pending",
+                "WaitSeed": "WaitSeed pending"
             }
         }
     }
