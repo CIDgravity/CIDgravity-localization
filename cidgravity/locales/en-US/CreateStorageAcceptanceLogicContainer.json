@@ -179,7 +179,8 @@
                     "CommitMsg": "CommitMsg pending",
                     "Encode": "Encode pending",
                     "Prove": "Prove pending",
-                    "Submit": "Submit pending"
+                    "Submit": "Submit pending",
+                    "MoveStorage": "MoveStorage pending"
                 }
             }
         }
