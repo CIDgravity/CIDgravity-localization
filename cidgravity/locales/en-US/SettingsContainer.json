@@ -16,7 +16,7 @@
         "connector": {
             "title": "Miner connectivity",
             "downloadLink": "Download the connector",
-            "info": "The \"CIDgravity connector\" connects a miner to the CIDgravity <br/> platform. This lightweight connector is executed locally by the lotus/boost <br/>each time a proposal is received.",
+            "info": "The miner is connected to CIDgravity natively on curio and with a lightweight connector executed locally by the lotus/boost <br/>each time a proposal is received.",
             "mostRecentActivity": "Miner agent ({{agent}}) version: {{version}} (last seen {{datetime}})",
             "noMostRecentActivity": "No recent activity",
             "token": {
