@@ -53,7 +53,8 @@
                 "title": "Verified",
                 "values": {
                     "true": "Yes",
-                    "false": "No"
+                    "false": "No",
+                    "any": "Any"
                 }
             },
             "dealSize": {
