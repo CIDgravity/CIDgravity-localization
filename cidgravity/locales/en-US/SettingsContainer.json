@@ -17,7 +17,7 @@
             "title": "Miner connectivity",
             "downloadLink": "Connect the miner",
             "info": "The miner is connected to CIDgravity natively on Curio and with a lightweight connector executed locally by Lotus/Boost <br/> each time a proposal is received.",
-            "mostRecentActivity": "Miner agent: {{agent}} version: {{version}} (last seen {{datetime}})",
+            "mostRecentActivity": "Miner agent: {{agent}} / proposal version: {{version}} (last seen {{datetime}})",
             "noMostRecentActivity": "No recent activity",
             "token": {
                 "title": "CIDgravity connector key",
