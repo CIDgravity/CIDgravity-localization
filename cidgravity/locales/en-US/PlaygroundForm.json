@@ -65,7 +65,7 @@
         },
         "select": {
             "otherTitle": "Others",
-            "sectorStatesTitle": "BOOST - Sealing pipeline - Sector RUNNING+PENDING states"
+            "sectorStatesTitle": "BOOST - Sealing pipeline - Sector RUNNING+PENDING tasks"
         },
         "fields": {
             "additionalFieldsTitle": "Other fields",
