@@ -150,7 +150,7 @@
                 }
             },
             "curioPipelineStatesRunning": {
-                "title": "CURIO sealing pipeline - Sector RUNNING states",
+                "title": "CURIO sealing pipeline - Sector RUNNING tasks",
                 "tooltip": "CURIO sealing pipeline - Sector RUNNING states",
                 "values": {
                     "Any": "ANY running tasks",
