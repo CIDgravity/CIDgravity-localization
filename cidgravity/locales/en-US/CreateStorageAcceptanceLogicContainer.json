@@ -153,7 +153,7 @@
                 "title": "CURIO sealing pipeline - Sector RUNNING states",
                 "tooltip": "CURIO sealing pipeline - Sector RUNNING states",
                 "values": {
-                    "Any": "ANY running sectors",
+                    "Any": "ANY running tasks",
                     "SDR": "SDR running",
                     "Trees": "Trees running",
                     "PrecommitMsg": "PrecommitMsg running",
@@ -170,7 +170,7 @@
                 "title": "CURIO sealing pipeline - Sector PENDING states",
                 "tooltip": "CURIO sealing pipeline - Sector PENDING states",
                 "values": {
-                    "Any": "ANY pending sectors",
+                    "Any": "ANY pending tasks",
                     "SDR": "SDR pending",
                     "Trees": "Trees pending",
                     "PrecommitMsg": "PrecommitMsg pending",
