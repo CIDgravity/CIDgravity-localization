@@ -75,7 +75,7 @@
             "curioDealStatingStatesTooltip": "CURIO sealing pipeline - Deal states",
             "curioPipelineStatesRunningTitle": "CURIO sealing pipeline - Sector RUNNING tasks",
             "curioPipelineStatesRunningTooltip": "CURIO sealing pipeline - Sector RUNNING tasks",
-            "curioPipelineStatesPendingTitle": "CURIO sealing pipeline - Sector PENDING states",
+            "curioPipelineStatesPendingTitle": "CURIO sealing pipeline - Sector PENDING tasks",
             "curioPipelineStatesPendingTooltip": "CURIO sealing pipeline - Sector PENDING states",
             "curioPipelineStatesFailedTitle": "CURIO sealing pipeline - Sector FAILED states",
             "curioPipelineStatesFailedTooltip": "CURIO sealing pipeline - Sector FAILED states",
