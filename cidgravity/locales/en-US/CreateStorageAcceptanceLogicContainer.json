@@ -168,7 +168,7 @@
             },
             "curioPipelineStatesPending": {
                 "title": "CURIO sealing pipeline - Sector PENDING tasks",
-                "tooltip": "CURIO sealing pipeline - Sector PENDING states",
+                "tooltip": "CURIO sealing pipeline - Sector PENDING tasks",
                 "values": {
                     "Any": "ANY pending tasks",
                     "SDR": "SDR pending",
