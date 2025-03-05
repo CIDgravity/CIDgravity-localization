@@ -53,7 +53,7 @@
             "resolveTipsCommand": "N/A"
         },
         "ERR_CIDGRAVITY_CONNECTOR_MISCONFIGURED": {
-            "resolveTips": "No response from CIDgravity connector.\nDeploy the latest release of CIDgravity",
+            "resolveTips": "No response from the miner\nIf using Curio verify the CIDgravity token is set\nIf using Boost verify the CIDgravity connector.\nDeploy the latest release of CIDgravity",
             "name": "Verifying CIDgravity connector is deployed and configured",
             "resolveTipsCommand": "sudo -i -u \"<USER_RUNNING_BOOST_PROCESS>\"\ngit clone https://github.com/CIDgravity/CIDgravity-X.git\ncd CIDgravity-X\n# Follow the README.md instructions"
         },
