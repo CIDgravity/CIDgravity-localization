@@ -106,7 +106,8 @@
                 "Encode": "Encode pending",
                 "Prove": "Prove pending",
                 "Submit": "Submit pending",
-                "MoveStorage": "MoveStorage pending"
+                "MoveStorage": "MoveStorage pending",
+                "PoRep": "PoRep pending"
             },
             "curioFailed": {
                 "SDR": "SDR failed",
