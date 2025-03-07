@@ -102,7 +102,6 @@
                 "Trees": "Trees pending",
                 "PrecommitMsg": "PrecommitMsg pending",
                 "WaitSeed": "WaitSeed pending",
-                "PoRepP": "PoRep pending",
                 "CommitMsg": "CommitMsg pending",
                 "Encode": "Encode pending",
                 "Prove": "Prove pending",
