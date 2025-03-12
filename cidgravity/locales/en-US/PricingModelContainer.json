@@ -24,7 +24,9 @@
             "defaultContentAndClients_many": "{{count}} clients + unknown clients",
             "defaultContentAndClients_other": "{{count}} clients + unknown clients",
             "defaultContentAndClients_zero": "Apply only to unknown clients",
-            "defaultContentAndClientsWithoutUnknown_zero": "None"
+            "defaultContentAndClientsWithoutUnknown_zero": "None",
+            "defaultContentAndClientsWithoutUnknown_one": "{{count}} client associated",
+            "defaultContentAndClientsWithoutUnknown_two": "{{count}} clients associated"
         },
         "view": {
             "tooltip": "Inspect the associated rule and client details"
