@@ -40,7 +40,8 @@
                 "ERR_SEND_PROPOSAL": "Status cannot be verified",
                 "ERR_CIDGRAVITY_INVALID_CONNECTOR_TYPE": "Unsupported CIDgravity connector version",
                 "ERR_CIDGRAVITY_INVALID_CONNECTOR_VERSION": "Unsupported CIDgravity connector version",
-                "ERR_SENT": "CIDgravity connector not responding"
+                "ERR_SENT": "CIDgravity connector not responding",
+                "SENT": "Test proposal sent"
             },
             "mostRecentActivityError": "Something goes wrong : {{errorCode}} (last seen {{lastCheck}})"
         },
