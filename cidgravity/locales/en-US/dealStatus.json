@@ -145,7 +145,8 @@
         },
         "curioBackPressure": {
             "name": "Curio Back Pressure",
-            "dropdownName": "Deal rejected - Curio back pressure"
+            "dropdownName": "Deal rejected - Curio back pressure",
+            "tooltip": "The deal has been rejected by the built-in curio back pressure."
         }
     }
 }
