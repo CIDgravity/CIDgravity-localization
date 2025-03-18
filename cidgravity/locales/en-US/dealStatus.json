@@ -144,7 +144,8 @@
             "tooltip": "Start epoch is too early"
         },
         "curioBackPressure": {
-            "name": "Curio Back Pressure"
+            "name": "Curio Back Pressure",
+            "dropdownName": "Deal rejected - Curio back pressure"
         }
     }
 }
