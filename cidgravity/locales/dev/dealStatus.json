@@ -43,6 +43,11 @@
             "dropdownName": "Proposal Rejected - Maintenance",
             "tooltip": "In maintenance"
         },
+        "curioBackPressure": {
+            "name": "Curio Back Pressure",
+            "dropdownName": "Proposal Rejected - Curio Back Pressure",
+            "tooltip": "Curio Back Pressure"
+        },
         "noSpaceLeft":{
             "name": "No space left",
             "dropdownName": "Proposal Rejected - No space left",
