@@ -43,7 +43,10 @@
         "setToDefault": {
             "tooltip": "Set this pricing model as default"
         },
-        "defaultBadge": "DEFAULT"
+        "defaultBadge": "DEFAULT",
+        "currency": {
+            "title": "Currency"
+        }
     },
     "notification": {
         "success": {
