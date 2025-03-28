@@ -43,7 +43,7 @@
                 "values": {
                     "graphsync": "Graphsync",
                     "any": "HTTP, Manual, Graphsync, Libp2p-HTTP",
-                    "libp2p": "Libp2p-HTTP",
+                    "libp2p": "Libp2p-HTTP (boost only)",
                     "manual": "Manual",
                     "http": "HTTP"
                 }
