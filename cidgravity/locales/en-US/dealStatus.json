@@ -151,7 +151,7 @@
         "unsupportedTransferProtocol": {
             "name": "Unsupported transfer protocol",
             "dropdownName": "Deal rejected - Transfer protocol not supported",
-            "tooltip": "Curio does not support libp2p-HTTP or GraphSync transfer protocols"
+            "tooltip": "Curio does not support libp2p-HTTP or graphsync transfer protocols"
         }
     }
 }
