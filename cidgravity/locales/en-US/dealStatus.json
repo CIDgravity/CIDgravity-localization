@@ -150,7 +150,8 @@
         },
         "unsupportedTransferProtocol": {
             "name": "Unsupported transfer protocol",
-            "dropdownName": "Proposal Rejected - Transfer protocol not supported"
+            "dropdownName": "Proposal Rejected - Transfer protocol not supported",
+            "tooltip": "Curio does not support libp2p transfer protocol"
         }
     }
 }
