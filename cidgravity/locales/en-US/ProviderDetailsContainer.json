@@ -42,7 +42,7 @@
                 "title": "Transfer type",
                 "values": {
                     "graphsync": "Graphsync",
-                    "any": "HTTP, Manual, Graphsync",
+                    "any": "Any supported (HTTP, Manual, …)",
                     "libp2p": "Libp2p-HTTP (boost only)",
                     "manual": "Manual",
                     "http": "HTTP"
