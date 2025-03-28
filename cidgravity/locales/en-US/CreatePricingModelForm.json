@@ -11,6 +11,9 @@
                 "isNotDefault": "When enabled, a deal proposal not matching any rules, will go through the default pricing model for acceptance.",
                 "isDefault": "Setting disabled: this pricing model is already set to default."
             }
+        },
+        "currency": {
+            "label": "Currency"
         }
     },
     "rule": {
