@@ -30,7 +30,7 @@
             "option": {
                 "any": "Any",
                 "manual": "Manual",
-                "graphsync": "Graphsync",
+                "graphsync": "Graphsync (boost only)",
                 "http": "HTTP",
                 "libp2p": "Libp2p-HTTP (boost only)"
             }
