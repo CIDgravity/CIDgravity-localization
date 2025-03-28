@@ -46,8 +46,13 @@
     "price": {
         "tooltip": "Price is specified in attoFil / GiB / epoch",
         "priceConversionUnit" : "Fil / TiB / 30D",
+        "priceConversionUnitAttoFilPerGibPerEpoch": "attoFil / GiB / epoch",
         "label": "Price *",
-        "placeholder": "FIL / GiB / Epoch"
+        "placeholder": "FIL / GiB / Epoch",
+        "units": {
+            "attofil_gib_epoch": "attoFil / GiB / Epoch",
+            "usd_cents_tib_month": "USD / TiB / 30d"
+        }
     },
     "sealingpipeline": {
         "select": {

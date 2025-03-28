@@ -147,6 +147,11 @@
             "name": "Start epoch too early",
             "dropdownName": "Proposal Rejected - Start epoch too early",
             "tooltip": "Reject due to start date too early"
+        },
+        "unsupportedTransferProtocol": {
+            "name": "Unsupported transfer protocol",
+            "dropdownName": "Proposal Rejected - Transfer protocol not supported",
+            "tooltip": "Curio doesn't support libp2p transfer protocol"
         }
     }
 }

@@ -5,6 +5,13 @@
         "name": {
             "title": "Name"
         },
+        "currency": {
+            "title": "Currency",
+            "units": {
+                "attofil_gib_epoch": "attoFil / GiB / Epoch",
+                "usd_cents_tib_month": "USD / TiB / 30d"
+            }
+        },
         "rule": {
             "title": "Rules",
             "noContent": "N/A"

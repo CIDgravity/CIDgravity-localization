@@ -5,6 +5,14 @@
         "name": {
             "label": "Pricing model name *"
         },
+        "currency": {
+            "label": "Currency",
+            "placeholder": "Pricing model currency",
+            "options": {
+                "attofil_gib_epoch": "AttoFIL / GiB / Epoch",
+                "usd_cents_tib_month": "USD / TiB / Month"
+            }
+        },
         "fallback": {
             "label": "Fallback to default pricing model",
             "info": {
@@ -79,7 +87,8 @@
             "label": "Price *",
             "info": "Must be specified in attoFil / GiB / epoch",
             "priceConversionUnit": "Fil / TiB / 30D",
-            "placeholder": "FIL/GiB/Epoch"
+            "placeholder": "FIL/GiB/Epoch",
+            "priceConversionUnitAttoFilPerGibPerEpoch": "attoFil / GiB / Epoch"
         }
     },
     "button": {
