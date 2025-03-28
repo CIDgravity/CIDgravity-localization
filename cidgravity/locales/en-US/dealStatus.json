@@ -147,6 +147,9 @@
             "name": "Back pressure",
             "dropdownName": "Deal rejected - Curio back pressure",
             "tooltip": "The deal has been rejected by the built-in curio back pressure."
+        },
+        "unsupportedTransferProtocol": {
+            "name": "Unsupported transfer protocol"
         }
     }
 }
