@@ -149,7 +149,8 @@
             "tooltip": "The deal has been rejected by the built-in curio back pressure."
         },
         "unsupportedTransferProtocol": {
-            "name": "Unsupported transfer protocol"
+            "name": "Unsupported transfer protocol",
+            "dropdownName": "Proposal Rejected - Transfer protocol not supported"
         }
     }
 }
