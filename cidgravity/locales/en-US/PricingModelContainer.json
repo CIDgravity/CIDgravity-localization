@@ -45,7 +45,10 @@
         },
         "defaultBadge": "DEFAULT",
         "currency": {
-            "title": "Currency"
+            "title": "Currency",
+            "units": {
+                "attofil_gib_epoch": "attoFil / GiB / Epoch"
+            }
         }
     },
     "notification": {
