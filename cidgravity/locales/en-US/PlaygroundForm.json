@@ -39,7 +39,12 @@
         "label": "Price*",
         "placeholder": "FIL/GiB/Epoch",
         "tooltip": "in attoFil/GiB/epoch",
-        "priceConversionUnit": "Fil/TiB/Month"
+        "priceConversionUnit": "Fil/TiB/Month",
+        "priceConversionUnitAttoFilPerGibPerEpoch": "attoFil / GiB / epoch",
+        "units": {
+            "attofil_gib_epoch": "attoFil / GiB / Epoch",
+            "usd_cents_tib_month": "USD / TiB / 30d"
+        }
     },
     "validation": {
         "isPriceInvalidValue": "Please use Dot-decimal format.",
