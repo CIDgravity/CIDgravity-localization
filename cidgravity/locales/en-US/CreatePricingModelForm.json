@@ -13,7 +13,8 @@
             }
         },
         "currency": {
-            "label": "Currency"
+            "label": "Currency",
+            "placeholder": "Pricing model currency"
         }
     },
     "rule": {
