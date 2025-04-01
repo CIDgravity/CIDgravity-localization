@@ -89,7 +89,8 @@
             "priceConversionUnit": "Fil/TiB/Month",
             "priceConversionUnitAttoFilPerGibPerEpoch": "attoFil / GiB / Epoch",
             "placeholder": {
-                "attoFilGiBEpoch": "attoFIL/GiB/Epoch"
+                "attoFilGiBEpoch": "attoFIL/GiB/Epoch",
+                "USDCentsTibMonth": "USD/TiB/Month"
             }
         }
     },
