@@ -76,8 +76,7 @@
             }
         },
         "price": {
-            "label": "价格 *",
-            "placeholder": "FIL/GiB/纪元"
+            "label": "价格 *"
         }
     },
     "button": {

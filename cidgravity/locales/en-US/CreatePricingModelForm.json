@@ -85,7 +85,6 @@
         },
         "price": {
             "label": "Price *",
-            "placeholder": "FIL/GiB/Epoch",
             "info": "attoFil / GiB / epoch - The blue box provides an estimation in Fil/TiB/Month",
             "priceConversionUnit": "Fil/TiB/Month",
             "priceConversionUnitAttoFilPerGibPerEpoch": "attoFil / GiB / Epoch"
