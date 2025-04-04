@@ -19,9 +19,10 @@
             "forVerifiedDeals": "For verified deals",
             "forUnverifiedDeals": "For unverified deals",
             "forBothVerifiedAndUnverified": "For both verified and unverified deals",
-            "pricePerGibAndEpoch": "Price / GiB / Epoch",
+            "priceLabel": "Price / TiB / 30D",
             "priceUnit": {
-                "FIL": "FIL"
+                "FIL": "FIL",
+                "USD": "USD"
             },
             "dealSize": "Deal size",
             "dealDuration": "Deal duration",
