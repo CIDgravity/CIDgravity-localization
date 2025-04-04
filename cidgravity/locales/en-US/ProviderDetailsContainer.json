@@ -62,7 +62,8 @@
             "dealPrice": {
                 "title": "Price",
                 "unit": {
-                    "filGibEpoch": "FIL/GiB/Epoch"
+                    "filGibEpoch": "FIL/GiB/Epoch",
+                    "usdTib30d": "USD/TiB/30d"
                 }
             },
             "dealDuration": {
