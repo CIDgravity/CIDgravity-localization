@@ -64,6 +64,9 @@
                 "unit": {
                     "filGibEpoch": "FIL/GiB/Epoch",
                     "usdTib30d": "USD/TiB/30d"
+                },
+                "equivalenceUnit": {
+                    "filTibMonth": "FIL/TiB/month"
                 }
             },
             "dealDuration": {
