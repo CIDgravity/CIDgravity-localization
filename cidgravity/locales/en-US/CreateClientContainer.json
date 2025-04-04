@@ -20,7 +20,8 @@
             "forUnverifiedDeals": "For unverified deals",
             "forBothVerifiedAndUnverified": "For both verified and unverified deals",
             "priceUnit": {
-                "FIL": "FIL"
+                "FIL": "FIL",
+                "USD": "USD"
             },
             "dealSize": "Deal size",
             "dealDuration": "Deal duration",
