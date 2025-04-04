@@ -28,7 +28,8 @@
                 "isDisabled": "Fall back to default pricing model : Disabled",
                 "isEnabled": "Fall back to default pricing model : Enabled",
                 "notApplicable": "Fall back to default pricing model : Not applicable"
-            }
+            },
+            "priceLabel": "Price/TiB/30D"
         }
     },
     "error": {
