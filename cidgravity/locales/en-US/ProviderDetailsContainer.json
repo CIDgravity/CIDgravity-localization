@@ -60,7 +60,10 @@
                 "title": "Deal size"
             },
             "dealPrice": {
-                "title": "Price"
+                "title": "Price",
+                "unit": {
+                    "filGibEpoch": "FIL/GiB/Epoch"
+                }
             },
             "dealDuration": {
                 "title": "Deal duration"
