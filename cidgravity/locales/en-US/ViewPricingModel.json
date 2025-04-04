@@ -14,7 +14,7 @@
             }
         },
         "price": {
-            "label": "Price/TiB/Month"
+            "label": "Price/TiB/30D"
         },
         "size": {
             "label": "Min/max deal size"
