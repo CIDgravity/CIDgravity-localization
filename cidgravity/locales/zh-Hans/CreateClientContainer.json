@@ -18,7 +18,6 @@
             "forVerifiedDeals": "针对已验证的交易",
             "forUnverifiedDeals": "针对未验证的交易",
             "forBothVerifiedAndUnverified": "针对已验证和未验证的交易",
-            "pricePerGibAndEpoch": "价格 / GiB / 周期",
             "priceUnit": {
                 "FIL": "FIL"
             },
