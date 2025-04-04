@@ -9,7 +9,7 @@
             "title": "Currency",
             "units": {
                 "attofil_gib_epoch": "attoFil / GiB / Epoch",
-                "usd_cents_tib_month": "USD / TiB / 30d"
+                "usd_tib_month": "USD / TiB / 30d"
             }
         },
         "rule": {

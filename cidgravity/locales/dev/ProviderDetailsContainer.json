@@ -65,8 +65,14 @@
             },
             "dealPrice": {
                 "title": "Price",
-                "unit": "FIL / GiB / epoch",
-                "equivalenceUnit": "FIL / TiB / month"
+                "unit": {
+                    "filGibEpoch": "FIL/GiB/Epoch",
+                    "usdTib30d": "USD/TiB/30d"
+                },
+                "equivalenceUnit": {
+                    "filTibMonth": "FIL/TiB/month",
+                    "attofilGiBEpoch": "attoFIL/GiB/Epoch"
+                }
             }
         }
     },

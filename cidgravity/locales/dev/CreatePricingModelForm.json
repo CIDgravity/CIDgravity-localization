@@ -10,7 +10,7 @@
             "placeholder": "Pricing model currency",
             "options": {
                 "attofil_gib_epoch": "AttoFIL / GiB / Epoch",
-                "usd_cents_tib_month": "USD / TiB / Month"
+                "usd_tib_month": "USD / TiB / Month"
             }
         },
         "fallback": {
