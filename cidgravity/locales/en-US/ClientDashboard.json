@@ -54,7 +54,8 @@
                 "unit": "FIL"
             },
             "activeUniqueCid": {
-                "title": "Onboarded"
+                "title": "Onboarded",
+                "tooltip": "Data successfully processed and stored. This applies to any deals processed, whether utilizing CIDgravity or not."
             }
         },
         "overLastTimerange": {
