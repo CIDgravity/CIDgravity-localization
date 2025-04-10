@@ -31,6 +31,10 @@
                 "title": "Completed",
                 "tooltip": "data successfully processed and store by SPs. (this applies to any deals processed, whether utilizing CIDgravity or not.)"
             },
+            "activeUniqueCid": {
+                "title": "Onboarded (unique CID)",
+                "tooltip": "Data successfully processed and stored by service providers (SPs) for unique piece CID. This applies to any deals processed, whether utilizing CIDgravity or not."
+            },
             "remainingDatacapNotLocked": {
                 "title": "Remaining Datacap not locked",
                 "tooltip": "available onchain datacap - current deals awaiting being published"
