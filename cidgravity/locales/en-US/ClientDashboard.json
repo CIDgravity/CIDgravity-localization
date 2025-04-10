@@ -52,6 +52,9 @@
                 "title": "Balance",
                 "tooltip": "Current address balance",
                 "unit": "FIL"
+            },
+            "activeUniqueCid": {
+                "title": "Onboarded"
             }
         },
         "overLastTimerange": {
