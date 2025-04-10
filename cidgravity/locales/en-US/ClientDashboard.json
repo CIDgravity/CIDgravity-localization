@@ -41,7 +41,7 @@
                 "tooltip": "Deals that have been published on chain but are not currently active. This applies to all deals processed, regardless of whether CIDgravity is utilized."
             },
             "active": {
-                "title": "Onboarded",
+                "title": "Onboarded (with replicas)",
                 "tooltip": "Data successfully processed and stored by service providers (SPs). This applies to any deals processed, whether utilizing CIDgravity or not."
             },
             "remainingDatacapNotLocked": {
