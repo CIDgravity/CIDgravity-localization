@@ -76,7 +76,7 @@
                 "tooltip": "PieceCID where the latest copy has been lost, either through removal or expiration, within the specified time range."
             },
             "onboardedVolumeUnique": {
-                "title": "Onboarded volume unique PieceCID",
+                "title": "Onboarded volume",
                 "tooltip": "Unique data successfully onboarded during the specified time range."
             },
             "onboardedVolumeReplicas": {
