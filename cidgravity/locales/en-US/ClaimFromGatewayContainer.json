@@ -2,5 +2,8 @@
     "header": {
         "loadingOrError": "Filecoin Gateway connection",
         "success": "Filecoin Gateway ({{address}}) connection"
+    },
+    "body": {
+        "success": "The Filecoin gateway is now ready to manage through the interface."
     }
 }
