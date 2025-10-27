@@ -8,5 +8,8 @@
     },
     "button": {
         "goToDashboard": "Go to dashboard"
+    },
+    "error": {
+        "challengeNotFound": "The requested challenge could not be found."
     }
 }
