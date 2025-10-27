@@ -12,6 +12,7 @@
     "error": {
         "challengeNotFound": "The requested challenge could not be found.",
         "alreadyClaimed": "This address is already linked to your account.",
-        "limitReached": "Address limit reached. Please remove an existing address before adding a new one."
+        "limitReached": "Address limit reached. Please remove an existing address before adding a new one.",
+        "somethingWrong": "An error occurred while adding the address to your account."
     }
 }
