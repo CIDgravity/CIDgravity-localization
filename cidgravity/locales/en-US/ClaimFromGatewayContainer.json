@@ -5,5 +5,8 @@
     },
     "body": {
         "success": "The Filecoin gateway is now ready to manage through the interface."
+    },
+    "button": {
+        "goToDashboard": "Go to dashboard"
     }
 }
