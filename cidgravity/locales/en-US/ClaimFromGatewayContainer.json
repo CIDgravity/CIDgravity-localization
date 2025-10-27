@@ -11,6 +11,7 @@
     },
     "error": {
         "challengeNotFound": "The requested challenge could not be found.",
-        "alreadyClaimed": "This address is already linked to your account."
+        "alreadyClaimed": "This address is already linked to your account.",
+        "limitReached": "Address limit reached. Please remove an existing address before adding a new one."
     }
 }
