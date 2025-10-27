@@ -10,6 +10,7 @@
         "goToDashboard": "Go to dashboard"
     },
     "error": {
-        "challengeNotFound": "The requested challenge could not be found."
+        "challengeNotFound": "The requested challenge could not be found.",
+        "alreadyClaimed": "This address is already linked to your account."
     }
 }
