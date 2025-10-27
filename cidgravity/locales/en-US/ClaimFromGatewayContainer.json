@@ -1,5 +1,6 @@
 {
     "header": {
-        "loadingOrError": "Filecoin Gateway connection"
+        "loadingOrError": "Filecoin Gateway connection",
+        "success": "Filecoin Gateway connection"
     }
 }
