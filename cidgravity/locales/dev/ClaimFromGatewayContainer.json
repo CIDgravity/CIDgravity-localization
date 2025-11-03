@@ -4,9 +4,11 @@
         "success": "Gateway address {{address}} successfully connected"
     },
     "body": {
+        "confirmClaimDescription": "You’re about to link this gateway to your account.",
         "success": "The address has been correctly associated with your account. All related settings can now be managed through the user interface."
     },
     "button": {
+        "confirmConnect": "Confirm",
         "goToDashboard": "Go to dashboard"
     },
     "error": {
