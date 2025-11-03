@@ -4,10 +4,12 @@
         "success": "Filecoin Gateway ({{address}}) connection"
     },
     "body": {
-        "success": "The Filecoin gateway is now ready to manage through the interface."
+        "success": "The Filecoin gateway is now ready to manage through the interface.",
+        "confirmClaimDescription": "You’re about to link this gateway to your account."
     },
     "button": {
-        "goToDashboard": "Go to dashboard"
+        "goToDashboard": "Go to dashboard",
+        "confirmConnect": "Confirm"
     },
     "error": {
         "challengeNotFound": "The requested challenge could not be found.",
