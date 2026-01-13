@@ -21,7 +21,8 @@
             "forBothVerifiedAndUnverified": "For both verified and unverified deals",
             "priceUnit": {
                 "FIL": "FIL",
-                "USD": "USD"
+                "USD": "USD",
+                "USDFC": "USDFC"
             },
             "dealSize": "Deal size",
             "dealDuration": "Deal duration",
