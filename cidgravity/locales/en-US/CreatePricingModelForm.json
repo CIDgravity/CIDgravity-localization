@@ -14,11 +14,7 @@
         },
         "currency": {
             "label": "Currency",
-            "placeholder": "Pricing model currency",
-            "options": {
-                "attofil_gib_epoch": "attoFil/GiB/Epoch",
-                "usd_tib_month": "USD/TiB/30D"
-            }
+            "placeholder": "Pricing model currency"
         }
     },
     "rule": {
@@ -87,11 +83,7 @@
             "label": "Price *",
             "info": "attoFil/GiB/Epoch - The blue box provides an estimation in Fil/TiB/Month",
             "priceConversionUnit": "Fil/TiB/30D",
-            "priceConversionUnitAttoFilPerGibPerEpoch": "attoFil/GiB/Epoch",
-            "placeholder": {
-                "attoFilGiBEpoch": "attoFIL/GiB/Epoch",
-                "USDCentsTibMonth": "USD/TiB/Month"
-            }
+            "priceConversionUnitAttoFilPerGibPerEpoch": "attoFil/GiB/Epoch"
         }
     },
     "button": {
