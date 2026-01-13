@@ -12,6 +12,7 @@
         "currency": "USD"
     },
     "usdfc_tib_month": {
-        "label": "USDFC/TiB/30d"
+        "label": "USDFC/TiB/30d",
+        "currency": "USDFC"
     }
 }
