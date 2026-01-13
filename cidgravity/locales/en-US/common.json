@@ -1,1 +1,6 @@
-{}
+{
+    "fil_tib_month": {
+        "label": "Fil/TiB/30d",
+        "currency": "FIL"
+    }
+}
