@@ -8,6 +8,10 @@
         "transactionFailed": "Transaction failed",
         "userRejected": "Transaction was rejected by user",
         "receiptError": "Receipt error",
-        "insufficientFunds": "Insufficient funds for transaction"
+        "insufficientFunds": "Insufficient funds for transaction",
+        "unknownError": "Unknown error"
+    },
+    "success": {
+        "transactionConfirmed": "Transaction confirmed successfully!"
     }
 }
