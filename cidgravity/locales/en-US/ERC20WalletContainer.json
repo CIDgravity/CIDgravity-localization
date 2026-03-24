@@ -15,5 +15,11 @@
         "connecting": "Connecting…",
         "unknownNetwork": "Unknown Network",
         "notConnected": "Connect your MetaMask wallet to view balances and manage deposits."
+    },
+    "registration": {
+        "loading": "Loading registration status…",
+        "title": "Link your FEVM address",
+        "description": "Link your MetaMask wallet to your Filecoin address to enable ERC20 deposits and withdrawals.",
+        "fevmAddress": "FEVM Address (MetaMask)"
     }
 }
