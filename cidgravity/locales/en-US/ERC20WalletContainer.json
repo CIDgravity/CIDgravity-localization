@@ -24,6 +24,14 @@
         "filecoinAddress": "Filecoin Address",
         "continue": "Continue",
         "registering": "Registering…",
-        "success": "Address registered successfully!"
+        "success": "Address registered successfully!",
+        "error": "Failed to register address",
+        "mismatch": "Your connected wallet ({{connected}}) doesn't match the registered address ({{registered}}). Deposits and withdrawals are disabled."
+    },
+    "balance": {
+        "available": "Available ERC20 Balance",
+        "unlocked": "Unlocked Balance",
+        "securityDeposit": "Security Deposit Balance",
+        "title": "Balances"
     }
 }
