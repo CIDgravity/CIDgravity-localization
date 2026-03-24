@@ -40,7 +40,9 @@
         "buttonLabel": "Deposit",
         "addFunds": {
             "label": "Add Funds to Payment Rail",
-            "title": "Add Funds to Payment Rail"
+            "title": "Add Funds to Payment Rail",
+            "success": "Successfully deposited funds!",
+            "description": "Deposit funds to the FilPay system"
         }
     }
 }
