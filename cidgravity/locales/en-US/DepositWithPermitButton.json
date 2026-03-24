@@ -5,6 +5,8 @@
         "confirming": "Confirming on-chain…"
     },
     "errors": {
-        "transactionFailed": "Transaction failed"
+        "transactionFailed": "Transaction failed",
+        "userRejected": "Transaction was rejected by user",
+        "receiptError": "Receipt error"
     }
 }
