@@ -1,5 +1,6 @@
 {
     "progress": {
-        "submitting": "Submitting transaction…"
+        "submitting": "Submitting transaction…",
+        "confirming": "Confirming on-chain…"
     }
 }
