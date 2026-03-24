@@ -1,4 +1,8 @@
 {
     "title": "ERC20 Wallet",
-    "subtitle": "Manage your ERC20 wallet and tokens"
+    "subtitle": "Manage your ERC20 wallet and tokens",
+    "error": {
+        "generic": "An error occurred while loading wallet data",
+        "loadingAccountKey": "Failed to load Filecoin account key"
+    }
 }
