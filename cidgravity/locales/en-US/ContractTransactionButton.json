@@ -9,5 +9,8 @@
         "userRejected": "Transaction was rejected by user",
         "insufficientFunds": "Insufficient funds for transaction",
         "unknownError": "Unknown error"
+    },
+    "success": {
+        "transactionConfirmed": "Transaction confirmed successfully!"
     }
 }
