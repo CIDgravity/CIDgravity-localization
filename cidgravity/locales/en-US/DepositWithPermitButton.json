@@ -3,5 +3,8 @@
         "signing": "Signing permit…",
         "submitting": "Submitting transaction…",
         "confirming": "Confirming on-chain…"
+    },
+    "errors": {
+        "transactionFailed": "Transaction failed"
     }
 }
