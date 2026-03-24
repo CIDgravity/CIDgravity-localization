@@ -1,5 +1,6 @@
 {
     "progress": {
-        "signing": "Signing permit…"
+        "signing": "Signing permit…",
+        "submitting": "Submitting transaction…"
     }
 }
