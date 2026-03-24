@@ -48,7 +48,11 @@
         },
         "securityDeposit": {
             "label": "Add Security Deposit",
-            "title": "Add Security Deposit"
+            "title": "Add Security Deposit",
+            "description": "Deposit safety deposit funds in the Escrow Contract",
+            "success": "Successfully deposited funds!",
+            "error": "Deposit failed",
+            "confirming": "Confirming security deposit on-chain…"
         }
     }
 }
