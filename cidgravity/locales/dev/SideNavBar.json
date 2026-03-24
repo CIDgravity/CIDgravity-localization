@@ -3,6 +3,7 @@
         "client": {
             "dashboard": "Dashboard",
             "informations": "Information",
+            "erc20Wallet": "ERC20 Wallet",
             "policyGroup": "Policy",
             "blacklist": "Blacklist",
             "helpCenter": "Help center",
@@ -12,6 +13,7 @@
         "provider": {
             "dashboard": "Dashboard",
             "helpCenter": "Help center",
+            "erc20Wallet": "ERC20 Wallet",
             "informations": "Information",
             "client": "Clients",
             "settings": "Settings",

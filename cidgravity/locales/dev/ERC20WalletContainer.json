@@ -1,0 +1,58 @@
+{
+    "title": "ERC20 Wallet",
+    "subtitle": "Manage your ERC20 wallet and tokens",
+    "error": {
+        "generic": "An error occurred while loading wallet data",
+        "loadingAccountKey": "Failed to load Filecoin account key",
+        "loadingRegistration": "Failed to load registration status",
+        "noResult": "No result returned from Filecoin API",
+        "invalidAddressFormat": "Invalid address format: expected f1... or f3..., got {{address}}",
+        "apiError": "Filecoin API error: {{error}}"
+    },
+    "wallet": {
+        "connect": "Connect {{name}}",
+        "disconnect": "Disconnect",
+        "connecting": "Connecting...",
+        "unknownNetwork": "Unknown Network",
+        "notConnected": "Connect your MetaMask wallet to view balances and manage deposits."
+    },
+    "registration": {
+        "loading": "Loading registration status...",
+        "title": "Link your FEVM address",
+        "description": "Link your MetaMask wallet to your Filecoin address to enable ERC20 deposits and withdrawals.",
+        "fevmAddress": "FEVM Address (MetaMask)",
+        "filecoinAddress": "Filecoin Address",
+        "continue": "Continue",
+        "registering": "Registering...",
+        "success": "Address registered successfully!",
+        "error": "Failed to register address",
+        "mismatch": "Your connected wallet ({{connected}}) doesn't match the registered address ({{registered}}). Deposits and withdrawals are disabled."
+    },
+    "balance": {
+        "title": "Balances",
+        "available": "Available ERC20 Balance",
+        "unlocked": "Unlocked Balance",
+        "securityDeposit": "Security Deposit Balance",
+        "loading": "...",
+        "currency": "USDFC"
+    },
+    "deposit": {
+        "buttonLabel": "Deposit",
+        "addFunds": {
+            "label": "Add Funds to Payment Rail",
+            "title": "Add Funds to Payment Rail",
+            "description": "Deposit funds in the FilPay system",
+            "success": "Successfully deposited funds!",
+            "error": "Deposit failed",
+            "confirming": "Confirming funds deposit on-chain..."
+        },
+        "securityDeposit": {
+            "label": "Add Security Deposit",
+            "title": "Add Security Deposit",
+            "description": "Deposit safety deposit funds in the Escrow Contract",
+            "success": "Successfully deposited funds!",
+            "error": "Deposit failed",
+            "confirming": "Confirming security deposit on-chain..."
+        }
+    }
+}

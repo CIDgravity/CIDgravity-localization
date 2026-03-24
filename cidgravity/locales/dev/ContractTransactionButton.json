@@ -1,0 +1,16 @@
+{
+    "progress": {
+        "submitting": "Submitting transaction...",
+        "confirming": "Confirming on-chain..."
+    },
+    "errors": {
+        "transactionFailed": "Transaction failed",
+        "receiptError": "Receipt error",
+        "userRejected": "Transaction was rejected by user",
+        "insufficientFunds": "Insufficient funds for transaction",
+        "unknownError": "Unknown error"
+    },
+    "success": {
+        "transactionConfirmed": "Transaction confirmed successfully!"
+    }
+}
