@@ -3,6 +3,7 @@
     "subtitle": "Manage your ERC20 wallet and tokens",
     "error": {
         "generic": "An error occurred while loading wallet data",
-        "loadingAccountKey": "Failed to load Filecoin account key"
+        "loadingAccountKey": "Failed to load Filecoin account key",
+        "loadingRegistration": "Failed to load registration status"
     }
 }
