@@ -31,7 +31,8 @@
                 "acl": "Deny list",
                 "dashboard": "Analytics"
             },
-            "informations": "SP details"
+            "informations": "SP details",
+            "erc20Wallet": "ERC20 Wallet"
         }
     }
 }
