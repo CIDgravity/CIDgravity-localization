@@ -5,6 +5,8 @@
         "generic": "An error occurred while loading wallet data",
         "loadingAccountKey": "Failed to load Filecoin account key",
         "loadingRegistration": "Failed to load registration status",
-        "noResult": "No result returned from Filecoin API"
+        "noResult": "No result returned from Filecoin API",
+        "invalidAddressFormat": "Invalid address format: expected f1… or f3…, got {{address}}",
+        "apiError": "Filecoin API error: {{error}}"
     }
 }
