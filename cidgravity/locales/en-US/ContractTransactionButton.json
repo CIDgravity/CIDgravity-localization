@@ -6,6 +6,7 @@
     "errors": {
         "transactionFailed": "Transaction failed",
         "receiptError": "Receipt error",
-        "userRejected": "Transaction was rejected by user"
+        "userRejected": "Transaction was rejected by user",
+        "insufficientFunds": "Insufficient funds for transaction"
     }
 }
