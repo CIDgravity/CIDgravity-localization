@@ -2,5 +2,9 @@
     "progress": {
         "submitting": "Submitting transaction…",
         "confirming": "Confirming on-chain…"
+    },
+    "errors": {
+        "transactionFailed": "Transaction failed",
+        "receiptError": "Receipt error"
     }
 }
