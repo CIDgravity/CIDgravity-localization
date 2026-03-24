@@ -42,7 +42,13 @@
             "label": "Add Funds to Payment Rail",
             "title": "Add Funds to Payment Rail",
             "success": "Successfully deposited funds!",
-            "description": "Deposit funds to the FilPay system"
+            "description": "Deposit funds to the FilPay system",
+            "error": "Deposit failed",
+            "confirming": "Confirming funds deposit on-chain…"
+        },
+        "securityDeposit": {
+            "label": "Add Security Deposit",
+            "title": "Add Security Deposit"
         }
     }
 }
