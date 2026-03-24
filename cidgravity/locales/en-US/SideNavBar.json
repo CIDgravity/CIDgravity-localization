@@ -7,7 +7,8 @@
             "settings": "Settings",
             "policyGroup": "Onboarding Policy",
             "blacklist": "Blacklist",
-            "storageDealsHistory": "History"
+            "storageDealsHistory": "History",
+            "erc20Wallet": "ERC20 Wallet"
         },
         "provider": {
             "helpCenter": "Help center",
