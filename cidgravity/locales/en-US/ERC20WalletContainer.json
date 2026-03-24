@@ -20,6 +20,10 @@
         "loading": "Loading registration status…",
         "title": "Link your FEVM address",
         "description": "Link your MetaMask wallet to your Filecoin address to enable ERC20 deposits and withdrawals.",
-        "fevmAddress": "FEVM Address (MetaMask)"
+        "fevmAddress": "FEVM Address (MetaMask)",
+        "filecoinAddress": "Filecoin Address",
+        "continue": "Continue",
+        "registering": "Registering…",
+        "success": "Address registered successfully!"
     }
 }
