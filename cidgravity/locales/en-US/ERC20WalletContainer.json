@@ -8,5 +8,12 @@
         "noResult": "No result returned from Filecoin API",
         "invalidAddressFormat": "Invalid address format: expected f1… or f3…, got {{address}}",
         "apiError": "Filecoin API error: {{error}}"
+    },
+    "wallet": {
+        "connect": "Connect {{name}}",
+        "disconnect": "Disconnect",
+        "connecting": "Connecting…",
+        "unknownNetwork": "Unknown Network",
+        "notConnected": "Connect your MetaMask wallet to view balances and manage deposits."
     }
 }
