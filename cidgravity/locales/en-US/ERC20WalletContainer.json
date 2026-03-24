@@ -32,6 +32,15 @@
         "available": "Available ERC20 Balance",
         "unlocked": "Unlocked Balance",
         "securityDeposit": "Security Deposit Balance",
-        "title": "Balances"
+        "title": "Balances",
+        "loading": "Loading…",
+        "currency": "USDFC"
+    },
+    "deposit": {
+        "buttonLabel": "Deposit",
+        "addFunds": {
+            "label": "Add Funds to Payment Rail",
+            "title": "Add Funds to Payment Rail"
+        }
     }
 }
