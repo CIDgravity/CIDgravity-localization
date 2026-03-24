@@ -5,6 +5,7 @@
     },
     "errors": {
         "transactionFailed": "Transaction failed",
-        "receiptError": "Receipt error"
+        "receiptError": "Receipt error",
+        "userRejected": "Transaction was rejected by user"
     }
 }
