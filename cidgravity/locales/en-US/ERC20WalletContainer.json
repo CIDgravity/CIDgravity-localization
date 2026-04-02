@@ -63,5 +63,10 @@
             "success": "Provider funds withdrawn successfully!",
             "error": "Withdrawal failed"
         }
+    },
+    "tooltip": {
+        "txInProgress": "A transaction is already in progress",
+        "noFundsToWithdraw": "No funds available to withdraw",
+        "depositInProgress": "A deposit is already in progress"
     }
 }
