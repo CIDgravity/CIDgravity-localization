@@ -71,7 +71,8 @@
     },
     "client": {
         "withdrawAll": {
-            "buttonLabel": "Withdraw all funds"
+            "buttonLabel": "Withdraw all funds",
+            "success": "All funds withdrawn successfully!"
         }
     }
 }
