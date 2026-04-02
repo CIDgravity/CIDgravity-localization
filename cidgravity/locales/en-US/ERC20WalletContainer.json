@@ -72,7 +72,11 @@
     "client": {
         "withdrawAll": {
             "buttonLabel": "Withdraw all funds",
-            "success": "All funds withdrawn successfully!"
+            "success": "All funds withdrawn successfully!",
+            "error": "Withdrawal of all funds failed"
+        },
+        "withdrawFromPaymentContract": {
+            "buttonLabel": "Withdraw from Payment Contract"
         }
     }
 }
