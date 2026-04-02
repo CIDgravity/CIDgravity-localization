@@ -2,9 +2,13 @@
     "title": "Diagnosis",
     "subtitle": "Test your end-to-end miner connectivity in few steps",
     "step": {
-        "readyToLaunch": "You can run the diagnosis using the button above",
-        "sendingProposal": "Running diagnosis",
+        "readyToLaunch": "Press \"Run diagnosis\" to start the connectivity test",
+        "sendingProposal": "Sending test proposal to your miner...",
         "checkingResults": "Analysis of diagnosis results ({{step}} / 6)",
+        "waitingForConnector": "Waiting for connector response",
+        "waitingForConnectorDescription": "The test proposal was successfully sent to your miner. Waiting for the CIDgravity connector to send back the result.",
+        "waitingElapsed": "Elapsed: {{seconds}}s",
+        "slowWarning": "This is taking longer than usual. Please check that your connector is properly configured and pointing to the correct endpoint.",
         "errorCodes": {
             "timeout": "Can't send the test proposal due to a timeout exception, try again in few minutes"
         },
@@ -97,6 +101,7 @@
         }
     },
     "button": {
-        "sendTest": "Run diagnosis"
+        "sendTest": "Run diagnosis",
+        "cancel": "Cancel"
     }
 }

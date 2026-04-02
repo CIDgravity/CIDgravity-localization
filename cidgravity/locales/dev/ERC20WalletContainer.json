@@ -32,7 +32,9 @@
         "title": "Balances",
         "available": "Available ERC20 Balance",
         "unlocked": "Unlocked Balance",
+        "escrow": "Escrow Balance",
         "securityDeposit": "Security Deposit Balance",
+        "providerEscrow": "Provider Escrow Balance",
         "loading": "...",
         "currency": "USDFC"
     },
@@ -53,6 +55,31 @@
             "success": "Successfully deposited funds!",
             "error": "Deposit failed",
             "confirming": "Confirming security deposit on-chain..."
+        }
+    },
+    "provider": {
+        "withdrawFromEscrowContract": {
+            "buttonLabel": "Withdraw Funds",
+            "success": "Provider funds withdrawn successfully!",
+            "error": "Withdrawal failed"
+        }
+    },
+    "tooltip": {
+        "txInProgress": "A transaction is already in progress",
+        "noFundsToWithdraw": "No funds available to withdraw",
+        "depositInProgress": "A deposit is already in progress"
+    },
+    "client": {
+        "withdrawAll": {
+            "buttonLabel": "Withdraw All Funds",
+            "success": "Successfully withdrew all funds!",
+            "error": "Withdrawal of all funds failed"
+        },
+        "withdrawFromPaymentContract": {
+            "buttonLabel": "Withdraw from Payment Contract"
+        },
+        "withdrawFromEscrowContract": {
+            "buttonLabel": "Withdraw from Escrow Contract"
         }
     }
 }
