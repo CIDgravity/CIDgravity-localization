@@ -14,7 +14,8 @@
         "checkingResults": "Awaiting result ({{step}} / 6)…",
         "errorCodes": {
             "timeout": "An error occurred whilst trying to test the miner connectivity, please try again later or contact the CIDgravity team."
-        }
+        },
+        "waitingForConnector": "Waiting for connector response"
     },
     "errorCode": {
         "ERR_NO_PEER_ID_SET_ON_CHAIN": {
