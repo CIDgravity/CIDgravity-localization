@@ -17,7 +17,8 @@
         },
         "waitingForConnector": "Waiting for connector response",
         "waitingForConnectorDescription": "The test proposal was successfully sent to the miner. Waiting for the miner to send back the result.",
-        "waitingElapsed": "Elapsed: {{seconds}}s"
+        "waitingElapsed": "Elapsed: {{seconds}}s",
+        "slowWarning": "This is taking longer than usual. Please check the miner is properly configured and pointing to the correct endpoint."
     },
     "errorCode": {
         "ERR_NO_PEER_ID_SET_ON_CHAIN": {
@@ -100,6 +101,7 @@
         }
     },
     "button": {
-        "sendTest": "Launch tests"
+        "sendTest": "Launch tests",
+        "cancel": "Cancel"
     }
 }
