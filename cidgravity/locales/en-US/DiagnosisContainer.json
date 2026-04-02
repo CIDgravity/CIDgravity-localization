@@ -92,7 +92,7 @@
         "ERR_CIDGRAVITY_INVALID_CONNECTOR_TYPE": {
             "name": "Verifying CIDgravity connector type",
             "resolveTips": "The connector doesn't seem to be the official CIDgravity connector.\nDeploy the latest release of CIDgravity connector",
-            "resolveTipsCommand": "sudo -i -u \"<USER_RUNNING_BOOST_PROCESS>\"\ngit clone https://github.com/CIDgravity/CIDgravity-X.git\ncd CIDgravity-X\n# Follow the README.md instructions"
+            "resolveTipsCommand": "https://docs.curiostorage.org/curio-market/deal-filters#what-is-cidgravity"
         },
         "ERR_CIDGRAVITY_INVALID_CONNECTOR_VERSION": {
             "name": "CIDgravity connector version {{connectorVersion}}",
