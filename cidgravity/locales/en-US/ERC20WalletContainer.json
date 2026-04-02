@@ -35,7 +35,8 @@
         "title": "Balances",
         "loading": "Loading…",
         "currency": "USDFC",
-        "escrow": "Escrow Balance"
+        "escrow": "Escrow Balance",
+        "providerEscrow": "Provider Escrow Balance"
     },
     "deposit": {
         "buttonLabel": "Deposit",
@@ -54,6 +55,13 @@
             "success": "Successfully deposited funds!",
             "error": "Deposit failed",
             "confirming": "Confirming security deposit on-chain…"
+        }
+    },
+    "provider": {
+        "withdrawFromEscrowContract": {
+            "buttonLabel": "Withdraw Funds",
+            "success": "Provider funds withdrawn successfully!",
+            "error": "Withdrawal failed"
         }
     }
 }
