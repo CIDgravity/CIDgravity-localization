@@ -68,5 +68,10 @@
         "txInProgress": "A transaction is already in progress",
         "noFundsToWithdraw": "No funds available to withdraw",
         "depositInProgress": "A deposit is already in progress"
+    },
+    "client": {
+        "withdrawAll": {
+            "buttonLabel": "Withdraw all funds"
+        }
     }
 }
