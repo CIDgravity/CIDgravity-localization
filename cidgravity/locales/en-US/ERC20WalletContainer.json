@@ -34,7 +34,8 @@
         "securityDeposit": "Security Deposit Balance",
         "title": "Balances",
         "loading": "Loading…",
-        "currency": "USDFC"
+        "currency": "USDFC",
+        "escrow": "Escrow Balance"
     },
     "deposit": {
         "buttonLabel": "Deposit",
